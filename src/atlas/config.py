@@ -103,6 +103,8 @@ class BriefsCfg(_Cfg):
     top_n: int = 100
     max_cost_usd_per_run: float = 0.25
     max_output_tokens: int = 160
+    # HF ai_summary as the brief when no LLM brief exists. Off: HF's redistribution terms are unverified.
+    hf_summary_fallback: bool = False
     providers: dict[str, ProviderCfg] = Field(default_factory=dict)
 
 

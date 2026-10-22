@@ -172,7 +172,7 @@ class SiteBuilder:
         brief_model: Brief | None = None
         if brief:
             brief_model = Brief(text=brief["text"][:2000], source=brief["source"], model=brief["model"], generatedAt=brief["generated_at"])
-        elif hf and hf[0].ai_summary:
+        elif hf and hf[0].ai_summary and self.cfg.briefs.hf_summary_fallback:
             brief_model = Brief(text=hf[0].ai_summary[:2000], source="hf_ai_summary", generatedAt=hf[1])
         paper = Paper(
             id=f"arxiv:{aid}", arxivId=aid, doi=rec.doi or f"10.48550/arXiv.{aid}", title=rec.title[:1024],

@@ -225,9 +225,9 @@ def test_briefs_stay_off_without_a_secret(tmp_path, clock, monkeypatch):
     cfg.thumbs.enabled = False
     res, _ = go(cfg, tmp_path, World(clock))
     assert res.stats["stages"]["briefs"]["enabled"] is False
-    # HF ai_summary is the brief fallback
+    # HF ai_summary is not republished unless briefs.hf_summary_fallback is on
     paper = json.loads((tmp_path / "site" / "papers" / "2610.27576.json").read_text())["paper"]
-    assert paper["brief"]["source"] == "hf_ai_summary"
+    assert "brief" not in paper
     other = json.loads((tmp_path / "site" / "papers" / "2610.27224.json").read_text())["paper"]
     assert "brief" not in other
 

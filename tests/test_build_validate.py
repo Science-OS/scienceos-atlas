@@ -103,7 +103,7 @@ def test_hf_signal_boosts_rank_and_fills_paper_fields(world):
     assert p["signals"]["hfUpvotes"] == {"value": 7, "source": "hf", "fetchedAt": "2026-10-22T04:00:00Z"}
     assert p["signals"]["githubStars"]["value"] == 11 and p["signals"]["githubRepo"] == "o/r"
     assert {"kind": "code", "url": "https://github.com/o/r", "label": "o/r"} in p["links"]
-    assert p["brief"]["source"] == "hf_ai_summary" and p["brief"]["text"].startswith("Machine umpires")
+    assert "brief" not in p  # HF ai_summary is not republished by default
     assert p["citations"] == {"value": 3, "source": "openalex", "fetchedAt": "2026-10-22T04:05:00Z"}
     others = [i for i in shard["items"][1:]]
     assert all(i["reason"] == "new" for i in others)
@@ -150,6 +150,14 @@ def test_unchanged_shards_keep_their_bytes_across_runs(world):
     later.build()
     assert (site / "feeds/2026-10-21.json").read_bytes() == before  # same content -> same generatedAt -> same sha
     assert load(site, "index.json")["generatedAt"] == "2026-10-23T05:30:00Z"
+
+
+def test_hf_summary_fallback_only_when_enabled(world):
+    store, builder, site = world
+    builder.cfg.briefs.hf_summary_fallback = True
+    builder.build()
+    b = load(site, f"papers/{NEW_ID}.json")["paper"]["brief"]
+    assert b["source"] == "hf_ai_summary" and b["text"].startswith("Machine umpires")
 
 
 def test_llm_brief_wins_over_hf_summary(world):

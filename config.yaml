@@ -80,6 +80,7 @@ briefs:
   top_n: 100                                # per day
   max_cost_usd_per_run: 0.25                # hard stop
   max_output_tokens: 160
+  hf_summary_fallback: false               # publish HF ai_summary when no LLM brief; off until HF's terms are checked
   providers:                                # VERIFY model ids and prices before enabling
     openai:
       env: OPENAI_API_KEY

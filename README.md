@@ -45,7 +45,7 @@ Pages serves `ETag` / `Last-Modified`. Shards whose content did not change keep 
 - **Thumbnails** are linked from the paper as `{"kind": "other", "label": "thumbnail", "url": ...}`.
   The link exists only when the file does. Papers under any other licence (arXiv's non-exclusive licence,
   any NC/ND variant) never get one; apps render the first page on-device from arxiv.org.
-- **Briefs**: `brief.source` is `llm` (optional, see below), else `hf_ai_summary` (Hugging Face) when present,
+- **Briefs**: `brief.source` is `llm` (optional, see below), else `hf_ai_summary` (Hugging Face) when present and `briefs.hf_summary_fallback` is on (off by default),
   else the field is omitted.
 - **New papers only.** Revised old papers (a v3 announced today) are not "new" and are excluded. `publishedAt`
   is the v1 submission timestamp, `version` the latest version.
@@ -151,7 +151,7 @@ small `workflow_dispatch` run. The cost guard stops at `max_cost_usd_per_run` (d
 - OpenAlex: CC0; singleton GETs are free; stops on a low budget or 429.
 - Hugging Face Daily Papers: unauthenticated, 7 small requests per run; signals, links and `ai_summary` are
   attributed to HF through `source: "hf"` / `hf_ai_summary`. HF's redistribution terms for `ai_summary` were not
-  verified; if they turn out to be restrictive, remove the `ai_summary` fallback in `src/atlas/build.py`.
+  verified, so the fallback is off (`briefs.hf_summary_fallback: false`); `ai_summary` is never published unless it is turned on.
 - Not redistributed from here: Semantic Scholar, Google Scholar numbers, avatars (clients fetch or hotlink those).
 
 ## Repo layout
