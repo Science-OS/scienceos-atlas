@@ -219,6 +219,7 @@ class SiteBuilder:
 
         hf, oa_rows, author_rows = self.store.hf_signals(), self.store.oa_work_rows(), self.store.author_rows()
         briefs, thumb_rows = self.store.brief_rows(), self.store.thumb_rows()
+        author_rows = {k: v for k, v in author_rows.items() if not v[0].get("missing")}  # negative-cache markers
         card_ids = set(author_rows)
         views: dict[str, PaperView] = {}
         for sp in stored:

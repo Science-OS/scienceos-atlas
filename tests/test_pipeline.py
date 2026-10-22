@@ -33,8 +33,9 @@ def pdf_bytes() -> bytes:
 class World:
     """Fake arXiv / HF / OpenAlex endpoints. Records what was requested."""
 
-    def __init__(self, clock, *, oai_fail=False, api_fail=False):
+    def __init__(self, clock, *, oai_fail=False, api_fail=False, unknown_authors=()):
         self.clock, self.oai_fail, self.api_fail = clock, oai_fail, api_fail
+        self.unknown_authors = set(unknown_authors)  # author ids the /authors endpoint cannot resolve
         self.arxiv_urls: list[str] = []
         self.oa_urls: list[str] = []
         self.pdf = pdf_bytes()
@@ -79,7 +80,7 @@ class World:
                                                        "display_name": "ENAC", "country_code": "FR", "type": "education"}]}
                                     for i, a in enumerate(BY_ID["2610.27576"].authors)]}
             return httpx.Response(200, json=body, headers=hdr)
-        wanted = req.url.params["filter"].split(":", 1)[1].split("|")
+        wanted = [w for w in req.url.params["filter"].split(":", 1)[1].split("|") if w not in self.unknown_authors]
         res = [{"id": f"https://openalex.org/{w}", "display_name": f"Author {w}", "works_count": 3, "cited_by_count": 9,
                 "summary_stats": {"h_index": 2, "i10_index": 1}, "last_known_institutions": [], "topics": []} for w in wanted]
         return httpx.Response(200, json={"results": res}, headers={**hdr, "x-ratelimit-credits-used": "1"})
@@ -229,3 +230,29 @@ def test_briefs_stay_off_without_a_secret(tmp_path, clock, monkeypatch):
     assert paper["brief"]["source"] == "hf_ai_summary"
     other = json.loads((tmp_path / "site" / "papers" / "2610.27224.json").read_text())["paper"]
     assert "brief" not in other
+
+
+def author_calls(world) -> int:
+    return sum("/authors" in u for u in world.oa_urls)
+
+
+def test_unresolved_authors_are_negative_cached_and_retried_daily(tmp_path, clock):
+    cfg = load_config()
+    cfg.thumbs.enabled = False
+    world = World(clock, unknown_authors={"A70"})
+    res, _ = go(cfg, tmp_path, world)
+    oa = res.stats["stages"]["openalex"]
+    n_authors = len(BY_ID["2610.27576"].authors)
+    assert res.ok and oa["authors_fetched"] == n_authors - 1 and oa["authors_unresolved"] == 1
+    paper = json.loads((tmp_path / "site" / "papers" / "2610.27576.json").read_text())["paper"]
+    assert "authorId" not in paper["authors"][0]                                   # no card -> no dangling id
+    assert all(a["authorId"] for a in paper["authors"][1:])
+    assert not (tmp_path / "site" / "authors" / "A70.json").exists()
+    before = author_calls(world)
+    go(cfg, tmp_path, world)                                                       # same day: nothing to ask again
+    assert author_calls(world) == before
+    a, h, o = world.clients(cfg)                                                   # two days later: only the unresolved id is retried
+    later = RunOptions(site_dir=tmp_path / "site", state_dir=tmp_path / "state", now=datetime(2026, 10, 24, 5, 30, tzinfo=timezone.utc))
+    run(cfg, later, arxiv_client=a, hf_client=h, oa_client=o)
+    retried = [u for u in world.oa_urls[before:] if "/authors" in u]
+    assert any("A70" in u for u in retried)

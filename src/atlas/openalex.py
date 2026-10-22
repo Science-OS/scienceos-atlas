@@ -130,6 +130,7 @@ class OpenAlexClient:
         self.first_remaining: int | None = None
         self.stopped_reason: str | None = None
         self.requests = 0
+        self.answered_ids: set[str] = set()
 
     def close(self) -> None:
         self._http.close()
@@ -202,6 +203,7 @@ class OpenAlexClient:
     def get_authors(self, oa_ids: list[str]) -> dict[str, dict[str, Any]]:
         """Batch lookup, 1 credit per call of up to 100 ids."""
         found: dict[str, dict[str, Any]] = {}
+        self.answered_ids = set()  # ids in batches OpenAlex answered with HTTP 200 (found or not)
         for i in range(0, len(oa_ids), 100):
             if not self.active:
                 break
@@ -219,6 +221,7 @@ class OpenAlexClient:
                     ca = compact_author(raw)
                     if ca["id"]:
                         found[ca["id"]] = ca
+                self.answered_ids.update(chunk)
             except (ValueError, AttributeError, TypeError) as exc:
                 log.warning("OpenAlex authors batch unparsable: %s", exc)
         return found

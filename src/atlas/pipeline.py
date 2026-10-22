@@ -206,12 +206,20 @@ def stage_openalex(store: Store, cfg: Config, oa: OpenAlexClient, today: date, n
             if not oid or oid in need:
                 continue
             have = cards.get(oid)
-            if have is None or (now - datetime.fromisoformat(have[1].replace("Z", "+00:00"))) > ttl:
+            if have is None:
+                need.append(oid)
+                continue
+            age = now - datetime.fromisoformat(have[1].replace("Z", "+00:00"))
+            # ids OpenAlex could not resolve (new/merged authors) are retried daily, resolved cards weekly
+            if age > (timedelta(days=1) if have[0].get("missing") else ttl):
                 need.append(oid)
     if need and oa.active:
         fetched = oa.get_authors(need)
         store.upsert_authors(fetched, ts(now))
+        unresolved = {oid: {"id": oid, "missing": True} for oid in oa.answered_ids if oid not in fetched}
+        store.upsert_authors(unresolved, ts(now))
         stats["authors_fetched"] = len(fetched)
+        stats["authors_unresolved"] = len(unresolved)
         stats["authors_requested"] = len(need)
     rows = store.oa_work_rows()
     uniq = set(targets)
