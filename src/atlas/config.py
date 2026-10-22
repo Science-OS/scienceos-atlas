@@ -76,8 +76,8 @@ class OpenAlexCfg(_Cfg):
 
 class ThumbsCfg(_Cfg):
     enabled: bool = True
-    top_n: int = 100
-    max_per_run: int = 40
+    top_n: int = 60
+    max_per_run: int = 60
     width_px: int = 600
     jpeg_quality: int = 72
     max_pdf_mb: int = 30

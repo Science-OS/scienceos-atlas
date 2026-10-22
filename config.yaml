@@ -62,8 +62,8 @@ openalex:
 
 thumbs:
   enabled: true
-  top_n: 100                                # per day, by score
-  max_per_run: 40
+  top_n: 60                                 # per day, by score
+  max_per_run: 60
   width_px: 600
   jpeg_quality: 72
   max_pdf_mb: 30
