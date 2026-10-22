@@ -232,6 +232,48 @@ def test_briefs_stay_off_without_a_secret(tmp_path, clock, monkeypatch):
     assert "brief" not in other
 
 
+def test_llm_briefs_are_published_cached_and_cost_guarded(tmp_path, clock, monkeypatch):
+    from atlas import pipeline
+    from atlas.briefs import BriefResult
+
+    class Fake:
+        name, model = "openai", "gpt-6-luna"
+
+        def __init__(self):
+            self.calls: list[str] = []
+
+        def generate(self, title, abstract, max_output_tokens):
+            self.calls.append(title)
+            return BriefResult(f"Brief of {title}", 400, 50)
+
+    fake = Fake()
+    cfg = load_config()
+    cfg.thumbs.enabled = False
+    monkeypatch.setattr(pipeline, "resolve_provider", lambda c: (fake, c.providers[c.provider]))
+
+    res, _ = go(cfg, tmp_path, World(clock))
+    b1 = res.stats["stages"]["briefs"]
+    assert b1["enabled"] and b1["generated"] == 4 and b1["failed"] == 0 and b1["stopped_reason"] is None
+    assert b1["cost_usd"] == round(4 * (400 * 0.10 + 50 * 0.50) / 1e6, 5)
+    assert res.stats["totals"]["with_brief"] == 4
+    paper = json.loads((tmp_path / "site" / "papers" / "2610.27576.json").read_text())["paper"]
+    assert paper["brief"]["source"] == "llm" and paper["brief"]["model"] == "gpt-6-luna"
+    assert paper["brief"]["text"].startswith("Brief of ")
+
+    # second run: every paper is cached, the provider is never called, the cost is zero
+    n_calls = len(fake.calls)
+    res2, _ = go(cfg, tmp_path, World(clock))
+    b2 = res2.stats["stages"]["briefs"]
+    assert (b2["generated"], b2["cached"], b2["cost_usd"]) == (0, 4, 0)
+    assert len(fake.calls) == n_calls
+
+    # a fresh state with a tiny cap: the guard stops the stage and the run still succeeds
+    cfg.briefs.max_cost_usd_per_run = 0.0002
+    res3, _ = go(cfg, tmp_path / "capped", World(clock))
+    b3 = res3.stats["stages"]["briefs"]
+    assert res3.ok and b3["generated"] < 4 and "cost_guard" in b3["stopped_reason"]
+
+
 def author_calls(world) -> int:
     return sum("/authors" in u for u in world.oa_urls)
 

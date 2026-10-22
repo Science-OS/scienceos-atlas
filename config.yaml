@@ -81,13 +81,17 @@ briefs:
   max_cost_usd_per_run: 0.25                # hard stop
   max_output_tokens: 160
   hf_summary_fallback: false               # publish HF ai_summary when no LLM brief; off until HF's terms are checked
-  providers:                                # VERIFY model ids and prices before enabling
+  providers:                                # VERIFY model ids and prices before changing
     openai:
       env: OPENAI_API_KEY
-      model: gpt-5-mini
-      usd_per_mtok_in: 0.25
-      usd_per_mtok_out: 2.00
-      extra: {reasoning_effort: minimal}    # drop for non-reasoning models
+      # gpt-6-luna: "most efficient model for focused, high-volume tasks". Prices checked 2026-10-22 on
+      # https://developers.openai.com/api/docs/pricing and https://developers.openai.com/api/docs/models/gpt-6-luna
+      # (standard tier, <=272K input). It reasons by default (medium), which burns max_output_tokens on
+      # hidden tokens and returned empty briefs; reasoning_effort "none" fixes that and is cheapest.
+      model: gpt-6-luna
+      usd_per_mtok_in: 0.10
+      usd_per_mtok_out: 0.50
+      extra: {reasoning_effort: none}       # luna accepts none|low|medium|high|xhigh (not "minimal")
     anthropic:
       env: ANTHROPIC_API_KEY
       model: claude-haiku-5-5

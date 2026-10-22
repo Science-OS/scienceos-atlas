@@ -77,6 +77,10 @@ Pages serves `ETag` / `Last-Modified`. Shards whose content did not change keep 
 6. **Briefs hook** (`src/atlas/briefs.py`): provider interface with OpenAI (default) and Anthropic
    implementations, cost guard (`max_cost_usd_per_run`, projected worst case before each call), cache by paper
    id in the state DB. **Off unless the provider's key env var exists** (`briefs.enabled: auto`).
+   Default model `gpt-6-luna` with `reasoning_effort: none` (it reasons by default and would spend the output
+   budget on hidden tokens). A brief is 1 to 2 plain-language sentences (about 35 words) written from the title
+   and abstract only; the abstract is treated as data. Measured: about $0.00007 per paper, so roughly $0.007 for a
+   day's top 100; the first run also covers the two previous days (about $0.02).
 7. **Build + validate**: shards, papers, authors, thumbs, manifest, status; every JSON file is validated against
    the copied schema, manifest hashes and counts are cross-checked, author/thumbnail references must resolve,
    and the site must stay under `output.max_site_mb` (450).
@@ -141,8 +145,9 @@ over the following days; shards already published are replaced by the rebuilt si
 | `OPENAI_API_KEY` | turns LLM briefs on (provider `openai`) |
 | `ANTHROPIC_API_KEY` | turns LLM briefs on if `briefs.provider: anthropic` |
 
-Before enabling briefs, verify the model ids and prices under `briefs.providers` in `config.yaml`, then do a
-small `workflow_dispatch` run. The cost guard stops at `max_cost_usd_per_run` (default $0.25).
+Before changing the briefs model, verify its id, prices and supported `reasoning_effort` values under
+`briefs.providers` in `config.yaml` (prices there were checked on 2026-10-22), then do a small `workflow_dispatch`
+run. The cost guard stops at `max_cost_usd_per_run` (default $0.25).
 
 ## Politeness and licensing
 

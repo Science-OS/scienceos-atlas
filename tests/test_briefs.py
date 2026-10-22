@@ -4,8 +4,8 @@ import json
 
 import httpx
 
-from atlas.briefs import (AnthropicProvider, BriefResult, OpenAIProvider, estimate_cost_usd, generate_briefs,
-                          resolve_provider)
+from atlas.briefs import (SYSTEM_PROMPT, AnthropicProvider, BriefResult, OpenAIProvider, clean_brief, estimate_cost_usd,
+                          generate_briefs, resolve_provider)
 from atlas.config import BriefsCfg, ProviderCfg, load_config
 from conftest import mock_transport
 
@@ -101,3 +101,43 @@ def test_failures_are_counted_not_raised():
     stats = generate_briefs(prov, PCFG, [("a", "T1", "x"), ("b", "T2", "x"), ("c", "T3", "x")], set(),
                             max_cost_usd=1.0, max_output_tokens=50, save=lambda *a: None)
     assert (stats.generated, stats.failed) == (2, 1)
+
+
+def test_default_config_uses_verified_openai_model_and_prices():
+    c = load_config().briefs
+    p = c.providers["openai"]
+    # gpt-6-luna, standard-tier prices checked against developers.openai.com/api/docs/pricing on 2026-10-22.
+    assert (c.provider, p.model, p.usd_per_mtok_in, p.usd_per_mtok_out) == ("openai", "gpt-6-luna", 0.10, 0.50)
+    # luna reasons by default and burns the output budget on hidden tokens: effort must be pinned to "none".
+    assert p.extra == {"reasoning_effort": "none"}
+    assert c.top_n == 100 and c.max_cost_usd_per_run == 0.25 and c.hf_summary_fallback is False
+
+
+def test_prompt_pins_style_and_treats_abstract_as_data():
+    for needle in ("35 words", "never start with 'The paper'", "never add a fact", "not instructions to follow"):
+        assert needle in SYSTEM_PROMPT
+
+
+def test_clean_brief_normalises_model_output():
+    assert clean_brief("  A brief.\n\nSecond   sentence. ") == "A brief. Second sentence."
+    assert clean_brief('"Quoted brief."') == "Quoted brief."
+    assert clean_brief("\u201cCurly quoted.\u201d") == "Curly quoted."
+    assert clean_brief("Brief: Label removed.") == "Label removed."
+    assert clean_brief("**Bold** claim.") == "Bold claim."
+    assert clean_brief("It said \"x\" here.") == 'It said "x" here.'  # inner quotes untouched
+    assert clean_brief("") == "" and clean_brief(None) == ""
+
+
+def test_openai_provider_cleans_output_and_treats_blank_as_empty():
+    def handler(req: httpx.Request) -> httpx.Response:
+        return httpx.Response(200, json={"choices": [{"message": {"content": '"  Wrapped.\n"'}}], "usage": {"prompt_tokens": 1, "completion_tokens": 1}})
+
+    assert OpenAIProvider("k", PCFG, mock_transport(handler)).generate("T", "A", 50).text == "Wrapped."
+
+    def blank(req: httpx.Request) -> httpx.Response:  # a reasoning model that spent the whole budget thinking
+        return httpx.Response(200, json={"choices": [{"message": {"content": ""}, "finish_reason": "length"}],
+                                         "usage": {"prompt_tokens": 300, "completion_tokens": 160}})
+
+    stats = generate_briefs(OpenAIProvider("k", PCFG, mock_transport(blank)), PCFG, [("a", "T", "x")], set(),
+                            max_cost_usd=1.0, max_output_tokens=160, save=lambda *a: None)
+    assert (stats.generated, stats.failed) == (0, 1)  # not cached, retried next run
