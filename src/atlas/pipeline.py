@@ -340,9 +340,10 @@ def run(cfg: Config, opts: RunOptions, *, arxiv_client: PoliteClient | None = No
         for aid in store.prune(keep_from):
             thumb_path(thumbs_dir, aid).unlink(missing_ok=True)
 
+        t_build = time.time()
         builder = SiteBuilder(store, cfg, site_dir, thumbs_dir, now)
         bstats = builder.build()
-        result.stats["stages"]["build"] = bstats.__dict__ | {"seconds": round(time.time() - t0, 1)}
+        result.stats["stages"]["build"] = bstats.__dict__ | {"seconds": round(time.time() - t_build, 1)}
         report = validate_site(site_dir, cfg.output.max_site_mb)
         result.stats["validation"] = {"ok": report.ok, "checked": report.checked, "errors": report.errors[:20],
                                       "site_mb": round(report.site_bytes / 1e6, 2)}
