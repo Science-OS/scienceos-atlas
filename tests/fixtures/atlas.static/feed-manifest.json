@@ -1,0 +1,23 @@
+{
+  "schema": "scienceos.atlas.feed-manifest/1",
+  "generatedAt": "2026-10-21T05:00:35Z",
+  "latestDate": "2026-10-21",
+  "shards": [
+    {
+      "feed": "today",
+      "date": "2026-10-21",
+      "path": "feed-today-2026-10-21.json",
+      "count": 3,
+      "sha256": "08dfb757b4e11ac9411352410aa141e4296c34a67d27e9bd4e160ae112507eea",
+      "bytes": 5821
+    },
+    {
+      "feed": "cat:cs.LG",
+      "date": "2026-10-21",
+      "path": "feed-cat-cs.LG-2026-10-21.json",
+      "count": 408,
+      "sha256": "ede9384f3b0151bc6ec9d80cce46f66aa4d2056b8f4d501c04914289f7d9a027",
+      "bytes": 912340
+    }
+  ]
+}

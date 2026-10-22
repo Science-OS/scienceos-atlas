@@ -1,0 +1,97 @@
+# ScienceOS Atlas: every tunable lives here. Override the file with ATLAS_CONFIG=/path/to/other.yaml.
+# Secrets are never stored here: OPENAI_API_KEY / ANTHROPIC_API_KEY / OPENALEX_API_KEY come from the environment.
+
+site_base_url: https://science-os.github.io/scienceos-atlas   # used for absolute thumbnail links
+user_agent: "ScienceOS-Atlas/1.0 (+https://github.com/Science-OS/scienceos-atlas)"
+
+arxiv:
+  oai_base: https://oaipmh.arxiv.org/oai
+  api_base: https://export.arxiv.org/api/query
+  pdf_base: https://export.arxiv.org/pdf
+  sets: [cs, stat, eess, q-bio, econ]      # OAI sets harvested every run
+  # Papers are kept when ANY of their categories matches one of these fnmatch patterns.
+  categories: ["cs.*", "stat.*", "eess.*", "q-bio.*", "econ.*"]
+  min_interval_s: 3.0                       # arXiv ToU: 1 request / 3 s, single connection, all hosts combined
+  max_retries: 5
+  max_retry_after_s: 300
+  new_paper_max_age_days: 6                 # a record counts as NEW if its v1 was submitted within this many days of the OAI datestamp
+  verify_batch: 100                         # ids per export API id_list call
+  cold_start_backfill_days: 2               # extra days harvested when the state is empty (on top of "yesterday")
+  max_catchup_days: 7                       # never harvest further back than this after an outage
+
+feeds:
+  retention_days: 30
+  today_max_items: 200                      # feeds/<date>.json  (feed "today")
+  trending_max_items: 50                    # feeds/trending/<date>.json (feed "trending", trailing window below)
+  trending_window_days: 7
+  category_max_items: 300                   # feeds/categories/<cat>/<date>.json
+  paper_files_top_n: 300                    # papers/<arxivId>.json for the top N papers of each day
+  categories:                               # one shard per category and day
+    [cs.AI, cs.LG, cs.CL, cs.CV, cs.RO, cs.CR, cs.HC, cs.IR, cs.SE, cs.DC, cs.NE, cs.MA, cs.SD,
+     stat.ML, stat.ME, eess.IV, eess.AS, eess.SP, q-bio.NC, q-bio.QM, econ.GN, econ.EM]
+
+scoring:                                    # documented in README, unit-tested in tests/test_scoring.py
+  w_hf: 0.50
+  w_github: 0.15
+  w_cross: 0.10
+  w_recency: 0.15
+  w_code: 0.10
+  hf_upvotes_saturation: 100
+  github_stars_saturation: 5000
+  cross_listing_saturation: 3
+  recency_half_life_days: 3.0
+
+hf:
+  enabled: true
+  api_base: https://huggingface.co/api/daily_papers
+  days: 7                                   # re-fetch the last N daily-papers pages (upvotes grow after publication)
+  limit: 100
+  max_pages: 3
+  min_interval_s: 0.5
+
+openalex:
+  enabled: true
+  api_base: https://api.openalex.org
+  enrich_top_n: 100                         # papers per day that get a works/doi:... lookup (free singleton GET)
+  retry_days: 7                             # OpenAlex lags arXiv by 1-3 days; retry missing papers for this long
+  retry_after_hours: 18
+  author_ttl_days: 7
+  max_authors_per_paper: 25
+  min_remaining_credits: 100                # stop enriching (not fail) below this X-RateLimit-Remaining
+  min_interval_s: 0.2
+
+thumbs:
+  enabled: true
+  top_n: 100                                # per day, by score
+  max_per_run: 40
+  width_px: 600
+  jpeg_quality: 72
+  max_pdf_mb: 30
+  retry_failed_after_days: 7
+  # Only papers with these arXiv licences get a re-served thumbnail (CC BY, CC BY-SA, CC0).
+  allowed_license_prefixes:
+    - http://creativecommons.org/licenses/by/
+    - http://creativecommons.org/licenses/by-sa/
+    - http://creativecommons.org/publicdomain/zero/
+
+briefs:
+  enabled: auto                             # auto = on only when the provider's API key env var exists; true/false to force
+  provider: openai                          # openai | anthropic
+  top_n: 100                                # per day
+  max_cost_usd_per_run: 0.25                # hard stop
+  max_output_tokens: 160
+  providers:                                # VERIFY model ids and prices before enabling
+    openai:
+      env: OPENAI_API_KEY
+      model: gpt-5-mini
+      usd_per_mtok_in: 0.25
+      usd_per_mtok_out: 2.00
+      extra: {reasoning_effort: minimal}    # drop for non-reasoning models
+    anthropic:
+      env: ANTHROPIC_API_KEY
+      model: claude-haiku-5-5
+      usd_per_mtok_in: 0.10
+      usd_per_mtok_out: 0.50
+
+output:
+  max_site_mb: 450                          # hard stop below the 500 MB budget

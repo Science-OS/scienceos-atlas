@@ -1,0 +1,161 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://scienceos.app/link/v1/common.schema.json",
+  "title": "ScienceOS Link v1 - shared definitions",
+  "description": "Primitive aliases and small shared objects used by every other Link v1 schema. Conventions: Link-native fields are camelCase; fields inside mirrored backend payloads keep the backend's snake_case. Optional fields are omitted when unset (senders never emit null for them).",
+  "$defs": {
+    "JsonValue": {
+      "description": "Any JSON value. Generators map this to the language's dynamic JSON type (TS unknown, Python Any, Swift JSONValue)."
+    },
+    "JsonObject": {
+      "description": "Any JSON object (open map).",
+      "type": "object",
+      "additionalProperties": true
+    },
+    "Timestamp": {
+      "description": "RFC 3339 UTC instant with a literal Z suffix and 0-6 fractional digits, e.g. 2026-10-21T09:14:07.381204Z. Always UTC; never an offset.",
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(\\.\\d{1,6})?Z$"
+    },
+    "DateString": {
+      "description": "Calendar date, YYYY-MM-DD.",
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "Base64": {
+      "description": "Standard base64 (RFC 4648 section 4) with padding. Used for binary payloads inside JSON.",
+      "type": "string",
+      "pattern": "^[A-Za-z0-9+/]*={0,2}$"
+    },
+    "Sha256Hex": {
+      "description": "Lowercase hex SHA-256 digest (64 chars).",
+      "type": "string",
+      "pattern": "^[0-9a-f]{64}$"
+    },
+    "Etag": {
+      "description": "Opaque validator. Compare for equality only; never parse.",
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 256
+    },
+    "Cursor": {
+      "description": "Opaque pagination cursor returned as nextCursor.",
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 1024
+    },
+    "OpId": {
+      "description": "Client-chosen idempotency key (UUID recommended). The host remembers the result of the last 256 opIds per device for 10 minutes and replays it instead of re-executing.",
+      "type": "string",
+      "minLength": 8,
+      "maxLength": 64
+    },
+    "Scope": {
+      "description": "Capability granted to a paired device. read is implicit and always granted.",
+      "type": "string",
+      "enum": ["read", "comment", "steer", "approve", "edit"]
+    },
+    "LinkVersion": {
+      "description": "major.minor. Within major 1 only additive changes occur.",
+      "type": "string",
+      "pattern": "^1\\.\\d+$"
+    },
+    "StreamName": {
+      "description": "Name of an ordered, resumable event stream: host | run:{runId} | project:{projectId} | coedit:{docId}.",
+      "type": "string",
+      "pattern": "^[a-z]+(:[A-Za-z0-9._-]{1,128})?$"
+    },
+    "Seq": {
+      "description": "Per-stream event sequence number. Starts at 1, strictly increasing, never reused within an epoch.",
+      "type": "integer",
+      "minimum": 1
+    },
+    "AfterSeq": {
+      "description": "Resume cursor: the last seq the client has fully processed on a stream. 0 means from the start.",
+      "type": "integer",
+      "minimum": 0
+    },
+    "SubscriptionInfo": {
+      "description": "Result of joining a stream.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["stream", "seq", "replayed", "gap"],
+      "properties": {
+        "stream": {"$ref": "#/$defs/StreamName"},
+        "seq": {
+          "description": "Head seq at subscribe time (0 when the stream has no events yet).",
+          "type": "integer",
+          "minimum": 0
+        },
+        "replayed": {
+          "description": "Number of buffered events that will be delivered immediately after this response.",
+          "type": "integer",
+          "minimum": 0
+        },
+        "gap": {
+          "description": "True when afterSeq is older than the host's buffer (or the epoch changed). The client must refetch a snapshot instead of trusting incremental state.",
+          "type": "boolean"
+        }
+      }
+    },
+    "ProjectId": {"type": "string", "minLength": 1, "maxLength": 128},
+    "ChatId": {"type": "string", "minLength": 1, "maxLength": 128},
+    "RunId": {"type": "string", "minLength": 1, "maxLength": 128},
+    "ActionId": {
+      "description": "The tool call id of the pending approval/question (backend pending_actions.id).",
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 128
+    },
+    "CommentId": {"type": "string", "minLength": 1, "maxLength": 128},
+    "FileId": {"type": "string", "minLength": 1, "maxLength": 128},
+    "UserId": {"type": "string", "minLength": 1, "maxLength": 128},
+    "DocId": {
+      "description": "Yjs document handle returned by coedit.open.",
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 128
+    },
+    "JobId": {"type": "string", "minLength": 1, "maxLength": 128},
+    "HostId": {
+      "description": "hex(SHA-256(host static public key))[0:32].",
+      "type": "string",
+      "pattern": "^[0-9a-f]{32}$"
+    },
+    "DeviceId": {
+      "description": "hex(SHA-256(device static public key))[0:32].",
+      "type": "string",
+      "pattern": "^[0-9a-f]{32}$"
+    },
+    "FilePath": {
+      "description": "Project-relative POSIX path. Never absolute, never contains a .. segment, a backslash or NUL; hosts reject violations with invalid_params.",
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 2048
+    },
+    "AgentId": {"type": "string", "enum": ["claude", "codex", "gemini", "opencode"]},
+    "ApprovalDecision": {
+      "description": "Exactly the backend's VALID_DECISIONS.",
+      "type": "string",
+      "enum": ["allow_once", "allow_project", "allow_global", "deny"],
+      "x-closed-enum": true
+    },
+    "Transport": {
+      "description": "How a session reached the host.",
+      "type": "string",
+      "enum": ["lan", "iroh", "tunnel", "relay", "other"]
+    },
+    "ActorKind": {"type": "string", "enum": ["desktop", "device", "agent", "scheduler", "unknown"]},
+    "ActorRef": {
+      "description": "Who caused something. Used to attribute steering/approvals when desktop and phone act at once.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["kind"],
+      "properties": {
+        "kind": {"$ref": "#/$defs/ActorKind"},
+        "deviceId": {"$ref": "#/$defs/DeviceId"},
+        "name": {"type": "string", "maxLength": 128}
+      }
+    }
+  }
+}

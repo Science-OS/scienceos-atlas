@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" 
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+    <responseDate>2026-10-22T07:43:29Z</responseDate>
+                <request verb="ListRecords" metadataPrefix="arXiv" from="2026-10-21" set="econ">http://oaipmh.arxiv.org/oai</request>
+
+
+    <ListRecords>
+                    <record>
+                <header>
+        <identifier>oai:arXiv.org:2109.14850</identifier>
+        <datestamp>2026-10-21</datestamp>
+            <setSpec>cs:cs:GT</setSpec>
+            <setSpec>cs:cs:SI</setSpec>
+            <setSpec>econ:econ:TH</setSpec>
+    </header>
+
+            <metadata>
+                        <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ https://oaipmh.arxiv.org/OAI/arXiv.xsd">
+        <id>2109.14850</id>
+        <created>2026-10-20</created>
+            <updated>2026-10-21</updated>
+        <authors>
+                <author>
+                    <keyname>Xu</keyname>
+                        <forenames>Bruce Changlong</forenames>
+                </author>
+                <author>
+                    <keyname>Yang</keyname>
+                        <forenames>Andrew</forenames>
+                </author>
+                <author>
+                    <keyname>Villa-Renteria</keyname>
+                        <forenames>Ivan</forenames>
+                </author>
+        </authors>
+        <title>Matching Markets: Equilibrium Computation, Indivisible Goods, and Positional Externalities</title>
+            <categories>cs.GT cs.SI econ.TH</categories>
+            <license>http://creativecommons.org/licenses/by/4.0/</license>
+            <abstract>Matching markets provide a mathematical framework for allocating scarce resources among strategic agents with heterogeneous preferences. While matching without money relies on ordinal stability and Pareto efficiency, Fisher and Arrow--Debreu markets mediate allocation through budgets and market-clearing prices. In this paper, we study the convex-analytic foundations, computational complexity, and external-utility extensions of Fisher matching markets. First, we formulate fractional resource allocation and linear Fisher markets via Fenchel conjugate duality and the Karush--Kuhn--Tucker (KKT) conditions of the Eisenberg--Gale convex program, showing how budget-weighted Nash social welfare characterizes competitive equilibria across linear and homothetic utility families. Second, we review topological existence via Sperner&#39;s lemma alongside polynomial-time combinatorial algorithms for divisible markets, including the Devanur--Papadimitriou--Saberi--Vazirani (DPSV) primal-dual max-flow algorithm and Orlin&#39;s strongly polynomial scaling algorithm. Third, we contrast the tractability of divisible markets with the $\mathsf{NP}$-hardness and $\mathsf{PPAD}$-completeness of indivisible Fisher markets and Competitive Equilibrium from Equal Incomes (CEEI), comparing $\varepsilon$-approximate equilibria, CEEI-FRAC, and Budish&#39;s Approximate CEEI mechanism. Finally, we analyze Fisher markets with positional (snob-effect) externalities, where buyer $i$&#39;s utility for good $j$ scales with her relative share $(x_{ij}/\sum_{k} x_{kj})^{α_i}$ for $α_i &gt; 0$. We prove that positional utility summands are convex on the nonnegative orthant, so utilitarian social welfare is maximized at exclusive corner allocations, whereas decentralized price-taking admits a unique budget-proportional equilibrium in single-good snob markets with a Price of Anarchy of $n^α$ among $n$ symmetric buyers.</abstract>
+    </arXiv>
+
+            </metadata>
+        </record>
+<record>
+                <header>
+        <identifier>oai:arXiv.org:2610.04688</identifier>
+        <datestamp>2026-10-21</datestamp>
+            <setSpec>econ:econ:TH</setSpec>
+    </header>
+
+            <metadata>
+                        <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ https://oaipmh.arxiv.org/OAI/arXiv.xsd">
+        <id>2610.04688</id>
+        <created>2026-10-20</created>
+            <updated>2026-10-21</updated>
+        <authors>
+                <author>
+                    <keyname>Lawford</keyname>
+                        <forenames>Steve</forenames>
+                </author>
+        </authors>
+        <title>Submission quotas as self-screening when manuscript production is cheap</title>
+            <categories>econ.TH</categories>
+            <comments>25 pages, revised exposition, added asymptotic discussion to appendix</comments>
+            <license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license>
+            <abstract>Generative AI enables authors to produce more manuscripts at lower cost. But evaluation by expert editors and referees remains scarce. In this context, the value of an author&#39;s submission rights can increase. Major research repositories and journals are reacting by imposing submission quotas and fees. Non-transferable author quotas transform submission of a manuscript into a revealed-priority decision. Authors construct a portfolio of their highest-ranked manuscripts. A common fee charges an author for every manuscript they submit. Both methods have drawbacks. Quotas do not flexibly allocate scarce review capacity to authors who have unusually strong realised candidate sets. Fees can generate heterogeneous submission thresholds that may be systematically related to an author&#39;s baseline portfolio quality. In this paper, I derive the condition under which submission quotas yield weakly higher mean reviewed value than fees, given an equal expected review load. When project values are bounded and candidate manuscripts are abundant, an equal-load fee can price out some authors entirely.</abstract>
+    </arXiv>
+
+            </metadata>
+        </record>
+<record>
+                <header>
+        <identifier>oai:arXiv.org:2610.18625</identifier>
+        <datestamp>2026-10-21</datestamp>
+            <setSpec>econ:econ:TH</setSpec>
+            <setSpec>cs:cs:AI</setSpec>
+            <setSpec>cs:cs:GT</setSpec>
+    </header>
+
+            <metadata>
+                        <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ https://oaipmh.arxiv.org/OAI/arXiv.xsd">
+        <id>2610.18625</id>
+        <created>2026-10-20</created>
+            <updated>2026-10-21</updated>
+        <authors>
+                <author>
+                    <keyname>Perez-Richet</keyname>
+                        <forenames>Eduardo</forenames>
+                </author>
+                <author>
+                    <keyname>Skreta</keyname>
+                        <forenames>Vasiliki</forenames>
+                </author>
+        </authors>
+        <title>Falsification-proof non-market allocation mechanisms</title>
+            <categories>econ.TH cs.AI cs.GT</categories>
+            <license>http://creativecommons.org/licenses/by-nc-nd/4.0/</license>
+            <abstract>Relying on manipulable characteristics to target the allocation of resources is fraught with difficulties. Naively optimal rules lead to falsification and allocative inefficiency. Optimizing the rule for allocative efficiency while accounting for falsification typically induces falsification, at a heavy cost to the agents. Moreover, falsification generates negative externalities. We characterize optimal falsification-proof rules under a broad range of falsification technologies. We also provide an honesty condition under which they solve the unconstrained problem of a planner who maximizes a weighted sum of allocative surplus and agents&#39; welfare.</abstract>
+    </arXiv>
+
+            </metadata>
+        </record>
+<record>
+                <header>
+        <identifier>oai:arXiv.org:2610.27224</identifier>
+        <datestamp>2026-10-21</datestamp>
+            <setSpec>econ:econ:EM</setSpec>
+            <setSpec>stat:stat:ME</setSpec>
+    </header>
+
+            <metadata>
+                        <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ https://oaipmh.arxiv.org/OAI/arXiv.xsd">
+        <id>2610.27224</id>
+        <created>2026-10-19</created>
+            <updated>2026-10-21</updated>
+        <authors>
+                <author>
+                    <keyname>Iwasawa</keyname>
+                        <forenames>Masamune</forenames>
+                </author>
+                <author>
+                    <keyname>Nakanishi</keyname>
+                        <forenames>Hayato</forenames>
+                </author>
+        </authors>
+        <title>Quantile-Only Regression: Inference and Partial Identification under Quantile Disclosure</title>
+            <categories>econ.EM stat.ME</categories>
+            <license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license>
+            <abstract>Researchers often observe group quantiles but not group means, raising the question of whether these summaries alone support conventional regression analysis. We develop estimation and inference methods for linear models of group means under quantile-only and mixed disclosure. We establish conditions on disclosure design for consistent estimation and asymptotic normality at the parametric rate. Under fixed disclosure, we characterize sharp identified sets and construct simultaneous confidence regions, clarifying how informativeness depends on the number and placement of disclosed quantiles. Applications to education, social care, and medical expenditure illustrate the methods. The R package qonlyreg implements the proposed procedures.</abstract>
+    </arXiv>
+
+            </metadata>
+        </record>
+<record>
+                <header>
+        <identifier>oai:arXiv.org:2610.27576</identifier>
+        <datestamp>2026-10-21</datestamp>
+            <setSpec>econ:econ:GN</setSpec>
+            <setSpec>q-fin:q-fin:EC</setSpec>
+    </header>
+
+            <metadata>
+                        <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ https://oaipmh.arxiv.org/OAI/arXiv.xsd">
+        <id>2610.27576</id>
+        <created>2026-10-20</created>
+            <updated>2026-10-21</updated>
+        <authors>
+                <author>
+                    <keyname>Cho</keyname>
+                        <forenames>Seung Jin</forenames>
+                </author>
+                <author>
+                    <keyname>Lee</keyname>
+                        <forenames>Jun Yeong</forenames>
+                </author>
+        </authors>
+        <title>Who Gains When the Umpire Is a Machine? Evidence from the Automated Ball-Strike System (ABS)</title>
+            <categories>econ.GN q-fin.EC</categories>
+            <comments>44pages</comments>
+            <license>http://creativecommons.org/licenses/by/4.0/</license>
+            <abstract>In 2024 the Korea Baseball Organization became the first top-tier league to replace the home-plate umpires ball-strike judgment with an automated system. Using over a million pitches from 2021 to 2026, we separate the change into the removal of human discretion and the imposition of a new zone geometry. The machine eliminated count-dependent calls, the value of catcher framing and a small advantage for star batters, rents worth only a few runs per player-season. Because the machines zone scales with height and treats every matchup alike, it redistributed strikes toward tall batters and across matchups, but few pitches are exposed to these changes, and their effects on plate-appearance outcomes are precisely estimated and close to zero. Pitchers re-optimized quickly by throwing higher, with left-handers catching up to an existing trend, whereas we find no evidence that batters adjusted. The results suggest that the incidence of replacing human judgment with a rule depends on its geometry and on exposure.</abstract>
+    </arXiv>
+
+            </metadata>
+        </record>
+<record>
+                <header>
+        <identifier>oai:arXiv.org:2610.28965</identifier>
+        <datestamp>2026-10-22</datestamp>
+            <setSpec>econ:econ:GN</setSpec>
+            <setSpec>q-fin:q-fin:EC</setSpec>
+    </header>
+
+            <metadata>
+                        <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ https://oaipmh.arxiv.org/OAI/arXiv.xsd">
+        <id>2610.28965</id>
+        <created>2026-10-20</created>
+            <updated>2026-10-22</updated>
+        <authors>
+                <author>
+                    <keyname>Maya</keyname>
+                        <forenames>Cristian Espinal</forenames>
+                </author>
+                <author>
+                    <keyname>Londoño</keyname>
+                        <forenames>Santiago Jiménez</forenames>
+                </author>
+        </authors>
+        <title>Discretion at the Margin: Threshold Manipulation and Electoral Bans in Colombian Public Procurement</title>
+            <categories>econ.GN q-fin.EC</categories>
+            <comments>34 pages, 11 figures, 11 tables. Replication sample and code included as ancillary files (anc/)</comments>
+            <license>http://creativecommons.org/licenses/by/4.0/</license>
+            <abstract>Public procurement laws trade rules against discretion with value thresholds: below them, buyers use faster and less competitive procedures. Colombia offers an unusually clean setting to measure how much buyers manipulate estimated values to stay below the line and what it costs. Thresholds are entity-specific (five budget bands set by law) and move every January with the minimum wage, while the round numbers that usually confound bunching estimates stay fixed. Using the universe of Colombian procurement records (SECOP I and II, 2011-2026; 8,569,218 SECOP II processes) and each entity-year&#39;s own threshold, we find sharp bunching of estimated values just below both legal cutoffs: 49,631 excess processes below the small-purchase threshold (86% of the mass observed in the last five percent below it) and 3,157 below the tender threshold. The spike tracks the threshold, not the round numbers: it moves with the minimum wage, appears only at each entity&#39;s own band, and is an order of magnitude smaller for procedures that carry no value cap. Territorial governments, run by elected mayors and governors, bunch more than appointed national agencies at the small-purchase threshold, even after reweighting for budget band, object and year. Processes bunched below the tender threshold attract half as many bidders as those just above it, obtain smaller discounts, and are more often enlarged after award. A second source of variation, the four-month ban on direct contracting before presidential elections, shows that buyers respond to rules on the timing margin: direct contracting falls by 95% during the ban and rises by 209% in the two weeks before it, in each of four electoral cycles, with a partial shift toward below-threshold procedures. Chile&#39;s fixed UTM thresholds display the same pattern, and a cutoff abolished in 2024 shows no bunching afterwards.</abstract>
+    </arXiv>
+
+            </metadata>
+        </record>
+    </ListRecords>
+</OAI-PMH>

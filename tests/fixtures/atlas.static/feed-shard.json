@@ -1,0 +1,105 @@
+{
+  "schema": "scienceos.atlas.feed-shard/1",
+  "feed": "today",
+  "date": "2026-10-21",
+  "generatedAt": "2026-10-21T05:00:31Z",
+  "sources": ["arxiv", "openalex", "huggingface"],
+  "items": [
+    {
+      "paper": {
+        "id": "arxiv:2610.25519",
+        "arxivId": "2610.25519",
+        "title": "ATEST: Adaptive Resource-Aware Test-Time Scaling for LLM Inference",
+        "abstract": "Test-time scaling improves LLM reasoning by sampling multiple answers, but fixed budgets ignore query difficulty and the changing energy cost of inference under GPU contention.",
+        "authors": [
+          {"name": "Mobina Kashaniyan", "position": 0},
+          {"name": "Ali Jannesari", "position": 1}
+        ],
+        "categories": ["cs.LG"],
+        "primaryCategory": "cs.LG",
+        "publishedAt": "2026-10-17T20:00:00Z",
+        "version": 1,
+        "links": [
+          {"kind": "abs", "url": "https://arxiv.org/abs/2610.25519"},
+          {"kind": "pdf", "url": "https://arxiv.org/pdf/2610.25519"}
+        ],
+        "signals": {"hfUpvotes": {"value": 1, "source": "hf", "fetchedAt": "2026-10-21T04:05:00Z"}},
+        "brief": {
+          "text": "Samples more answers only when the question is hard and the GPU is cheap to use right now.",
+          "source": "llm",
+          "model": "claude-haiku-5-5",
+          "generatedAt": "2026-10-21T04:10:00Z"
+        }
+      },
+      "rank": 1,
+      "reason": "trending",
+      "score": 0.91
+    },
+    {
+      "paper": {
+        "id": "arxiv:2506.09985",
+        "arxivId": "2506.09985",
+        "doi": "10.48550/arXiv.2506.09985",
+        "title": "V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning",
+        "abstract": "A self-supervised video model pre-trained on web-scale video, then post-trained with a small amount of robot interaction data, evaluated on video understanding, prediction and robotic planning.",
+        "authors": [
+          {"name": "Mido Assran", "authorId": "s2:2065681534", "position": 0},
+          {"name": "Adrien Bardes", "authorId": "s2:1453740540", "position": 1},
+          {"name": "David Fan", "authorId": "s2:2335871751", "position": 2},
+          {"name": "Quentin Garrido", "authorId": "s2:2048163343", "position": 3},
+          {"name": "Russell Howes", "authorId": "s2:2366426723", "position": 4},
+          {"name": "Michael Rabbat", "position": 5},
+          {"name": "Yann LeCun", "authorId": "orcid:0000-0002-1992-2684", "position": 6},
+          {"name": "Nicolas Ballas", "position": 7}
+        ],
+        "categories": ["cs.AI", "cs.CV", "cs.LG", "cs.RO"],
+        "primaryCategory": "cs.AI",
+        "publishedAt": "2025-06-11T17:57:09Z",
+        "version": 2,
+        "license": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+        "links": [
+          {"kind": "abs", "url": "https://arxiv.org/abs/2506.09985"},
+          {"kind": "pdf", "url": "https://arxiv.org/pdf/2506.09985"},
+          {
+            "kind": "code",
+            "url": "https://github.com/facebookresearch/vjepa2",
+            "label": "facebookresearch/vjepa2"
+          }
+        ],
+        "citations": {"value": 8, "source": "openalex", "fetchedAt": "2026-10-21T08:30:12Z"},
+        "brief": {
+          "text": "A video model trained without labels learns to predict what happens next, then plans robot actions from a small amount of interaction data.",
+          "source": "llm",
+          "model": "claude-haiku-5-5",
+          "generatedAt": "2026-10-21T04:10:00Z"
+        }
+      },
+      "rank": 2,
+      "reason": "trending",
+      "score": 0.88
+    },
+    {
+      "paper": {
+        "id": "arxiv:1906.08676",
+        "arxivId": "1906.08676",
+        "doi": "10.1109/ACCESS.2021.3066842",
+        "title": "Homogeneous Vector Capsules Enable Adaptive Gradient Descent in Convolutional Neural Networks",
+        "authors": [
+          {"name": "Adam Byerly", "position": 0},
+          {"name": "Tatiana Kalganova", "position": 1}
+        ],
+        "categories": ["cs.CV", "cs.LG"],
+        "primaryCategory": "cs.CV",
+        "publishedAt": "2019-06-20T00:00:00Z",
+        "updatedAt": "2026-10-20T00:00:00Z",
+        "version": 4,
+        "license": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+        "links": [{"kind": "abs", "url": "https://arxiv.org/abs/1906.08676"}],
+        "citations": {"value": 8, "source": "openalex", "fetchedAt": "2026-10-21T08:30:12Z"}
+      },
+      "rank": 3,
+      "reason": "new",
+      "score": 0.4
+    }
+  ]
+}

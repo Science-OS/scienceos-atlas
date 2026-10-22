@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ScienceOS Atlas</title>
+<style>
+  :root { color-scheme: light dark; font-family: -apple-system, system-ui, sans-serif; line-height: 1.5; }
+  body { max-width: 42rem; margin: 3rem auto; padding: 0 1rem; }
+  code { font-size: .9em; }
+</style>
+</head>
+<body>
+<h1>ScienceOS Atlas</h1>
+<p>Static, daily-updated paper feed for the ScienceOS apps. JSON only; no PDFs are served.</p>
+<ul>
+  <li><a href="index.json"><code>index.json</code></a> &mdash; manifest of all feed shards</li>
+  <li><a href="feeds/latest.json"><code>feeds/latest.json</code></a> &mdash; latest day, top papers</li>
+  <li><a href="feeds/trending/latest.json"><code>feeds/trending/latest.json</code></a> &mdash; trailing-week trending</li>
+  <li><a href="status.json"><code>status.json</code></a> &mdash; days, categories, counts, last run</li>
+</ul>
+<p>Data: arXiv metadata (CC0), OpenAlex (CC0), Hugging Face Daily Papers signals and links.
+Thumbnails exist only for papers licensed CC BY, CC BY-SA or CC0.</p>
+<p><a href="https://github.com/Science-OS/scienceos-atlas">Source and documentation</a></p>
+</body>
+</html>

@@ -1,0 +1,547 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://scienceos.app/link/v1/atlas.schema.json",
+  "title": "ScienceOS Link v1 - Atlas (papers, authors, institutions)",
+  "description": "atlas.feed, atlas.paper, atlas.author, atlas.search (served by the Mac cache over Link) and the SAME object schemas for the static JSON files built by the daily cron (FeedShard, FeedManifest, AtlasAuthorFile, AtlasPaperFile). Every metric carries its source and fetch time because sources disagree (LeCun: Scholar 505,971 vs Semantic Scholar 275,569 vs OpenAlex 210,245 citations on the same day). Redistribution rule: shared static files hold CC0 data and IDs/links only; non-redistributable values (Semantic Scholar, Scholar, avatars) are fetched live by the client or hotlinked, never copied into shards.",
+  "$defs": {
+    "PaperId": {
+      "description": "Canonical paper id: arxiv:2506.09985, doi:10.1145/..., oa:W..., s2:{corpusId}. Prefer arxiv: when the paper has an arXiv id.",
+      "type": "string",
+      "pattern": "^[a-z0-9]+:\\S+$",
+      "maxLength": 128
+    },
+    "AuthorId": {
+      "description": "Atlas author id: orcid:0000-0002-1992-2684 > wd:Q3571662 > oa:A5001226970 > s2:1688882 > dblp:l/YannLeCun. Opaque to clients.",
+      "type": "string",
+      "pattern": "^[a-z0-9]+:\\S+$",
+      "maxLength": 128
+    },
+    "InstitutionId": {
+      "description": "ror:0190ak572.",
+      "type": "string",
+      "pattern": "^ror:[0-9a-z]+$",
+      "maxLength": 32
+    },
+    "MetricValue": {
+      "description": "A number with provenance. source is a short token: openalex, semanticscholar, google_scholar, hf, github, internal, bluesky.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["value", "source", "fetchedAt"],
+      "properties": {
+        "value": {"type": "number"},
+        "source": {"type": "string", "minLength": 1, "maxLength": 32},
+        "fetchedAt": {"$ref": "common.schema.json#/$defs/Timestamp"}
+      }
+    },
+    "LinkKind": {
+      "type": "string",
+      "enum": [
+        "abs",
+        "pdf",
+        "code",
+        "project",
+        "homepage",
+        "scholar",
+        "dblp",
+        "github",
+        "bluesky",
+        "x",
+        "orcid",
+        "openreview",
+        "linkedin",
+        "wikipedia",
+        "wikidata",
+        "cv",
+        "email",
+        "other"
+      ]
+    },
+    "LinkOut": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["kind", "url"],
+      "properties": {
+        "kind": {"$ref": "#/$defs/LinkKind"},
+        "url": {"type": "string", "maxLength": 2048},
+        "label": {"type": "string", "maxLength": 128}
+      }
+    },
+    "Photo": {
+      "description": "A picture with the licence and attribution needed to show it. Attach only through an explicit identifier chain (user upload, Wikidata P18, linked GitHub/Bluesky), never from a name search.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["url", "source", "fetchedAt"],
+      "properties": {
+        "url": {"type": "string", "maxLength": 2048},
+        "source": {
+          "description": "user, wikidata_commons, github, bluesky, homepage, favicon.",
+          "type": "string",
+          "maxLength": 32
+        },
+        "license": {"type": "string", "maxLength": 64},
+        "attribution": {"type": "string", "maxLength": 512},
+        "attributionUrl": {"type": "string", "maxLength": 2048},
+        "confidence": {"type": "number", "minimum": 0, "maximum": 1},
+        "fetchedAt": {"$ref": "common.schema.json#/$defs/Timestamp"}
+      }
+    },
+    "AuthorExternalIds": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "orcid": {"type": "string"},
+        "openalex": {"type": "string"},
+        "wikidata": {"type": "string"},
+        "semanticScholar": {"type": "string"},
+        "dblp": {"type": "string"},
+        "googleScholar": {"type": "string"},
+        "openreview": {"type": "string"},
+        "github": {"type": "string"},
+        "bluesky": {"type": "string"},
+        "x": {"type": "string"}
+      }
+    },
+    "InstitutionExternalIds": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "ror": {"type": "string"},
+        "wikidata": {"type": "string"},
+        "openalex": {"type": "string"}
+      }
+    },
+    "InstitutionRef": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "name"],
+      "properties": {
+        "id": {"$ref": "#/$defs/InstitutionId"},
+        "name": {"type": "string", "maxLength": 256},
+        "country": {
+          "description": "ISO 3166-1 alpha-2.",
+          "type": "string",
+          "pattern": "^[A-Z]{2}$"
+        },
+        "type": {
+          "description": "education, company, government, nonprofit, facility, other (ROR/OpenAlex types).",
+          "type": "string",
+          "maxLength": 32
+        },
+        "logoUrl": {"type": "string", "maxLength": 2048}
+      }
+    },
+    "Institution": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "name", "ids"],
+      "properties": {
+        "id": {"$ref": "#/$defs/InstitutionId"},
+        "name": {"type": "string", "maxLength": 256},
+        "acronym": {"type": "string", "maxLength": 32},
+        "country": {"type": "string", "pattern": "^[A-Z]{2}$"},
+        "city": {"type": "string", "maxLength": 128},
+        "type": {"type": "string", "maxLength": 32},
+        "website": {"type": "string", "maxLength": 2048},
+        "logo": {"$ref": "#/$defs/Photo"},
+        "ids": {"$ref": "#/$defs/InstitutionExternalIds"},
+        "updatedAt": {"$ref": "common.schema.json#/$defs/Timestamp"}
+      }
+    },
+    "PaperAuthor": {
+      "description": "An author as listed on a paper. arXiv gives only name strings; authorId appears once the paper-level join (OpenAlex / Semantic Scholar) resolved the person.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name", "position"],
+      "properties": {
+        "name": {"type": "string", "maxLength": 256},
+        "authorId": {"$ref": "#/$defs/AuthorId"},
+        "position": {
+          "description": "Zero-based order on the paper.",
+          "type": "integer",
+          "minimum": 0
+        },
+        "affiliation": {
+          "description": "Raw affiliation string as published, if any.",
+          "type": "string",
+          "maxLength": 512
+        }
+      }
+    },
+    "AuthorRef": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "name"],
+      "properties": {
+        "id": {"$ref": "#/$defs/AuthorId"},
+        "name": {"type": "string", "maxLength": 256},
+        "photo": {"$ref": "#/$defs/Photo"},
+        "affiliation": {"type": "string", "maxLength": 256}
+      }
+    },
+    "Brief": {
+      "description": "A short plain-language summary of a paper.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["text", "source", "generatedAt"],
+      "properties": {
+        "text": {"type": "string", "maxLength": 2000},
+        "source": {
+          "description": "hf_ai_summary, s2_tldr, llm, abstract.",
+          "type": "string",
+          "maxLength": 32
+        },
+        "model": {"type": "string", "maxLength": 64},
+        "generatedAt": {"$ref": "common.schema.json#/$defs/Timestamp"}
+      }
+    },
+    "PaperSignals": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "hfUpvotes": {"$ref": "#/$defs/MetricValue"},
+        "githubStars": {"$ref": "#/$defs/MetricValue"},
+        "githubRepo": {"type": "string", "maxLength": 256}
+      }
+    },
+    "Paper": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "title", "authors", "categories", "publishedAt", "links"],
+      "properties": {
+        "id": {"$ref": "#/$defs/PaperId"},
+        "arxivId": {"type": "string", "maxLength": 32},
+        "doi": {"type": "string", "maxLength": 128},
+        "title": {"type": "string", "maxLength": 1024},
+        "abstract": {"type": "string", "maxLength": 20000},
+        "authors": {"type": "array", "items": {"$ref": "#/$defs/PaperAuthor"}},
+        "categories": {
+          "description": "arXiv categories, primary first.",
+          "type": "array",
+          "items": {"type": "string", "maxLength": 32}
+        },
+        "primaryCategory": {"type": "string", "maxLength": 32},
+        "publishedAt": {"$ref": "common.schema.json#/$defs/Timestamp"},
+        "updatedAt": {"$ref": "common.schema.json#/$defs/Timestamp"},
+        "version": {"type": "integer", "minimum": 1},
+        "license": {"type": "string", "maxLength": 128},
+        "venue": {"type": "string", "maxLength": 256},
+        "links": {"type": "array", "items": {"$ref": "#/$defs/LinkOut"}},
+        "citations": {"$ref": "#/$defs/MetricValue"},
+        "signals": {"$ref": "#/$defs/PaperSignals"},
+        "brief": {"$ref": "#/$defs/Brief"}
+      }
+    },
+    "FeedReason": {
+      "type": "string",
+      "enum": ["trending", "new", "following", "for_you", "category", "search"]
+    },
+    "FeedItem": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["paper", "rank", "reason"],
+      "properties": {
+        "paper": {"$ref": "#/$defs/Paper"},
+        "rank": {
+          "description": "1-based position inside the shard or page.",
+          "type": "integer",
+          "minimum": 1
+        },
+        "reason": {"$ref": "#/$defs/FeedReason"},
+        "score": {"type": "number"}
+      }
+    },
+    "FeedShard": {
+      "description": "Static file feed-{feed}-{YYYY-MM-DD}.json built by the daily cron and served from static hosting.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["schema", "feed", "date", "generatedAt", "items"],
+      "properties": {
+        "schema": {"const": "scienceos.atlas.feed-shard/1"},
+        "feed": {
+          "description": "today, trending, or cat:{arxiv category}.",
+          "type": "string",
+          "maxLength": 64
+        },
+        "date": {"$ref": "common.schema.json#/$defs/DateString"},
+        "generatedAt": {"$ref": "common.schema.json#/$defs/Timestamp"},
+        "sources": {
+          "description": "Data sources merged into the shard, for attribution.",
+          "type": "array",
+          "items": {"type": "string", "maxLength": 32}
+        },
+        "items": {"type": "array", "items": {"$ref": "#/$defs/FeedItem"}}
+      }
+    },
+    "ShardRef": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["feed", "date", "path", "count", "sha256", "bytes"],
+      "properties": {
+        "feed": {"type": "string", "maxLength": 64},
+        "date": {"$ref": "common.schema.json#/$defs/DateString"},
+        "path": {
+          "description": "Relative to the manifest URL.",
+          "type": "string",
+          "maxLength": 256
+        },
+        "count": {"type": "integer", "minimum": 0},
+        "sha256": {"$ref": "common.schema.json#/$defs/Sha256Hex"},
+        "bytes": {"type": "integer", "minimum": 0}
+      }
+    },
+    "FeedManifest": {
+      "description": "Static file index.json listing the available shards.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["schema", "generatedAt", "latestDate", "shards"],
+      "properties": {
+        "schema": {"const": "scienceos.atlas.feed-manifest/1"},
+        "generatedAt": {"$ref": "common.schema.json#/$defs/Timestamp"},
+        "latestDate": {"$ref": "common.schema.json#/$defs/DateString"},
+        "shards": {"type": "array", "items": {"$ref": "#/$defs/ShardRef"}}
+      }
+    },
+    "ExperienceEntry": {
+      "description": "One experience row. verified stays false until the person claims the profile (ORCID or institutional email). quote must be a substring of the evidence at evidenceUrl; rows without one are dropped by the producer.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["role", "org", "verified"],
+      "properties": {
+        "role": {"type": "string", "maxLength": 256},
+        "org": {"type": "string", "maxLength": 256},
+        "institution": {"$ref": "#/$defs/InstitutionRef"},
+        "start": {
+          "description": "YYYY or YYYY-MM.",
+          "type": "string",
+          "pattern": "^\\d{4}(-\\d{2})?$"
+        },
+        "end": {"type": "string", "pattern": "^\\d{4}(-\\d{2})?$"},
+        "current": {"type": "boolean"},
+        "verified": {"type": "boolean"},
+        "evidenceUrl": {"type": "string", "maxLength": 2048},
+        "quote": {"type": "string", "maxLength": 512}
+      }
+    },
+    "MetricValueList": {
+      "description": "One entry per source, so clients can label and compare them.",
+      "type": "array",
+      "items": {"$ref": "#/$defs/MetricValue"}
+    },
+    "AuthorMetrics": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["citations", "hIndex", "i10Index"],
+      "properties": {
+        "citations": {"$ref": "#/$defs/MetricValueList"},
+        "hIndex": {"$ref": "#/$defs/MetricValueList"},
+        "i10Index": {"$ref": "#/$defs/MetricValueList"},
+        "worksCount": {"$ref": "#/$defs/MetricValueList"}
+      }
+    },
+    "CitationYear": {
+      "description": "Citations received in a calendar year (citing year, recomputed; never the OpenAlex counts_by_year buckets).",
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["year", "count", "source"],
+      "properties": {
+        "year": {"type": "integer", "minimum": 1900, "maximum": 2200},
+        "count": {"type": "integer", "minimum": 0},
+        "source": {"type": "string", "maxLength": 32}
+      }
+    },
+    "Coauthor": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["author", "sharedPapers"],
+      "properties": {
+        "author": {"$ref": "#/$defs/AuthorRef"},
+        "sharedPapers": {"type": "integer", "minimum": 1},
+        "institution": {"$ref": "#/$defs/InstitutionRef"}
+      }
+    },
+    "EnrichmentStage": {
+      "description": "A: identity + metrics (free singleton lookups). B: ORCID, Wikidata, ROR, coauthors. C: homepage, avatars, LLM experience, logos.",
+      "type": "string",
+      "enum": ["A", "B", "C"]
+    },
+    "Enrichment": {
+      "description": "Progressive-render state of an author profile. Re-request after a few seconds while complete is false.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["stage", "complete", "pending", "updatedAt"],
+      "properties": {
+        "stage": {"$ref": "#/$defs/EnrichmentStage"},
+        "complete": {"type": "boolean"},
+        "pending": {
+          "description": "Sections still being filled: photo, experience, coauthors, links, metrics.",
+          "type": "array",
+          "items": {"type": "string", "maxLength": 32}
+        },
+        "updatedAt": {"$ref": "common.schema.json#/$defs/Timestamp"}
+      }
+    },
+    "Author": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "name",
+        "aliases",
+        "ids",
+        "affiliations",
+        "experience",
+        "links",
+        "metrics",
+        "citationsByYear",
+        "topics",
+        "coauthors",
+        "claimed",
+        "enrichment",
+        "updatedAt"
+      ],
+      "properties": {
+        "id": {"$ref": "#/$defs/AuthorId"},
+        "name": {"type": "string", "maxLength": 256},
+        "aliases": {"type": "array", "items": {"type": "string", "maxLength": 256}},
+        "ids": {"$ref": "#/$defs/AuthorExternalIds"},
+        "photo": {"$ref": "#/$defs/Photo"},
+        "bio": {"type": "string", "maxLength": 2000},
+        "affiliations": {
+          "description": "Current affiliations, most relevant first.",
+          "type": "array",
+          "items": {"$ref": "#/$defs/InstitutionRef"}
+        },
+        "experience": {"type": "array", "items": {"$ref": "#/$defs/ExperienceEntry"}},
+        "links": {"type": "array", "items": {"$ref": "#/$defs/LinkOut"}},
+        "metrics": {"$ref": "#/$defs/AuthorMetrics"},
+        "citationsByYear": {"type": "array", "items": {"$ref": "#/$defs/CitationYear"}},
+        "topics": {"type": "array", "items": {"type": "string", "maxLength": 128}},
+        "coauthors": {"type": "array", "items": {"$ref": "#/$defs/Coauthor"}},
+        "claimed": {"type": "boolean"},
+        "followers": {"type": "integer", "minimum": 0},
+        "enrichment": {"$ref": "#/$defs/Enrichment"},
+        "updatedAt": {"$ref": "common.schema.json#/$defs/Timestamp"}
+      }
+    },
+    "AtlasFeedParams": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "feed": {
+          "description": "today (default), trending, following, or cat:{arxiv category}.",
+          "type": "string",
+          "maxLength": 64
+        },
+        "date": {
+          "description": "Default: the latest available.",
+          "$ref": "common.schema.json#/$defs/DateString"
+        },
+        "limit": {"description": "Default 30.", "type": "integer", "minimum": 1, "maximum": 100},
+        "cursor": {"$ref": "common.schema.json#/$defs/Cursor"}
+      }
+    },
+    "AtlasFeedResult": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["feed", "date", "generatedAt", "items"],
+      "properties": {
+        "feed": {"type": "string", "maxLength": 64},
+        "date": {"$ref": "common.schema.json#/$defs/DateString"},
+        "generatedAt": {"$ref": "common.schema.json#/$defs/Timestamp"},
+        "items": {"type": "array", "items": {"$ref": "#/$defs/FeedItem"}},
+        "nextCursor": {"$ref": "common.schema.json#/$defs/Cursor"}
+      }
+    },
+    "AtlasPaperParams": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["paperId"],
+      "properties": {"paperId": {"$ref": "#/$defs/PaperId"}, "includeRelated": {"type": "boolean"}}
+    },
+    "AtlasPaperResult": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["paper"],
+      "properties": {
+        "paper": {"$ref": "#/$defs/Paper"},
+        "related": {"type": "array", "items": {"$ref": "#/$defs/Paper"}}
+      }
+    },
+    "AtlasAuthorParams": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["authorId"],
+      "properties": {
+        "authorId": {"$ref": "#/$defs/AuthorId"},
+        "papers": {
+          "description": "Include this many of the author's most recent papers. Default 0.",
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 50
+        }
+      }
+    },
+    "AtlasAuthorResult": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["author", "institutions", "papers"],
+      "properties": {
+        "author": {"$ref": "#/$defs/Author"},
+        "institutions": {
+          "description": "Every institution referenced by the author, experience and coauthors.",
+          "type": "array",
+          "items": {"$ref": "#/$defs/Institution"}
+        },
+        "papers": {"type": "array", "items": {"$ref": "#/$defs/Paper"}}
+      }
+    },
+    "AtlasSearchKind": {"type": "string", "enum": ["all", "papers", "authors"]},
+    "AtlasSearchSource": {"type": "string", "enum": ["cache", "live", "mixed"]},
+    "AtlasSearchParams": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["query"],
+      "properties": {
+        "query": {"type": "string", "minLength": 1, "maxLength": 256},
+        "kind": {"description": "Default all.", "$ref": "#/$defs/AtlasSearchKind"},
+        "category": {"type": "string", "maxLength": 32},
+        "dateFrom": {"$ref": "common.schema.json#/$defs/DateString"},
+        "dateTo": {"$ref": "common.schema.json#/$defs/DateString"},
+        "limit": {"description": "Default 20.", "type": "integer", "minimum": 1, "maximum": 100},
+        "cursor": {"$ref": "common.schema.json#/$defs/Cursor"}
+      }
+    },
+    "AtlasSearchResult": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["papers", "authors", "source"],
+      "properties": {
+        "papers": {"type": "array", "items": {"$ref": "#/$defs/Paper"}},
+        "authors": {"type": "array", "items": {"$ref": "#/$defs/AuthorRef"}},
+        "source": {"$ref": "#/$defs/AtlasSearchSource"},
+        "nextCursor": {"$ref": "common.schema.json#/$defs/Cursor"}
+      }
+    },
+    "AtlasAuthorFile": {
+      "description": "Static file authors/{id}.json: an atlas.author result with a schema tag.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["schema", "author", "institutions"],
+      "properties": {
+        "schema": {"const": "scienceos.atlas.author/1"},
+        "author": {"$ref": "#/$defs/Author"},
+        "institutions": {"type": "array", "items": {"$ref": "#/$defs/Institution"}}
+      }
+    },
+    "AtlasPaperFile": {
+      "description": "Static file papers/{id}.json: an atlas.paper result with a schema tag.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["schema", "paper"],
+      "properties": {
+        "schema": {"const": "scienceos.atlas.paper/1"},
+        "paper": {"$ref": "#/$defs/Paper"}
+      }
+    }
+  }
+}

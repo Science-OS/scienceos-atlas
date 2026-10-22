@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/IxPjYSAXPH+j8ASweTvuB9wq6x0</id>
+  <title>arXiv Query: search_query=&amp;id_list=2610.27576,2610.04688,2109.14850&amp;start=0&amp;max_results=3</title>
+  <updated>2026-10-22T07:45:20Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=&amp;start=0&amp;max_results=3&amp;id_list=2610.27576,2610.04688,2109.14850" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>3</opensearch:itemsPerPage>
+  <opensearch:totalResults>3</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2610.04688v3</id>
+    <title>Submission quotas as self-screening when manuscript production is cheap</title>
+    <updated>2026-10-20T16:19:23Z</updated>
+    <link href="https://arxiv.org/abs/2610.04688v3" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.04688v3" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Generative AI enables authors to produce more manuscripts at lower cost. But evaluation by expert editors and referees remains scarce. In this context, the value of an author's submission rights can increase. Major research repositories and journals are reacting by imposing submission quotas and fees. Non-transferable author quotas transform submission of a manuscript into a revealed-priority decision. Authors construct a portfolio of their highest-ranked manuscripts. A common fee charges an author for every manuscript they submit. Both methods have drawbacks. Quotas do not flexibly allocate scarce review capacity to authors who have unusually strong realised candidate sets. Fees can generate heterogeneous submission thresholds that may be systematically related to an author's baseline portfolio quality. In this paper, I derive the condition under which submission quotas yield weakly higher mean reviewed value than fees, given an equal expected review load. When project values are bounded and candidate manuscripts are abundant, an equal-load fee can price out some authors entirely.</summary>
+    <category term="econ.TH" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-03T18:04:38Z</published>
+    <arxiv:comment>25 pages, revised exposition, added asymptotic discussion to appendix</arxiv:comment>
+    <arxiv:primary_category term="econ.TH"/>
+    <author>
+      <name>Steve Lawford</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27576v1</id>
+    <title>Who Gains When the Umpire Is a Machine? Evidence from the Automated Ball-Strike System (ABS)</title>
+    <updated>2026-10-20T03:42:43Z</updated>
+    <link href="https://arxiv.org/abs/2610.27576v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27576v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>In 2024 the Korea Baseball Organization became the first top-tier league to replace the home-plate umpires ball-strike judgment with an automated system. Using over a million pitches from 2021 to 2026, we separate the change into the removal of human discretion and the imposition of a new zone geometry. The machine eliminated count-dependent calls, the value of catcher framing and a small advantage for star batters, rents worth only a few runs per player-season. Because the machines zone scales with height and treats every matchup alike, it redistributed strikes toward tall batters and across matchups, but few pitches are exposed to these changes, and their effects on plate-appearance outcomes are precisely estimated and close to zero. Pitchers re-optimized quickly by throwing higher, with left-handers catching up to an existing trend, whereas we find no evidence that batters adjusted. The results suggest that the incidence of replacing human judgment with a rule depends on its geometry and on exposure.</summary>
+    <category term="econ.GN" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T03:42:43Z</published>
+    <arxiv:comment>44pages</arxiv:comment>
+    <arxiv:primary_category term="econ.GN"/>
+    <author>
+      <name>Seung Jin Cho</name>
+    </author>
+    <author>
+      <name>Jun Yeong Lee</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2109.14850v2</id>
+    <title>Matching Markets: Equilibrium Computation, Indivisible Goods, and Positional Externalities</title>
+    <updated>2026-10-20T05:55:25Z</updated>
+    <link href="https://arxiv.org/abs/2109.14850v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2109.14850v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Matching markets provide a mathematical framework for allocating scarce resources among strategic agents with heterogeneous preferences. While matching without money relies on ordinal stability and Pareto efficiency, Fisher and Arrow--Debreu markets mediate allocation through budgets and market-clearing prices. In this paper, we study the convex-analytic foundations, computational complexity, and external-utility extensions of Fisher matching markets. First, we formulate fractional resource allocation and linear Fisher markets via Fenchel conjugate duality and the Karush--Kuhn--Tucker (KKT) conditions of the Eisenberg--Gale convex program, showing how budget-weighted Nash social welfare characterizes competitive equilibria across linear and homothetic utility families. Second, we review topological existence via Sperner's lemma alongside polynomial-time combinatorial algorithms for divisible markets, including the Devanur--Papadimitriou--Saberi--Vazirani (DPSV) primal-dual max-flow algorithm and Orlin's strongly polynomial scaling algorithm. Third, we contrast the tractability of divisible markets with the $\mathsf{NP}$-hardness and $\mathsf{PPAD}$-completeness of indivisible Fisher markets and Competitive Equilibrium from Equal Incomes (CEEI), comparing $\varepsilon$-approximate equilibria, CEEI-FRAC, and Budish's Approximate CEEI mechanism. Finally, we analyze Fisher markets with positional (snob-effect) externalities, where buyer $i$'s utility for good $j$ scales with her relative share $(x_{ij}/\sum_{k} x_{kj})^{α_i}$ for $α_i &gt; 0$. We prove that positional utility summands are convex on the nonnegative orthant, so utilitarian social welfare is maximized at exclusive corner allocations, whereas decentralized price-taking admits a unique budget-proportional equilibrium in single-good snob markets with a Price of Anarchy of $n^α$ among $n$ symmetric buyers.</summary>
+    <category term="cs.GT" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.SI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="econ.TH" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2021-09-30T05:13:27Z</published>
+    <arxiv:primary_category term="cs.GT"/>
+    <author>
+      <name>Bruce Changlong Xu</name>
+    </author>
+    <author>
+      <name>Andrew Yang</name>
+    </author>
+    <author>
+      <name>Ivan Villa-Renteria</name>
+    </author>
+  </entry>
+</feed>

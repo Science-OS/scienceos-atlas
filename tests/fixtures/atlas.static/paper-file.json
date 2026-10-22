@@ -1,0 +1,41 @@
+{
+  "schema": "scienceos.atlas.paper/1",
+  "paper": {
+    "id": "arxiv:2506.09985",
+    "arxivId": "2506.09985",
+    "doi": "10.48550/arXiv.2506.09985",
+    "title": "V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning",
+    "abstract": "A self-supervised video model pre-trained on web-scale video, then post-trained with a small amount of robot interaction data, evaluated on video understanding, prediction and robotic planning.",
+    "authors": [
+      {"name": "Mido Assran", "authorId": "s2:2065681534", "position": 0},
+      {"name": "Adrien Bardes", "authorId": "s2:1453740540", "position": 1},
+      {"name": "David Fan", "authorId": "s2:2335871751", "position": 2},
+      {"name": "Quentin Garrido", "authorId": "s2:2048163343", "position": 3},
+      {"name": "Russell Howes", "authorId": "s2:2366426723", "position": 4},
+      {"name": "Michael Rabbat", "position": 5},
+      {"name": "Yann LeCun", "authorId": "orcid:0000-0002-1992-2684", "position": 6},
+      {"name": "Nicolas Ballas", "position": 7}
+    ],
+    "categories": ["cs.AI", "cs.CV", "cs.LG", "cs.RO"],
+    "primaryCategory": "cs.AI",
+    "publishedAt": "2025-06-11T17:57:09Z",
+    "version": 2,
+    "license": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+    "links": [
+      {"kind": "abs", "url": "https://arxiv.org/abs/2506.09985"},
+      {"kind": "pdf", "url": "https://arxiv.org/pdf/2506.09985"},
+      {
+        "kind": "code",
+        "url": "https://github.com/facebookresearch/vjepa2",
+        "label": "facebookresearch/vjepa2"
+      }
+    ],
+    "citations": {"value": 8, "source": "openalex", "fetchedAt": "2026-10-21T08:30:12Z"},
+    "brief": {
+      "text": "A video model trained without labels learns to predict what happens next, then plans robot actions from a small amount of interaction data.",
+      "source": "llm",
+      "model": "claude-haiku-5-5",
+      "generatedAt": "2026-10-21T04:10:00Z"
+    }
+  }
+}

@@ -1,0 +1,979 @@
+{
+ "meta": {
+  "notice": "No API key, so this request shares one free daily budget ($0.10) with everyone on your network's IP address. Get a free key with its own $1/day at https://openalex.org/settings/api and add api_key=YOUR_KEY to your requests. An AI agent can get one for its user in one call: POST https://api.openalex.org/api-keys with {\"email\": \"<your user's email>\"}; we email them a link, and the key works once they click it. Docs for agents: https://help.openalex.org/llms.txt",
+  "count": 2,
+  "db_response_time_ms": 14,
+  "page": 1,
+  "per_page": 100,
+  "groups_count": null,
+  "x_query": {
+   "oql": "get authors where openalex id is (A5001226970 or A5029353080)",
+   "x_new_oql": "get authors where openalex id is (A5001226970 or A5029353080)",
+   "oqo": {
+    "get_rows": "authors",
+    "filter_rows": [
+     {
+      "join": "or",
+      "filters": [
+       {
+        "column_id": "ids.openalex",
+        "value": "A5001226970"
+       },
+       {
+        "column_id": "ids.openalex",
+        "value": "A5029353080"
+       }
+      ]
+     }
+    ]
+   },
+   "url": "/authors?filter=ids.openalex:A5001226970|A5029353080&per_page=100"
+  },
+  "cost_usd": 0.0001
+ },
+ "results": [
+  {
+   "id": "https://openalex.org/A5001226970",
+   "display_name": "Yann LeCun",
+   "display_name_alternatives": [
+    "Le Cun, Yann",
+    "LeCun Yann",
+    "LeCun, Y",
+    "LeCun, Y.",
+    "LeCun, Yann",
+    "LeCun, Yann André",
+    "Lecun Y.",
+    "Lecun, Yann",
+    "Y. LECUN",
+    "Y. Le Cun",
+    "Y. LeCUN",
+    "Y. LeCun",
+    "Y. Lecun",
+    "Y. leCun",
+    "Y.A. LeCun",
+    "Y.L. Cun",
+    "YANN LECUN",
+    "Yann A. Le Cun",
+    "Yann A. LeCun",
+    "Yann Le Cun",
+    "Yann Le-Cun",
+    "Yann LeCun",
+    "Yann Lecun",
+    "Yann le Cun"
+   ],
+   "orcid": "https://orcid.org/0000-0002-1992-2684",
+   "ids": {
+    "openalex": "https://openalex.org/A5001226970",
+    "orcid": "https://orcid.org/0000-0002-1992-2684",
+    "observed_orcids": [
+     "https://orcid.org/0000-0002-1992-2684"
+    ]
+   },
+   "works_count": 548,
+   "cited_by_count": 210245,
+   "summary_stats": {
+    "2yr_mean_citedness": 11.2,
+    "h_index": 129,
+    "i10_index": 314
+   },
+   "last_known_institutions": [
+    {
+     "id": "https://openalex.org/I1294671590",
+     "ror": "https://ror.org/02feahw73",
+     "display_name": "Centre National de la Recherche Scientifique",
+     "country_code": "FR",
+     "type": "government",
+     "lineage": [
+      "https://openalex.org/I1294671590"
+     ]
+    },
+    {
+     "id": "https://openalex.org/I29607241",
+     "ror": "https://ror.org/05a0dhs15",
+     "display_name": "École Normale Supérieure - PSL",
+     "country_code": "FR",
+     "type": "other",
+     "lineage": [
+      "https://openalex.org/I2746051580",
+      "https://openalex.org/I29607241"
+     ]
+    },
+    {
+     "id": "https://openalex.org/I36672615",
+     "ror": "https://ror.org/037tm7f56",
+     "display_name": "Courant Institute of Mathematical Sciences",
+     "country_code": "US",
+     "type": "education",
+     "lineage": [
+      "https://openalex.org/I36672615",
+      "https://openalex.org/I57206974"
+     ]
+    },
+    {
+     "id": "https://openalex.org/I4210114444",
+     "ror": "https://ror.org/01zbnvs85",
+     "display_name": "Meta (United States)",
+     "country_code": "US",
+     "type": "company",
+     "lineage": [
+      "https://openalex.org/I4210114444"
+     ]
+    },
+    {
+     "id": "https://openalex.org/I57206974",
+     "ror": "https://ror.org/0190ak572",
+     "display_name": "New York University",
+     "country_code": "US",
+     "type": "education",
+     "lineage": [
+      "https://openalex.org/I57206974"
+     ]
+    },
+    {
+     "id": "https://openalex.org/I90669466",
+     "ror": "https://ror.org/02d9dg697",
+     "display_name": "École des hautes études en sciences sociales",
+     "country_code": "FR",
+     "type": "facility",
+     "lineage": [
+      "https://openalex.org/I90669466"
+     ]
+    }
+   ],
+   "topics": [
+    {
+     "id": "https://openalex.org/T10036",
+     "display_name": "Advanced Neural Network Applications",
+     "count": 190,
+     "subfield": {
+      "id": "https://openalex.org/subfields/1707",
+      "display_name": "Computer Vision and Pattern Recognition"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T10320",
+     "display_name": "Neural Networks and Applications",
+     "count": 164,
+     "subfield": {
+      "id": "https://openalex.org/subfields/1702",
+      "display_name": "Artificial Intelligence"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T11307",
+     "display_name": "Domain Adaptation and Few-Shot Learning",
+     "count": 129,
+     "subfield": {
+      "id": "https://openalex.org/subfields/1702",
+      "display_name": "Artificial Intelligence"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T11612",
+     "display_name": "Stochastic Gradient Optimization Techniques",
+     "count": 61,
+     "subfield": {
+      "id": "https://openalex.org/subfields/1702",
+      "display_name": "Artificial Intelligence"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T10462",
+     "display_name": "Reinforcement Learning in Robotics",
+     "count": 51,
+     "subfield": {
+      "id": "https://openalex.org/subfields/1702",
+      "display_name": "Artificial Intelligence"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    }
+   ],
+   "affiliations": [
+    {
+     "institution": {
+      "id": "https://openalex.org/I118347220",
+      "ror": "https://ror.org/04jndar25",
+      "display_name": "NEC (Japan)",
+      "country_code": "JP",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I118347220"
+      ]
+     },
+     "years": [
+      2002
+     ]
+    },
+    {
+     "institution": {
+      "id": "https://openalex.org/I1283103587",
+      "ror": "https://ror.org/02bbd5539",
+      "display_name": "AT&T (United States)",
+      "country_code": "US",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I1283103587"
+      ]
+     },
+     "years": [
+      2024,
+      2012,
+      2005,
+      2003,
+      2002,
+      2000,
+      1999,
+      1998,
+      1995,
+      1994,
+      1993,
+      1992,
+      1991,
+      1990,
+      1989
+     ]
+    },
+    {
+     "institution": {
+      "id": "https://openalex.org/I1294671590",
+      "ror": "https://ror.org/02feahw73",
+      "display_name": "Centre National de la Recherche Scientifique",
+      "country_code": "FR",
+      "type": "government",
+      "lineage": [
+       "https://openalex.org/I1294671590"
+      ]
+     },
+     "years": [
+      2026,
+      2025,
+      2024
+     ]
+    },
+    {
+     "institution": {
+      "id": "https://openalex.org/I1321305853",
+      "ror": "https://ror.org/04grmx538",
+      "display_name": "National Bureau of Economic Research",
+      "country_code": "US",
+      "type": "nonprofit",
+      "lineage": [
+       "https://openalex.org/I1321305853"
+      ]
+     },
+     "years": [
+      2010
+     ]
+    },
+    {
+     "institution": {
+      "id": "https://openalex.org/I13955877",
+      "ror": "https://ror.org/03kgsv495",
+      "display_name": "Bar-Ilan University",
+      "country_code": "IL",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I13955877"
+      ]
+     },
+     "years": [
+      1991
+     ]
+    },
+    {
+     "institution": {
+      "id": "https://openalex.org/I153976015",
+      "ror": "https://ror.org/05njb9z20",
+      "display_name": "University of Ljubljana",
+      "country_code": "SI",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I153976015"
+      ]
+     },
+     "years": [
+      2015
+     ]
+    },
+    {
+     "institution": {
+      "id": "https://openalex.org/I170486558",
+      "ror": "https://ror.org/04n0g0b29",
+      "display_name": "Universitat Pompeu Fabra",
+      "country_code": "ES",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I170486558"
+      ]
+     },
+     "years": [
+      2023
+     ]
+    },
+    {
+     "institution": {
+      "id": "https://openalex.org/I185261750",
+      "ror": "https://ror.org/03dbr7087",
+      "display_name": "University of Toronto",
+      "country_code": "CA",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I185261750"
+      ]
+     },
+     "years": [
+      1988
+     ]
+    },
+    {
+     "institution": {
+      "id": "https://openalex.org/I187986737",
+      "ror": "https://ror.org/04ex24z53",
+      "display_name": "Collège de France",
+      "country_code": "FR",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I187986737"
+      ]
+     },
+     "years": [
+      2018
+     ]
+    },
+    {
+     "institution": {
+      "id": "https://openalex.org/I197251160",
+      "ror": "https://ror.org/03qxff017",
+      "display_name": "Hebrew University of Jerusalem",
+      "country_code": "IL",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I197251160"
+      ]
+     },
+     "years": [
+      2024
+     ]
+    },
+    {
+     "institution": {
+      "id": "https://openalex.org/I2252078561",
+      "ror": "https://ror.org/02388em19",
+      "display_name": "Meta (Israel)",
+      "country_code": "IL",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I2252078561",
+       "https://openalex.org/I4210114444"
+      ]
+     },
+     "years": [
+      2021,
+      2020,
+      2018,
+      2015,
+      2014
+     ]
+    },
+    {
+     "institution": {
+      "id": "https://openalex.org/I24603500",
+      "ror": "https://ror.org/0072zz521",
+      "display_name": "University of Massachusetts Amherst",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I24603500"
+      ]
+     },
+     "years": [
+      2024
+     ]
+    },
+    {
+     "institution": {
+      "id": "https://openalex.org/I2801933607",
+      "ror": "https://ror.org/00yqqsx19",
+      "display_name": "Care Institute of Medical Sciences",
+      "country_code": "IN",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2801933607"
+      ]
+     },
+     "years": [
+      2022
+     ]
+    },
+    {
+     "institution": {
+      "id": "https://openalex.org/I29607241",
+      "ror": "https://ror.org/05a0dhs15",
+      "display_name": "École Normale Supérieure - PSL",
+      "country_code": "FR",
+      "type": "other",
+      "lineage": [
+       "https://openalex.org/I2746051580",
+       "https://openalex.org/I29607241"
+      ]
+     },
+     "years": [
+      2026,
+      2025,
+      2010
+     ]
+    },
+    {
+     "institution": {
+      "id": "https://openalex.org/I36672615",
+      "ror": "https://ror.org/037tm7f56",
+      "display_name": "Courant Institute of Mathematical Sciences",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I36672615",
+       "https://openalex.org/I57206974"
+      ]
+     },
+     "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022,
+      2021,
+      2019,
+      2018,
+      2016,
+      2015,
+      2014,
+      2013,
+      2012,
+      2011,
+      2010,
+      2009,
+      2008,
+      2007,
+      2006,
+      2005,
+      2004
+     ]
+    },
+    {
+     "institution": {
+      "id": "https://openalex.org/I4210108471",
+      "ror": "https://ror.org/01mtcc283",
+      "display_name": "Le Mans Université",
+      "country_code": "FR",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I4210108471"
+      ]
+     },
+     "years": [
+      2017
+     ]
+    },
+    {
+     "institution": {
+      "id": "https://openalex.org/I4210111288",
+      "ror": "https://ror.org/020ye1821",
+      "display_name": "Meta (United Kingdom)",
+      "country_code": "GB",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I4210111288",
+       "https://openalex.org/I4210114444"
+      ]
+     },
+     "years": [
+      2021,
+      2017
+     ]
+    },
+    {
+     "institution": {
+      "id": "https://openalex.org/I4210114444",
+      "ror": "https://ror.org/01zbnvs85",
+      "display_name": "Meta (United States)",
+      "country_code": "US",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I4210114444"
+      ]
+     },
+     "years": [
+      2026,
+      2024,
+      2023,
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017,
+      2016,
+      2015,
+      2014,
+      2008
+     ]
+    },
+    {
+     "institution": {
+      "id": "https://openalex.org/I4210121266",
+      "ror": "https://ror.org/02ya5n776",
+      "display_name": "Technicolor (France)",
+      "country_code": "FR",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I4210121266"
+      ]
+     },
+     "years": [
+      1993
+     ]
+    },
+    {
+     "institution": {
+      "id": "https://openalex.org/I4210149490",
+      "ror": "https://ror.org/04sy1dy83",
+      "display_name": "West Virginia Network",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I4210149490"
+      ]
+     },
+     "years": [
+      2007
+     ]
+    },
+    {
+     "institution": {
+      "id": "https://openalex.org/I4210152518",
+      "ror": "https://ror.org/04t50yk91",
+      "display_name": "Laboratoire d'Informatique Gaspard-Monge",
+      "country_code": "FR",
+      "type": "facility",
+      "lineage": [
+       "https://openalex.org/I1294671590",
+       "https://openalex.org/I142631665",
+       "https://openalex.org/I2800365227",
+       "https://openalex.org/I4210145102",
+       "https://openalex.org/I4210152518",
+       "https://openalex.org/I4210154111",
+       "https://openalex.org/I4210159245"
+      ]
+     },
+     "years": [
+      2024,
+      2014
+     ]
+    },
+    {
+     "institution": {
+      "id": "https://openalex.org/I4210154384",
+      "ror": "https://ror.org/053veeq82",
+      "display_name": "Facility for Antiproton and Ion Research",
+      "country_code": "DE",
+      "type": "facility",
+      "lineage": [
+       "https://openalex.org/I4210154384"
+      ]
+     },
+     "years": [
+      2023,
+      2022
+     ]
+    },
+    {
+     "institution": {
+      "id": "https://openalex.org/I43638361",
+      "ror": "https://ror.org/05hwvzg47",
+      "display_name": "Federal Reserve Bank of New York",
+      "country_code": "US",
+      "type": "other",
+      "lineage": [
+       "https://openalex.org/I1317239608",
+       "https://openalex.org/I43638361"
+      ]
+     },
+     "years": [
+      2010
+     ]
+    },
+    {
+     "institution": {
+      "id": "https://openalex.org/I4387152956",
+      "ror": "https://ror.org/024850w61",
+      "display_name": "Alcatel-Lucent (France)",
+      "country_code": "FR",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I2738502077",
+       "https://openalex.org/I4210149358",
+       "https://openalex.org/I4387152956"
+      ]
+     },
+     "years": [
+      2005
+     ]
+    },
+    {
+     "institution": {
+      "id": "https://openalex.org/I4387154463",
+      "ror": "https://ror.org/02aqt9c37",
+      "display_name": "Université Paris-Est Marne-la-Vallée",
+      "country_code": "FR",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I2800365227",
+       "https://openalex.org/I4210154111",
+       "https://openalex.org/I4387154463"
+      ]
+     },
+     "years": [
+      2014
+     ]
+    },
+    {
+     "institution": {
+      "id": "https://openalex.org/I4387154752",
+      "ror": "https://ror.org/04x383a88",
+      "display_name": "ESIEE Paris",
+      "country_code": "FR",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I2800365227",
+       "https://openalex.org/I2801673036",
+       "https://openalex.org/I4210154111",
+       "https://openalex.org/I4387154752"
+      ]
+     },
+     "years": [
+      1987,
+      1986
+     ]
+    },
+    {
+     "institution": {
+      "id": "https://openalex.org/I57206974",
+      "ror": "https://ror.org/0190ak572",
+      "display_name": "New York University",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I57206974"
+      ]
+     },
+     "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017,
+      2016,
+      2015,
+      2014,
+      2013,
+      2012,
+      2011,
+      2010,
+      2009,
+      2008,
+      2007,
+      2006,
+      2005,
+      2004
+     ]
+    },
+    {
+     "institution": {
+      "id": "https://openalex.org/I63966007",
+      "ror": "https://ror.org/042nb2s44",
+      "display_name": "Massachusetts Institute of Technology",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I63966007"
+      ]
+     },
+     "years": [
+      2021
+     ]
+    },
+    {
+     "institution": {
+      "id": "https://openalex.org/I90669466",
+      "ror": "https://ror.org/02d9dg697",
+      "display_name": "École des hautes études en sciences sociales",
+      "country_code": "FR",
+      "type": "facility",
+      "lineage": [
+       "https://openalex.org/I90669466"
+      ]
+     },
+     "years": [
+      2026,
+      2025
+     ]
+    }
+   ],
+   "updated_date": "2026-10-20T12:29:05"
+  },
+  {
+   "id": "https://openalex.org/A5029353080",
+   "display_name": "Steve Lawford",
+   "display_name_alternatives": [
+    "Lawford, Steve",
+    "Steve Lawford"
+   ],
+   "orcid": "https://orcid.org/0000-0002-3067-9590",
+   "ids": {
+    "openalex": "https://openalex.org/A5029353080",
+    "orcid": "https://orcid.org/0000-0002-3067-9590",
+    "observed_orcids": [
+     "https://orcid.org/0000-0002-3067-9590"
+    ]
+   },
+   "works_count": 29,
+   "cited_by_count": 179,
+   "summary_stats": {
+    "2yr_mean_citedness": 0.3333333333333333,
+    "h_index": 6,
+    "i10_index": 4
+   },
+   "last_known_institutions": [
+    {
+     "id": "https://openalex.org/I100296615",
+     "ror": "https://ror.org/022zdgq74",
+     "display_name": "École Nationale de l’Aviation Civile",
+     "country_code": "FR",
+     "type": "education",
+     "lineage": [
+      "https://openalex.org/I100296615"
+     ]
+    },
+    {
+     "id": "https://openalex.org/I4405258862",
+     "ror": "https://ror.org/01ahyrz84",
+     "display_name": "Université de Toulouse",
+     "country_code": "FR",
+     "type": "education",
+     "lineage": [
+      "https://openalex.org/I4405258862"
+     ]
+    }
+   ],
+   "topics": [
+    {
+     "id": "https://openalex.org/T11871",
+     "display_name": "Advanced Statistical Methods and Models",
+     "count": 6,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2613",
+      "display_name": "Statistics and Probability"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/26",
+      "display_name": "Mathematics"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T11599",
+     "display_name": "Aviation Industry Analysis and Trends",
+     "count": 5,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2000",
+      "display_name": "General Economics, Econometrics and Finance"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/20",
+      "display_name": "Economics, Econometrics and Finance"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T10007",
+     "display_name": "Monetary Policy and Economic Impact",
+     "count": 4,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2000",
+      "display_name": "General Economics, Econometrics and Finance"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/20",
+      "display_name": "Economics, Econometrics and Finance"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T10064",
+     "display_name": "Complex Network Analysis Techniques",
+     "count": 4,
+     "subfield": {
+      "id": "https://openalex.org/subfields/3109",
+      "display_name": "Statistical and Nonlinear Physics"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/31",
+      "display_name": "Physics and Astronomy"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T10968",
+     "display_name": "Statistical Distribution Estimation and Applications",
+     "count": 4,
+     "subfield": {
+      "id": "https://openalex.org/subfields/2613",
+      "display_name": "Statistics and Probability"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/26",
+      "display_name": "Mathematics"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+     }
+    }
+   ],
+   "affiliations": [
+    {
+     "institution": {
+      "id": "https://openalex.org/I100296615",
+      "ror": "https://ror.org/022zdgq74",
+      "display_name": "École Nationale de l’Aviation Civile",
+      "country_code": "FR",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I100296615"
+      ]
+     },
+     "years": [
+      2026,
+      2025,
+      2024,
+      2020,
+      2018,
+      2013,
+      2012,
+      2011,
+      2010,
+      2009,
+      2008,
+      2004
+     ]
+    },
+    {
+     "institution": {
+      "id": "https://openalex.org/I132053463",
+      "ror": "https://ror.org/01r9htc13",
+      "display_name": "Université Libre de Bruxelles",
+      "country_code": "BE",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I132053463"
+      ]
+     },
+     "years": [
+      2007,
+      2004
+     ]
+    },
+    {
+     "institution": {
+      "id": "https://openalex.org/I4405258862",
+      "ror": "https://ror.org/01ahyrz84",
+      "display_name": "Université de Toulouse",
+      "country_code": "FR",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I4405258862"
+      ]
+     },
+     "years": [
+      2026,
+      2025,
+      2020
+     ]
+    },
+    {
+     "institution": {
+      "id": "https://openalex.org/I95674353",
+      "ror": "https://ror.org/02495e989",
+      "display_name": "UCLouvain",
+      "country_code": "BE",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I95674353"
+      ]
+     },
+     "years": [
+      2007
+     ]
+    }
+   ],
+   "updated_date": "2026-10-16T12:29:29"
+  }
+ ],
+ "group_by": []
+}

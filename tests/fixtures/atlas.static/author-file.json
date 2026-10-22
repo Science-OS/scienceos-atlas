@@ -1,0 +1,110 @@
+{
+  "schema": "scienceos.atlas.author/1",
+  "author": {
+    "id": "orcid:0000-0002-1992-2684",
+    "name": "Yann LeCun",
+    "aliases": ["Y. LeCun", "Yann Le Cun"],
+    "ids": {
+      "orcid": "0000-0002-1992-2684",
+      "openalex": "A5001226970",
+      "wikidata": "Q3571662",
+      "semanticScholar": "1688882",
+      "googleScholar": "WLN3QrAAAAAJ",
+      "dblp": "l/YannLeCun",
+      "x": "ylecun"
+    },
+    "photo": {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Yann_LeCun_-_2025_(cropped).jpg?width=256",
+      "source": "wikidata_commons",
+      "license": "CC BY-SA 2.0",
+      "attribution": "Ecole polytechnique",
+      "attributionUrl": "https://www.flickr.com/photos/117994717@N06/54320377276/",
+      "confidence": 0.95,
+      "fetchedAt": "2026-10-21T08:30:12Z"
+    },
+    "affiliations": [
+      {"id": "ror:0190ak572", "name": "New York University", "country": "US", "type": "education"},
+      {"id": "ror:01zbnvs85", "name": "Meta (United States)", "country": "US", "type": "company"}
+    ],
+    "experience": [
+      {
+        "role": "Professor",
+        "org": "New York University",
+        "institution": {
+          "id": "ror:0190ak572",
+          "name": "New York University",
+          "country": "US",
+          "type": "education"
+        },
+        "start": "2003-09",
+        "current": true,
+        "verified": false,
+        "evidenceUrl": "https://orcid.org/0000-0002-1992-2684",
+        "quote": "Professor"
+      }
+    ],
+    "links": [
+      {"kind": "homepage", "url": "http://yann.lecun.com"},
+      {"kind": "orcid", "url": "https://orcid.org/0000-0002-1992-2684"},
+      {"kind": "scholar", "url": "https://scholar.google.com/citations?user=WLN3QrAAAAAJ"},
+      {"kind": "dblp", "url": "https://dblp.org/pid/l/YannLeCun"},
+      {"kind": "wikipedia", "url": "https://en.wikipedia.org/wiki/Yann_LeCun"}
+    ],
+    "metrics": {
+      "citations": [
+        {"value": 210245, "source": "openalex", "fetchedAt": "2026-10-21T08:30:12Z"},
+        {"value": 275569, "source": "semanticscholar", "fetchedAt": "2026-10-21T08:30:12Z"},
+        {"value": 505971, "source": "google_scholar", "fetchedAt": "2026-10-21T08:30:12Z"}
+      ],
+      "hIndex": [
+        {"value": 129, "source": "openalex", "fetchedAt": "2026-10-21T08:30:12Z"},
+        {"value": 139, "source": "semanticscholar", "fetchedAt": "2026-10-21T08:30:12Z"},
+        {"value": 177, "source": "google_scholar", "fetchedAt": "2026-10-21T08:30:12Z"}
+      ],
+      "i10Index": [
+        {"value": 314, "source": "openalex", "fetchedAt": "2026-10-21T08:30:12Z"},
+        {"value": 512, "source": "google_scholar", "fetchedAt": "2026-10-21T08:30:12Z"}
+      ],
+      "worksCount": [{"value": 548, "source": "openalex", "fetchedAt": "2026-10-21T08:30:12Z"}]
+    },
+    "citationsByYear": [
+      {"year": 2017, "count": 7414, "source": "openalex"},
+      {"year": 2025, "count": 15982, "source": "openalex"},
+      {"year": 2026, "count": 10066, "source": "openalex"}
+    ],
+    "topics": ["Deep learning", "Self-supervised learning", "Computer vision"],
+    "coauthors": [
+      {"author": {"id": "s2:1453740540", "name": "Adrien Bardes"}, "sharedPapers": 3},
+      {"author": {"id": "s2:2048163343", "name": "Quentin Garrido"}, "sharedPapers": 2}
+    ],
+    "claimed": false,
+    "enrichment": {
+      "stage": "C",
+      "complete": true,
+      "pending": [],
+      "updatedAt": "2026-10-21T08:30:40Z"
+    },
+    "updatedAt": "2026-10-21T08:30:40Z"
+  },
+  "institutions": [
+    {
+      "id": "ror:0190ak572",
+      "name": "New York University",
+      "acronym": "NYU",
+      "country": "US",
+      "city": "New York",
+      "type": "education",
+      "website": "https://www.nyu.edu",
+      "ids": {"ror": "0190ak572", "wikidata": "Q49210", "openalex": "I57206974"},
+      "updatedAt": "2026-10-21T08:30:12Z"
+    },
+    {
+      "id": "ror:01zbnvs85",
+      "name": "Meta (United States)",
+      "country": "US",
+      "type": "company",
+      "ids": {"ror": "01zbnvs85", "openalex": "I4210114444"},
+      "updatedAt": "2026-10-21T08:30:12Z"
+    }
+  ]
+}

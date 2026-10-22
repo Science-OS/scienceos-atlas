@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" 
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+    <responseDate>2026-10-22T07:55:15Z</responseDate>
+                <request verb="ListRecords" metadataPrefix="arXiv" from="2026-10-22" set="cs">http://oaipmh.arxiv.org/oai</request>
+
+
+    <ListRecords>
+                    <record>
+                <header>
+        <identifier>oai:arXiv.org:2610.01938</identifier>
+        <datestamp>2026-10-22</datestamp>
+            <setSpec>cs:cs:CL</setSpec>
+            <setSpec>cs:cs:AI</setSpec>
+    </header>
+
+            <metadata>
+                        <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ https://oaipmh.arxiv.org/OAI/arXiv.xsd">
+        <id>2610.01938</id>
+        <created>2026-10-21</created>
+            <updated>2026-10-22</updated>
+        <authors>
+                <author>
+                    <keyname>Jiang</keyname>
+                        <forenames>Zhangshu Joshua</forenames>
+                </author>
+                <author>
+                    <keyname>Ibrahim</keyname>
+                        <forenames>Zina</forenames>
+                </author>
+                <author>
+                    <keyname>Teo</keyname>
+                        <forenames>James T.</forenames>
+                </author>
+        </authors>
+        <title>A rubric landscape for evaluating clinical reasoning in large language models: what exists, what is missing, and what needs to be combined</title>
+            <categories>cs.CL cs.AI</categories>
+            <comments>13 pages, 1 table. Structured narrative review</comments>
+            <license>http://creativecommons.org/licenses/by/4.0/</license>
+            <abstract>Exam-style accuracy does not establish whether large language models (LLMs) reason well over clinical records. We define clinical reasoning as integrating and updating evidence across time and sources to form, revise and justify a patient&#39;s problem representation and a defensible plan.
+  This structured narrative review maps three literatures: medical education assessment instruments, clinical LLM benchmarks published from 2023 onwards, and general-domain methods for evaluating long-form generation. We examine six dimensions: problem representation, temporal synthesis, differential and management reasoning, counterfactual reasoning, calibrated uncertainty, and reasoning faithfulness. Preprints are included and flagged.
+  No single instrument covers all six dimensions. Problem representation and differential or management reasoning are reasonably covered, although reliability varies by instrument and setting. TIMER-Eval targets temporal synthesis, and ER-Reason assesses sequential diagnostic belief updating. Dedicated uncertainty and counterfactual evaluations are emerging, but their applicability to longitudinal free-text reasoning remains limited. Factual completeness is well theorised in general-domain evaluation, with early clinical evidence of important omissions. Faithfulness remains the weakest dimension, with one identified clinical causal-ablation study on multiple-choice questions.
+  Existing tools should be combined through binary rubric items, separate completeness and correctness scores, case-specific importance weighting with non-compensable safety caps, temporal order-consistency checks, and chance-corrected reliability reporting. Further design work is needed for calibrated uncertainty, counterfactual reasoning and faithfulness over longitudinal free-text records. This review provides a design rationale, not a validated instrument.</abstract>
+    </arXiv>
+
+            </metadata>
+        </record>
+<record>
+                <header>
+        <identifier>oai:arXiv.org:2610.02044</identifier>
+        <datestamp>2026-10-22</datestamp>
+            <setSpec>cs:cs:CV</setSpec>
+    </header>
+
+            <metadata>
+                        <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ https://oaipmh.arxiv.org/OAI/arXiv.xsd">
+        <id>2610.02044</id>
+        <created>2026-10-21</created>
+            <updated>2026-10-22</updated>
+        <authors>
+                <author>
+                    <keyname>Wu</keyname>
+                        <forenames>Tao</forenames>
+                </author>
+                <author>
+                    <keyname>Gomez-Villa</keyname>
+                        <forenames>Alexandra</forenames>
+                </author>
+                <author>
+                    <keyname>Li</keyname>
+                        <forenames>Senmao</forenames>
+                </author>
+                <author>
+                    <keyname>Wang</keyname>
+                        <forenames>Yaxing</forenames>
+                </author>
+                <author>
+                    <keyname>van de Weijer</keyname>
+                        <forenames>Joost</forenames>
+                </author>
+                <author>
+                    <keyname>Wang</keyname>
+                        <forenames>Kai</forenames>
+                </author>
+        </authors>
+        <title>DiDE:Direct Injection with Color-Texture DEcoupling for 3D Stylization</title>
+            <categories>cs.CV</categories>
+            <comments>Accepted to NeurIPS 2026</comments>
+            <license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license>
+            <abstract>Recent advances in rectified flow-based image-to-3D generative models have enabled high-fidelity 3D asset generation. Building on this, a growing line of work has exploited these strong 3D priors for training-free stylization, transferring visual attributes from a reference image onto a generated 3D asset. However, existing methods enforce an all-or-nothing paradigm: color and texture are transferred jointly, with no mechanism to control them independently -- a limitation we formalize as Disentangled 3D Stylization(Disen3D). To address this, we propose DiDE, the first training-free framework for Disen3D. Key to our approach is the observation that the structured latent space of image-to-3D models is overcomplete with respect to texture: texture information occupies only a small subset of the style-significant channels, leaving a free subspace available for independent color encoding. DiDE exploits this via a channel partition mechanism that processes a content image, a texture reference, and a color reference through dedicated branches and composes both style signals interference-free at every self-attention layer, preserving content geometry throughout. Experiments on Disen3D-Bench, our newly collected multi-reference benchmark, show that DiDE consistently outperforms 2D and 3D stylization baselines in color fidelity, texture transfer, and content preservation.</abstract>
+    </arXiv>
+
+            </metadata>
+        </record>
+<record>
+                <header>
+        <identifier>oai:arXiv.org:2610.03098</identifier>
+        <datestamp>2026-10-22</datestamp>
+            <setSpec>cs:cs:AI</setSpec>
+            <setSpec>cs:cs:LG</setSpec>
+    </header>
+
+            <metadata>
+                        <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ https://oaipmh.arxiv.org/OAI/arXiv.xsd">
+        <id>2610.03098</id>
+        <created>2026-10-21</created>
+            <updated>2026-10-22</updated>
+        <authors>
+                <author>
+                    <keyname>Caron</keyname>
+                        <forenames>Alberto</forenames>
+                </author>
+                <author>
+                    <keyname>Cui</keyname>
+                        <forenames>Tianyu</forenames>
+                </author>
+                <author>
+                    <keyname>Lituiev</keyname>
+                        <forenames>Dmytro S.</forenames>
+                </author>
+                <author>
+                    <keyname>Prakash</keyname>
+                        <forenames>Mangal</forenames>
+                </author>
+                <author>
+                    <keyname>Moskalev</keyname>
+                        <forenames>Artem</forenames>
+                </author>
+                <author>
+                    <keyname>Mollaysa</keyname>
+                        <forenames>Amina</forenames>
+                </author>
+                <author>
+                    <keyname>Zhai</keyname>
+                        <forenames>Bo</forenames>
+                </author>
+                <author>
+                    <keyname>Nanda</keyname>
+                        <forenames>Hirsh</forenames>
+                </author>
+                <author>
+                    <keyname>Poole</keyname>
+                        <forenames>Daniel M.</forenames>
+                </author>
+                <author>
+                    <keyname>Liu</keyname>
+                        <forenames>Zhongyin</forenames>
+                </author>
+                <author>
+                    <keyname>Farasat</keyname>
+                        <forenames>Iman</forenames>
+                </author>
+                <author>
+                    <keyname>Davidson</keyname>
+                        <forenames>Robert</forenames>
+                </author>
+                <author>
+                    <keyname>Manyakov</keyname>
+                        <forenames>Nikolay V.</forenames>
+                </author>
+                <author>
+                    <keyname>Mansi</keyname>
+                        <forenames>Tommaso</forenames>
+                </author>
+                <author>
+                    <keyname>Oloff</keyname>
+                        <forenames>Scott</forenames>
+                </author>
+                <author>
+                    <keyname>Liao</keyname>
+                        <forenames>Rui</forenames>
+                </author>
+        </authors>
+        <title>Predictor-Guided Latent Space Codon Optimization for Maximizing Protein Expression</title>
+            <categories>cs.AI cs.LG</categories>
+            <license>http://creativecommons.org/licenses/by/4.0/</license>
+            <abstract>Codon optimization, the process of selecting synonymous codons to improve mRNA translation efficiency and protein expression, is central to therapeutic protein production and mRNA vaccines, yet it remains a hard problem. The design space is discrete and combinatorially large, precluding gradient-based methods, and existing tools rely on heuristic proxies (e.g., Codon Adaptation Index or GC-content) that poorly capture true expression. We introduce Latent-Space Codon Optimization (LSCO), which recasts this discrete problem as a continuous one by mapping sequences into the latent space of a pretrained mRNA language model, enabling efficient gradient-based search. LSCO combines four components: a data-driven expression objective from an uncertainty-aware predictor, a Minimum-Free-Energy regularizer for structural stability, a naturalness prior from a protein-to-codon back-translation model, and constrained decoding for protein fidelity. On a real-world, wet-lab antibody expression dataset, LSCO outperforms simple frequency-based, as well as modern deep generative baselines in predicted expression, while retaining suitable biophysical properties.</abstract>
+    </arXiv>
+
+            </metadata>
+        </record>
+        <resumptionToken expirationDate='2026-10-23T00:00:00Z'>verb%3DListRecords%26metadataPrefix%3DarXiv%26from%3D2026-10-22%26set%3Dcs%26skip%3D1300</resumptionToken>
+    </ListRecords>
+</OAI-PMH>

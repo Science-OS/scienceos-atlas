@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://scienceos.app/link/v1/atlas-status.schema.json",
+  "title": "ScienceOS Atlas - status.json (repo-local; not part of Link v1)",
+  "description": "Extras that the strict FeedManifest (index.json) cannot carry: available days, categories, counts and the last run's statistics.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema", "generatedAt", "latestDate", "days", "categories", "counts", "sources", "license", "run"],
+  "properties": {
+    "schema": {"const": "scienceos.atlas.status/1"},
+    "generatedAt": {"$ref": "common.schema.json#/$defs/Timestamp"},
+    "latestDate": {"oneOf": [{"$ref": "common.schema.json#/$defs/DateString"}, {"type": "null"}]},
+    "days": {"type": "array", "items": {"$ref": "common.schema.json#/$defs/DateString"}},
+    "categories": {"type": "array", "items": {"type": "string"}},
+    "counts": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["papersInWindow", "papersByDate", "shards", "paperFiles", "authorFiles", "thumbs"],
+      "properties": {
+        "papersInWindow": {"type": "integer", "minimum": 0},
+        "papersByDate": {"type": "object", "additionalProperties": {"type": "integer", "minimum": 0}},
+        "shards": {"type": "integer", "minimum": 0},
+        "paperFiles": {"type": "integer", "minimum": 0},
+        "authorFiles": {"type": "integer", "minimum": 0},
+        "thumbs": {"type": "integer", "minimum": 0}
+      }
+    },
+    "sources": {"type": "array", "items": {"type": "string"}},
+    "license": {"type": "string"},
+    "run": {"type": "object"}
+  }
+}
