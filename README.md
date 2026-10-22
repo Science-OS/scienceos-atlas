@@ -81,6 +81,10 @@ Pages serves `ETag` / `Last-Modified`. Shards whose content did not change keep 
    the copied schema, manifest hashes and counts are cross-checked, author/thumbnail references must resolve,
    and the site must stay under `output.max_site_mb` (450).
 
+Enrichment lag is expected and handled: OpenAlex indexes a paper 1 to 3 days after arXiv, and brand-new author
+ids exist in `works` before `authors` can resolve them. Papers are retried for 7 days, unresolved author ids are
+cached as "missing" and retried daily, and a `PaperAuthor.authorId` appears only once its author file exists.
+
 Every stage is wrapped: an outage in one source degrades the output instead of failing the run. A harvest
 with any failed set (or stopped by `--limit`) does not advance the cursor, so the same window is retried.
 
