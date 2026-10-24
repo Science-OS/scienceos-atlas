@@ -294,3 +294,14 @@ def test_published_json_may_not_point_at_unpublished_media(good_site):
     for p in (good_site / "media" / "b").rglob("*.jpg"):
         p.unlink()
     assert "referenced by published JSON but missing" in errors(good_site)
+
+
+def test_author_aliases_drop_merged_author_lists():
+    # OpenAlex merged a whole author list into one alternative name (2026-10-23 deploy failure: alias > 256 chars).
+    from atlas.build import build_author_json
+
+    merged = "Che, Yifeng [Idaho National Laboratory]; Calvin, Olin W [Idaho National Laboratory]; " * 4
+    card = {"id": "A1", "name": "Yifeng Che", "alternatives": ["Y. Che", merged, "Yifeng Che"], "orcid": None, "institutions": [], "topics": []}
+    author, _ = build_author_json(card, "2026-10-24T00:00:00Z")
+    aliases = author["aliases"] if isinstance(author, dict) else author.aliases
+    assert aliases == ["Y. Che"]

@@ -129,7 +129,10 @@ def build_author_json(card: dict[str, Any], fetched_at: str, media: MediaStore |
         i10Index=metric(card.get("i10_index")),
         worksCount=metric(card.get("works_count")) or None,
     )
-    aliases = [a for a in dict.fromkeys(card.get("alternatives") or []) if a != name][:10]
+    # OpenAlex sometimes merges a whole author list into one "alternative" ("Che, Yifeng [Idaho …]; Calvin, …"): that is not a
+    # name, and its length (> the schema's 256) failed validation and stopped the deploy. Keep only name-shaped aliases.
+    aliases = [a for a in dict.fromkeys(card.get("alternatives") or [])
+               if a != name and len(a) <= 120 and ";" not in a and "[" not in a][:10]
     author = Author(
         id=f"oa:{oa_id}", name=name, aliases=aliases, ids=ids, photo=photo, affiliations=affiliations, experience=[], links=links,
         metrics=metrics, citationsByYear=[], topics=card.get("topics") or [], coauthors=[],
