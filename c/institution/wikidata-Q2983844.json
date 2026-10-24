@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q2983844",
+ "ids": {
+  "wikidata": "Q2983844",
+  "ror": "0516ah480"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/29/291dcbda18a04ced3b6546e5e3ad121297521ba57ab9147c88db85240544da22.webp",
+   "hosted": true,
+   "sha256": "291dcbda18a04ced3b6546e5e3ad121297521ba57ab9147c88db85240544da22",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 74,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_sokendai.svg",
+   "license": "Public domain",
+   "attribution": "総合研究大学院大学",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_sokendai.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

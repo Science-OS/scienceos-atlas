@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03kgsv495",
+ "ids": {
+  "wikidata": "Q1124657",
+  "ror": "03kgsv495"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/de/de435247b03aade42d356dd7d3f26fde2339170724a53623baf308bb34f0bef0.webp",
+   "hosted": true,
+   "sha256": "de435247b03aade42d356dd7d3f26fde2339170724a53623baf308bb34f0bef0",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 95,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bar_Ilan_logo.png",
+   "license": "Public domain",
+   "attribution": "Matanya",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Bar_Ilan_logo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

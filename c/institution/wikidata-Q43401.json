@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q43401",
+ "ids": {
+  "wikidata": "Q43401",
+  "ror": "00se2k293"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c0/c0e061d4481a1b5ee4c30a91432e3ac4c941efd6647eaa2d64997d72d0303780.webp",
+   "hosted": true,
+   "sha256": "c0e061d4481a1b5ee4c30a91432e3ac4c941efd6647eaa2d64997d72d0303780",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 10,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/NCTU_banner_blue.png",
+   "license": "Public domain",
+   "attribution": "Bamboo Lake ( talk )",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:NCTU_banner_blue.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

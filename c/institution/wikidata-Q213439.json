@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q213439",
+ "ids": {
+  "wikidata": "Q213439",
+  "ror": "0153tk833"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/53/53b1fdf07147b59a5beebb738cde550fd7decdc9282562cb4e4d7dfd11954e3c.webp",
+   "hosted": true,
+   "sha256": "53b1fdf07147b59a5beebb738cde550fd7decdc9282562cb4e4d7dfd11954e3c",
+   "mime": "image/webp",
+   "width": 251,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Virginia_Rotunda_logo.svg",
+   "license": "CC0",
+   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "attribution": "University of Virginia",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Virginia_Rotunda_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

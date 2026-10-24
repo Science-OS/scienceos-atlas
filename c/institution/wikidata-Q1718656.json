@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1718656",
+ "ids": {
+  "wikidata": "Q1718656",
+  "ror": "00y0xnp53"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/93/93fc47ba13b92de03721869464f72f9e21a8f1acde6c54498785fc91048b3dc5.webp",
+   "hosted": true,
+   "sha256": "93fc47ba13b92de03721869464f72f9e21a8f1acde6c54498785fc91048b3dc5",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 86,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Politechnika_Warszawska.svg",
+   "license": "Public domain",
+   "attribution": "Politechnika Warszawska",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Politechnika_Warszawska.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

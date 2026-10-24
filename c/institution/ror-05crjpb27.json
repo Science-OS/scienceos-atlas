@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-05crjpb27",
+ "ids": {
+  "wikidata": "Q959524",
+  "ror": "05crjpb27"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/4a/4a822a8bcc04d22acdce127f437eb0ffcb5fb9dcb3ed90e296a499114808fe42.webp",
+   "hosted": true,
+   "sha256": "4a822a8bcc04d22acdce127f437eb0ffcb5fb9dcb3ed90e296a499114808fe42",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 54,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bocconi_University_Logo.svg",
+   "license": "Public domain",
+   "attribution": "Bocconi University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Bocconi_University_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

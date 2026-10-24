@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-00s6t1f81",
+ "ids": {
+  "wikidata": "Q219317",
+  "ror": "00s6t1f81"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/62/628d160897bcc1316f4a8254b6be7dc3dc2547750d7ae40de252aecc923ef117.webp",
+   "hosted": true,
+   "sha256": "628d160897bcc1316f4a8254b6be7dc3dc2547750d7ae40de252aecc923ef117",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 188,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_UNIPV.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_UNIPV.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

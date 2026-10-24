@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01hcx6992",
+ "ids": {
+  "wikidata": "Q152087",
+  "ror": "01hcx6992"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d1/d1cce2eec12ed8fed81eadb400e3dace9d2226efbb94a2785b39f8f8dcc9cfd2.webp",
+   "hosted": true,
+   "sha256": "d1cce2eec12ed8fed81eadb400e3dace9d2226efbb94a2785b39f8f8dcc9cfd2",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Huberlin-logo.svg",
+   "license": "Public domain",
+   "attribution": "Humboldt-Universität Berlin",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Huberlin-logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

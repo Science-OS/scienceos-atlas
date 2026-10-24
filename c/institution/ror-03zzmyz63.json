@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03zzmyz63",
+ "ids": {
+  "wikidata": "Q3551662",
+  "ror": "03zzmyz63"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/34/34b05d38b4b883da7f2c90509827f13690f34e28ae711a895ca79929cae4b58c.webp",
+   "hosted": true,
+   "sha256": "34b05d38b4b883da7f2c90509827f13690f34e28ae711a895ca79929cae4b58c",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 88,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Philadelphia_University_Logo.svg",
+   "license": "Public domain",
+   "attribution": "Philadelphia University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Philadelphia_University_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

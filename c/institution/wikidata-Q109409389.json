@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q109409389",
+ "ids": {
+  "wikidata": "Q109409389",
+  "ror": "03xjwb503"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/89/89f4b34c1f571f3951d7c60cdcf3486b4b42bcad3e4dc343197a07cae864db6c.webp",
+   "hosted": true,
+   "sha256": "89f4b34c1f571f3951d7c60cdcf3486b4b42bcad3e4dc343197a07cae864db6c",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 87,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Universit%C3%A9_Paris-Saclay_%28ComUE%29.svg",
+   "license": "Public domain",
+   "attribution": "Université Paris-Saclay",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_Universit%C3%A9_Paris-Saclay_(ComUE).svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

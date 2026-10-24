@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q542415",
+ "ids": {
+  "wikidata": "Q542415",
+  "ror": "0378gm372"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/85/854b830be1c9db938f25a794c7dc74152ba86403c9c213364c616de11bb79bd1.webp",
+   "hosted": true,
+   "sha256": "854b830be1c9db938f25a794c7dc74152ba86403c9c213364c616de11bb79bd1",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 103,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo-Hochschule-RheinMain.svg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Hochschule RheinMain",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo-Hochschule-RheinMain.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

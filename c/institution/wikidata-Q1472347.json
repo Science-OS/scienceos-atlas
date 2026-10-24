@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1472347",
+ "ids": {
+  "wikidata": "Q1472347",
+  "ror": "049kefs16"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/05/05eb70315d508ed9c45260c9da74b3e8acb53aeba86b61b50c8213dfd1f1f44a.webp",
+   "hosted": true,
+   "sha256": "05eb70315d508ed9c45260c9da74b3e8acb53aeba86b61b50c8213dfd1f1f44a",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 52,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Southern_Illinois_University.png",
+   "license": "Public domain",
+   "attribution": "Southern Illinois University Carbondale",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Southern_Illinois_University.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

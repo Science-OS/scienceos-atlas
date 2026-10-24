@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q11713162",
+ "ids": {
+  "wikidata": "Q11713162",
+  "ror": "003fvp964"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://ipipan.waw.pl/images/logo_small.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://ipipan.waw.pl/",
+   "attributionUrl": "https://ipipan.waw.pl/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

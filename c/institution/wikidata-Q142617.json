@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q142617",
+ "ids": {
+  "wikidata": "Q142617",
+  "ror": "03ht1xw27"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e7/e73f06d6d6723e6c5fb1542ef83eb9f4a3b0603da35c488045d24e7a5fd6ede9.webp",
+   "hosted": true,
+   "sha256": "e73f06d6d6723e6c5fb1542ef83eb9f4a3b0603da35c488045d24e7a5fd6ede9",
+   "mime": "image/webp",
+   "width": 153,
+   "height": 85,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/TIFR_logo.png",
+   "license": "Public domain",
+   "attribution": "TIFR-CAM",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:TIFR_logo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q391028",
+ "ids": {
+  "wikidata": "Q391028",
+  "ror": "03rmrcq20"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/83/837c173bc4d5b88191ae67a1920e278fc75b7ab7aee67067a4f06597dca86540.webp",
+   "hosted": true,
+   "sha256": "837c173bc4d5b88191ae67a1920e278fc75b7ab7aee67067a4f06597dca86540",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 57,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/British_columbia_ca_univ_logo.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:British_columbia_ca_univ_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q21578",
+ "ids": {
+  "wikidata": "Q21578",
+  "ror": "00hx57361"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d4/d4c048b816d76268d748bc11fc0b7e93deefb7035e52df4d08af1d2bc9397705.webp",
+   "hosted": true,
+   "sha256": "d4c048b816d76268d748bc11fc0b7e93deefb7035e52df4d08af1d2bc9397705",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 67,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Princeton_text_logo.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Princeton_text_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

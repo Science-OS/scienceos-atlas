@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03ztsbk67",
+ "ids": {
+  "wikidata": "Q3551702",
+  "ror": "03ztsbk67"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/1c/1c2dbcaa263a8525078ea813f4621c19dbc015a422b6617f755087b767434185.webp",
+   "hosted": true,
+   "sha256": "1c2dbcaa263a8525078ea813f4621c19dbc015a422b6617f755087b767434185",
+   "mime": "image/webp",
+   "width": 216,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Marca_da_Udesc.jpg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Fepimentelteixeira",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Marca_da_Udesc.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

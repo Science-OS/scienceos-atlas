@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02mpq6x41",
+ "ids": {
+  "wikidata": "Q955764",
+  "ror": "02mpq6x41"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/37/3790186111ebd8b0a46752d3ec6e518a9607b0a0cba165c53520ab452518a2ce.webp",
+   "hosted": true,
+   "sha256": "3790186111ebd8b0a46752d3ec6e518a9607b0a0cba165c53520ab452518a2ce",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 71,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Illinois_Chicago_wordmark.png",
+   "license": "Public domain",
+   "attribution": "University of Illinois Chicago",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Illinois_Chicago_wordmark.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

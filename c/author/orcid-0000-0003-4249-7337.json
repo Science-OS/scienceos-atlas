@@ -1,0 +1,24 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "orcid-0000-0003-4249-7337",
+ "ids": {
+  "orcid": "0000-0003-4249-7337",
+  "wikidata": "Q80284869",
+  "openalex": "A5079677136",
+  "github": "pierrealquier"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://github.com/pierrealquier.png?size=256",
+   "hosted": false,
+   "source": "github",
+   "attribution": "GitHub profile @pierrealquier",
+   "attributionUrl": "https://github.com/pierrealquier",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

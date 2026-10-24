@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1122171",
+ "ids": {
+  "wikidata": "Q1122171",
+  "ror": "03613d656"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/38/38d29f08ca3e24b2c389ac5c631c25e88df73a94056c4e5cd5c06792e430877d.webp",
+   "hosted": true,
+   "sha256": "38d29f08ca3e24b2c389ac5c631c25e88df73a94056c4e5cd5c06792e430877d",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 119,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/VUT_CZ.svg",
+   "license": "Public domain",
+   "attribution": "Vysoké učení technické v Brně (Brno University of Technology), studio ReDesign",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:VUT_CZ.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

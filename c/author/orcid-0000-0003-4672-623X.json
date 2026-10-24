@@ -1,0 +1,30 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "orcid-0000-0003-4672-623X",
+ "ids": {
+  "orcid": "0000-0003-4672-623X",
+  "wikidata": "Q14234",
+  "openalex": "A5103213461"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/bb/bbadfe746d2f69652cca5b87335e33e5cc66a39785f72e4a8bf6d6d6288d37ab.webp",
+   "hosted": true,
+   "sha256": "bbadfe746d2f69652cca5b87335e33e5cc66a39785f72e4a8bf6d6d6288d37ab",
+   "mime": "image/webp",
+   "width": 189,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sarit_kraus.JPG",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "attribution": "Ariella.richardson",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Sarit_kraus.JPG",
+   "confidence": 0.95,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

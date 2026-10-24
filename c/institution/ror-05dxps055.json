@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-05dxps055",
+ "ids": {
+  "wikidata": "Q161562",
+  "ror": "05dxps055"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/be/be14b1fe8f8c4aeab8f367fbc0b52a8cc95baacd93f419b5ffc82562e6ab843b.webp",
+   "hosted": true,
+   "sha256": "be14b1fe8f8c4aeab8f367fbc0b52a8cc95baacd93f419b5ffc82562e6ab843b",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 62,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Caltech_Logo.svg",
+   "license": "Public domain",
+   "attribution": "California Institute of Technology",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Caltech_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

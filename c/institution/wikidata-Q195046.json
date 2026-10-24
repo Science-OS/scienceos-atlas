@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q195046",
+ "ids": {
+  "wikidata": "Q195046",
+  "ror": "05ejpqr48"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/0e/0e0d4fb5228a9cd47bfa4dc867816fa704e9be16465055ed85d57232c76442e1.webp",
+   "hosted": true,
+   "sha256": "0e0d4fb5228a9cd47bfa4dc867816fa704e9be16465055ed85d57232c76442e1",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 96,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/WPI_wordmark.svg",
+   "license": "Public domain",
+   "attribution": "Worcester Polytechnic Institute",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:WPI_wordmark.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

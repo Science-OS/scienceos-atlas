@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1075104",
+ "ids": {
+  "wikidata": "Q1075104",
+  "ror": "02nkf1q06"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b1/b12d125f4c24266efda926d74769c01b3a76876597a72214b0f60f713180eb91.webp",
+   "hosted": true,
+   "sha256": "b12d125f4c24266efda926d74769c01b3a76876597a72214b0f60f713180eb91",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 130,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Essex_logo.svg",
+   "license": "Public domain",
+   "attribution": "University of Essex",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Essex_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

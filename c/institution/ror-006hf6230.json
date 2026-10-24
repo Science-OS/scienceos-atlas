@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-006hf6230",
+ "ids": {
+  "wikidata": "Q1547084",
+  "ror": "006hf6230"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b8/b86a10d3b4fa6e3dafdcbd00cfa43a94fe0fd7bd93d59aa3a011bdb70fcc0a96.webp",
+   "hosted": true,
+   "sha256": "b86a10d3b4fa6e3dafdcbd00cfa43a94fe0fd7bd93d59aa3a011bdb70fcc0a96",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 55,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/UT_Logo_Black_NL_lustrum.png",
+   "license": "Public domain",
+   "attribution": "University of Twente, Peter ten Klooster",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:UT_Logo_Black_NL_lustrum.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

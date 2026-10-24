@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q273642",
+ "ids": {
+  "wikidata": "Q273642",
+  "ror": "02dga6j42"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/be/be0154fc0a136fd3e042527e8483a1f6c92cd92ebabde5b6b8699982fc3d5430.webp",
+   "hosted": true,
+   "sha256": "be0154fc0a136fd3e042527e8483a1f6c92cd92ebabde5b6b8699982fc3d5430",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 113,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/ESSEC_Logo.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:ESSEC_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

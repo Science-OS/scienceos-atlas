@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q868421",
+ "ids": {
+  "wikidata": "Q868421",
+  "ror": "04gyf1771"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c3/c3d80edc5e666a1da6f812caeaf51d483cdb3d5a245525896b992e78a779e429.webp",
+   "hosted": true,
+   "sha256": "c3d80edc5e666a1da6f812caeaf51d483cdb3d5a245525896b992e78a779e429",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 110,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_California%2C_Irvine_logo.svg",
+   "license": "Public domain",
+   "attribution": "University of California, Irvine",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_California,_Irvine_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

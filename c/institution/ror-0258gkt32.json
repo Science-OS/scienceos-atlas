@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-0258gkt32",
+ "ids": {
+  "wikidata": "Q79048705",
+  "ror": "0258gkt32"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fmbzuai.ac.ae%2F&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "https://mbzuai.ac.ae/",
+   "confidence": 0.5,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

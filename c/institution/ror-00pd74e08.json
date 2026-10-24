@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-00pd74e08",
+ "ids": {
+  "wikidata": "Q168426",
+  "ror": "00pd74e08"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ff/ff9a7a70dc8ab0732d8ab24e681f2ff3e0826b8ea641a12632caa74024f9a596.webp",
+   "hosted": true,
+   "sha256": "ff9a7a70dc8ab0732d8ab24e681f2ff3e0826b8ea641a12632caa74024f9a596",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 69,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Universit%C3%A4t_M%C3%BCnster.svg",
+   "license": "Public domain",
+   "attribution": "Universität Münster",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_Universit%C3%A4t_M%C3%BCnster.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

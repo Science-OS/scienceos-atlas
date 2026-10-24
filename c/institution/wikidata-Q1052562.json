@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1052562",
+ "ids": {
+  "wikidata": "Q1052562",
+  "ror": "02pammg90"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/48/4856ac8027fd991556d54a3cc30c8d9c045317b8a1f6427ddac12971620a8359.webp",
+   "hosted": true,
+   "sha256": "4856ac8027fd991556d54a3cc30c8d9c045317b8a1f6427ddac12971620a8359",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 82,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cedars_Sinai_Medical_Center_logo.svg",
+   "license": "Public domain",
+   "attribution": "Cedars-Sinai Medical Center",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Cedars_Sinai_Medical_Center_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01b9n8m42",
+ "ids": {
+  "wikidata": "Q13227919",
+  "ror": "01b9n8m42"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/9e/9e7bee5fe5220f3145a98624ae6ab6c1dfae266b185e53bf20a1f8c64b7af981.webp",
+   "hosted": true,
+   "sha256": "9e7bee5fe5220f3145a98624ae6ab6c1dfae266b185e53bf20a1f8c64b7af981",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 92,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/TATA_Consultancy_Services_Logo.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:TATA_Consultancy_Services_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

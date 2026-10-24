@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q131252",
+ "ids": {
+  "wikidata": "Q131252",
+  "ror": "024mw5h28"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/19/19d5eb5bd8321f6c9d8b5331fadb1c309cdd104921494803e0c735f36b0c16bb.webp",
+   "hosted": true,
+   "sha256": "19d5eb5bd8321f6c9d8b5331fadb1c309cdd104921494803e0c735f36b0c16bb",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 64,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Chicago_wordmark.svg",
+   "license": "Public domain",
+   "attribution": "University of Chicago",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Chicago_wordmark.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

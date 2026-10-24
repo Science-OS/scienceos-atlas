@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-00cv9y106",
+ "ids": {
+  "wikidata": "Q1137665",
+  "ror": "00cv9y106"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b9/b96a50abdbc8e9824695c4fb02bb206ba6c9e7f6490b938dd853dd22d7677832.webp",
+   "hosted": true,
+   "sha256": "b96a50abdbc8e9824695c4fb02bb206ba6c9e7f6490b938dd853dd22d7677832",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 206,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Universiteit_Gent_logo.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Universiteit_Gent_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

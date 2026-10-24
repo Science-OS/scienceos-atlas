@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02fyxhe35",
+ "ids": {
+  "wikidata": "Q213660",
+  "ror": "02fyxhe35"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/34/342553a3e8c56397dfff21a4ae4b7ef136562c763f8aaea60486b2c1ed085d5f.webp",
+   "hosted": true,
+   "sha256": "342553a3e8c56397dfff21a4ae4b7ef136562c763f8aaea60486b2c1ed085d5f",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 64,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/LinkedIn_2021.svg",
+   "license": "Public domain",
+   "attribution": "Microsoft",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:LinkedIn_2021.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03s65by71",
+ "ids": {
+  "wikidata": "Q1047293",
+  "ror": "03s65by71"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c3/c336a25749d9a61d518e97d692f41dcc3e3c7b78b94138d7f10c2c0c0c630463.webp",
+   "hosted": true,
+   "sha256": "c336a25749d9a61d518e97d692f41dcc3e3c7b78b94138d7f10c2c0c0c630463",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_University_of_California_1868_UCSC.svg",
+   "license": "Public domain",
+   "attribution": "Original University of California seal: probably Tiffany & Co,; This SVG file: User:Casecrer",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:The_University_of_California_1868_UCSC.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

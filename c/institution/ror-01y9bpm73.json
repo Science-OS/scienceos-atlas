@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01y9bpm73",
+ "ids": {
+  "wikidata": "Q152838",
+  "ror": "01y9bpm73"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/5f/5fb6b8b3b4628415eebb6395d506d129fbe76280b3c5d4007efa20eb7981968e.webp",
+   "hosted": true,
+   "sha256": "5fb6b8b3b4628415eebb6395d506d129fbe76280b3c5d4007efa20eb7981968e",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 50,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Georg-August-Universit%C3%A4t_G%C3%B6ttingen_Logo.svg",
+   "license": "Public domain",
+   "attribution": "Georg-August-Universität Göttingen",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Georg-August-Universit%C3%A4t_G%C3%B6ttingen_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

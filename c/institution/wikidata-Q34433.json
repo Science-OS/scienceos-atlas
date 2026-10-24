@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q34433",
+ "ids": {
+  "wikidata": "Q34433",
+  "ror": "052gg0110"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/bc/bc045a50fa98315e453124d0db74cd2b2f1afc4f43835aab13516b603324ddc0.webp",
+   "hosted": true,
+   "sha256": "bc045a50fa98315e453124d0db74cd2b2f1afc4f43835aab13516b603324ddc0",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 76,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Oxford.svg",
+   "license": "Public domain",
+   "attribution": "University of Oxford",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Oxford.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

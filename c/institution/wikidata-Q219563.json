@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q219563",
+ "ids": {
+  "wikidata": "Q219563",
+  "ror": "00cvxb145"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/35/3582385b8e440b89dffb131c0023073987552877ad6216e2e3254adfaa44f7ec.webp",
+   "hosted": true,
+   "sha256": "3582385b8e440b89dffb131c0023073987552877ad6216e2e3254adfaa44f7ec",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 56,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Washington_signature.svg",
+   "license": "Public domain",
+   "attribution": "University of Washington",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Washington_signature.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q835960",
+ "ids": {
+  "wikidata": "Q835960",
+  "ror": "036rp1748"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/83/837b539346afd39546dcbde816a704433867a01570da17cdd3d4aee59263d4c9.webp",
+   "hosted": true,
+   "sha256": "837b539346afd39546dcbde816a704433867a01570da17cdd3d4aee59263d4c9",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 104,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Webysther_20160310_-_Logo_USP.svg",
+   "license": "Public domain",
+   "attribution": "José Carlos de Araújo, João Delbucio Filho e Geny Yoshico Uehara.",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Webysther_20160310_-_Logo_USP.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

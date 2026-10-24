@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-0296jvb66",
+ "ids": {
+  "wikidata": "Q3120960",
+  "ror": "0296jvb66"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c2/c214d3990f225d8790b7ec47957e494e52c407d5f433943c8787b87b7fe8d7a9.webp",
+   "hosted": true,
+   "sha256": "c214d3990f225d8790b7ec47957e494e52c407d5f433943c8787b87b7fe8d7a9",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 42,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/WNET_Thirteen_2022_logo.svg",
+   "license": "Public domain",
+   "attribution": "The WNET Group",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:WNET_Thirteen_2022_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

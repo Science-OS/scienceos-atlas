@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04vg4w365",
+ "ids": {
+  "wikidata": "Q1434547",
+  "ror": "04vg4w365"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e5/e558e2c1d6b227b7117983b61cfd525787784ba8d99d550b468ae8648e9dc685.webp",
+   "hosted": true,
+   "sha256": "e558e2c1d6b227b7117983b61cfd525787784ba8d99d550b468ae8648e9dc685",
+   "mime": "image/webp",
+   "width": 206,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Shield_of_Loughborough_University.svg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Nil pat13",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Shield_of_Loughborough_University.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

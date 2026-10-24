@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q657222",
+ "ids": {
+  "wikidata": "Q657222",
+  "ror": "02z43xh36"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/80/80b670e0c2fc43c14e6d973f3fbde7134702fa5949977700cdaaf1984ec51056.webp",
+   "hosted": true,
+   "sha256": "80b670e0c2fc43c14e6d973f3fbde7134702fa5949977700cdaaf1984ec51056",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 93,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Stevens_inst_tech_textlogo.png",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Stevens_inst_tech_textlogo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

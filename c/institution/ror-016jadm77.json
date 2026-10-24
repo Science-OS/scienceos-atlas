@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-016jadm77",
+ "ids": {
+  "wikidata": "Q483959",
+  "ror": "016jadm77"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/3d/3ddb85ecb9505ad20fb223d486734917bba5332b3b6cc7b3213b6c74e345039f.webp",
+   "hosted": true,
+   "sha256": "3ddb85ecb9505ad20fb223d486734917bba5332b3b6cc7b3213b6c74e345039f",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 86,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/PayPal_2024.svg",
+   "license": "Public domain",
+   "attribution": "PayPal",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:PayPal_2024.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

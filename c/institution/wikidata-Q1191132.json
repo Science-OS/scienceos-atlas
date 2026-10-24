@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1191132",
+ "ids": {
+  "wikidata": "Q1191132",
+  "ror": "04chrp450"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/74/74741a6a87085cd8c3b5fadea025591bff84258633b2e5c538431c81a7435ab2.webp",
+   "hosted": true,
+   "sha256": "74741a6a87085cd8c3b5fadea025591bff84258633b2e5c538431c81a7435ab2",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 57,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Nagoya_University_logo%2C_type_1.svg",
+   "license": "Public domain",
+   "attribution": "名古屋大学",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Nagoya_University_logo,_type_1.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

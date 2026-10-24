@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02en5vm52",
+ "ids": {
+  "wikidata": "Q41497113",
+  "ror": "02en5vm52"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/9e/9eef38738564f0f8ffa6b96ca7e3cd9a4012c5eaf0044e690a835edd506118f9.webp",
+   "hosted": true,
+   "sha256": "9eef38738564f0f8ffa6b96ca7e3cd9a4012c5eaf0044e690a835edd506118f9",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 104,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_of_Sorbonne_University.svg",
+   "license": "Public domain",
+   "attribution": "Sorbonne Université",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_of_Sorbonne_University.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

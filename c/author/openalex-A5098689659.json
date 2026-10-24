@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "openalex-A5098689659",
+ "ids": {
+  "orcid": "0000-0001-7689-3317",
+  "wikidata": "Q11096687",
+  "openalex": "A5098689659"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/f9/f9bfcaac8c442f92ea854d3ac1591b25c1869707ac3861fcd9558ba8e7cd9690.webp",
+   "hosted": true,
+   "sha256": "f9bfcaac8c442f92ea854d3ac1591b25c1869707ac3861fcd9558ba8e7cd9690",
+   "mime": "image/webp",
+   "width": 194,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%E6%9D%8E%E6%96%87%E5%AE%9C.jpg",
+   "license": "Public domain",
+   "attribution": "政協秘書處",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:%E6%9D%8E%E6%96%87%E5%AE%9C.jpg",
+   "confidence": 0.95,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

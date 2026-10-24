@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04h9pn542",
+ "ids": {
+  "wikidata": "Q39913",
+  "ror": "04h9pn542"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/44/449995d7a9d6f4519ec0c88f4f0bbd8b57df0487f7bb38bdd972d65aef671146.webp",
+   "hosted": true,
+   "sha256": "449995d7a9d6f4519ec0c88f4f0bbd8b57df0487f7bb38bdd972d65aef671146",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 66,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Seoul_national_university_logotype.svg",
+   "license": "Public domain",
+   "attribution": "Original raster image was excerpted from the source file, as specified above. Vectorized by the user User:Nudimmud .",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Seoul_national_university_logotype.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

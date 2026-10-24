@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-0168r3w48",
+ "ids": {
+  "wikidata": "Q622664",
+  "ror": "0168r3w48"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/60/60df23a9c06b0e7bdc8582f70a7a695f03d349f9fe60634b3d27d4116a7c6d86.webp",
+   "hosted": true,
+   "sha256": "60df23a9c06b0e7bdc8582f70a7a695f03d349f9fe60634b3d27d4116a7c6d86",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 50,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_California%2C_San_Diego_logo.svg",
+   "license": "Public domain",
+   "attribution": "University of California, San Diego",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_California,_San_Diego_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q587326",
+ "ids": {
+  "wikidata": "Q587326",
+  "ror": "0112mx960"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/78/78f7954ff44c42c56956c5c1c775f267591830bfbbc62dd81a95e2f891303824.webp",
+   "hosted": true,
+   "sha256": "78f7954ff44c42c56956c5c1c775f267591830bfbbc62dd81a95e2f891303824",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 54,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tokyo_Institute_of_Technology_logo%2C_4.svg",
+   "license": "Public domain",
+   "attribution": "東京工業大学",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Tokyo_Institute_of_Technology_logo,_4.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

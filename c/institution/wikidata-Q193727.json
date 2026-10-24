@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q193727",
+ "ids": {
+  "wikidata": "Q193727",
+  "ror": "00za53h95"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/4e/4efe8a4a1f2185e838a5982c30d3de2da701314b62ab29834c7b34361792c332.webp",
+   "hosted": true,
+   "sha256": "4efe8a4a1f2185e838a5982c30d3de2da701314b62ab29834c7b34361792c332",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 72,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hopkinslogo2.jpeg",
+   "license": "Public domain",
+   "attribution": "Johns Hopkins University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Hopkinslogo2.jpeg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

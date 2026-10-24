@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q835366",
+ "ids": {
+  "wikidata": "Q835366",
+  "ror": "0530pts50"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http%3A%2F%2Fwww.scut.edu.cn&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "http://www.scut.edu.cn",
+   "confidence": 0.5,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q24543",
+ "ids": {
+  "wikidata": "Q24543",
+  "ror": "04n0g0b29"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/5d/5db3f3a9398905bbe6521405429badef85410bfac23bb567e19d98210913e338.webp",
+   "hosted": true,
+   "sha256": "5db3f3a9398905bbe6521405429badef85410bfac23bb567e19d98210913e338",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 88,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_UPF.jpg",
+   "license": "Public domain",
+   "attribution": "Universitat Pompeu Fabra - Barcelona",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_UPF.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

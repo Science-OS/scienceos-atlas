@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1359568",
+ "ids": {
+  "wikidata": "Q1359568",
+  "ror": "00mnrxf72"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/46/4677bae41bd80b24bfafd6e0f8cb0b2f4bdff076331f03f344b2d47ab8ee4dc1.webp",
+   "hosted": true,
+   "sha256": "4677bae41bd80b24bfafd6e0f8cb0b2f4bdff076331f03f344b2d47ab8ee4dc1",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 41,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Alibaba_en_logo.svg",
+   "license": "Public domain",
+   "attribution": "Alibaba Group Holding Limited",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Alibaba_en_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

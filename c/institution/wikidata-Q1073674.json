@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1073674",
+ "ids": {
+  "wikidata": "Q1073674",
+  "ror": "01ynf4891"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ba/ba335270f7d4cd3dd93f60b260e99f8c9588d7503a1b1b1034707dbe57b3518e.webp",
+   "hosted": true,
+   "sha256": "ba335270f7d4cd3dd93f60b260e99f8c9588d7503a1b1b1034707dbe57b3518e",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 251,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Milano-Bicocca_University_logo_on_transparent_background.svg",
+   "license": "Public domain",
+   "attribution": "Milano-Bicocca University, originally uploaded at Italian Wikipedia",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Milano-Bicocca_University_logo_on_transparent_background.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

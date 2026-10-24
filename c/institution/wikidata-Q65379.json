@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q65379",
+ "ids": {
+  "wikidata": "Q65379",
+  "ror": "02smfhw86"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/93/93784e7a46c518ee697b556fe90d9538875231094b710b0bae397e4991290212.webp",
+   "hosted": true,
+   "sha256": "93784e7a46c518ee697b556fe90d9538875231094b710b0bae397e4991290212",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 50,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Virginia_Tech_logo.svg",
+   "license": "Public domain",
+   "attribution": "Virginia Tech",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Virginia_Tech_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

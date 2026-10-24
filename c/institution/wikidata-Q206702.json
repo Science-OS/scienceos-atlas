@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q206702",
+ "ids": {
+  "wikidata": "Q206702",
+  "ror": "02crff812"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/a5/a5d2401604ad40797cd29f33ff626c3132e591c0fb9707879d8ab8e76e600874.webp",
+   "hosted": true,
+   "sha256": "a5d2401604ad40797cd29f33ff626c3132e591c0fb9707879d8ab8e76e600874",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 116,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Universit%C3%A4t_Z%C3%BCrich_logo.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Universit%C3%A4t_Z%C3%BCrich_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

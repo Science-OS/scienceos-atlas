@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-037s24f05",
+ "ids": {
+  "wikidata": "Q631066",
+  "ror": "037s24f05"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/70/70bf0a83f46ae48e8788d30f08998457a77e2b7e397cf719323fd0cac86fd566.webp",
+   "hosted": true,
+   "sha256": "70bf0a83f46ae48e8788d30f08998457a77e2b7e397cf719323fd0cac86fd566",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 67,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Clemson_University_Wordmark.svg",
+   "license": "Public domain",
+   "attribution": "Clemson University Uploaded by Zscout370 at en.wikipedia",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Clemson_University_Wordmark.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q864855",
+ "ids": {
+  "wikidata": "Q864855",
+  "ror": "01zkghx44"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/da/daa4fc24dd35d098b732d07efe24fe37030be34b38a9b0e2ce742c8e7c3a98fe.webp",
+   "hosted": true,
+   "sha256": "daa4fc24dd35d098b732d07efe24fe37030be34b38a9b0e2ce742c8e7c3a98fe",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Georgia_Tech_seal.svg",
+   "license": "Public domain",
+   "attribution": "Georgia Tech/Francis P. Smith",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Georgia_Tech_seal.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1480643",
+ "ids": {
+  "wikidata": "Q1480643",
+  "ror": "028rypz17"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/f3/f31e4e389efcbee303a4492efdab36aa1bf3b53b52c48cdfa410249b493398e3.webp",
+   "hosted": true,
+   "sha256": "f31e4e389efcbee303a4492efdab36aa1bf3b53b52c48cdfa410249b493398e3",
+   "mime": "image/webp",
+   "width": 184,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_UPSUD_UPS.svg",
+   "license": "Public domain",
+   "attribution": "Université Paris-Sud",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_UPSUD_UPS.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

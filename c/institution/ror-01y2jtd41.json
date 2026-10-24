@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01y2jtd41",
+ "ids": {
+  "wikidata": "Q838330",
+  "ror": "01y2jtd41"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/f7/f71a2b2148fc33e618142daaff4f040d75014e95051b4b661c315951f7739e9f.webp",
+   "hosted": true,
+   "sha256": "f71a2b2148fc33e618142daaff4f040d75014e95051b4b661c315951f7739e9f",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Seal_of_the_University_of_Wisconsin.svg",
+   "license": "Public domain",
+   "attribution": "University of Wisconsin-Madison",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Seal_of_the_University_of_Wisconsin.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

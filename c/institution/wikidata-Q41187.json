@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q41187",
+ "ids": {
+  "wikidata": "Q41187",
+  "ror": "04wzv3n59"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d2/d2b7cbe0c442f36799fd3beea1d454ee0d39d577685f9ef8d113fc59423d7e3d.webp",
+   "hosted": true,
+   "sha256": "d2b7cbe0c442f36799fd3beea1d454ee0d39d577685f9ef8d113fc59423d7e3d",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 46,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sony_Group_logo.svg",
+   "license": "Public domain",
+   "attribution": "Sony Group Corporation",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Sony_Group_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

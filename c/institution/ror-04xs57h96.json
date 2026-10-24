@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04xs57h96",
+ "ids": {
+  "wikidata": "Q499510",
+  "ror": "04xs57h96"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.liverpool.ac.uk/rb/assets/apple-touch-icon.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.liverpool.ac.uk/",
+   "attributionUrl": "https://www.liverpool.ac.uk/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03c4atk17",
+ "ids": {
+  "wikidata": "Q689617",
+  "ror": "03c4atk17"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/df/df017837f1ddf2625dc6be74e1f6e6cdc94557743b2e711607d7ffbcb1b2428f.webp",
+   "hosted": true,
+   "sha256": "df017837f1ddf2625dc6be74e1f6e6cdc94557743b2e711607d7ffbcb1b2428f",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/USI_Logo.svg",
+   "license": "Public domain",
+   "attribution": "de:Università della Svizzera italiana",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:USI_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

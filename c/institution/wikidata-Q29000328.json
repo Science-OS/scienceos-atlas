@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q29000328",
+ "ids": {
+  "wikidata": "Q29000328",
+  "ror": "0214y7014"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.sony.com.tw%2Fen&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "https://www.sony.com.tw/en",
+   "confidence": 0.5,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

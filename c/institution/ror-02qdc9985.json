@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02qdc9985",
+ "ids": {
+  "wikidata": "Q314684",
+  "ror": "02qdc9985"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/60/6028eaab54f0eacaf7ee1536c23fe92ccd44332e1df0d8a70d045e16356ec1da.webp",
+   "hosted": true,
+   "sha256": "6028eaab54f0eacaf7ee1536c23fe92ccd44332e1df0d8a70d045e16356ec1da",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 85,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Technische_Hochschule_Mittelhessen_Logo.svg",
+   "license": "Public domain",
+   "attribution": "sumner groh + compagnie Kommunikationsgesellschaft mbH & Co. KG",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Technische_Hochschule_Mittelhessen_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04241wz75",
+ "ids": {
+  "wikidata": "Q3551709",
+  "ror": "04241wz75"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://okmain.cms.ok.ubc.ca/wp-content/uploads/sites/26/2025/07/cropped-ubc-icon-192x192.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://ok.ubc.ca",
+   "attributionUrl": "https://ok.ubc.ca",
+   "confidence": 0.7,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

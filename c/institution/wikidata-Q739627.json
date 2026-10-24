@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q739627",
+ "ids": {
+  "wikidata": "Q739627",
+  "ror": "04p491231"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/45/4517a1c40d67d2936a7e7a09f366b66a7500b6adc01dcea2dd9a93ea8448d206.webp",
+   "hosted": true,
+   "sha256": "4517a1c40d67d2936a7e7a09f366b66a7500b6adc01dcea2dd9a93ea8448d206",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 38,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Penn_state_university_textlogo.png",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Penn_state_university_textlogo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

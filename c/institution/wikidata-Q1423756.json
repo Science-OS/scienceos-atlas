@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1423756",
+ "ids": {
+  "wikidata": "Q1423756",
+  "ror": "0405mnx93"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b9/b98db5bc713b99ecd014f8fc5d29ad80e047cf635fd5778cc4545f17ffb7e543.webp",
+   "hosted": true,
+   "sha256": "b98db5bc713b99ecd014f8fc5d29ad80e047cf635fd5778cc4545f17ffb7e543",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 67,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Texas_Tech_University_logo.svg",
+   "license": "Public domain",
+   "attribution": "Texas Tech University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Texas_Tech_University_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-00kx1jb78",
+ "ids": {
+  "wikidata": "Q1420239",
+  "ror": "00kx1jb78"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/90/90df6d4e824ee300323d8a4e8d9ecfbf327f76226f3a5d0f738350f2f9824d98.webp",
+   "hosted": true,
+   "sha256": "90df6d4e824ee300323d8a4e8d9ecfbf327f76226f3a5d0f738350f2f9824d98",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 71,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Temple_University_Logo.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Temple_University_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

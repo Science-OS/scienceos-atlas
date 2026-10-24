@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-001p3jz28",
+ "ids": {
+  "wikidata": "Q2648311",
+  "ror": "001p3jz28"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.bits-pilani.ac.in/wp-content/uploads/cropped-favicon-1-192x192.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of http://www.bits-pilani.ac.in/",
+   "attributionUrl": "http://www.bits-pilani.ac.in/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

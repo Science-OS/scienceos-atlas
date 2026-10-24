@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q13371",
+ "ids": {
+  "wikidata": "Q13371",
+  "ror": "03vek6s52"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c6/c60b1f78b863119342302ec3f688171b296fbeb7544a46f6d8732e1c160baa88.webp",
+   "hosted": true,
+   "sha256": "c60b1f78b863119342302ec3f688171b296fbeb7544a46f6d8732e1c160baa88",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 71,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Harvard_University_logo.svg",
+   "license": "Public domain",
+   "attribution": "Pierre la Rose",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Harvard_University_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

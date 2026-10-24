@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q849751",
+ "ids": {
+  "wikidata": "Q849751",
+  "ror": "05fq50484"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d5/d53ff43b30c6be901ae358e518a45ff5827eaa962978df02e62432a73f9dc98a.webp",
+   "hosted": true,
+   "sha256": "d53ff43b30c6be901ae358e518a45ff5827eaa962978df02e62432a73f9dc98a",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 92,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_York_University.svg",
+   "license": "Public domain",
+   "attribution": "SVG erstellt mit Inkscape",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_York_University.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

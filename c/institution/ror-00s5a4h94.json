@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-00s5a4h94",
+ "ids": {
+  "wikidata": "Q7894587",
+  "ror": "00s5a4h94"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://sciencecenter.org/site-icons/apple-touch-icon-1024x1024.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://sciencecenter.org/",
+   "attributionUrl": "https://sciencecenter.org/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

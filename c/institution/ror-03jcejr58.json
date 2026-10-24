@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03jcejr58",
+ "ids": {
+  "wikidata": "Q4853066",
+  "ror": "03jcejr58"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.ism.ac.jp&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "https://www.ism.ac.jp",
+   "confidence": 0.5,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

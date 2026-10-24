@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02vh8a032",
+ "ids": {
+  "wikidata": "Q861904",
+  "ror": "02vh8a032"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/4c/4c29c09e6d65c7ac790b04b9a384b9b3519e3f2e1e3a86b2449258342fded953.webp",
+   "hosted": true,
+   "sha256": "4c29c09e6d65c7ac790b04b9a384b9b3519e3f2e1e3a86b2449258342fded953",
+   "mime": "image/webp",
+   "width": 250,
+   "height": 67,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bilkentlogo.png",
+   "license": "Public domain",
+   "attribution": "Bilkent University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Bilkentlogo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

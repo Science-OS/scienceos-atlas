@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q263064",
+ "ids": {
+  "wikidata": "Q263064",
+  "ror": "02t274463"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/98/98b82dca0c47e1230af8e5ca67ab85716dc5847963a864d2e6c984e0b90510c4.webp",
+   "hosted": true,
+   "sha256": "98b82dca0c47e1230af8e5ca67ab85716dc5847963a864d2e6c984e0b90510c4",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 20,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_California%2C_Santa_Barbara_logo.svg",
+   "license": "Public domain",
+   "attribution": "University of California, Santa Barbara",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_California,_Santa_Barbara_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}

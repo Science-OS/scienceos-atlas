@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q550147",
+ "ids": {
+  "wikidata": "Q550147",
+  "ror": "04vrpfw15"
+ },
+ "updatedAt": "2026-10-24T09:39:39Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.snowflake.com/etc.clientlibs/snowflake-site/clientlibs/clientlib-react/resources/apple-touch-icon.png?v=3",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.snowflake.com",
+   "attributionUrl": "https://www.snowflake.com",
+   "confidence": 0.7,
+   "fetchedAt": "2026-10-24T09:39:39Z"
+  }
+ ]
+}
