@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q632558",
+ "ids": {
+  "wikidata": "Q632558",
+  "ror": "01yqg2h08"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d9/d95a37ea3ef9234660a9754f1bb9ca9feb7745cf429a19f574a34bfcc573a0f7.webp",
+   "hosted": true,
+   "sha256": "d95a37ea3ef9234660a9754f1bb9ca9feb7745cf429a19f574a34bfcc573a0f7",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 144,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%E5%93%88%E5%B0%94%E6%BB%A8%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6_-_panoramio_%283%29.jpg",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "attribution": "quanyit&夏夜未眠派",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:%E5%93%88%E5%B0%94%E6%BB%A8%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6_-_panoramio_(3).jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

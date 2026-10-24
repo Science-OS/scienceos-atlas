@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1506552",
+ "ids": {
+  "wikidata": "Q1506552",
+  "ror": "00hs7dr46"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/81/8135abc6e2d931d0b5bf9bef25e6cb3c4a322d387359f52ad48bcbf28db1c4da.webp",
+   "hosted": true,
+   "sha256": "8135abc6e2d931d0b5bf9bef25e6cb3c4a322d387359f52ad48bcbf28db1c4da",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 144,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ural_Federal_University_%28eng%29.jpg",
+   "license": "Public domain",
+   "attribution": "Ural Federal University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Ural_Federal_University_(eng).jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

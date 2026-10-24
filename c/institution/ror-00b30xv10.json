@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-00b30xv10",
+ "ids": {
+  "wikidata": "Q49117",
+  "ror": "00b30xv10"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/21/21dda27749fac7c8d3be55d23896dcf5f469ff6f64ea8fd058f7e861e30b2c87.webp",
+   "hosted": true,
+   "sha256": "21dda27749fac7c8d3be55d23896dcf5f469ff6f64ea8fd058f7e861e30b2c87",
+   "mime": "image/webp",
+   "width": 228,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Shield_of_the_University_of_Pennsylvania.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Shield_of_the_University_of_Pennsylvania.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

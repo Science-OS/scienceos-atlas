@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q173395",
+ "ids": {
+  "wikidata": "Q173395",
+  "ror": "03yt1ez60"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/4b/4bb809c4ecd18964642ab4f27bfca0d55577761592e26772ce98cfc1fabe3499.webp",
+   "hosted": true,
+   "sha256": "4bb809c4ecd18964642ab4f27bfca0d55577761592e26772ce98cfc1fabe3499",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 136,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cisco_logo_blue_2016.svg",
+   "license": "Public domain",
+   "attribution": "Cisco",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Cisco_logo_blue_2016.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

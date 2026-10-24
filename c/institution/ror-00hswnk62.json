@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-00hswnk62",
+ "ids": {
+  "wikidata": "Q877925",
+  "ror": "00hswnk62"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/4d/4d743713046a3881d2c6da27733f30c77ffc29d5c8075da7da8815a58cee7d33.webp",
+   "hosted": true,
+   "sha256": "4d743713046a3881d2c6da27733f30c77ffc29d5c8075da7da8815a58cee7d33",
+   "mime": "image/webp",
+   "width": 199,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Queen%27s_University_Belfast_arms.svg",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "attribution": "Own work",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Queen%27s_University_Belfast_arms.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

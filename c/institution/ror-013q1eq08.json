@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-013q1eq08",
+ "ids": {
+  "wikidata": "Q495015",
+  "ror": "013q1eq08"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/3e/3ec9b38c14f6390b34e1f63bbbd974f8a3dc8b985ad066c555321e3c0fae2775.webp",
+   "hosted": true,
+   "sha256": "3ec9b38c14f6390b34e1f63bbbd974f8a3dc8b985ad066c555321e3c0fae2775",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Fudan_University_Logo.svg",
+   "license": "Public domain",
+   "attribution": "Original: Fudan University Vector: Prcmise",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Fudan_University_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

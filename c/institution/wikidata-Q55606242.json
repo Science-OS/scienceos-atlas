@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q55606242",
+ "ids": {
+  "wikidata": "Q55606242",
+  "ror": "04m8av638"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/6a/6afb18828583e00c223b321430b66c520c3dccfe21d7bab4f112425f5bac7df8.webp",
+   "hosted": true,
+   "sha256": "6afb18828583e00c223b321430b66c520c3dccfe21d7bab4f112425f5bac7df8",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 44,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/ByteDance_logo_English.svg",
+   "license": "Public domain",
+   "attribution": "ByteDance",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:ByteDance_logo_English.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

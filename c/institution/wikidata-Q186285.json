@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q186285",
+ "ids": {
+  "wikidata": "Q186285",
+  "ror": "035b05819"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/94/94b40c6a02ca612d7770f615f05ea35e9fabcd8db390d819c1d9487331f8211e.webp",
+   "hosted": true,
+   "sha256": "94b40c6a02ca612d7770f615f05ea35e9fabcd8db390d819c1d9487331f8211e",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ku-ucph-logo-svg.svg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Canconier",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Ku-ucph-logo-svg.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

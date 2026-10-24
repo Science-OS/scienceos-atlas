@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q214341",
+ "ids": {
+  "wikidata": "Q214341",
+  "ror": "04dkp9463"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/2a/2a3817b9b676ce17599032eebf07feb16eafe31e9fbf6589802100c4c17e37eb.webp",
+   "hosted": true,
+   "sha256": "2a3817b9b676ce17599032eebf07feb16eafe31e9fbf6589802100c4c17e37eb",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 29,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Amsterdam_logo.svg",
+   "license": "Public domain",
+   "attribution": "University of Amsterdam",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Amsterdam_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

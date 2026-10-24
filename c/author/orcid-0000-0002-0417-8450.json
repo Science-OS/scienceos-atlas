@@ -1,0 +1,24 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "orcid-0000-0002-0417-8450",
+ "ids": {
+  "orcid": "0000-0002-0417-8450",
+  "wikidata": "Q116765902",
+  "openalex": "A5003220288",
+  "github": "hellbell"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://github.com/hellbell.png?size=256",
+   "hosted": false,
+   "source": "github",
+   "attribution": "GitHub profile @hellbell",
+   "attributionUrl": "https://github.com/hellbell",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

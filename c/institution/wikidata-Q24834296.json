@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q24834296",
+ "ids": {
+  "wikidata": "Q24834296",
+  "ror": "05p67dv18"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http%3A%2F%2Fwww.chinatelecom.com.cn&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "http://www.chinatelecom.com.cn",
+   "confidence": 0.5,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

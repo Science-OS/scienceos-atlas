@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-05apxxy63",
+ "ids": {
+  "wikidata": "Q39949",
+  "ror": "05apxxy63"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d8/d88accd042d3e9d834c3b8186b79941313e650ee780b3f8ff492152c8bb6373a.webp",
+   "hosted": true,
+   "sha256": "d88accd042d3e9d834c3b8186b79941313e650ee780b3f8ff492152c8bb6373a",
+   "mime": "image/webp",
+   "width": 255,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/KAIST_logo.svg",
+   "license": "Public domain",
+   "attribution": "KAIST",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:KAIST_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

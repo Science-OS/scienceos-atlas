@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-047dqcg40",
+ "ids": {
+  "wikidata": "Q39997",
+  "ror": "047dqcg40"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/56/56ca43f22e2a1903aa40ed5fe54a1997df9b6062bd3862121bb8f0189bee1701.webp",
+   "hosted": true,
+   "sha256": "56ca43f22e2a1903aa40ed5fe54a1997df9b6062bd3862121bb8f0189bee1701",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 116,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Korea_University_logotype_%28English_version%29.svg",
+   "license": "Public domain",
+   "attribution": "Korea University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Korea_University_logotype_(English_version).svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

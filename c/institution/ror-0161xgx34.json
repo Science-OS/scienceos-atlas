@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-0161xgx34",
+ "ids": {
+  "wikidata": "Q392189",
+  "ror": "0161xgx34"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/9e/9e488c1a72b90a590702b9077c6e8e84a30e8e7603a4a7cd6843b3e6e00051e8.webp",
+   "hosted": true,
+   "sha256": "9e488c1a72b90a590702b9077c6e8e84a30e8e7603a4a7cd6843b3e6e00051e8",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 99,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Universit%C3%A4t_Montreal_Logo.svg",
+   "license": "Public domain",
+   "attribution": "Jean-Claude Lahaye (1923-1999)",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Universit%C3%A4t_Montreal_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

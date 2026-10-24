@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q7865230",
+ "ids": {
+  "wikidata": "Q7865230",
+  "ror": "00qz24g20"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/22/22b7888e00652e178592bf81a0526276bc8c23cd0a822a26299a025aad62d0dd.webp",
+   "hosted": true,
+   "sha256": "22b7888e00652e178592bf81a0526276bc8c23cd0a822a26299a025aad62d0dd",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 137,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Unc-health-logo.svg",
+   "license": "Public domain",
+   "attribution": "UNC Health Care",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Unc-health-logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

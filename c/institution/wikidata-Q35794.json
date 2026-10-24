@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q35794",
+ "ids": {
+  "wikidata": "Q35794",
+  "ror": "013meh722"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/16/1612d8dfac387d59b497a02adf260da120febc7b255f426be699ed65cceb8f77.webp",
+   "hosted": true,
+   "sha256": "1612d8dfac387d59b497a02adf260da120febc7b255f426be699ed65cceb8f77",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 56,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Cambridge_logo.png",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Dm980cam",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Cambridge_logo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

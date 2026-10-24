@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-05c22rx21",
+ "ids": {
+  "wikidata": "Q67182995",
+  "ror": "05c22rx21"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://mila.quebec/sites/default/themes/mila_v1/apple-touch-icon.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://mila.quebec",
+   "attributionUrl": "https://mila.quebec",
+   "confidence": 0.7,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

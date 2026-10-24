@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q508364",
+ "ids": {
+  "wikidata": "Q508364",
+  "ror": "021es5e59"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/20/20babef3c21238ae5ef8400083b2f7510bbdceb448453eed9330764b0334ee44.webp",
+   "hosted": true,
+   "sha256": "20babef3c21238ae5ef8400083b2f7510bbdceb448453eed9330764b0334ee44",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 220,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Moscow_institute_of_warmtechnics.jpg",
+   "license": "Public domain",
+   "attribution": "Правообладатель — Московский институт теплотехники",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Moscow_institute_of_warmtechnics.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

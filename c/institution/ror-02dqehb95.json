@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02dqehb95",
+ "ids": {
+  "wikidata": "Q217741",
+  "ror": "02dqehb95"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/2a/2a000d68d74d2db78eea137ea25a48d81af6277805c35c0f843c7c3c84b597cc.webp",
+   "hosted": true,
+   "sha256": "2a000d68d74d2db78eea137ea25a48d81af6277805c35c0f843c7c3c84b597cc",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 46,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Purdue_University_system_logo.svg",
+   "license": "Public domain",
+   "attribution": "Purdue University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Purdue_University_system_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

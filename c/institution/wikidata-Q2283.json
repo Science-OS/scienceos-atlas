@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q2283",
+ "ids": {
+  "wikidata": "Q2283",
+  "ror": "00d0nc645"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/6e/6e5970963c8e3571a503e948627db03a50b2f73c661333293b06d09d6f50431b.webp",
+   "hosted": true,
+   "sha256": "6e5970963c8e3571a503e948627db03a50b2f73c661333293b06d09d6f50431b",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 55,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Microsoft_logo_%282012%29.svg",
+   "license": "Public domain",
+   "attribution": "Microsoft Corporation — Jason Wells",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Microsoft_logo_(2012).svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

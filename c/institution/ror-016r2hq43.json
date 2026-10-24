@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-016r2hq43",
+ "ids": {
+  "wikidata": "Q30261584",
+  "ror": "016r2hq43"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.icp.universite-paris-saclay.fr&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "https://www.icp.universite-paris-saclay.fr",
+   "confidence": 0.5,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

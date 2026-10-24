@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-011ashp19",
+ "ids": {
+  "wikidata": "Q2281517",
+  "ror": "011ashp19"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fscu.edu.cn&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "https://scu.edu.cn",
+   "confidence": 0.5,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

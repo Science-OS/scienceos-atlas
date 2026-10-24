@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-057zh3y96",
+ "ids": {
+  "wikidata": "Q7842",
+  "ror": "057zh3y96"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/54/54011e3ed60d9b886df0247c656c2bd8ab1608073bc56b8c83817d581b400c68.webp",
+   "hosted": true,
+   "sha256": "54011e3ed60d9b886df0247c656c2bd8ab1608073bc56b8c83817d581b400c68",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 62,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Tokyo_logo_%282024%29.svg",
+   "license": "Public domain",
+   "attribution": "東京大学",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Tokyo_logo_(2024).svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

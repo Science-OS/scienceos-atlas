@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-056y0v115",
+ "ids": {
+  "wikidata": "Q116758847",
+  "ror": "056y0v115"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/51/5127d1b3542b4cc2b9f4159ffd05125e57a1f56c030d4884d0e413ce50c1bd38.webp",
+   "hosted": true,
+   "sha256": "5127d1b3542b4cc2b9f4159ffd05125e57a1f56c030d4884d0e413ce50c1bd38",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 29,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthropic_logo.svg",
+   "license": "Public domain",
+   "attribution": "Anthropic",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Anthropic_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

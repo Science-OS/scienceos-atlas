@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-00njsd438",
+ "ids": {
+  "wikidata": "Q95",
+  "ror": "00njsd438"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ab/ab7e36e77b9789a2bc01fcd2ee217568d3f43014a1f5eb65fb8b65e1364b3368.webp",
+   "hosted": true,
+   "sha256": "ab7e36e77b9789a2bc01fcd2ee217568d3f43014a1f5eb65fb8b65e1364b3368",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 78,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Google_2026_logo.svg",
+   "license": "Public domain",
+   "attribution": "Google LLC",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Google_2026_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

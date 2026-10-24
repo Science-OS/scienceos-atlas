@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q18786156",
+ "ids": {
+  "wikidata": "Q18786156",
+  "ror": "02b7jh107"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/dc/dcd2ff03fc194889c90503f60ddc7160c466ce6aab75a6cc7821625c75d03897.webp",
+   "hosted": true,
+   "sha256": "dcd2ff03fc194889c90503f60ddc7160c466ce6aab75a6cc7821625c75d03897",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 61,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9B%D0%9E%D0%93%D0%9E%D0%A2%D0%98%D0%9F_%D0%A3%D0%98.svg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Университет Иннополис",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:%D0%9B%D0%9E%D0%93%D0%9E%D0%A2%D0%98%D0%9F_%D0%A3%D0%98.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

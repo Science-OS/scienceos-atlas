@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q160120",
+ "ids": {
+  "wikidata": "Q160120",
+  "ror": "00cmhce21"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/5b/5b28498322e03a91a21fa5f89431f4da25cb7361f011cc5ed610dd02dd645ca1.webp",
+   "hosted": true,
+   "sha256": "5b28498322e03a91a21fa5f89431f4da25cb7361f011cc5ed610dd02dd645ca1",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 44,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Huawei_wordmark_2019.svg",
+   "license": "Public domain",
+   "attribution": "Huawei",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Huawei_wordmark_2019.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

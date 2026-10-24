@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q149990",
+ "ids": {
+  "wikidata": "Q149990",
+  "ror": "022kthw22"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/8a/8abad9b23428959d88d69e07edb59352bf8bb0cf45ef22ffbc7b50002ecb502c.webp",
+   "hosted": true,
+   "sha256": "8abad9b23428959d88d69e07edb59352bf8bb0cf45ef22ffbc7b50002ecb502c",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 79,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Rochester_2025_logo_text-only_center.svg",
+   "license": "Public domain",
+   "attribution": "University of Rochester",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Rochester_2025_logo_text-only_center.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

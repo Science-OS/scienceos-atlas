@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q49210",
+ "ids": {
+  "wikidata": "Q49210",
+  "ror": "0190ak572"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/8b/8b6978c489a6aee40129c87792f71892604423992393f88506868d78804ab1e7.webp",
+   "hosted": true,
+   "sha256": "8b6978c489a6aee40129c87792f71892604423992393f88506868d78804ab1e7",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 88,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Nyu_short_color.svg",
+   "license": "Public domain",
+   "attribution": "New York University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Nyu_short_color.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

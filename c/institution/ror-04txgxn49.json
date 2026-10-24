@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04txgxn49",
+ "ids": {
+  "wikidata": "Q1342013",
+  "ror": "04txgxn49"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/da/dad1eed41fa38c9740c1f9775d760b39026a4ce7c0fdc53ed67e892dfcf5affd.webp",
+   "hosted": true,
+   "sha256": "dad1eed41fa38c9740c1f9775d760b39026a4ce7c0fdc53ed67e892dfcf5affd",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 181,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/ITMO_University.png",
+   "license": "Public domain",
+   "attribution": "ITMO University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:ITMO_University.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

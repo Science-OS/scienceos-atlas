@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-00t33hh48",
+ "ids": {
+  "wikidata": "Q15570",
+  "ror": "00t33hh48"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.cuhk.edu.hk%2F&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "https://www.cuhk.edu.hk/",
+   "confidence": 0.5,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

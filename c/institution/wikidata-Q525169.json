@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q525169",
+ "ids": {
+  "wikidata": "Q525169",
+  "ror": "0220qvk04"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/9f/9ff13ffbed9c421d768ab8a54082321c0d324f869fd6a276a93a5d392eecb52a.webp",
+   "hosted": true,
+   "sha256": "9ff13ffbed9c421d768ab8a54082321c0d324f869fd6a276a93a5d392eecb52a",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 251,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/SJTU_emblem_1940.jpg",
+   "license": "Public domain",
+   "attribution": "Shanghai Jiao Tong University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:SJTU_emblem_1940.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

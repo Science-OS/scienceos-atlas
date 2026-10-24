@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q168756",
+ "ids": {
+  "wikidata": "Q168756",
+  "ror": "01an7q238"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/db/db2149f61c91cafb1055dc085f225b5dd6b4521796f66bb50251a6f7d3b8cdc9.webp",
+   "hosted": true,
+   "sha256": "db2149f61c91cafb1055dc085f225b5dd6b4521796f66bb50251a6f7d3b8cdc9",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 81,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_California%2C_Berkeley_logo.svg",
+   "license": "Public domain",
+   "attribution": "University of California, Berkeley",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_California,_Berkeley_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

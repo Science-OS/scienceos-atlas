@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q49108",
+ "ids": {
+  "wikidata": "Q49108",
+  "ror": "042nb2s44"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/cc/cc6dec7f8e57267fef762615616e10f28c6326b96ca60641827ccddaf90b33c1.webp",
+   "hosted": true,
+   "sha256": "cc6dec7f8e57267fef762615616e10f28c6326b96ca60641827ccddaf90b33c1",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 144,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/MIT_2023_red_logo.svg",
+   "license": "Public domain",
+   "attribution": "Matthew Carter and others, owned by Massachusetts Institute of Technology",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:MIT_2023_red_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

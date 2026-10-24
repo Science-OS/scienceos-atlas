@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-039swsa61",
+ "ids": {
+  "wikidata": "Q2111400",
+  "ror": "039swsa61"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.proquest.com/assets/ctx/4aa5c7b/android-icon-192x192.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of http://www.proquest.com/",
+   "attributionUrl": "http://www.proquest.com/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

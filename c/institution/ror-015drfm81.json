@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-015drfm81",
+ "ids": {
+  "wikidata": "Q55454600",
+  "ror": "015drfm81"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.microsoft.com%2Fda-dk%2F&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "https://www.microsoft.com/da-dk/",
+   "confidence": 0.5,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

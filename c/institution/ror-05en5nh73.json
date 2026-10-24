@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-05en5nh73",
+ "ids": {
+  "wikidata": "Q488334",
+  "ror": "05en5nh73"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/bf/bf153548bc1fef6a22c37cca1defc1cec34d4bef7cd330c780fc774d20a955e5.webp",
+   "hosted": true,
+   "sha256": "bf153548bc1fef6a22c37cca1defc1cec34d4bef7cd330c780fc774d20a955e5",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Seoul.svg",
+   "license": "Public domain",
+   "attribution": "University of Seoul",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Seoul.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

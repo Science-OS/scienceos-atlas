@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-0064kty71",
+ "ids": {
+  "wikidata": "Q178972",
+  "ror": "0064kty71"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/48/48fae12104a9aab35db4019e291a76a56c43eac439a97ca696d82558d5f5fb37.webp",
+   "hosted": true,
+   "sha256": "48fae12104a9aab35db4019e291a76a56c43eac439a97ca696d82558d5f5fb37",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 254,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/National_Sun_Yat-sen_University_Canton.jpg",
+   "license": "Public domain",
+   "attribution": "National Sun Yat-sen University(Canton)",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:National_Sun_Yat-sen_University_Canton.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

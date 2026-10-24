@@ -1,0 +1,21 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-014a87f14",
+ "ids": {
+  "ror": "014a87f14"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://airi.net/local/templates/dynamic/frontend/app/images/favicon/apple-touch-icon.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://airi.net",
+   "attributionUrl": "https://airi.net",
+   "confidence": 0.7,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

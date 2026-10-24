@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-0130frc33",
+ "ids": {
+  "wikidata": "Q192334",
+  "ror": "0130frc33"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.unc.edu/wp-content/uploads/2025/11/cropped-CB_Background-Favicon-300x300.jpg",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.unc.edu",
+   "attributionUrl": "https://www.unc.edu",
+   "confidence": 0.7,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

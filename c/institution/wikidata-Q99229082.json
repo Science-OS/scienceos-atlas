@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q99229082",
+ "ids": {
+  "wikidata": "Q99229082",
+  "ror": "050h0vm43"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://material.hkust-gz.edu.cn/wp-content/uploads/2023/04/cropped-favicon-1-1-192x192.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.hkust-gz.edu.cn",
+   "attributionUrl": "https://www.hkust-gz.edu.cn",
+   "confidence": 0.7,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

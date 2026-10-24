@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q2299797",
+ "ids": {
+  "wikidata": "Q2299797",
+  "ror": "00wk2mp56"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/4d/4d024c70b1a97bdf42d97d30c9123e5cc3b0f0cfe19e5ccbdb7c596a62ff5ff8.webp",
+   "hosted": true,
+   "sha256": "4d024c70b1a97bdf42d97d30c9123e5cc3b0f0cfe19e5ccbdb7c596a62ff5ff8",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 148,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%E5%8C%97%E4%BA%AC%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%A4%A7%E5%AD%A6%E4%B8%9C%E9%97%A8_BUAA.jpg",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+   "attribution": "rainoo from Tokyo, Japan",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:%E5%8C%97%E4%BA%AC%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%A4%A7%E5%AD%A6%E4%B8%9C%E9%97%A8_BUAA.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

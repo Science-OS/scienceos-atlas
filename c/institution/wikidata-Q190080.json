@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q190080",
+ "ids": {
+  "wikidata": "Q190080",
+  "ror": "05x2bcf33"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/a8/a8332e015216c10a3061854ce204d44bac458eff834938840f6f96c2fa0968e6.webp",
+   "hosted": true,
+   "sha256": "a8332e015216c10a3061854ce204d44bac458eff834938840f6f96c2fa0968e6",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 23,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Carnegie_Mellon_University_wordmark.svg",
+   "license": "Public domain",
+   "attribution": "Carnegie Mellon University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Carnegie_Mellon_University_wordmark.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

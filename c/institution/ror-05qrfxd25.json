@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-05qrfxd25",
+ "ids": {
+  "wikidata": "Q83172",
+  "ror": "05qrfxd25"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/65/657b70f6a212ff5900a48bb3d5aae3181d6af44e404887946f50a2ac828f8402.webp",
+   "hosted": true,
+   "sha256": "657b70f6a212ff5900a48bb3d5aae3181d6af44e404887946f50a2ac828f8402",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 128,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ras-logo.svg",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "attribution": "Ksider",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Ras-logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q11942",
+ "ids": {
+  "wikidata": "Q11942",
+  "ror": "05a28rw58"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/f3/f344b77220bb0348911d8ceb106ea96a06654cb05f53003f1a1dd9b49b22e30d.webp",
+   "hosted": true,
+   "sha256": "f344b77220bb0348911d8ceb106ea96a06654cb05f53003f1a1dd9b49b22e30d",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 43,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/ETH_Z%C3%BCrich_Logo_black.svg",
+   "license": "Public domain",
+   "attribution": "ETH Zürich",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:ETH_Z%C3%BCrich_Logo_black.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

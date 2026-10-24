@@ -1,0 +1,24 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "openalex-A5040286212",
+ "ids": {
+  "orcid": "0000-0002-0085-6496",
+  "wikidata": "Q140867203",
+  "openalex": "A5040286212",
+  "github": "borgr"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://github.com/borgr.png?size=256",
+   "hosted": false,
+   "source": "github",
+   "attribution": "GitHub profile @borgr",
+   "attributionUrl": "https://github.com/borgr",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

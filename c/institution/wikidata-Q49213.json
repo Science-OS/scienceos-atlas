@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q49213",
+ "ids": {
+  "wikidata": "Q49213",
+  "ror": "00hj54h04"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/1d/1ddbe4ada334e7f18fe1fffd5e317fa43dcef1cbb087b175397e434d14108acb.webp",
+   "hosted": true,
+   "sha256": "1ddbe4ada334e7f18fe1fffd5e317fa43dcef1cbb087b175397e434d14108acb",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 73,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Texas_at_Austin_logo.svg",
+   "license": "Public domain",
+   "attribution": "University of Texas at Austin",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Texas_at_Austin_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q700758",
+ "ids": {
+  "wikidata": "Q700758",
+  "ror": "01jdpyv68"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/be/beceacd76ec54778275bfece456b26fbed3b87f6c55da84f75142c1e08b2e505.webp",
+   "hosted": true,
+   "sha256": "beceacd76ec54778275bfece456b26fbed3b87f6c55da84f75142c1e08b2e505",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 96,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Universit%C3%A4t_des_Saarlandes_logo.jpg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Hiedano",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Universit%C3%A4t_des_Saarlandes_logo.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

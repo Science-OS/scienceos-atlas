@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-00f54p054",
+ "ids": {
+  "wikidata": "Q41506",
+  "ror": "00f54p054"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/65/6536648d8aa3d6bb3ed9e0dc4e5afcddba3756fffa592ae634c8af44f354839b.webp",
+   "hosted": true,
+   "sha256": "6536648d8aa3d6bb3ed9e0dc4e5afcddba3756fffa592ae634c8af44f354839b",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 54,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Stanford_wordmark_%282012%29.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Stanford_wordmark_(2012).svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

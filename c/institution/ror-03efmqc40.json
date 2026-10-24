@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03efmqc40",
+ "ids": {
+  "wikidata": "Q670897",
+  "ror": "03efmqc40"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/43/43eeda2169be7b436b9e0e8f7df22e70eff732afcfa837e8659101843cab436a.webp",
+   "hosted": true,
+   "sha256": "43eeda2169be7b436b9e0e8f7df22e70eff732afcfa837e8659101843cab436a",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 49,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Arizona_State_University_logo.svg",
+   "license": "Public domain",
+   "attribution": "Arizona State University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Arizona_State_University_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

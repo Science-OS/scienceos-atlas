@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-059tvcg64",
+ "ids": {
+  "wikidata": "Q11463",
+  "ror": "059tvcg64"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c0/c04c1b2443f542ff74195420ae36b954225f9cb85ce4836787cea9d922e2d06f.webp",
+   "hosted": true,
+   "sha256": "c04c1b2443f542ff74195420ae36b954225f9cb85ce4836787cea9d922e2d06f",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 65,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Adobe_Corporate_wordmark.svg",
+   "license": "Public domain",
+   "attribution": "Adobe Inc., Mother Design, MCKL",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Adobe_Corporate_wordmark.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q110363143",
+ "ids": {
+  "wikidata": "Q110363143",
+  "ror": "050yr0479"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ec/eca3731a51f2d8334107af6c75b53c74a512e2660ad49079893a02a58cf99c98.webp",
+   "hosted": true,
+   "sha256": "eca3731a51f2d8334107af6c75b53c74a512e2660ad49079893a02a58cf99c98",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 144,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cohere-Logo.png",
+   "license": "CC0",
+   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "attribution": "Ayub MK09",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Cohere-Logo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

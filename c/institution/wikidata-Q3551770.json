@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q3551770",
+ "ids": {
+  "wikidata": "Q3551770",
+  "ror": "04ct4d772"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/62/62845fd04ce0ca6b762e5c0da966d76e68c33b339ee1eaf5717e987825bf18ab.webp",
+   "hosted": true,
+   "sha256": "62845fd04ce0ca6b762e5c0da966d76e68c33b339ee1eaf5717e987825bf18ab",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 106,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Southeast_University_Name.svg",
+   "license": "Public domain",
+   "attribution": "王羲之",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Southeast_University_Name.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}

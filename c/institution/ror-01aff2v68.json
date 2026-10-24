@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01aff2v68",
+ "ids": {
+  "wikidata": "Q1049470",
+  "ror": "01aff2v68"
+ },
+ "updatedAt": "2026-10-24T08:55:47Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/67/6748b581f50ffd0648fb344e04164a944b87dae997cc2ad021df022a752385e5.webp",
+   "hosted": true,
+   "sha256": "6748b581f50ffd0648fb344e04164a944b87dae997cc2ad021df022a752385e5",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 32,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Uwaterloo_wordmark.svg",
+   "license": "Public domain",
+   "attribution": "University of Waterloo",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Uwaterloo_wordmark.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T08:55:47Z"
+  }
+ ]
+}
