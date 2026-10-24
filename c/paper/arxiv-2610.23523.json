@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.23523",
+ "ids": {
+  "arxiv": "2610.23523"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/6a/6a38c45a5b484652f91309174d554455bf06b435c92bb41c9c64bf9c62e8c061.jpg",
+   "hosted": true,
+   "sha256": "6a38c45a5b484652f91309174d554455bf06b435c92bb41c9c64bf9c62e8c061",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.23523",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Eike Best et al., arXiv:2610.23523",
+   "attributionUrl": "https://arxiv.org/abs/2610.23523",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

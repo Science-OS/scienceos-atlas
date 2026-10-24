@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.23831",
+ "ids": {
+  "arxiv": "2610.23831"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/59/59c492956808f3f8f721e9eed30149a3081d17f23b469fdca120cd580187ef31.jpg",
+   "hosted": true,
+   "sha256": "59c492956808f3f8f721e9eed30149a3081d17f23b469fdca120cd580187ef31",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.23831",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Shaoang Li et al., arXiv:2610.23831",
+   "attributionUrl": "https://arxiv.org/abs/2610.23831",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

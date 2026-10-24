@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.28978",
+ "ids": {
+  "arxiv": "2610.28978"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/49/49bee78443db3857806b9478e049f488af616111d6d29bce3cded66d0127010c.jpg",
+   "hosted": true,
+   "sha256": "49bee78443db3857806b9478e049f488af616111d6d29bce3cded66d0127010c",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.28978",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Paris A. Karakasis et al., arXiv:2610.28978",
+   "attributionUrl": "https://arxiv.org/abs/2610.28978",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

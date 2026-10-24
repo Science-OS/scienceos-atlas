@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.23504",
+ "ids": {
+  "arxiv": "2610.23504"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e1/e1f8d5f69523c69c1d564601aced0b47e573ad907fe85574920a79214f4ff9b8.jpg",
+   "hosted": true,
+   "sha256": "e1f8d5f69523c69c1d564601aced0b47e573ad907fe85574920a79214f4ff9b8",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.23504",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Ashwin K Seshadri et al., arXiv:2610.23504",
+   "attributionUrl": "https://arxiv.org/abs/2610.23504",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

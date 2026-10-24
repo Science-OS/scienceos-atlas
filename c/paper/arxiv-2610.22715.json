@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.22715",
+ "ids": {
+  "arxiv": "2610.22715"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ee/eedb1af1e3ee27ee088d70e83a3ad63d5b1cfdc4694ef9f7f1df75ab693dac45.jpg",
+   "hosted": true,
+   "sha256": "eedb1af1e3ee27ee088d70e83a3ad63d5b1cfdc4694ef9f7f1df75ab693dac45",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.22715",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Drishti Goel et al., arXiv:2610.22715",
+   "attributionUrl": "https://arxiv.org/abs/2610.22715",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

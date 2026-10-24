@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.29510",
+ "ids": {
+  "arxiv": "2610.29510"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/9f/9fb5844eb3cc131fa3413c990cdc7fab42ee3f75d4afcc15acf6d5e6c12296fd.jpg",
+   "hosted": true,
+   "sha256": "9fb5844eb3cc131fa3413c990cdc7fab42ee3f75d4afcc15acf6d5e6c12296fd",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.29510",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Mitsuki Nagai et al., arXiv:2610.29510",
+   "attributionUrl": "https://arxiv.org/abs/2610.29510",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

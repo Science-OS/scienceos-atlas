@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.28074",
+ "ids": {
+  "arxiv": "2610.28074"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e0/e0089a4c46e9962aeb9f23bc43f096f6eaf801d2807a99d1720e15e521ee489d.jpg",
+   "hosted": true,
+   "sha256": "e0089a4c46e9962aeb9f23bc43f096f6eaf801d2807a99d1720e15e521ee489d",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.28074",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Peisong Wen et al., arXiv:2610.28074",
+   "attributionUrl": "https://arxiv.org/abs/2610.28074",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

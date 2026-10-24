@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.26848",
+ "ids": {
+  "arxiv": "2610.26848"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/97/97c4765e9fb39020531b1e498299de0f61de3ec480a1dd4b47112b26997f9175.jpg",
+   "hosted": true,
+   "sha256": "97c4765e9fb39020531b1e498299de0f61de3ec480a1dd4b47112b26997f9175",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.26848",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Zekai Li et al., arXiv:2610.26848",
+   "attributionUrl": "https://arxiv.org/abs/2610.26848",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

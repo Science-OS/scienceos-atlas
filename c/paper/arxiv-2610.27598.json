@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.27598",
+ "ids": {
+  "arxiv": "2610.27598"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d5/d5cf9f381d2aed6b097181726d52e478066ef36aa31c4de3879925f579affa08.jpg",
+   "hosted": true,
+   "sha256": "d5cf9f381d2aed6b097181726d52e478066ef36aa31c4de3879925f579affa08",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.27598",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Ermo Hua et al., arXiv:2610.27598",
+   "attributionUrl": "https://arxiv.org/abs/2610.27598",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.23230",
+ "ids": {
+  "arxiv": "2610.23230"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/11/11e67c251dcf21292f763cf4a1c5d83b999b5b0c532e1ba9c5e35681a04f4379.jpg",
+   "hosted": true,
+   "sha256": "11e67c251dcf21292f763cf4a1c5d83b999b5b0c532e1ba9c5e35681a04f4379",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.23230",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Haonan Han et al., arXiv:2610.23230",
+   "attributionUrl": "https://arxiv.org/abs/2610.23230",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

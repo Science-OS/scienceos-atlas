@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.30524",
+ "ids": {
+  "arxiv": "2610.30524"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/93/93e9415d9a64ae429279bd0cf2c9c1d21d969b397042a568f7832e765e7477d6.jpg",
+   "hosted": true,
+   "sha256": "93e9415d9a64ae429279bd0cf2c9c1d21d969b397042a568f7832e765e7477d6",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.30524",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Zhipeng Cao et al., arXiv:2610.30524",
+   "attributionUrl": "https://arxiv.org/abs/2610.30524",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

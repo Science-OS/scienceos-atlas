@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.29720",
+ "ids": {
+  "arxiv": "2610.29720"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/82/82ee1acdf5e9110c17c5297fb87ffa4e97a339b04b341c92fe62c85474789a9d.jpg",
+   "hosted": true,
+   "sha256": "82ee1acdf5e9110c17c5297fb87ffa4e97a339b04b341c92fe62c85474789a9d",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.29720",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Pavlos Poulos et al., arXiv:2610.29720",
+   "attributionUrl": "https://arxiv.org/abs/2610.29720",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

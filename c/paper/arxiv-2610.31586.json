@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.31586",
+ "ids": {
+  "arxiv": "2610.31586"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/3a/3a135917fa861f580aa958a0824a31106a1d92f512307899ea686c26fe35f02e.jpg",
+   "hosted": true,
+   "sha256": "3a135917fa861f580aa958a0824a31106a1d92f512307899ea686c26fe35f02e",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.31586",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Miguel Fernandez-de-Retana et al., arXiv:2610.31586",
+   "attributionUrl": "https://arxiv.org/abs/2610.31586",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

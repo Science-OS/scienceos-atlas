@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.22998",
+ "ids": {
+  "arxiv": "2610.22998"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/51/51c5450297dc18b72367e327be7ffaeb4db1eabb23a4e65a3ff75d134cfe4251.jpg",
+   "hosted": true,
+   "sha256": "51c5450297dc18b72367e327be7ffaeb4db1eabb23a4e65a3ff75d134cfe4251",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.22998",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Pintu Kumar et al., arXiv:2610.22998",
+   "attributionUrl": "https://arxiv.org/abs/2610.22998",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

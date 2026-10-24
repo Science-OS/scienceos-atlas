@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.28284",
+ "ids": {
+  "arxiv": "2610.28284"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c1/c1cf6cc0d36c38911573a83cdb5bcd9a3d35b9c59951b519e7150f0729732f78.jpg",
+   "hosted": true,
+   "sha256": "c1cf6cc0d36c38911573a83cdb5bcd9a3d35b9c59951b519e7150f0729732f78",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.28284",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Huachen Gao et al., arXiv:2610.28284",
+   "attributionUrl": "https://arxiv.org/abs/2610.28284",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

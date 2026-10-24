@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.22466",
+ "ids": {
+  "arxiv": "2610.22466"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/77/7738649d32e9abdc8402a98dbceda33e34b29533370e00824b790f1aef9705e1.jpg",
+   "hosted": true,
+   "sha256": "7738649d32e9abdc8402a98dbceda33e34b29533370e00824b790f1aef9705e1",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.22466",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Wenxuan Ding et al., arXiv:2610.22466",
+   "attributionUrl": "https://arxiv.org/abs/2610.22466",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.28235",
+ "ids": {
+  "arxiv": "2610.28235"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/13/13617bf4d62553f69a8d7688780c708d1e8022d488d21903218013d8d5e761ab.jpg",
+   "hosted": true,
+   "sha256": "13617bf4d62553f69a8d7688780c708d1e8022d488d21903218013d8d5e761ab",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.28235",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Hedvig Borgen Reiersrud et al., arXiv:2610.28235",
+   "attributionUrl": "https://arxiv.org/abs/2610.28235",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

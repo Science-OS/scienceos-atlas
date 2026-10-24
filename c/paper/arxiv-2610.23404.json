@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.23404",
+ "ids": {
+  "arxiv": "2610.23404"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/1e/1efe7654b88cac035b0e940e9ed31cb737bcc4dc21b94853632234cee2ad9129.jpg",
+   "hosted": true,
+   "sha256": "1efe7654b88cac035b0e940e9ed31cb737bcc4dc21b94853632234cee2ad9129",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.23404",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Alberto Foresti et al., arXiv:2610.23404",
+   "attributionUrl": "https://arxiv.org/abs/2610.23404",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

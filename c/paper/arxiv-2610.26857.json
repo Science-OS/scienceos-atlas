@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.26857",
+ "ids": {
+  "arxiv": "2610.26857"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/7c/7cd9e8e16054b6f1d319c0e332dc8e176a710ada7f398d36671304626f0890d0.jpg",
+   "hosted": true,
+   "sha256": "7cd9e8e16054b6f1d319c0e332dc8e176a710ada7f398d36671304626f0890d0",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.26857",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Sangbeom Lim et al., arXiv:2610.26857",
+   "attributionUrl": "https://arxiv.org/abs/2610.26857",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

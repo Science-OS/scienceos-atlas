@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.22448",
+ "ids": {
+  "arxiv": "2610.22448"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ae/ae54563db0a49da7eea96542b34e845e47d3950d5c487546d8313741f290a8ac.jpg",
+   "hosted": true,
+   "sha256": "ae54563db0a49da7eea96542b34e845e47d3950d5c487546d8313741f290a8ac",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.22448",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Ruida Wang et al., arXiv:2610.22448",
+   "attributionUrl": "https://arxiv.org/abs/2610.22448",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

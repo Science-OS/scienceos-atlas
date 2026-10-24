@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.24628",
+ "ids": {
+  "arxiv": "2610.24628"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/dc/dc9cb914f7cf3b7da4df7e6865d604d89d2f0752a4eb577d3a46c8eb7461dc67.jpg",
+   "hosted": true,
+   "sha256": "dc9cb914f7cf3b7da4df7e6865d604d89d2f0752a4eb577d3a46c8eb7461dc67",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.24628",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Arash Ebrahim Abtahizadeh et al., arXiv:2610.24628",
+   "attributionUrl": "https://arxiv.org/abs/2610.24628",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

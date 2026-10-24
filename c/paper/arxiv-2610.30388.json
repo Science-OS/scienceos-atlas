@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.30388",
+ "ids": {
+  "arxiv": "2610.30388"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/34/3497111e8dc48b5b9b29808d310b0c24d4a10354a4456a81e788be7466cd878e.jpg",
+   "hosted": true,
+   "sha256": "3497111e8dc48b5b9b29808d310b0c24d4a10354a4456a81e788be7466cd878e",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.30388",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Qian Zhang et al., arXiv:2610.30388",
+   "attributionUrl": "https://arxiv.org/abs/2610.30388",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

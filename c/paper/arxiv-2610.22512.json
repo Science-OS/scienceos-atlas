@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.22512",
+ "ids": {
+  "arxiv": "2610.22512"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/50/50d2e728d43ccde617477231c1dd44797826b74da49e89446143ce424e161a6e.jpg",
+   "hosted": true,
+   "sha256": "50d2e728d43ccde617477231c1dd44797826b74da49e89446143ce424e161a6e",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.22512",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Kaijian Zou et al., arXiv:2610.22512",
+   "attributionUrl": "https://arxiv.org/abs/2610.22512",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

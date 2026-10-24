@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.22882",
+ "ids": {
+  "arxiv": "2610.22882"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/cd/cd124914c4aacbe2d230ed37076d2b01b7e0a14960fa350025039464b4808c97.jpg",
+   "hosted": true,
+   "sha256": "cd124914c4aacbe2d230ed37076d2b01b7e0a14960fa350025039464b4808c97",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.22882",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Trung-Kiet Huynh et al., arXiv:2610.22882",
+   "attributionUrl": "https://arxiv.org/abs/2610.22882",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

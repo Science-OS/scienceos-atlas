@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.29680",
+ "ids": {
+  "arxiv": "2610.29680"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/43/439a6e246a42f6aedeca1f9dd13a1d401fd7028e7c5e96fb52920cb01a8a208c.jpg",
+   "hosted": true,
+   "sha256": "439a6e246a42f6aedeca1f9dd13a1d401fd7028e7c5e96fb52920cb01a8a208c",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.29680",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Yan Wang, arXiv:2610.29680",
+   "attributionUrl": "https://arxiv.org/abs/2610.29680",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

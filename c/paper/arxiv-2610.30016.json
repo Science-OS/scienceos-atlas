@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.30016",
+ "ids": {
+  "arxiv": "2610.30016"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/9e/9e935d4931b5c5e117344acbedf99efc311a87bc65992bc5eaca4c542785cf75.jpg",
+   "hosted": true,
+   "sha256": "9e935d4931b5c5e117344acbedf99efc311a87bc65992bc5eaca4c542785cf75",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.30016",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Sujoy Roychowdhury et al., arXiv:2610.30016",
+   "attributionUrl": "https://arxiv.org/abs/2610.30016",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

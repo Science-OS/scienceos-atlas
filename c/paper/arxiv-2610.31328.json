@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.31328",
+ "ids": {
+  "arxiv": "2610.31328"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b0/b0453f662541af6a662882781ed8c864b44d292a1faa89a3d7c6150176ffd3ea.jpg",
+   "hosted": true,
+   "sha256": "b0453f662541af6a662882781ed8c864b44d292a1faa89a3d7c6150176ffd3ea",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.31328",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Marcos Matabuena et al., arXiv:2610.31328",
+   "attributionUrl": "https://arxiv.org/abs/2610.31328",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

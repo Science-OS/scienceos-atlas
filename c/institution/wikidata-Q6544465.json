@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q6544465",
+ "ids": {
+  "wikidata": "Q6544465",
+  "ror": "05qbk4x57"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.ucas.ac.cn&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "https://www.ucas.ac.cn",
+   "confidence": 0.5,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

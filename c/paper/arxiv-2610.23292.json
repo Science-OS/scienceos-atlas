@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.23292",
+ "ids": {
+  "arxiv": "2610.23292"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/fe/fe5b4a967330fe2ee0de06d0f48f6bbf90f63c34273bd52dac751bfc301ee0ef.jpg",
+   "hosted": true,
+   "sha256": "fe5b4a967330fe2ee0de06d0f48f6bbf90f63c34273bd52dac751bfc301ee0ef",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.23292",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Danilo Saccani et al., arXiv:2610.23292",
+   "attributionUrl": "https://arxiv.org/abs/2610.23292",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

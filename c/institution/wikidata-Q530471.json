@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q530471",
+ "ids": {
+  "wikidata": "Q530471",
+  "ror": "034t30j35"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.cas.cn/lib/images/favicon.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.cas.cn",
+   "attributionUrl": "https://www.cas.cn",
+   "confidence": 0.7,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

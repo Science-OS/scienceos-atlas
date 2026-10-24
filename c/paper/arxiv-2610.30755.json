@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.30755",
+ "ids": {
+  "arxiv": "2610.30755"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/12/1263b16acc10bd2b9159530b522cb804b2a10a1400f4c80aef4a435f5466e11f.jpg",
+   "hosted": true,
+   "sha256": "1263b16acc10bd2b9159530b522cb804b2a10a1400f4c80aef4a435f5466e11f",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.30755",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Zhengye Bao et al., arXiv:2610.30755",
+   "attributionUrl": "https://arxiv.org/abs/2610.30755",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

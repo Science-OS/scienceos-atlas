@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.22287",
+ "ids": {
+  "arxiv": "2610.22287"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/05/058ee45fd45bc6d3fd7c43c374dffae0e7fbb30b3f62921f8319ef7326f503f9.jpg",
+   "hosted": true,
+   "sha256": "058ee45fd45bc6d3fd7c43c374dffae0e7fbb30b3f62921f8319ef7326f503f9",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.22287",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Omar Adalat et al., arXiv:2610.22287",
+   "attributionUrl": "https://arxiv.org/abs/2610.22287",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

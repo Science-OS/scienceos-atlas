@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.29997",
+ "ids": {
+  "arxiv": "2610.29997"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/21/21f2ea427a1163cf2440492a4d0f5a452384e3743651bdb6bb77e685cfefcb6b.jpg",
+   "hosted": true,
+   "sha256": "21f2ea427a1163cf2440492a4d0f5a452384e3743651bdb6bb77e685cfefcb6b",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.29997",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Mingze Sun et al., arXiv:2610.29997",
+   "attributionUrl": "https://arxiv.org/abs/2610.29997",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

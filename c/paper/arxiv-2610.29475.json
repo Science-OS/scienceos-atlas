@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.29475",
+ "ids": {
+  "arxiv": "2610.29475"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/bf/bf3d384928b33c12e55fc89728935e6384091b3374009d1a9dbe12713d496440.jpg",
+   "hosted": true,
+   "sha256": "bf3d384928b33c12e55fc89728935e6384091b3374009d1a9dbe12713d496440",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.29475",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Ewsey Obzherin et al., arXiv:2610.29475",
+   "attributionUrl": "https://arxiv.org/abs/2610.29475",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

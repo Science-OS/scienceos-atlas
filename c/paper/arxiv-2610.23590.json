@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.23590",
+ "ids": {
+  "arxiv": "2610.23590"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/26/26e4f710225461bfe3960d87aa223664cf2f21c5671f49a6a85d4fdfc1da55b5.jpg",
+   "hosted": true,
+   "sha256": "26e4f710225461bfe3960d87aa223664cf2f21c5671f49a6a85d4fdfc1da55b5",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.23590",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Abigail Hickok et al., arXiv:2610.23590",
+   "attributionUrl": "https://arxiv.org/abs/2610.23590",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

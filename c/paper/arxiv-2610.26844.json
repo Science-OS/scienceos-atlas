@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.26844",
+ "ids": {
+  "arxiv": "2610.26844"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/6c/6c4f871c8f47434a62a4820599480767a11e250ac3d0bb733ffc7f93c3c803da.jpg",
+   "hosted": true,
+   "sha256": "6c4f871c8f47434a62a4820599480767a11e250ac3d0bb733ffc7f93c3c803da",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.26844",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Heejeong Nam et al., arXiv:2610.26844",
+   "attributionUrl": "https://arxiv.org/abs/2610.26844",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

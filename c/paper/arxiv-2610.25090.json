@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.25090",
+ "ids": {
+  "arxiv": "2610.25090"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/27/27d9ae74856baf4104c9edfdd0c95eafb28766c2f3bac84815c7a4eb8c2ff25f.jpg",
+   "hosted": true,
+   "sha256": "27d9ae74856baf4104c9edfdd0c95eafb28766c2f3bac84815c7a4eb8c2ff25f",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.25090",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Junwei Wen et al., arXiv:2610.25090",
+   "attributionUrl": "https://arxiv.org/abs/2610.25090",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

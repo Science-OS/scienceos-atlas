@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.23787",
+ "ids": {
+  "arxiv": "2610.23787"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d6/d6cfccb41af4e7c2d2f30051a0c91262d2fd277e4baff5a247225392622d097c.jpg",
+   "hosted": true,
+   "sha256": "d6cfccb41af4e7c2d2f30051a0c91262d2fd277e4baff5a247225392622d097c",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.23787",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Jiaming Xu et al., arXiv:2610.23787",
+   "attributionUrl": "https://arxiv.org/abs/2610.23787",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

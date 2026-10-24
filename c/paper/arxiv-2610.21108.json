@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.21108",
+ "ids": {
+  "arxiv": "2610.21108"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/f9/f99a27b4cb38d601a02f967e30c5b19ffb050fca351876b82191c36f057799ea.jpg",
+   "hosted": true,
+   "sha256": "f99a27b4cb38d601a02f967e30c5b19ffb050fca351876b82191c36f057799ea",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.21108",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Cassie Huang et al., arXiv:2610.21108",
+   "attributionUrl": "https://arxiv.org/abs/2610.21108",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

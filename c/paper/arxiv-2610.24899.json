@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.24899",
+ "ids": {
+  "arxiv": "2610.24899"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/f6/f64cc9168ec27c59c2184d6988f504caceb224fcdeb6318158e7f1a5a50da86e.jpg",
+   "hosted": true,
+   "sha256": "f64cc9168ec27c59c2184d6988f504caceb224fcdeb6318158e7f1a5a50da86e",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.24899",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Soyoung Yoon et al., arXiv:2610.24899",
+   "attributionUrl": "https://arxiv.org/abs/2610.24899",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

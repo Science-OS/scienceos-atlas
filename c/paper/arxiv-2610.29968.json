@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.29968",
+ "ids": {
+  "arxiv": "2610.29968"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b7/b721e8435a5e7e57f33c06432e7852c87a69e49c3020ae6b3da0285ad520310c.jpg",
+   "hosted": true,
+   "sha256": "b721e8435a5e7e57f33c06432e7852c87a69e49c3020ae6b3da0285ad520310c",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.29968",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "My Chiffon Nguyen et al., arXiv:2610.29968",
+   "attributionUrl": "https://arxiv.org/abs/2610.29968",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

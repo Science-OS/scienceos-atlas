@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.21085",
+ "ids": {
+  "arxiv": "2610.21085"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/1f/1fffd79b7d1ff0ca552355eb72506759ffce7b7dd05c863627fa400d3330454a.jpg",
+   "hosted": true,
+   "sha256": "1fffd79b7d1ff0ca552355eb72506759ffce7b7dd05c863627fa400d3330454a",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.21085",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Alessandro Rozza et al., arXiv:2610.21085",
+   "attributionUrl": "https://arxiv.org/abs/2610.21085",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

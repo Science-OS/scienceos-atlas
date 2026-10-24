@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.24649",
+ "ids": {
+  "arxiv": "2610.24649"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/38/38500a92e976dc2aba2fa6a8daaedf7f5ed667eeddaa93562447c8658f603af0.jpg",
+   "hosted": true,
+   "sha256": "38500a92e976dc2aba2fa6a8daaedf7f5ed667eeddaa93562447c8658f603af0",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.24649",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Naman Vats, arXiv:2610.24649",
+   "attributionUrl": "https://arxiv.org/abs/2610.24649",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

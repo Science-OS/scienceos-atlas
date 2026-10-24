@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.30073",
+ "ids": {
+  "arxiv": "2610.30073"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/97/971fe8d8b042708847a372ce26e2eb3f2004fe97fcb0bed074bd2b85e2637e22.jpg",
+   "hosted": true,
+   "sha256": "971fe8d8b042708847a372ce26e2eb3f2004fe97fcb0bed074bd2b85e2637e22",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.30073",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Gilad Lerman et al., arXiv:2610.30073",
+   "attributionUrl": "https://arxiv.org/abs/2610.30073",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.27360",
+ "ids": {
+  "arxiv": "2610.27360"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c9/c961b55620c9a8a378e0d754d9a6d6ac20e75836022be66df0a239fed40951e5.jpg",
+   "hosted": true,
+   "sha256": "c961b55620c9a8a378e0d754d9a6d6ac20e75836022be66df0a239fed40951e5",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.27360",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Rohit Saxena et al., arXiv:2610.27360",
+   "attributionUrl": "https://arxiv.org/abs/2610.27360",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

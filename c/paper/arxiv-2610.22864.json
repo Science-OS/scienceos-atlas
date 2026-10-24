@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.22864",
+ "ids": {
+  "arxiv": "2610.22864"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/7f/7f033b69f3bccacbf33009d90e31bd720b897a319a20775e1f18edac83f479f6.jpg",
+   "hosted": true,
+   "sha256": "7f033b69f3bccacbf33009d90e31bd720b897a319a20775e1f18edac83f479f6",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.22864",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Hexiao Liu et al., arXiv:2610.22864",
+   "attributionUrl": "https://arxiv.org/abs/2610.22864",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

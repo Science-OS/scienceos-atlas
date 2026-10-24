@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.28559",
+ "ids": {
+  "arxiv": "2610.28559"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/30/30c7201f50aa75bf7b555f3120fe0b60f39beafe8dff3f14912001940778f019.jpg",
+   "hosted": true,
+   "sha256": "30c7201f50aa75bf7b555f3120fe0b60f39beafe8dff3f14912001940778f019",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.28559",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Arnav Chavan et al., arXiv:2610.28559",
+   "attributionUrl": "https://arxiv.org/abs/2610.28559",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

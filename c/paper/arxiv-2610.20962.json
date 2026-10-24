@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.20962",
+ "ids": {
+  "arxiv": "2610.20962"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c5/c569cab017627a8e51b765832047f73e127acefc2e686617981b6611a837ea98.jpg",
+   "hosted": true,
+   "sha256": "c569cab017627a8e51b765832047f73e127acefc2e686617981b6611a837ea98",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.20962",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Ravan Nazaraliyev et al., arXiv:2610.20962",
+   "attributionUrl": "https://arxiv.org/abs/2610.20962",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

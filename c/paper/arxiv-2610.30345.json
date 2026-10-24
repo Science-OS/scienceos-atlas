@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.30345",
+ "ids": {
+  "arxiv": "2610.30345"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/8d/8dd54d0b24da57639296d7caeeb8626558bf398f750f111fbd2a861a0dcc0430.jpg",
+   "hosted": true,
+   "sha256": "8dd54d0b24da57639296d7caeeb8626558bf398f750f111fbd2a861a0dcc0430",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.30345",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Aakash Saini et al., arXiv:2610.30345",
+   "attributionUrl": "https://arxiv.org/abs/2610.30345",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

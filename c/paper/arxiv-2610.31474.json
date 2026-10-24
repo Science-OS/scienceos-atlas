@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.31474",
+ "ids": {
+  "arxiv": "2610.31474"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/69/69c665555b78939fe2bb1d7f799464759bb1ec36e359407e655f3052e20f561f.jpg",
+   "hosted": true,
+   "sha256": "69c665555b78939fe2bb1d7f799464759bb1ec36e359407e655f3052e20f561f",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.31474",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Qi Lv et al., arXiv:2610.31474",
+   "attributionUrl": "https://arxiv.org/abs/2610.31474",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

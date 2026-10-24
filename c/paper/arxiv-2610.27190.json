@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.27190",
+ "ids": {
+  "arxiv": "2610.27190"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/1a/1a3757480428b0d35e32697540d4e21975488c0b1aa249b912ce3cf15df0e747.jpg",
+   "hosted": true,
+   "sha256": "1a3757480428b0d35e32697540d4e21975488c0b1aa249b912ce3cf15df0e747",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.27190",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Chenpan Li et al., arXiv:2610.27190",
+   "attributionUrl": "https://arxiv.org/abs/2610.27190",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

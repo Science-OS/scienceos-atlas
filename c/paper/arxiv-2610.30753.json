@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.30753",
+ "ids": {
+  "arxiv": "2610.30753"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/56/56050c800b61344309d8044b6803870d47b0e6ac663a3a23b9c1d18056447aea.jpg",
+   "hosted": true,
+   "sha256": "56050c800b61344309d8044b6803870d47b0e6ac663a3a23b9c1d18056447aea",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.30753",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Yiming Zhang et al., arXiv:2610.30753",
+   "attributionUrl": "https://arxiv.org/abs/2610.30753",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

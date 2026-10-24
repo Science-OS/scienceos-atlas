@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.28999",
+ "ids": {
+  "arxiv": "2610.28999"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/6b/6b165b9a82d0ef4b7c3e63f1568a75bbdd15b5e690b2f73f1c14457ec5c5ba9d.jpg",
+   "hosted": true,
+   "sha256": "6b165b9a82d0ef4b7c3e63f1568a75bbdd15b5e690b2f73f1c14457ec5c5ba9d",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.28999",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Arman Adibi et al., arXiv:2610.28999",
+   "attributionUrl": "https://arxiv.org/abs/2610.28999",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

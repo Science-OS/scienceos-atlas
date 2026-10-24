@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.29215",
+ "ids": {
+  "arxiv": "2610.29215"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/08/0887fbad88ae10ec8948dd22dd74f13c659a718fa80b44485117a9572ce6d39e.jpg",
+   "hosted": true,
+   "sha256": "0887fbad88ae10ec8948dd22dd74f13c659a718fa80b44485117a9572ce6d39e",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.29215",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Siva Athreya et al., arXiv:2610.29215",
+   "attributionUrl": "https://arxiv.org/abs/2610.29215",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.26754",
+ "ids": {
+  "arxiv": "2610.26754"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/f7/f7d991f9f958e3b65954057b4e5ca859eb492ca60fd3d9a7715d03c35a473909.jpg",
+   "hosted": true,
+   "sha256": "f7d991f9f958e3b65954057b4e5ca859eb492ca60fd3d9a7715d03c35a473909",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.26754",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Liana Patel et al., arXiv:2610.26754",
+   "attributionUrl": "https://arxiv.org/abs/2610.26754",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

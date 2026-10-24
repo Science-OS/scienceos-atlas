@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.28069",
+ "ids": {
+  "arxiv": "2610.28069"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/8e/8ec6a1572b2ee5fea69a38a2e0b0e8c0b97858fee3501b5584e022c8c824fd60.jpg",
+   "hosted": true,
+   "sha256": "8ec6a1572b2ee5fea69a38a2e0b0e8c0b97858fee3501b5584e022c8c824fd60",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.28069",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Lingxiao Tang et al., arXiv:2610.28069",
+   "attributionUrl": "https://arxiv.org/abs/2610.28069",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

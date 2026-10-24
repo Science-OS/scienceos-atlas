@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.23826",
+ "ids": {
+  "arxiv": "2610.23826"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/a5/a597d971ea3bb3684cdcb9a6de38aca7bb15b1068994f71ab8eab67fa4ec77ba.jpg",
+   "hosted": true,
+   "sha256": "a597d971ea3bb3684cdcb9a6de38aca7bb15b1068994f71ab8eab67fa4ec77ba",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.23826",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Jiaru Bai et al., arXiv:2610.23826",
+   "attributionUrl": "https://arxiv.org/abs/2610.23826",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

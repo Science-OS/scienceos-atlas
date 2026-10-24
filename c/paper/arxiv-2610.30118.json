@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.30118",
+ "ids": {
+  "arxiv": "2610.30118"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/a1/a15770d5c76c002ec58b80000f3dc6a95e21a0210da89680e7119682f90297ac.jpg",
+   "hosted": true,
+   "sha256": "a15770d5c76c002ec58b80000f3dc6a95e21a0210da89680e7119682f90297ac",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.30118",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Francesco Mori et al., arXiv:2610.30118",
+   "attributionUrl": "https://arxiv.org/abs/2610.30118",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

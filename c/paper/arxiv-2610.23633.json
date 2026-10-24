@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.23633",
+ "ids": {
+  "arxiv": "2610.23633"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/05/055c48a2594681aac6216574c2ce11a9800248fe35a0a6542991765e9cc6a757.jpg",
+   "hosted": true,
+   "sha256": "055c48a2594681aac6216574c2ce11a9800248fe35a0a6542991765e9cc6a757",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.23633",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Valentina Astore et al., arXiv:2610.23633",
+   "attributionUrl": "https://arxiv.org/abs/2610.23633",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

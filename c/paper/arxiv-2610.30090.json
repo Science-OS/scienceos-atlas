@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.30090",
+ "ids": {
+  "arxiv": "2610.30090"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/7b/7baf18c7dbc5ca23047953a79ae1b5b04da74d7e32b90077ca5c8cf19aca9f8b.jpg",
+   "hosted": true,
+   "sha256": "7baf18c7dbc5ca23047953a79ae1b5b04da74d7e32b90077ca5c8cf19aca9f8b",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.30090",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Juan S. Santillana, arXiv:2610.30090",
+   "attributionUrl": "https://arxiv.org/abs/2610.30090",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

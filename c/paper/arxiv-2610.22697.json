@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.22697",
+ "ids": {
+  "arxiv": "2610.22697"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/62/62dc2939f49359d989b1b489a180f2a3c6a911a39b4172f78b718cc80d04d9a6.jpg",
+   "hosted": true,
+   "sha256": "62dc2939f49359d989b1b489a180f2a3c6a911a39b4172f78b718cc80d04d9a6",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.22697",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Umar Iqbal, arXiv:2610.22697",
+   "attributionUrl": "https://arxiv.org/abs/2610.22697",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

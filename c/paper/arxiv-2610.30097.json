@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.30097",
+ "ids": {
+  "arxiv": "2610.30097"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ec/ec2f9795da37ab0d3cdfb6c5d3c67a5eaea184aa736d605c8054dd7188bd4f76.jpg",
+   "hosted": true,
+   "sha256": "ec2f9795da37ab0d3cdfb6c5d3c67a5eaea184aa736d605c8054dd7188bd4f76",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.30097",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Likui Zhang et al., arXiv:2610.30097",
+   "attributionUrl": "https://arxiv.org/abs/2610.30097",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

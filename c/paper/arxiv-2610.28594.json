@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.28594",
+ "ids": {
+  "arxiv": "2610.28594"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/6b/6bb8a81031e45f6bcee4427ca03983faf82cadbc0e46456c44ad6d01e301d609.jpg",
+   "hosted": true,
+   "sha256": "6bb8a81031e45f6bcee4427ca03983faf82cadbc0e46456c44ad6d01e301d609",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.28594",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Byungwoo Jeon et al., arXiv:2610.28594",
+   "attributionUrl": "https://arxiv.org/abs/2610.28594",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

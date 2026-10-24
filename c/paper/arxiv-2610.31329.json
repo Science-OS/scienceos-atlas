@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.31329",
+ "ids": {
+  "arxiv": "2610.31329"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ab/abf3a849fb5d691f56be5ddbd020a004c5d52dce100b711c284ea7d2e2ba26ff.jpg",
+   "hosted": true,
+   "sha256": "abf3a849fb5d691f56be5ddbd020a004c5d52dce100b711c284ea7d2e2ba26ff",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.31329",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Tianming Liang et al., arXiv:2610.31329",
+   "attributionUrl": "https://arxiv.org/abs/2610.31329",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

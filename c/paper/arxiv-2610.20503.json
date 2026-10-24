@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.20503",
+ "ids": {
+  "arxiv": "2610.20503"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/cc/ccdff7d148a2197b45a12cc066627aea27a8788872fb30ddc7d406abe817dd1c.jpg",
+   "hosted": true,
+   "sha256": "ccdff7d148a2197b45a12cc066627aea27a8788872fb30ddc7d406abe817dd1c",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.20503",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Bohan Sun et al., arXiv:2610.20503",
+   "attributionUrl": "https://arxiv.org/abs/2610.20503",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

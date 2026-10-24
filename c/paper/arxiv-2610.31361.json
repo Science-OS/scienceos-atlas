@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.31361",
+ "ids": {
+  "arxiv": "2610.31361"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/f6/f6de76a8e683c5bff20a1acbc7f68b71550d1d13ea6c2d87968ead4ef8d79232.jpg",
+   "hosted": true,
+   "sha256": "f6de76a8e683c5bff20a1acbc7f68b71550d1d13ea6c2d87968ead4ef8d79232",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.31361",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Abdallah BenAbdallah et al., arXiv:2610.31361",
+   "attributionUrl": "https://arxiv.org/abs/2610.31361",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

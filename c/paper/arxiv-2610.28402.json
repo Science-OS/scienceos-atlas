@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.28402",
+ "ids": {
+  "arxiv": "2610.28402"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ce/ce23bd3591502922cd2e7d8f2f2160bd410c1a97ea41c2bd2c2ebd7d7db47b5e.jpg",
+   "hosted": true,
+   "sha256": "ce23bd3591502922cd2e7d8f2f2160bd410c1a97ea41c2bd2c2ebd7d7db47b5e",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.28402",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "StreamEval Team, arXiv:2610.28402",
+   "attributionUrl": "https://arxiv.org/abs/2610.28402",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.25078",
+ "ids": {
+  "arxiv": "2610.25078"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e6/e664abb6b144b9dd8103fa7db7902e1479ac1604d4610d4bf8c4f98014f41c50.jpg",
+   "hosted": true,
+   "sha256": "e664abb6b144b9dd8103fa7db7902e1479ac1604d4610d4bf8c4f98014f41c50",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.25078",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Jiaqi Su et al., arXiv:2610.25078",
+   "attributionUrl": "https://arxiv.org/abs/2610.25078",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

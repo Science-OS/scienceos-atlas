@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.28581",
+ "ids": {
+  "arxiv": "2610.28581"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/bc/bcf240b383bd30704847037f6244c3e984229132b9e3cd9bf3847b9fb7f47189.jpg",
+   "hosted": true,
+   "sha256": "bcf240b383bd30704847037f6244c3e984229132b9e3cd9bf3847b9fb7f47189",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.28581",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Maciej Skórski, arXiv:2610.28581",
+   "attributionUrl": "https://arxiv.org/abs/2610.28581",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

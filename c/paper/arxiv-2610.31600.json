@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.31600",
+ "ids": {
+  "arxiv": "2610.31600"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c9/c90bf081e174cbae0d3877e1d52235ab90d41b3a2c6450c65535e7e28359fd0f.jpg",
+   "hosted": true,
+   "sha256": "c90bf081e174cbae0d3877e1d52235ab90d41b3a2c6450c65535e7e28359fd0f",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.31600",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Viktor Stein et al., arXiv:2610.31600",
+   "attributionUrl": "https://arxiv.org/abs/2610.31600",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

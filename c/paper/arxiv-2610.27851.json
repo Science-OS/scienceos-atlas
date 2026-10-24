@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.27851",
+ "ids": {
+  "arxiv": "2610.27851"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b2/b206886e6f09e3a53c51d0f6f697b1817880a279eef4c1b0ec9d3a2226241305.jpg",
+   "hosted": true,
+   "sha256": "b206886e6f09e3a53c51d0f6f697b1817880a279eef4c1b0ec9d3a2226241305",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.27851",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Junha Song et al., arXiv:2610.27851",
+   "attributionUrl": "https://arxiv.org/abs/2610.27851",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.29812",
+ "ids": {
+  "arxiv": "2610.29812"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/2c/2c272668c79b646c151a54a7d4e1b92cb41e227a5532fcff74a65228f2f53ca8.jpg",
+   "hosted": true,
+   "sha256": "2c272668c79b646c151a54a7d4e1b92cb41e227a5532fcff74a65228f2f53ca8",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.29812",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Mohammed Saqlain, arXiv:2610.29812",
+   "attributionUrl": "https://arxiv.org/abs/2610.29812",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

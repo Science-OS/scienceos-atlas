@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.23036",
+ "ids": {
+  "arxiv": "2610.23036"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/07/070e57aa7589553247289727d098ba25c2a6b0870c7d9fc63443a424f34156b4.jpg",
+   "hosted": true,
+   "sha256": "070e57aa7589553247289727d098ba25c2a6b0870c7d9fc63443a424f34156b4",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.23036",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Benhao Huang et al., arXiv:2610.23036",
+   "attributionUrl": "https://arxiv.org/abs/2610.23036",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

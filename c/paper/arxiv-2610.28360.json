@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.28360",
+ "ids": {
+  "arxiv": "2610.28360"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/70/709ceb4b6d391a2cb6c421941e756b66fcaff785db46e410fcfd52aa84108040.jpg",
+   "hosted": true,
+   "sha256": "709ceb4b6d391a2cb6c421941e756b66fcaff785db46e410fcfd52aa84108040",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.28360",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Sebastian Reboul et al., arXiv:2610.28360",
+   "attributionUrl": "https://arxiv.org/abs/2610.28360",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

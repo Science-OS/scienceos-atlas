@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.24738",
+ "ids": {
+  "arxiv": "2610.24738"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/2d/2d2a8ae404efdd72b9accecc7fe28e4a009d1bb4094a37cd2fe65d0272b32045.jpg",
+   "hosted": true,
+   "sha256": "2d2a8ae404efdd72b9accecc7fe28e4a009d1bb4094a37cd2fe65d0272b32045",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.24738",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Wen Xue et al., arXiv:2610.24738",
+   "attributionUrl": "https://arxiv.org/abs/2610.24738",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

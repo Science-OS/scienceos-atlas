@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.27040",
+ "ids": {
+  "arxiv": "2610.27040"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/bb/bb1ecb60969661b297fa302d07a9e15550c7b4b99f97257d94f7a16d558d36a0.jpg",
+   "hosted": true,
+   "sha256": "bb1ecb60969661b297fa302d07a9e15550c7b4b99f97257d94f7a16d558d36a0",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.27040",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Yinhe Wang et al., arXiv:2610.27040",
+   "attributionUrl": "https://arxiv.org/abs/2610.27040",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

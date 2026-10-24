@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.21171",
+ "ids": {
+  "arxiv": "2610.21171"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b5/b52a9b8c1ece2549855c418f6efaf827c52da0fa63a0145036bef9744dddcf1e.jpg",
+   "hosted": true,
+   "sha256": "b52a9b8c1ece2549855c418f6efaf827c52da0fa63a0145036bef9744dddcf1e",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.21171",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Bin Gao et al., arXiv:2610.21171",
+   "attributionUrl": "https://arxiv.org/abs/2610.21171",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

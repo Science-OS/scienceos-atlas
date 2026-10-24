@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.26830",
+ "ids": {
+  "arxiv": "2610.26830"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/f3/f384250adec84ab664671654c0ee6662ebbd3ff325742ff05f2ea9fb4270fa85.jpg",
+   "hosted": true,
+   "sha256": "f384250adec84ab664671654c0ee6662ebbd3ff325742ff05f2ea9fb4270fa85",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.26830",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Xingyu Shen et al., arXiv:2610.26830",
+   "attributionUrl": "https://arxiv.org/abs/2610.26830",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

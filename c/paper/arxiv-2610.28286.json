@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.28286",
+ "ids": {
+  "arxiv": "2610.28286"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/a4/a40e8e2e2cda169fb96620ad28928306d5555c41e6ea438bd6e812d12e42c214.jpg",
+   "hosted": true,
+   "sha256": "a40e8e2e2cda169fb96620ad28928306d5555c41e6ea438bd6e812d12e42c214",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.28286",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Ivan Ilin et al., arXiv:2610.28286",
+   "attributionUrl": "https://arxiv.org/abs/2610.28286",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

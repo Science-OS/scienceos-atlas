@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.22708",
+ "ids": {
+  "arxiv": "2610.22708"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/3e/3ee14780c76d4107685bce58de28f8737cfc3bc6420f808a06db7b6817583e45.jpg",
+   "hosted": true,
+   "sha256": "3ee14780c76d4107685bce58de28f8737cfc3bc6420f808a06db7b6817583e45",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.22708",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Nicholas Saban et al., arXiv:2610.22708",
+   "attributionUrl": "https://arxiv.org/abs/2610.22708",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

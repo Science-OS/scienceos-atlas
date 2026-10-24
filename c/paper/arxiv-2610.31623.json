@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.31623",
+ "ids": {
+  "arxiv": "2610.31623"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/67/67593cc53844af58c42e619a76199d4e8a0aa6c1a034719df621466111ddd559.jpg",
+   "hosted": true,
+   "sha256": "67593cc53844af58c42e619a76199d4e8a0aa6c1a034719df621466111ddd559",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.31623",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Jinyu Zhang et al., arXiv:2610.31623",
+   "attributionUrl": "https://arxiv.org/abs/2610.31623",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

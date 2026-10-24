@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.26216",
+ "ids": {
+  "arxiv": "2610.26216"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/df/df4cd314bfb3032f695dce8c6e6af10e5e570e2940f1d5a18bbb84dddbfb9dff.jpg",
+   "hosted": true,
+   "sha256": "df4cd314bfb3032f695dce8c6e6af10e5e570e2940f1d5a18bbb84dddbfb9dff",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.26216",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Yang Yue et al., arXiv:2610.26216",
+   "attributionUrl": "https://arxiv.org/abs/2610.26216",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

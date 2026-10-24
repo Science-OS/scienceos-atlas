@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.23279",
+ "ids": {
+  "arxiv": "2610.23279"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/98/981fa8e0a2c7691dc9e3d2d1c1bbfd274cc0d9087db71ef5fd54434392cbc9b8.jpg",
+   "hosted": true,
+   "sha256": "981fa8e0a2c7691dc9e3d2d1c1bbfd274cc0d9087db71ef5fd54434392cbc9b8",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.23279",
+   "license": "CC0 1.0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0",
+   "attribution": "Pei Fu et al., arXiv:2610.23279",
+   "attributionUrl": "https://arxiv.org/abs/2610.23279",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

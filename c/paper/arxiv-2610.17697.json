@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.17697",
+ "ids": {
+  "arxiv": "2610.17697"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d1/d1cdeeeb56d476a54a56de8a1384325d2631e38b783c2147d7674f2789853eea.jpg",
+   "hosted": true,
+   "sha256": "d1cdeeeb56d476a54a56de8a1384325d2631e38b783c2147d7674f2789853eea",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.17697",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Rodney Lafuente-Mercado et al., arXiv:2610.17697",
+   "attributionUrl": "https://arxiv.org/abs/2610.17697",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

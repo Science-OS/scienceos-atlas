@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.23010",
+ "ids": {
+  "arxiv": "2610.23010"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/0e/0e48bfb4cb374c020f447f0f581bd1cbfd77e503da6fc9297d66e71571c3b160.jpg",
+   "hosted": true,
+   "sha256": "0e48bfb4cb374c020f447f0f581bd1cbfd77e503da6fc9297d66e71571c3b160",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.23010",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Yiyuan Pan et al., arXiv:2610.23010",
+   "attributionUrl": "https://arxiv.org/abs/2610.23010",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.30113",
+ "ids": {
+  "arxiv": "2610.30113"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/9b/9ba67065366bec0f2e5cc823b996d6903a2c6e0fc489029379a7331e91d03e6b.jpg",
+   "hosted": true,
+   "sha256": "9ba67065366bec0f2e5cc823b996d6903a2c6e0fc489029379a7331e91d03e6b",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.30113",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Houde Qian et al., arXiv:2610.30113",
+   "attributionUrl": "https://arxiv.org/abs/2610.30113",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

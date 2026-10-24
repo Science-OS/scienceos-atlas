@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.31062",
+ "ids": {
+  "arxiv": "2610.31062"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/a3/a3ca6a410c798716e22f250b19a938f88f4a769ffe54f3519f2269d5a2eb6a45.jpg",
+   "hosted": true,
+   "sha256": "a3ca6a410c798716e22f250b19a938f88f4a769ffe54f3519f2269d5a2eb6a45",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.31062",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Arnon Mazza et al., arXiv:2610.31062",
+   "attributionUrl": "https://arxiv.org/abs/2610.31062",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01rxvg760",
+ "ids": {
+  "wikidata": "Q683580",
+  "ror": "01rxvg760"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/aa/aa246b109af224a4dc3ba02d883ff760a16a98fa258e65ca601eee7d907f969b.webp",
+   "hosted": true,
+   "sha256": "aa246b109af224a4dc3ba02d883ff760a16a98fa258e65ca601eee7d907f969b",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 128,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Motto_of_Nanjing_University_.jpg",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "attribution": "中國之新民（THE NEW CITIZEN OF CHINA）",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Motto_of_Nanjing_University_.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}

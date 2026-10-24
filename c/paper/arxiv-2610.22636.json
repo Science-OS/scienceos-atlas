@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.22636",
+ "ids": {
+  "arxiv": "2610.22636"
+ },
+ "updatedAt": "2026-10-24T08:53:58Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/80/80a9f0abca4cb38aac66e525e4225c87348c499cef6837d88b0d0242ec522832.jpg",
+   "hosted": true,
+   "sha256": "80a9f0abca4cb38aac66e525e4225c87348c499cef6837d88b0d0242ec522832",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.22636",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Aneesh Komanduri et al., arXiv:2610.22636",
+   "attributionUrl": "https://arxiv.org/abs/2610.22636",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-24T08:53:58Z"
+  }
+ ]
+}
