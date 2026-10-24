@@ -1,0 +1,38 @@
+{
+ "continue": {
+  "iistart": "2018-06-25T09:49:18Z",
+  "continue": "||"
+ },
+ "query": {
+  "pages": {
+   "70224534": {
+    "pageid": 70224534,
+    "ns": 6,
+    "title": "File:ETH Zürich Logo black.svg",
+    "imagerepository": "local",
+    "imageinfo": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/ETH_Z%C3%BCrich_Logo_black.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:ETH_Z%C3%BCrich_Logo_black.svg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=70224534",
+      "extmetadata": {
+       "Credit": {
+        "value": "Own work using: <a rel=\"nofollow\" class=\"external free\" href=\"https://www.ethz.ch/etc/designs/ethz/img/header/ethz_logo_white.svg\">https://www.ethz.ch/etc/designs/ethz/img/header/ethz_logo_white.svg</a>",
+        "source": "commons-desc-page"
+       },
+       "Artist": {
+        "value": "<a href=\"https://de.wikipedia.org/wiki/ETH_Z%C3%BCrich\" class=\"extiw\" title=\"de:ETH Zürich\">ETH Zürich</a>",
+        "source": "commons-desc-page"
+       },
+       "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+       }
+      }
+     }
+    ]
+   }
+  }
+ }
+}

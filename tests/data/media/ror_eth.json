@@ -1,0 +1,102 @@
+{
+ "id": "https://ror.org/05a28rw58",
+ "names": [
+  {
+   "lang": "en",
+   "types": [
+    "ror_display",
+    "label"
+   ],
+   "value": "ETH Zurich"
+  },
+  {
+   "lang": "de",
+   "types": [
+    "label"
+   ],
+   "value": "ETH Zürich"
+  },
+  {
+   "lang": "it",
+   "types": [
+    "label"
+   ],
+   "value": "ETH di Zurigo"
+  },
+  {
+   "lang": "de",
+   "types": [
+    "alias"
+   ],
+   "value": "Eidgenössische Technische Hochschule Zürich"
+  },
+  {
+   "lang": "it",
+   "types": [
+    "alias"
+   ],
+   "value": "Politecnico Federale di Zurigo"
+  },
+  {
+   "lang": "en",
+   "types": [
+    "alias"
+   ],
+   "value": "Swiss Federal Institute of Technology in Zurich"
+  },
+  {
+   "lang": "fr",
+   "types": [
+    "alias"
+   ],
+   "value": "École Polytechnique Fédérale de Zurich"
+  }
+ ],
+ "links": [
+  {
+   "type": "website",
+   "value": "https://ethz.ch"
+  },
+  {
+   "type": "wikipedia",
+   "value": "http://en.wikipedia.org/wiki/ETH_Zurich"
+  }
+ ],
+ "external_ids": [
+  {
+   "all": [
+    "501100003006",
+    "501100001710",
+    "501100003070"
+   ],
+   "preferred": "501100003006",
+   "type": "fundref"
+  },
+  {
+   "all": [
+    "grid.5801.c"
+   ],
+   "preferred": "grid.5801.c",
+   "type": "grid"
+  },
+  {
+   "all": [
+    "0000 0001 2156 2780"
+   ],
+   "preferred": "0000 0001 2156 2780",
+   "type": "isni"
+  },
+  {
+   "all": [
+    "Q11942"
+   ],
+   "preferred": "Q11942",
+   "type": "wikidata"
+  }
+ ],
+ "types": [
+  "education",
+  "funder"
+ ],
+ "status": "active"
+}

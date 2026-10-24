@@ -88,3 +88,27 @@ def test_every_request_goes_through_the_shared_throttle(clock):
     for _ in range(4):
         c.get("https://x.test/")
     assert clock.sleeps == [3.0, 3.0, 3.0]
+
+
+def test_head_goes_through_the_same_throttle_and_retries(clock):
+    seen = []
+
+    def handler(req: httpx.Request) -> httpx.Response:
+        seen.append(req.method)
+        return httpx.Response(503, headers={"Retry-After": "5"}) if len(seen) == 1 else httpx.Response(200)
+
+    c = PoliteClient("ua", 3.0, transport=mock_transport(handler), sleep=clock.sleep, clock=clock.now)
+    assert c.head("https://x.test/a").status_code == 200
+    assert seen == ["HEAD", "HEAD"] and 5 in clock.sleeps and c.requests_made == 2
+
+
+def test_follow_redirects_can_be_switched_off_per_call(clock):
+    def handler(req: httpx.Request) -> httpx.Response:
+        return httpx.Response(302, headers={"Location": "https://y.test/b"}) if req.url.host == "x.test" else httpx.Response(200, text="end")
+
+    c = PoliteClient("ua", 0.0, transport=mock_transport(handler), sleep=clock.sleep, clock=clock.now)
+    assert c.get("https://x.test/a").text == "end"                                       # the client default follows
+    r = c.get("https://x.test/a", follow_redirects=False)
+    assert r.status_code == 302 and r.headers["location"] == "https://y.test/b"
+    streamed = c.get("https://x.test/a", max_bytes=100, follow_redirects=False)
+    assert streamed.status_code == 302

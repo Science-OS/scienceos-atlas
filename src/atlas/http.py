@@ -110,11 +110,12 @@ class PoliteClient:
     def __exit__(self, *exc: Any) -> None:
         self.close()
 
-    def _fetch(self, url: str, params: dict[str, Any] | None, headers: dict[str, str] | None,
-               max_bytes: int | None) -> httpx.Response:
+    def _fetch(self, method: str, url: str, params: dict[str, Any] | None, headers: dict[str, str] | None,
+               max_bytes: int | None, follow_redirects: bool | None) -> httpx.Response:
+        extra: dict[str, Any] = {} if follow_redirects is None else {"follow_redirects": follow_redirects}
         if max_bytes is None:
-            return self._client.get(url, params=params, headers=headers)
-        with self._client.stream("GET", url, params=params, headers=headers) as resp:
+            return self._client.request(method, url, params=params, headers=headers, **extra)
+        with self._client.stream(method, url, params=params, headers=headers, **extra) as resp:
             declared = resp.headers.get("content-length")
             if declared and declared.isdigit() and int(declared) > max_bytes:
                 raise _TooLarge()
@@ -132,21 +133,37 @@ class PoliteClient:
         params: dict[str, Any] | None = None,
         headers: dict[str, str] | None = None,
         max_bytes: int | None = None,
+        follow_redirects: bool | None = None,
     ) -> httpx.Response:
         """GET with throttle + retries. With `max_bytes` the body is streamed and the call fails
-        (HttpError, status None) as soon as it grows past the cap."""
+        (HttpError, status None) as soon as it grows past the cap. `follow_redirects` overrides the
+        client default for this call (None keeps it)."""
+        return self.request("GET", url, params=params, headers=headers, max_bytes=max_bytes, follow_redirects=follow_redirects)
+
+    def head(self, url: str, headers: dict[str, str] | None = None, follow_redirects: bool | None = None) -> httpx.Response:
+        return self.request("HEAD", url, headers=headers, follow_redirects=follow_redirects)
+
+    def request(
+        self,
+        method: str,
+        url: str,
+        params: dict[str, Any] | None = None,
+        headers: dict[str, str] | None = None,
+        max_bytes: int | None = None,
+        follow_redirects: bool | None = None,
+    ) -> httpx.Response:
         last: str = "no attempt"
         for attempt in range(self.max_retries + 1):
             self.throttle.wait()
             self.requests_made += 1
             try:
-                resp = self._fetch(url, params, headers, max_bytes)
+                resp = self._fetch(method, url, params, headers, max_bytes, follow_redirects)
             except _TooLarge as exc:
-                raise HttpError(f"GET {url} exceeds {max_bytes} bytes") from exc
+                raise HttpError(f"{method} {url} exceeds {max_bytes} bytes") from exc
             except httpx.TransportError as exc:  # timeouts, resets, DNS
                 last = f"{type(exc).__name__}: {exc}"
                 delay = min(2.0 * (2**attempt), self.max_retry_after_s)
-                log.warning("GET %s failed (%s); retry %d/%d in %.0fs", url, last, attempt + 1, self.max_retries, delay)
+                log.warning("%s %s failed (%s); retry %d/%d in %.0fs", method, url, last, attempt + 1, self.max_retries, delay)
                 self._sleep(delay)
                 continue
             if resp.status_code not in RETRY_STATUSES:
@@ -157,8 +174,8 @@ class PoliteClient:
             delay = min(delay, self.max_retry_after_s)
             if attempt == self.max_retries:
                 break
-            log.warning("GET %s -> %s; Retry-After=%s; sleeping %.0fs (retry %d/%d)", url, resp.status_code,
+            log.warning("%s %s -> %s; Retry-After=%s; sleeping %.0fs (retry %d/%d)", method, url, resp.status_code,
                         resp.headers.get("Retry-After"), delay, attempt + 1, self.max_retries)
             self._sleep(delay)
-        raise HttpError(f"GET {url} failed after {self.max_retries} retries ({last})",
+        raise HttpError(f"{method} {url} failed after {self.max_retries} retries ({last})",
                         status=int(last.split()[-1]) if last.startswith("HTTP") else None)

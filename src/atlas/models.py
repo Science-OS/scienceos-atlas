@@ -75,6 +75,17 @@ class Paper(_M):
     brief: Brief | None = None
 
 
+class Photo(_M):
+    """Link v1 `$defs.Photo`: a picture with the licence and attribution needed to show it."""
+    url: str
+    source: str
+    license: str | None = None
+    attribution: str | None = None
+    attributionUrl: str | None = None
+    confidence: float | None = None
+    fetchedAt: str
+
+
 class InstitutionRef(_M):
     id: str
     name: str
@@ -97,6 +108,7 @@ class Institution(_M):
     city: str | None = None
     type: str | None = None
     website: str | None = None
+    logo: Photo | None = None
     ids: InstitutionExternalIds
     updatedAt: str | None = None
 
@@ -133,6 +145,7 @@ class Author(_M):
     name: str
     aliases: list[str]
     ids: AuthorExternalIds
+    photo: Photo | None = None
     bio: str | None = None
     affiliations: list[InstitutionRef]
     experience: list[dict[str, Any]]

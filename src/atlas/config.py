@@ -108,6 +108,34 @@ class BriefsCfg(_Cfg):
     providers: dict[str, ProviderCfg] = Field(default_factory=dict)
 
 
+class MediaQueueCfg(_Cfg):
+    """Public work queue of entity keys the clients ask for (Supabase PostgREST, publishable key only)."""
+    model_config = ConfigDict(extra="forbid", populate_by_name=True)
+    url: str = ""
+    publishable_key: str = ""
+    schema_name: str = Field(default="social", alias="schema")
+    table: str = "media_requests"
+
+
+class MediaCfg(_Cfg):
+    enabled: bool = True
+    max_new_per_run: int = 300                # entities (new or refreshed) resolved per run
+    requests_per_run: int = 500               # queue rows read per run
+    max_seconds: float = 1500                 # wall-clock cap for the stage; what is left waits for the next run
+    max_site_mb: int = 250                    # published media/ budget (also counts toward output.max_site_mb)
+    photo_ttl_days: int = 30
+    logo_ttl_days: int = 180
+    negative_ttl_days: int = 7
+    error_retry_hours: float = 24             # transient failures: try again after this long
+    max_px: int = 256                         # longest side of hosted photos and logos
+    webp_quality: int = 80
+    max_download_mb: int = 6
+    min_interval_s: float = 0.25              # per source group (Wikimedia, ROR, GitHub, Bluesky, homepages)
+    homepage_min_icon_px: int = 120
+    favicon_min_px: int = 64
+    queue: MediaQueueCfg = MediaQueueCfg()
+
+
 class OutputCfg(_Cfg):
     max_site_mb: int = 450
 
@@ -122,6 +150,7 @@ class Config(_Cfg):
     openalex: OpenAlexCfg = OpenAlexCfg()
     thumbs: ThumbsCfg = ThumbsCfg()
     briefs: BriefsCfg = BriefsCfg()
+    media: MediaCfg = MediaCfg()
     output: OutputCfg = OutputCfg()
 
 

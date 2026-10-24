@@ -1,0 +1,121 @@
+{
+ "entities": {
+  "Q3571662": {
+   "type": "item",
+   "id": "Q3571662",
+   "labels": {
+    "en": {
+     "language": "en",
+     "value": "Yann LeCun"
+    }
+   },
+   "claims": {
+    "P18": [
+     {
+      "mainsnak": {
+       "snaktype": "value",
+       "property": "P18",
+       "hash": "fac0a7447f687972bc5bbf345c745c688ab5a0ec",
+       "datavalue": {
+        "value": "Yann LeCun - 2025 (cropped).jpg",
+        "type": "string"
+       },
+       "datatype": "commonsMedia"
+      },
+      "type": "statement",
+      "qualifiers": {
+       "P2096": [
+        {
+         "snaktype": "value",
+         "property": "P2096",
+         "hash": "489644aa0b2a335bcead38321ad28a7cca77924a",
+         "datavalue": {
+          "value": {
+           "text": "Yann Le Cun en 2025.",
+           "language": "fr"
+          },
+          "type": "monolingualtext"
+         },
+         "datatype": "monolingualtext"
+        },
+        {
+         "snaktype": "value",
+         "property": "P2096",
+         "hash": "a521fc5ad806308969d9eb34ce70249e58330ac2",
+         "datavalue": {
+          "value": {
+           "text": "Yann Le Cun in 2025",
+           "language": "en"
+          },
+          "type": "monolingualtext"
+         },
+         "datatype": "monolingualtext"
+        }
+       ],
+       "P585": [
+        {
+         "snaktype": "value",
+         "property": "P585",
+         "hash": "5a24aa3e7fb2766df4be2c0b2fe1b2bb056bfe2c",
+         "datavalue": {
+          "value": {
+           "time": "+2025-02-11T00:00:00Z",
+           "timezone": 0,
+           "before": 0,
+           "after": 0,
+           "precision": 11,
+           "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "type": "time"
+         },
+         "datatype": "time"
+        }
+       ]
+      },
+      "qualifiers-order": [
+       "P2096",
+       "P585"
+      ],
+      "id": "Q3571662$5F48074E-F93B-4B32-82AF-1D27132A8558",
+      "rank": "normal"
+     }
+    ],
+    "P856": [
+     {
+      "mainsnak": {
+       "snaktype": "value",
+       "property": "P856",
+       "hash": "be342de0e22e41fa8b975afc1cc0ac62efaf902d",
+       "datavalue": {
+        "value": "http://yann.lecun.com",
+        "type": "string"
+       },
+       "datatype": "url"
+      },
+      "type": "statement",
+      "id": "Q3571662$43ef43f0-45c7-e2ed-3257-ab8cadce32d1",
+      "rank": "normal"
+     }
+    ],
+    "P496": [
+     {
+      "mainsnak": {
+       "snaktype": "value",
+       "property": "P496",
+       "hash": "2c07b80183f1e855ef586f38a9a1420956cdaf35",
+       "datavalue": {
+        "value": "0000-0002-1992-2684",
+        "type": "string"
+       },
+       "datatype": "external-id"
+      },
+      "type": "statement",
+      "id": "Q3571662$34fd1bf8-4b96-005f-ce8b-f3a37d455fdc",
+      "rank": "normal"
+     }
+    ]
+   }
+  }
+ },
+ "success": 1
+}

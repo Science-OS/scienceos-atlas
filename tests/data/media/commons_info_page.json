@@ -1,0 +1,39 @@
+{
+ "batchcomplete": "",
+ "query": {
+  "pages": {
+   "32190942": {
+    "pageid": 32190942,
+    "ns": 6,
+    "title": "File:Roderic D M Page.jpg",
+    "imagerepository": "local",
+    "imageinfo": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Roderic_D_M_Page.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Roderic_D_M_Page.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=32190942",
+      "extmetadata": {
+       "Credit": {
+        "value": "<bdi lang=\"en\" dir=\"ltr\">Transferred from <span class=\"plainlinks\"><a class=\"external text\" data-mw-original-href=\"//en.wikipedia.org\" href=\"https://en.wikipedia.org\">en.wikipedia</a></span> to Commons.</bdi>",
+        "source": "commons-desc-page"
+       },
+       "Artist": {
+        "value": "<a href=\"https://en.wikipedia.org/wiki/User:Rdmpage\" class=\"extiw\" title=\"wikipedia:User:Rdmpage\">Rdmpage</a> at <a href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\">English Wikipedia</a>",
+        "source": "commons-desc-page"
+       },
+       "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+       },
+       "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "commons-desc-page"
+       }
+      }
+     }
+    ]
+   }
+  }
+ }
+}

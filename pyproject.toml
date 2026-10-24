@@ -11,11 +11,12 @@ dependencies = [
   "jsonschema>=4.22",
   "referencing>=0.35",
   "pyyaml>=6.0",
+  "pillow>=10.0",     # media store: every photo and logo is normalised to a small WebP
 ]
 
 [project.optional-dependencies]
 # Licence-permitted first-page thumbnails. pypdfium2 (Apache-2.0/BSD) instead of PyMuPDF (AGPL).
-thumbs = ["pypdfium2>=4.30", "pillow>=10.0"]
+thumbs = ["pypdfium2>=4.30"]
 
 [project.scripts]
 atlas = "atlas.cli:main"

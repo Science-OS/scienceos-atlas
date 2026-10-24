@@ -27,7 +27,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 120
     permissions:
-      contents: read
+      contents: write       # push the append-only `media` branch and the single-commit `state` branch
       actions: write        # prune superseded state caches
     steps:
       - uses: actions/checkout@v7
@@ -48,6 +48,18 @@ jobs:
           key: atlas-state-${{ github.run_id }}
           restore-keys: atlas-state-
 
+      # Cache miss (evicted, or first run in a fresh fork): bring state/atlas.sqlite back from the encrypted `state` branch.
+      # No-op when the cache restored it; warns and carries on when ATLAS_STATE_KEY or the branch is missing.
+      - name: Restore state snapshot
+        continue-on-error: true
+        env:
+          ATLAS_STATE_KEY: ${{ secrets.ATLAS_STATE_KEY }}
+        run: uv run atlas state restore
+
+      # The media store is the append-only `media` branch checked out as a worktree (orphan branch on the first run).
+      - name: Check out the media branch
+        run: uv run atlas media checkout --media-dir media-store
+
       - name: Ingest, build, validate
         env:
           ATLAS_LIMIT: ${{ github.event.inputs.limit }}
@@ -58,12 +70,26 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: uv run atlas run
 
+      # New photos, logos and thumbnails: commit as chore(media): <counts> and push HEAD:media. History is never rewritten.
+      - name: Publish media branch
+        if: always()
+        continue-on-error: true
+        run: uv run atlas media publish --media-dir media-store
+
       - name: Save state
         if: always() && hashFiles('state/atlas.sqlite') != ''
         uses: actions/cache/save@v6
         with:
           path: state
           key: atlas-state-${{ github.run_id }}
+
+      # Durability of everything scraped: encrypted (openssl aes-256-cbc, pbkdf2), force-pushed as ONE commit to branch `state`.
+      - name: Snapshot state
+        if: always() && hashFiles('state/atlas.sqlite') != ''
+        continue-on-error: true
+        env:
+          ATLAS_STATE_KEY: ${{ secrets.ATLAS_STATE_KEY }}
+        run: uv run atlas state snapshot
 
       - name: Delete superseded state caches
         if: always() && hashFiles('state/atlas.sqlite') != ''

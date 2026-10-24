@@ -36,6 +36,11 @@ CREATE TABLE IF NOT EXISTS briefs(
 );
 CREATE TABLE IF NOT EXISTS rejected(arxiv_id TEXT PRIMARY KEY, datestamp TEXT NOT NULL);
 CREATE TABLE IF NOT EXISTS thumbs(arxiv_id TEXT PRIMARY KEY, status TEXT NOT NULL, bytes INTEGER, updated_at TEXT NOT NULL);
+CREATE TABLE IF NOT EXISTS media_checks(
+  kind TEXT NOT NULL, key TEXT NOT NULL, status TEXT NOT NULL, checked_at TEXT NOT NULL, expires_at TEXT NOT NULL,
+  PRIMARY KEY(kind, key)
+);
+CREATE TABLE IF NOT EXISTS media_etags(url TEXT PRIMARY KEY, etag TEXT NOT NULL, updated_at TEXT NOT NULL);
 """
 
 
@@ -100,6 +105,12 @@ class Store:
             StoredPaper(OaiRecord.from_json(json.loads(r["record"])), ApiEntry(**json.loads(r["api"])), r["feed_date"])
             for r in rows
         ]
+
+    def get_paper(self, arxiv_id: str) -> StoredPaper | None:
+        r = self.conn.execute("SELECT record, api, feed_date FROM papers WHERE arxiv_id=?", (arxiv_id,)).fetchone()
+        if r is None:
+            return None
+        return StoredPaper(OaiRecord.from_json(json.loads(r["record"])), ApiEntry(**json.loads(r["api"])), r["feed_date"])
 
     def count_papers(self) -> int:
         return self.conn.execute("SELECT COUNT(*) AS n FROM papers").fetchone()["n"]
@@ -202,6 +213,33 @@ class Store:
                 "INSERT OR REPLACE INTO thumbs(arxiv_id,status,bytes,updated_at) VALUES(?,?,?,?)",
                 (arxiv_id, status, nbytes, now),
             )
+
+    # -- media (when each entity of the central media store was last resolved; never pruned) --------------
+    def media_checks(self, kind: str, keys: Iterable[str]) -> dict[str, dict[str, Any]]:
+        keys = list(keys)
+        if not keys:
+            return {}
+        q = f"SELECT * FROM media_checks WHERE kind=? AND key IN ({','.join('?' * len(keys))})"
+        return {r["key"]: dict(r) for r in self.conn.execute(q, [kind, *keys])}
+
+    def set_media_check(self, kind: str, keys: Iterable[str], status: str, checked_at: str, expires_at: str) -> None:
+        with self.conn:
+            self.conn.executemany(
+                "INSERT OR REPLACE INTO media_checks(kind,key,status,checked_at,expires_at) VALUES(?,?,?,?,?)",
+                [(kind, k, status, checked_at, expires_at) for k in keys],
+            )
+
+    def media_retries(self, now: str) -> list[tuple[str, str]]:
+        """(kind, key) of entities whose last attempt failed or was partial and whose retry time has come."""
+        return [(r["kind"], r["key"]) for r in self.conn.execute(
+            "SELECT kind, key FROM media_checks WHERE status IN ('error','partial') AND expires_at <= ? ORDER BY expires_at, kind, key", (now,))]
+
+    def media_etags(self) -> dict[str, str]:
+        return {r["url"]: r["etag"] for r in self.conn.execute("SELECT url, etag FROM media_etags")}
+
+    def set_media_etags(self, etags: dict[str, str], now: str) -> None:
+        with self.conn:
+            self.conn.executemany("INSERT OR REPLACE INTO media_etags(url,etag,updated_at) VALUES(?,?,?)", [(u, e, now) for u, e in etags.items()])
 
     # -- retention -------------------------------------------------------------
     def prune(self, keep_from_date: str) -> list[str]:

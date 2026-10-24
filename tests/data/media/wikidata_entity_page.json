@@ -1,0 +1,217 @@
+{
+ "entities": {
+  "Q7356570": {
+   "type": "item",
+   "id": "Q7356570",
+   "labels": {
+    "en": {
+     "language": "en",
+     "value": "Roderic D. M. Page"
+    }
+   },
+   "claims": {
+    "P496": [
+     {
+      "mainsnak": {
+       "snaktype": "value",
+       "property": "P496",
+       "hash": "873a892ff01baaa930245e2ff1ba536d1caa1969",
+       "datavalue": {
+        "value": "0000-0002-7101-9767",
+        "type": "string"
+       },
+       "datatype": "external-id"
+      },
+      "type": "statement",
+      "id": "Q7356570$4ec8f37c-4cc3-7bfd-5b3b-46e7a45826a1",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "mainsnak": {
+       "snaktype": "value",
+       "property": "P18",
+       "hash": "d0bbdee2588af73dbab26e76d0ae2cad6c712895",
+       "datavalue": {
+        "value": "Roderic D M Page.jpg",
+        "type": "string"
+       },
+       "datatype": "commonsMedia"
+      },
+      "type": "statement",
+      "id": "Q7356570$2674b69a-429e-3c05-11e6-90ca26632b23",
+      "rank": "normal"
+     }
+    ],
+    "P856": [
+     {
+      "mainsnak": {
+       "snaktype": "value",
+       "property": "P856",
+       "hash": "4eda63293add38ebd5f43519eb0650a034d07ca4",
+       "datavalue": {
+        "value": "http://taxonomy.zoology.gla.ac.uk/rod/rod.html",
+        "type": "string"
+       },
+       "datatype": "url"
+      },
+      "type": "statement",
+      "qualifiers": {
+       "P2241": [
+        {
+         "snaktype": "value",
+         "property": "P2241",
+         "hash": "6002709108c42317962554269eec921a91b66d78",
+         "datavalue": {
+          "value": {
+           "entity-type": "item",
+           "numeric-id": 1193907,
+           "id": "Q1193907"
+          },
+          "type": "wikibase-entityid"
+         },
+         "datatype": "wikibase-item"
+        }
+       ]
+      },
+      "qualifiers-order": [
+       "P2241"
+      ],
+      "id": "Q7356570$e42ee181-456e-abe9-e0b0-7b8d703e26b5",
+      "rank": "deprecated"
+     },
+     {
+      "mainsnak": {
+       "snaktype": "value",
+       "property": "P856",
+       "hash": "79f05bc8a4c609b6007ec4fd6449c485bdd1ab9a",
+       "datavalue": {
+        "value": "http://iphylo.blogspot.com/",
+        "type": "string"
+       },
+       "datatype": "url"
+      },
+      "type": "statement",
+      "id": "Q7356570$a7a7c364-4b35-5ff5-b6de-49c2a70982b3",
+      "rank": "preferred"
+     },
+     {
+      "mainsnak": {
+       "snaktype": "value",
+       "property": "P856",
+       "hash": "34329aa1badc18a345eff9681f0ee7d424786a82",
+       "datavalue": {
+        "value": "http://ispecies.blogspot.com/",
+        "type": "string"
+       },
+       "datatype": "url"
+      },
+      "type": "statement",
+      "id": "Q7356570$13d946f2-4fdd-1cc6-2467-13c23d9622b8",
+      "rank": "normal"
+     },
+     {
+      "mainsnak": {
+       "snaktype": "value",
+       "property": "P856",
+       "hash": "11d111c8ac9c3c2f5737f71209a5c5121a16bc4b",
+       "datavalue": {
+        "value": "http://semant.blogspot.com/",
+        "type": "string"
+       },
+       "datatype": "url"
+      },
+      "type": "statement",
+      "id": "Q7356570$ac711ee8-4b4e-8799-f140-6129399bf6ca",
+      "rank": "normal"
+     },
+     {
+      "mainsnak": {
+       "snaktype": "value",
+       "property": "P856",
+       "hash": "c5af5f3d2b8c2500e01ab1ac0ae5c8644cb12cc1",
+       "datavalue": {
+        "value": "https://www.gla.ac.uk/researchinstitutes/bahcm/staff/rodericpage/",
+        "type": "string"
+       },
+       "datatype": "url"
+      },
+      "type": "statement",
+      "id": "Q7356570$5d430e9a-40c1-1509-0f6c-a213d45e7ff4",
+      "rank": "normal"
+     }
+    ],
+    "P2037": [
+     {
+      "mainsnak": {
+       "snaktype": "value",
+       "property": "P2037",
+       "hash": "b6b97faa96582489bec41dc474a2383436960da5",
+       "datavalue": {
+        "value": "rdmpage",
+        "type": "string"
+       },
+       "datatype": "external-id"
+      },
+      "type": "statement",
+      "id": "Q7356570$6f792e60-4020-574d-5a28-744c69acd567",
+      "rank": "normal"
+     }
+    ],
+    "P10283": [
+     {
+      "mainsnak": {
+       "snaktype": "value",
+       "property": "P10283",
+       "hash": "02d7b7a848324fba4cb15e3822af1c0943f5492e",
+       "datavalue": {
+        "value": "A5068055706",
+        "type": "string"
+       },
+       "datatype": "external-id"
+      },
+      "type": "statement",
+      "id": "Q7356570$1BF136CB-FC58-4CAB-9148-9E7BEDD2ECF5",
+      "rank": "normal"
+     }
+    ],
+    "P12361": [
+     {
+      "mainsnak": {
+       "snaktype": "value",
+       "property": "P12361",
+       "hash": "590505db17362ef67a303c3a86f2e3b8d39e39be",
+       "datavalue": {
+        "value": "rdmpage.bsky.social",
+        "type": "string"
+       },
+       "datatype": "external-id"
+      },
+      "type": "statement",
+      "qualifiers": {
+       "P12409": [
+        {
+         "snaktype": "value",
+         "property": "P12409",
+         "hash": "7eca181ad1653d8817652362804972dd5ff844c9",
+         "datavalue": {
+          "value": "did:plc:lne6bj76yvwayaonqzd7zsom",
+          "type": "string"
+         },
+         "datatype": "external-id"
+        }
+       ]
+      },
+      "qualifiers-order": [
+       "P12409"
+      ],
+      "id": "Q7356570$a9879c3c-485e-fcad-ebfc-403f972424e8",
+      "rank": "normal"
+     }
+    ]
+   }
+  }
+ },
+ "success": 1
+}

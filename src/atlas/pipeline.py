@@ -1,4 +1,4 @@
-"""One ingestion run: harvest -> HF signals -> OpenAlex -> briefs -> thumbnails -> build -> validate.
+"""One ingestion run: harvest -> HF signals -> OpenAlex -> briefs -> thumbnails -> media store -> build -> validate.
 Every stage is wrapped so a failure in one source degrades the output instead of killing the run."""
 
 from __future__ import annotations
@@ -19,6 +19,10 @@ from .build import SiteBuilder
 from .config import Config
 from .http import PoliteClient
 from .licenses import allows_redistribution
+from .media.papers import ingest_thumbnails, restore_thumbnail
+from .media.sources import MediaHttp
+from .media.stage import run_media, state_targets
+from .media.store import MediaStore
 from .models import ts
 from .openalex import OpenAlexClient
 from .scoring import score_paper
@@ -40,6 +44,8 @@ class RunOptions:
     skip_openalex: bool = False
     skip_thumbs: bool = False
     skip_briefs: bool = False
+    skip_media: bool = False
+    media_dir: Path | None = None   # the media store (the `media` branch checkout in CI); None = no media store in this run
     now: datetime | None = None
 
 
@@ -255,9 +261,10 @@ def stage_briefs(store: Store, cfg: Config, today: date, now: datetime) -> dict[
             "cached": st.skipped_cached, "failed": st.failed, "cost_usd": round(st.cost_usd, 5), "stopped_reason": st.stopped_reason}
 
 
-def stage_thumbs(store: Store, cfg: Config, client: PoliteClient, thumbs_dir: Path, today: date, now: datetime) -> dict[str, Any]:
+def stage_thumbs(store: Store, cfg: Config, client: PoliteClient, thumbs_dir: Path, today: date, now: datetime,
+                 media: MediaStore | None = None) -> dict[str, Any]:
     t = cfg.thumbs
-    stats: dict[str, Any] = {"eligible": 0, "made": 0, "failed": 0, "skipped_existing": 0, "bytes": 0}
+    stats: dict[str, Any] = {"eligible": 0, "made": 0, "failed": 0, "skipped_existing": 0, "bytes": 0, "restored_from_media": 0}
     hf = store.hf_signals()
     rows = store.thumb_rows()
     todo: list[StoredPaper] = []
@@ -267,7 +274,10 @@ def stage_thumbs(store: Store, cfg: Config, client: PoliteClient, thumbs_dir: Pa
                 continue
             stats["eligible"] += 1
             row = rows.get(sp.record.arxiv_id)
-            if row and row["status"] == "ok" and thumb_path(thumbs_dir, sp.record.arxiv_id).exists():
+            path = thumb_path(thumbs_dir, sp.record.arxiv_id)
+            if row and row["status"] == "ok" and not path.exists() and media is not None and restore_thumbnail(media, sp.record.arxiv_id, path):
+                stats["restored_from_media"] += 1   # the cache lost the file, the media store has it: no second render
+            if row and row["status"] == "ok" and path.exists():
                 stats["skipped_existing"] += 1
                 continue
             if row and row["status"] == "failed":
@@ -296,11 +306,25 @@ def stage_thumbs(store: Store, cfg: Config, client: PoliteClient, thumbs_dir: Pa
     return stats
 
 
+def stage_media_thumbs(store: Store, cfg: Config, media: MediaStore, thumbs_dir: Path, now: datetime) -> dict[str, Any]:
+    """Every thumbnail rendered so far goes into the store before retention can delete its file."""
+    return ingest_thumbnails(store, media, thumbs_dir, cfg, ts(now))
+
+
+def stage_media(store: Store, cfg: Config, media: MediaStore, http: MediaHttp, today: date, now: datetime) -> dict[str, Any]:
+    """Resolve photos and logos for the feed's authors and institutions plus the client work queue (see atlas.media.stage)."""
+    hf = store.hf_signals()
+    order: list[str] = []
+    for day in sorted([d for d in store.feed_dates() if d >= (today - timedelta(days=cfg.feeds.retention_days)).isoformat()], reverse=True):
+        order.extend(sp.record.arxiv_id for sp in rank_day(cfg, store.papers_between(day, day), hf, day))
+    return run_media(cfg, store, media, http, state_targets(store, cfg.openalex.max_authors_per_paper, order), now)
+
+
 # ------------------------------------------------------------------ run
 
 
 def run(cfg: Config, opts: RunOptions, *, arxiv_client: PoliteClient | None = None, hf_client: PoliteClient | None = None,
-        oa_client: OpenAlexClient | None = None) -> RunResult:
+        oa_client: OpenAlexClient | None = None, media_http: MediaHttp | None = None) -> RunResult:
     t0 = time.time()
     now = opts.now or datetime.now(timezone.utc)
     today = now.date()
@@ -320,6 +344,10 @@ def run(cfg: Config, opts: RunOptions, *, arxiv_client: PoliteClient | None = No
     hf_client = hf_client or PoliteClient(cfg.user_agent, cfg.hf.min_interval_s, max_retries=2, max_retry_after_s=30)
     own_oa = oa_client is None
     oa = oa_client or OpenAlexClient(cfg.openalex, cfg.user_agent)
+    media = MediaStore(opts.media_dir, cfg.site_base_url) if cfg.media.enabled and opts.media_dir is not None else None
+    own_media_http = media is not None and media_http is None and not opts.skip_media
+    if own_media_http:
+        media_http = MediaHttp.create(cfg)
 
     def stage(name: str, fn, *args) -> None:
         t = time.time()
@@ -340,7 +368,12 @@ def run(cfg: Config, opts: RunOptions, *, arxiv_client: PoliteClient | None = No
         if not opts.skip_briefs:
             stage("briefs", stage_briefs, store, cfg, today, now)
         if cfg.thumbs.enabled and not opts.skip_thumbs:
-            stage("thumbs", stage_thumbs, store, cfg, arxiv_client, thumbs_dir, today, now)
+            stage("thumbs", stage_thumbs, store, cfg, arxiv_client, thumbs_dir, today, now, media)
+        if media is not None and not opts.skip_media:
+            stage("media_thumbs", stage_media_thumbs, store, cfg, media, thumbs_dir, now)
+            stage("media", stage_media, store, cfg, media, media_http, today, now)
+        if media is not None:
+            media.write_manifest(ts(now))
 
         # retention: keep `retention_days` of feed days
         latest = (store.feed_dates() or [today.isoformat()])[-1]
@@ -349,10 +382,10 @@ def run(cfg: Config, opts: RunOptions, *, arxiv_client: PoliteClient | None = No
             thumb_path(thumbs_dir, aid).unlink(missing_ok=True)
 
         t_build = time.time()
-        builder = SiteBuilder(store, cfg, site_dir, thumbs_dir, now)
+        builder = SiteBuilder(store, cfg, site_dir, thumbs_dir, now, media)
         bstats = builder.build()
         result.stats["stages"]["build"] = bstats.__dict__ | {"seconds": round(time.time() - t_build, 1)}
-        report = validate_site(site_dir, cfg.output.max_site_mb)
+        report = validate_site(site_dir, cfg.output.max_site_mb, media_max_mb=cfg.media.max_site_mb)
         result.stats["validation"] = {"ok": report.ok, "checked": report.checked, "errors": report.errors[:20],
                                       "site_mb": round(report.site_bytes / 1e6, 2)}
         result.stats["totals"] = {
@@ -363,12 +396,17 @@ def run(cfg: Config, opts: RunOptions, *, arxiv_client: PoliteClient | None = No
             "with_hf_signal": bstats.papers_with_hf,
             "with_brief": bstats.papers_with_brief,
             "with_author_ids": bstats.papers_with_author_ids,
+            "authors_with_photo": bstats.authors_with_photo,
+            "institutions_with_logo": bstats.institutions_with_logo,
+            "hosted_thumbnails": bstats.papers_with_hosted_thumb,
+            "media_entries_published": bstats.media_entries,
+            "media_mb_published": round(bstats.media_bytes / 1e6, 2),
         }
         result.ok = report.ok
         result.stats["duration_s"] = round(time.time() - t0, 1)
         builder.write_status(result.stats)
         # status.json embeds run stats; re-validate that one file against its schema
-        final = validate_site(site_dir, cfg.output.max_site_mb)
+        final = validate_site(site_dir, cfg.output.max_site_mb, media_max_mb=cfg.media.max_site_mb)
         if not final.ok:
             result.ok = False
             result.stats["validation"]["errors"] = final.errors[:20]
@@ -381,5 +419,7 @@ def run(cfg: Config, opts: RunOptions, *, arxiv_client: PoliteClient | None = No
             hf_client.close()
         if own_oa:
             oa.close()
+        if own_media_http and media_http is not None:
+            media_http.close()
     result.stats["duration_s"] = round(time.time() - t0, 1)
     return result

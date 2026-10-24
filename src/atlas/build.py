@@ -17,9 +17,14 @@ from .config import Config
 from .hf import HfSignal
 from .licenses import allows_redistribution
 from .matching import match_authors
+from .media import keys as media_keys
+from .media.catalogue import as_photo, first_asset
+from .media.papers import thumbnail_url
+from .media.publish import publish_to_site
+from .media.store import MediaStore
 from .models import (
     Author, AuthorExternalIds, AuthorMetrics, Brief, Enrichment, Institution, InstitutionExternalIds, InstitutionRef,
-    LinkOut, MetricValue, Paper, PaperAuthor, PaperSignals, dump, ts,
+    LinkOut, MetricValue, Paper, PaperAuthor, PaperSignals, Photo, dump, ts,
 )
 from .scoring import score_paper
 from .store import Store, StoredPaper
@@ -71,6 +76,12 @@ class BuildStats:
     papers_with_openalex: int = 0
     papers_with_brief: int = 0
     papers_with_author_ids: int = 0
+    papers_with_hosted_thumb: int = 0
+    authors_with_photo: int = 0
+    institutions_with_logo: int = 0
+    media_entries: int = 0
+    media_blobs: int = 0
+    media_bytes: int = 0
 
 
 def github_repo_slug(url: str | None) -> str | None:
@@ -80,14 +91,30 @@ def github_repo_slug(url: str | None) -> str | None:
     return m.group(1) if m else None
 
 
-def build_author_json(card: dict[str, Any], fetched_at: str) -> tuple[dict[str, Any], list[dict[str, Any]]]:
-    """OpenAlex author card -> (schema Author, institutions[]). Light card: the Mac resolver does the rest."""
+def _logo_photo(media: MediaStore | None, ror: str | None) -> Photo | None:
+    """First logo asset of an institution in the central catalogue (hosted first), as a Link `Photo`."""
+    if media is None or not ror:
+        return None
+    a = first_asset(media.lookup("institution", media_keys.institution_keys({"ror": ror})), "logo")
+    return Photo(**as_photo(a)) if a else None
+
+
+def build_author_json(card: dict[str, Any], fetched_at: str, media: MediaStore | None = None) -> tuple[dict[str, Any], list[dict[str, Any]]]:
+    """OpenAlex author card -> (schema Author, institutions[]). Light card: the Mac resolver does the rest.
+    With a media store, photo and logos come from its catalogue (identity chains only; nothing is scraped here)."""
     oa_id = card["id"]
     name = card.get("name") or oa_id
     insts = card.get("institutions") or []
+    logos = {i["ror"]: _logo_photo(media, i["ror"]) for i in insts}
     affiliations = [
-        InstitutionRef(id=f"ror:{i['ror']}", name=i["name"], country=i.get("country"), type=i.get("type")) for i in insts
+        InstitutionRef(id=f"ror:{i['ror']}", name=i["name"], country=i.get("country"), type=i.get("type"),
+                       logoUrl=logos[i["ror"]].url if logos[i["ror"]] else None)
+        for i in insts
     ]
+    photo = None
+    if media is not None:
+        a = first_asset(media.lookup("author", media_keys.author_keys({"orcid": card.get("orcid"), "openalex": oa_id})), "photo")
+        photo = Photo(**as_photo(a)) if a else None
     ids = AuthorExternalIds(openalex=oa_id, orcid=card.get("orcid"))
     links = [LinkOut(kind="other", url=f"https://openalex.org/{oa_id}", label="OpenAlex")]
     if card.get("orcid"):
@@ -104,15 +131,16 @@ def build_author_json(card: dict[str, Any], fetched_at: str) -> tuple[dict[str, 
     )
     aliases = [a for a in dict.fromkeys(card.get("alternatives") or []) if a != name][:10]
     author = Author(
-        id=f"oa:{oa_id}", name=name, aliases=aliases, ids=ids, affiliations=affiliations, experience=[], links=links,
+        id=f"oa:{oa_id}", name=name, aliases=aliases, ids=ids, photo=photo, affiliations=affiliations, experience=[], links=links,
         metrics=metrics, citationsByYear=[], topics=card.get("topics") or [], coauthors=[],
         claimed=False,
-        enrichment=Enrichment(stage="A", complete=False, pending=["photo", "experience", "coauthors"], updatedAt=fetched_at),
+        enrichment=Enrichment(stage="A", complete=False, pending=(["photo"] if photo is None else []) + ["experience", "coauthors"],
+                              updatedAt=fetched_at),
         updatedAt=fetched_at,
     )
     institutions = [
         dump(Institution(
-            id=f"ror:{i['ror']}", name=i["name"], country=i.get("country"), type=i.get("type"),
+            id=f"ror:{i['ror']}", name=i["name"], country=i.get("country"), type=i.get("type"), logo=logos[i["ror"]],
             ids=InstitutionExternalIds(ror=i["ror"], openalex=i.get("openalex")), updatedAt=fetched_at,
         ))
         for i in insts
@@ -121,14 +149,15 @@ def build_author_json(card: dict[str, Any], fetched_at: str) -> tuple[dict[str, 
 
 
 class SiteBuilder:
-    def __init__(self, store: Store, cfg: Config, site_dir: Path, thumbs_dir: Path, now: datetime):
+    def __init__(self, store: Store, cfg: Config, site_dir: Path, thumbs_dir: Path, now: datetime, media: MediaStore | None = None):
         self.store, self.cfg, self.site, self.thumbs_dir, self.now = store, cfg, site_dir, thumbs_dir, now
+        self.media = media
         self.now_ts = ts(now)
         self.stats = BuildStats()
 
     # ------------------------------------------------------------------ papers
     def _paper_view(self, sp: StoredPaper, hf: tuple[HfSignal, str] | None, oa: dict[str, Any] | None,
-                    card_ids: set[str], brief: dict[str, Any] | None, has_thumb: bool) -> PaperView:
+                    card_ids: set[str], brief: dict[str, Any] | None, thumb_url: str | None) -> PaperView:
         rec, api = sp.record, sp.api
         aid = rec.arxiv_id
         cats = list(dict.fromkeys(rec.categories))
@@ -163,9 +192,8 @@ class SiteBuilder:
                 githubRepo=slug,
             )
             signals = parts if dump(parts) else None
-        if has_thumb:
-            base = self.cfg.site_base_url.rstrip("/")
-            links.append(LinkOut(kind="other", url=f"{base}/thumbs/{thumb_path(Path('.'), aid).name}", label="thumbnail"))
+        if thumb_url:
+            links.append(LinkOut(kind="other", url=thumb_url, label="thumbnail"))
         citations = None
         if oa and oa.get("work") and isinstance(oa["work"].get("cited_by_count"), int):
             citations = MetricValue(value=oa["work"]["cited_by_count"], source="openalex", fetchedAt=oa["fetched_at"])
@@ -222,16 +250,21 @@ class SiteBuilder:
         author_rows = {k: v for k, v in author_rows.items() if not v[0].get("missing")}  # negative-cache markers
         card_ids = set(author_rows)
         views: dict[str, PaperView] = {}
+        legacy_thumbs: set[str] = set()   # thumbs/<id>.jpg is still published: app builds that predate the media store build that path
+        base = cfg.site_base_url.rstrip("/")
         for sp in stored:
             aid = sp.record.arxiv_id
-            thumb_ok = (
-                thumb_rows.get(aid, {}).get("status") == "ok"
-                and allows_redistribution(sp.record.license, cfg.thumbs.allowed_license_prefixes)
-                and thumb_path(self.thumbs_dir, aid).exists()
-            )
+            licensed = allows_redistribution(sp.record.license, cfg.thumbs.allowed_license_prefixes)
+            thumb_ok = thumb_rows.get(aid, {}).get("status") == "ok" and licensed and thumb_path(self.thumbs_dir, aid).exists()
+            if thumb_ok:
+                legacy_thumbs.add(aid)
+            hosted = thumbnail_url(self.media, aid) if self.media is not None and licensed else None
+            thumb_url = hosted or (f"{base}/thumbs/{thumb_path(Path('.'), aid).name}" if thumb_ok else None)
+            if hosted:
+                self.stats.papers_with_hosted_thumb += 1
             oa = oa_rows.get(aid)
             views[aid] = self._paper_view(sp, hf.get(aid), oa if oa and oa["status"] == "found" else None,
-                                          card_ids, briefs.get(aid), thumb_ok)
+                                          card_ids, briefs.get(aid), thumb_url)
         by_date: dict[str, list[PaperView]] = {d: [] for d in dates}
         for v in views.values():
             by_date[v.feed_date].append(v)
@@ -293,18 +326,23 @@ class SiteBuilder:
                     referenced.add(a["authorId"].split(":", 1)[1])
         for oa_id in sorted(referenced):
             card, fetched = author_rows[oa_id]
-            author, insts = build_author_json(card, fetched)
+            author, insts = build_author_json(card, fetched, self.media)
             write_json(site / "authors" / f"{oa_id}.json", {"schema": "scienceos.atlas.author/1", "author": author, "institutions": insts})
             self.stats.author_files += 1
+            self.stats.authors_with_photo += 1 if "photo" in author else 0
+            self.stats.institutions_with_logo += sum(1 for i in insts if "logo" in i)
 
-        # thumbs: copy only what is still referenced AND still licence-permitted
-        for v in views.values():
-            if any(l.get("label") == "thumbnail" for l in v.json["links"]):
-                src = thumb_path(self.thumbs_dir, v.arxiv_id)
-                dst = thumb_path(site / "thumbs", v.arxiv_id)
-                dst.parent.mkdir(parents=True, exist_ok=True)
-                shutil.copyfile(src, dst)
-                self.stats.thumbs += 1
+        # thumbs: copy only what is still in the window AND still licence-permitted
+        for aid in sorted(legacy_thumbs):
+            dst = thumb_path(site / "thumbs", aid)
+            dst.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copyfile(thumb_path(self.thumbs_dir, aid), dst)
+            self.stats.thumbs += 1
+
+        # the central media store: everything it holds, except the JPEGs (and entries) of papers that left the window
+        if self.media is not None:
+            ms = publish_to_site(self.media, site, set(views), self.now_ts)
+            self.stats.media_entries, self.stats.media_blobs, self.stats.media_bytes = ms["entries"], ms["blobs"], ms["bytes"]
 
         # manifest (newest first; today, trending, then categories) + status
         feed_order = {"today": 0, "trending": 1}

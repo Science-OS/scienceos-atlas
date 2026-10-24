@@ -98,5 +98,27 @@ briefs:
       usd_per_mtok_in: 0.10
       usd_per_mtok_out: 0.50
 
+media:                                      # the central media store: photos, logos, thumbnails (README "Media store")
+  enabled: true
+  max_new_per_run: 300                      # entities resolved per run (new or refreshed); the rest waits for the next run
+  requests_per_run: 500                     # client queue rows read per run
+  max_seconds: 1500                         # wall-clock cap for the media stage; what is left waits for the next run
+  max_site_mb: 250                          # published media/ budget; it also counts toward output.max_site_mb
+  photo_ttl_days: 30                        # authors: re-resolve after this long
+  logo_ttl_days: 180                        # institutions
+  negative_ttl_days: 7                      # "nothing found" is remembered this long
+  error_retry_hours: 24                     # a failed or partial resolution is retried after this long
+  max_px: 256                               # longest side of hosted photos and logos (WebP, alpha kept, never cropped)
+  webp_quality: 80
+  max_download_mb: 6
+  min_interval_s: 0.25                      # per source group: Wikimedia, ROR, GitHub, Bluesky, homepages, Supabase
+  homepage_min_icon_px: 120                 # homepage icons (link-only) must be at least this big
+  favicon_min_px: 64                        # Google faviconV2 128 is accepted when the image is at least this big
+  queue:                                    # social.media_requests: which entities clients want (keys only, never images)
+    url: https://rwkduugxjvzrniomfjri.supabase.co
+    publishable_key: sb_publishable_BxLRCmqcQ34p9N4zhOmbKA_JiETIYsy   # public by design (same key the apps ship); read-only select
+    schema: social
+    table: media_requests
+
 output:
   max_site_mb: 450                          # hard stop below the 500 MB budget

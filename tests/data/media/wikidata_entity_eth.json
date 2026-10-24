@@ -1,0 +1,340 @@
+{
+ "entities": {
+  "Q11942": {
+   "type": "item",
+   "id": "Q11942",
+   "labels": {
+    "en": {
+     "language": "en",
+     "value": "ETH Zurich"
+    }
+   },
+   "claims": {
+    "P154": [
+     {
+      "mainsnak": {
+       "snaktype": "value",
+       "property": "P154",
+       "hash": "b379f1ee48fb35f18ea705cda0de7d4eb58d9212",
+       "datavalue": {
+        "value": "ETH Zürich Logo black.svg",
+        "type": "string"
+       },
+       "datatype": "commonsMedia"
+      },
+      "type": "statement",
+      "qualifiers": {
+       "P407": [
+        {
+         "snaktype": "value",
+         "property": "P407",
+         "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+         "datavalue": {
+          "value": {
+           "entity-type": "item",
+           "numeric-id": 188,
+           "id": "Q188"
+          },
+          "type": "wikibase-entityid"
+         },
+         "datatype": "wikibase-item"
+        },
+        {
+         "snaktype": "value",
+         "property": "P407",
+         "hash": "daf1c4fcb58181b02dff9cc89deb084004ddae4b",
+         "datavalue": {
+          "value": {
+           "entity-type": "item",
+           "numeric-id": 1860,
+           "id": "Q1860"
+          },
+          "type": "wikibase-entityid"
+         },
+         "datatype": "wikibase-item"
+        }
+       ]
+      },
+      "qualifiers-order": [
+       "P407"
+      ],
+      "id": "q11942$D0F9A501-6AE9-4A5C-92C9-89E743BE8432",
+      "rank": "normal"
+     }
+    ],
+    "P856": [
+     {
+      "mainsnak": {
+       "snaktype": "value",
+       "property": "P856",
+       "hash": "24360f80b1e8cacf80a1ce7bfb8a6743ade39590",
+       "datavalue": {
+        "value": "https://www.ethz.ch/",
+        "type": "string"
+       },
+       "datatype": "url"
+      },
+      "type": "statement",
+      "qualifiers": {
+       "P407": [
+        {
+         "snaktype": "value",
+         "property": "P407",
+         "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+         "datavalue": {
+          "value": {
+           "entity-type": "item",
+           "numeric-id": 188,
+           "id": "Q188"
+          },
+          "type": "wikibase-entityid"
+         },
+         "datatype": "wikibase-item"
+        },
+        {
+         "snaktype": "value",
+         "property": "P407",
+         "hash": "daf1c4fcb58181b02dff9cc89deb084004ddae4b",
+         "datavalue": {
+          "value": {
+           "entity-type": "item",
+           "numeric-id": 1860,
+           "id": "Q1860"
+          },
+          "type": "wikibase-entityid"
+         },
+         "datatype": "wikibase-item"
+        },
+        {
+         "snaktype": "value",
+         "property": "P407",
+         "hash": "d197d0a5efa4b4c23a302a829dd3ef43684fe002",
+         "datavalue": {
+          "value": {
+           "entity-type": "item",
+           "numeric-id": 150,
+           "id": "Q150"
+          },
+          "type": "wikibase-entityid"
+         },
+         "datatype": "wikibase-item"
+        },
+        {
+         "snaktype": "value",
+         "property": "P407",
+         "hash": "2ab2e485ce235a18142330fa1873a5bba7115d23",
+         "datavalue": {
+          "value": {
+           "entity-type": "item",
+           "numeric-id": 652,
+           "id": "Q652"
+          },
+          "type": "wikibase-entityid"
+         },
+         "datatype": "wikibase-item"
+        }
+       ]
+      },
+      "qualifiers-order": [
+       "P407"
+      ],
+      "id": "Q11942$125F243D-D7A7-46E4-B12A-528161B1BDA5",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "mainsnak": {
+       "snaktype": "value",
+       "property": "P18",
+       "hash": "5eb47c73628a379bd7a5dcf81bd08a8b6e8b7ca4",
+       "datavalue": {
+        "value": "ETH Zurich from Polyterrace.jpg",
+        "type": "string"
+       },
+       "datatype": "commonsMedia"
+      },
+      "type": "statement",
+      "qualifiers": {
+       "P2096": [
+        {
+         "snaktype": "value",
+         "property": "P2096",
+         "hash": "c785165bf81338b4d1c366a82c2f07ef350cb143",
+         "datavalue": {
+          "value": {
+           "text": "Imatge de l'ETH Zürich",
+           "language": "ca"
+          },
+          "type": "monolingualtext"
+         },
+         "datatype": "monolingualtext"
+        }
+       ]
+      },
+      "qualifiers-order": [
+       "P2096"
+      ],
+      "id": "Q11942$AB08FAE0-3753-454B-8B32-F70C401D2C6B",
+      "rank": "normal"
+     }
+    ],
+    "P6782": [
+     {
+      "mainsnak": {
+       "snaktype": "value",
+       "property": "P6782",
+       "hash": "ec1f0676b1a0dc92b9eebc2d719e9528907b5de3",
+       "datavalue": {
+        "value": "05a28rw58",
+        "type": "string"
+       },
+       "datatype": "external-id"
+      },
+      "type": "statement",
+      "id": "Q11942$4BB1356D-3D0A-465D-B9D8-93B076B33F98",
+      "rank": "normal"
+     }
+    ],
+    "P10283": [
+     {
+      "mainsnak": {
+       "snaktype": "value",
+       "property": "P10283",
+       "hash": "0296e980cd71975945ebefa9c31f0fe4279319bd",
+       "datavalue": {
+        "value": "P4383699229",
+        "type": "string"
+       },
+       "datatype": "external-id"
+      },
+      "type": "statement",
+      "qualifiers": {
+       "P1810": [
+        {
+         "snaktype": "value",
+         "property": "P1810",
+         "hash": "13523dc0841aaa6c58cb1d0e89a6246878f1a54f",
+         "datavalue": {
+          "value": "EtH Zurich",
+          "type": "string"
+         },
+         "datatype": "string"
+        }
+       ],
+       "P2241": [
+        {
+         "snaktype": "value",
+         "property": "P2241",
+         "hash": "3f3a8bd33721fbb798ec8e9636203c9f31e483f8",
+         "datavalue": {
+          "value": {
+           "entity-type": "item",
+           "numeric-id": 107356532,
+           "id": "Q107356532"
+          },
+          "type": "wikibase-entityid"
+         },
+         "datatype": "wikibase-item"
+        }
+       ]
+      },
+      "qualifiers-order": [
+       "P1810",
+       "P2241"
+      ],
+      "id": "Q11942$83F54C18-660D-46E3-8523-A0E1D483D501",
+      "rank": "deprecated"
+     },
+     {
+      "mainsnak": {
+       "snaktype": "value",
+       "property": "P10283",
+       "hash": "b3af34b7dd3d4866aeff6cb04a668038d0939296",
+       "datavalue": {
+        "value": "I35440088",
+        "type": "string"
+       },
+       "datatype": "external-id"
+      },
+      "type": "statement",
+      "qualifiers": {
+       "P1810": [
+        {
+         "snaktype": "value",
+         "property": "P1810",
+         "hash": "2a3ebb662159b3685deacf10354a2cde3b96a34b",
+         "datavalue": {
+          "value": "ETH Zurich",
+          "type": "string"
+         },
+         "datatype": "string"
+        }
+       ],
+       "P813": [
+        {
+         "snaktype": "value",
+         "property": "P813",
+         "hash": "aad95c7c8a6cce985c4f8618962b356e6fefc55e",
+         "datavalue": {
+          "value": {
+           "time": "+2025-05-21T00:00:00Z",
+           "timezone": 0,
+           "before": 0,
+           "after": 0,
+           "precision": 11,
+           "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "type": "time"
+         },
+         "datatype": "time"
+        }
+       ]
+      },
+      "qualifiers-order": [
+       "P1810",
+       "P813"
+      ],
+      "id": "Q11942$edeb499d-402e-8d08-b3da-1d00b9de030e",
+      "rank": "normal"
+     }
+    ],
+    "P12361": [
+     {
+      "mainsnak": {
+       "snaktype": "value",
+       "property": "P12361",
+       "hash": "0533925308784b4bfca5542a4a90e30762676aff",
+       "datavalue": {
+        "value": "ethzurich.bsky.social",
+        "type": "string"
+       },
+       "datatype": "external-id"
+      },
+      "type": "statement",
+      "qualifiers": {
+       "P12409": [
+        {
+         "snaktype": "value",
+         "property": "P12409",
+         "hash": "46f4e485c967b25462b845ca387c7d7289b0df3f",
+         "datavalue": {
+          "value": "did:plc:7mebkbenoqztg6elyuf7svgz",
+          "type": "string"
+         },
+         "datatype": "external-id"
+        }
+       ]
+      },
+      "qualifiers-order": [
+       "P12409"
+      ],
+      "id": "Q11942$fdf52efb-4a1b-ff59-064e-f80af2c2b39a",
+      "rank": "normal"
+     }
+    ]
+   }
+  }
+ },
+ "success": 1
+}

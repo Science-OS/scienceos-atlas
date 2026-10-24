@@ -4,6 +4,7 @@ __pycache__/
 .pytest_cache/
 state/
 site/
+media-store/
 .DS_Store
 .env
 .env.*
