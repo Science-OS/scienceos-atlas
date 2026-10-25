@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.24383",
+ "ids": {
+  "arxiv": "2610.24383"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/15/15c534070e1cbe14493ae378e6f24e58072a1ababd1803d0a4949482e7b52af7.jpg",
+   "hosted": true,
+   "sha256": "15c534070e1cbe14493ae378e6f24e58072a1ababd1803d0a4949482e7b52af7",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.24383",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Jie Mao et al., arXiv:2610.24383",
+   "attributionUrl": "https://arxiv.org/abs/2610.24383",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-039v0ek11",
+ "ids": {
+  "ror": "039v0ek11"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://static.wixstatic.com/media/ecf693_b9cfa4010f494351a727dc9bf486701d%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/ecf693_b9cfa4010f494351a727dc9bf486701d%7Emv2.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.catos.sg",
+   "attributionUrl": "https://www.catos.sg",
+   "confidence": 0.7,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

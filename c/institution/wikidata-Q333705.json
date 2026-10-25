@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q333705",
+ "ids": {
+  "wikidata": "Q333705",
+  "ror": "03qryx823"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/aa/aa14749d1dd89123c641e2a31a6e606f766ae11c0d130b46b976ea13aa561c2c.webp",
+   "hosted": true,
+   "sha256": "aa14749d1dd89123c641e2a31a6e606f766ae11c0d130b46b976ea13aa561c2c",
+   "mime": "image/webp",
+   "width": 177,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Technion_logo.svg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "RaphaelQS",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Technion_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

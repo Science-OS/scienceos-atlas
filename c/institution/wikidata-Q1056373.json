@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1056373",
+ "ids": {
+  "wikidata": "Q1056373",
+  "ror": "02b9aym09"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/7a/7add70b2d3e70fac69223a821d2746140327ac048c6286b675a8914371b8697a.webp",
+   "hosted": true,
+   "sha256": "7add70b2d3e70fac69223a821d2746140327ac048c6286b675a8914371b8697a",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 102,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gallaudet_University_logo.svg",
+   "license": "Public domain",
+   "attribution": "Gallaudet University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Gallaudet_University_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

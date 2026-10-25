@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-047426m28",
+ "ids": {
+  "wikidata": "Q457281",
+  "ror": "047426m28"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/f9/f9ff1f7085a64302fba7ce84c99d4d687fe1aebc5219d645187473af9e037d5c.webp",
+   "hosted": true,
+   "sha256": "f9ff1f7085a64302fba7ce84c99d4d687fe1aebc5219d645187473af9e037d5c",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 47,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Illinois_at_Urbana%E2%80%93Champaign_logo.svg",
+   "license": "Public domain",
+   "attribution": "University of Illinois at Urbana–Champaign",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Illinois_at_Urbana%E2%80%93Champaign_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

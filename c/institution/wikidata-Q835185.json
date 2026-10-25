@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q835185",
+ "ids": {
+  "wikidata": "Q835185",
+  "ror": "01zntxs11"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http%3A%2F%2Fshmc.fudan.edu.cn%2Feng&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "http://shmc.fudan.edu.cn/eng",
+   "confidence": 0.5,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q6456669",
+ "ids": {
+  "wikidata": "Q6456669",
+  "ror": "01w8z9742"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.lvpei.org/wp-content/themes/bureau-theme/resources/img/favicons/apple-touch-icon.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.lvpei.org",
+   "attributionUrl": "https://www.lvpei.org",
+   "confidence": 0.7,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

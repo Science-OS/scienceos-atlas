@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1665162",
+ "ids": {
+  "wikidata": "Q1665162",
+  "ror": "03v8tnc06"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "http://english.ihep.cas.cn/images/apple-touch-icon-precomposed.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of http://english.ihep.cas.cn/",
+   "attributionUrl": "http://english.ihep.cas.cn/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

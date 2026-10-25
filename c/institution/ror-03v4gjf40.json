@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03v4gjf40",
+ "ids": {
+  "wikidata": "Q51985",
+  "ror": "03v4gjf40"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/11/117a8ae7b28dad0a844540ca6fe55221fb906fdd1be8fd33e4b6424e5538ada8.webp",
+   "hosted": true,
+   "sha256": "117a8ae7b28dad0a844540ca6fe55221fb906fdd1be8fd33e4b6424e5538ada8",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 88,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/LogoDerTechnischenUniversit%C3%A4tBerlin2020.svg",
+   "license": "Public domain",
+   "attribution": "TU Berlin",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:LogoDerTechnischenUniversit%C3%A4tBerlin2020.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

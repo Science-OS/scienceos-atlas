@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-030eybx10",
+ "ids": {
+  "wikidata": "Q1473677",
+  "ror": "030eybx10"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/96/96ddab7e583b95a76412c585611dee218ddd3b280fd92cf88818eced794a93dc.webp",
+   "hosted": true,
+   "sha256": "96ddab7e583b95a76412c585611dee218ddd3b280fd92cf88818eced794a93dc",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 167,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logotype_of_Universidade_de_Santiago_de_Compostela.svg",
+   "license": "Public domain",
+   "attribution": "Universidade de Santiago de Compostela (uploaded by User:McVahl )",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logotype_of_Universidade_de_Santiago_de_Compostela.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

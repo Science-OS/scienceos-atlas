@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q7119542",
+ "ids": {
+  "wikidata": "Q7119542",
+  "ror": "04wwqze12"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http%3A%2F%2Fwww.med.monash.edu.au%2Fsphc%2Fmchi%2Fpartners%2Fcn-h-pku3.html&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "http://www.med.monash.edu.au/sphc/mchi/partners/cn-h-pku3.html",
+   "confidence": 0.5,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

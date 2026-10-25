@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02ex6cf31",
+ "ids": {
+  "wikidata": "Q585777",
+  "ror": "02ex6cf31"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.bnl.gov/apple-touch-icon.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.bnl.gov/",
+   "attributionUrl": "https://www.bnl.gov/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

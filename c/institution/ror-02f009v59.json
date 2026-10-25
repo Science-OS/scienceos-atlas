@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02f009v59",
+ "ids": {
+  "wikidata": "Q591115",
+  "ror": "02f009v59"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/1a/1ab31d6fa7c8a4cf24f88c2712056c9b7d2d2f83ee56fc557e774c30c2b2d53f.webp",
+   "hosted": true,
+   "sha256": "1ab31d6fa7c8a4cf24f88c2712056c9b7d2d2f83ee56fc557e774c30c2b2d53f",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 157,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Haifa_logo_official_apperence_dark_%28cropped%29.png",
+   "license": "Public domain",
+   "attribution": "Dhaifa",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Haifa_logo_official_apperence_dark_(cropped).png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q447953",
+ "ids": {
+  "wikidata": "Q447953",
+  "ror": "00613ak93"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c9/c9d44398527eb9582281ca06d2a07c0b40cfb283af5abc86bfdf37b63b57b7e8.webp",
+   "hosted": true,
+   "sha256": "c9d44398527eb9582281ca06d2a07c0b40cfb283af5abc86bfdf37b63b57b7e8",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 77,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/BUW_Logo.svg",
+   "license": "Public domain",
+   "attribution": "Bergische Universität Wuppertal, Grafikdesign der Wissenschaftstransferstelle, Design von Klaus Winterhager",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:BUW_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

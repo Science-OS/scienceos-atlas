@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03tgsfw79",
+ "ids": {
+  "wikidata": "Q1192597",
+  "ror": "03tgsfw79"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/7d/7d5cb257548e8254998b86458ad70f63385beeee3c78b46bccfc44d3548ff7eb.webp",
+   "hosted": true,
+   "sha256": "7d5cb257548e8254998b86458ad70f63385beeee3c78b46bccfc44d3548ff7eb",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 234,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kobe_University_logo.png",
+   "license": "Public domain",
+   "attribution": "神戸大学",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Kobe_University_logo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

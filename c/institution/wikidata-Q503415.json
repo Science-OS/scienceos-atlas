@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q503415",
+ "ids": {
+  "wikidata": "Q503415",
+  "ror": "047s2c258"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c7/c78eda976f1882e4959b49a0a829ba6d9f77bfe4b7533e4aa013275961b377de.webp",
+   "hosted": true,
+   "sha256": "c78eda976f1882e4959b49a0a829ba6d9f77bfe4b7533e4aa013275961b377de",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 51,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Maryland_wordmark.svg",
+   "license": "Public domain",
+   "attribution": "University of Maryland, College Park",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Maryland_wordmark.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

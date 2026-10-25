@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02be6w209",
+ "ids": {
+  "wikidata": "Q209344",
+  "ror": "02be6w209"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/15/151e7e25947b65c002eab88adb3c9abcaa70b9e35dcef8a66a3f8c2984b3f816.webp",
+   "hosted": true,
+   "sha256": "151e7e25947b65c002eab88adb3c9abcaa70b9e35dcef8a66a3f8c2984b3f816",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 78,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Uniroma1.svg",
+   "license": "Public domain",
+   "attribution": "Sapienza University of Rome",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Uniroma1.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

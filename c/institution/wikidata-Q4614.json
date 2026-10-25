@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q4614",
+ "ids": {
+  "wikidata": "Q4614",
+  "ror": "03taz7m60"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/88/88dbe92c73b13bd48c967befcde8c5fe9049386394b732c104d40082850dba0a.webp",
+   "hosted": true,
+   "sha256": "88dbe92c73b13bd48c967befcde8c5fe9049386394b732c104d40082850dba0a",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 46,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Southern_California_logo.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Southern_California_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

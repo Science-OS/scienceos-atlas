@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q219203",
+ "ids": {
+  "wikidata": "Q219203",
+  "ror": "04jndar25"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/16/1693ebc506b941affa5c32e84ff75fe4c5e5d10ab76db3f817943f0e1f0e89ac.webp",
+   "hosted": true,
+   "sha256": "1693ebc506b941affa5c32e84ff75fe4c5e5d10ab76db3f817943f0e1f0e89ac",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 70,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/NEC_logo.svg",
+   "license": "Public domain",
+   "attribution": "NEC Corporation",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:NEC_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

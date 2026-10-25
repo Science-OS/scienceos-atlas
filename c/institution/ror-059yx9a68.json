@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-059yx9a68",
+ "ids": {
+  "wikidata": "Q1150419",
+  "ror": "059yx9a68"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/04/044a801b39e04ea307d36a6b3982b2536c6bd0db2445055d1ac6aeba9da20371.webp",
+   "hosted": true,
+   "sha256": "044a801b39e04ea307d36a6b3982b2536c6bd0db2445055d1ac6aeba9da20371",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logotipo_de_la_Universidad_Nacional_de_Colombia.svg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Ultrabyte",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logotipo_de_la_Universidad_Nacional_de_Colombia.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

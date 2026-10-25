@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-023pskh72",
+ "ids": {
+  "wikidata": "Q3551629",
+  "ror": "023pskh72"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.maseno.ac.ke&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "https://www.maseno.ac.ke",
+   "confidence": 0.5,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

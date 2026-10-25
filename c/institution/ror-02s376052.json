@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02s376052",
+ "ids": {
+  "wikidata": "Q262760",
+  "ror": "02s376052"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/df/df681e9d72344b174de02945097d3d177e2630d413126b5f4c73e650bcb8f065.webp",
+   "hosted": true,
+   "sha256": "df681e9d72344b174de02945097d3d177e2630d413126b5f4c73e650bcb8f065",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 74,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_EPFL_2019.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_EPFL_2019.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

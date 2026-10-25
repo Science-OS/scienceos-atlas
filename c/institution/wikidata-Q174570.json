@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q174570",
+ "ids": {
+  "wikidata": "Q174570",
+  "ror": "0090zs177"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/38/38216fc5061c546b95813ba2fc38427f4cb1bf9452cd62c62ec16e9f59097226.webp",
+   "hosted": true,
+   "sha256": "38216fc5061c546b95813ba2fc38427f4cb1bf9452cd62c62ec16e9f59097226",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 88,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/London_school_of_economics_logo_with_name.svg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "London School of Economics and Political Science",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:London_school_of_economics_logo_with_name.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

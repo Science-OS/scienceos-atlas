@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q836805",
+ "ids": {
+  "wikidata": "Q836805",
+  "ror": "040wg7k59"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/22/2230be28275b41757b22aed16cb118469ff3c64c0efc12d4cf1e04c910d4e780.webp",
+   "hosted": true,
+   "sha256": "2230be28275b41757b22aed16cb118469ff3c64c0efc12d4cf1e04c910d4e780",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 207,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Avancez_-_1829.JPG",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "attribution": "JensPersson",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Avancez_-_1829.JPG",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

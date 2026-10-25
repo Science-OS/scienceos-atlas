@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04mg3nk07",
+ "ids": {
+  "wikidata": "Q3947008",
+  "ror": "04mg3nk07"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/10/10b82cbb6c36feb8c5f23aa0b58dec8ceef4afacdc1afa4955de0815e34480fc.webp",
+   "hosted": true,
+   "sha256": "10b82cbb6c36feb8c5f23aa0b58dec8ceef4afacdc1afa4955de0815e34480fc",
+   "mime": "image/webp",
+   "width": 172,
+   "height": 53,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/SDSC_logo.png",
+   "license": "Public domain",
+   "attribution": "San Diego Supercomputer Center",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:SDSC_logo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

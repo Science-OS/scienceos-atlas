@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-00x7ekv49",
+ "ids": {
+  "wikidata": "Q1054410",
+  "ror": "00x7ekv49"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/67/673c352a864500442b3be99e68e0ead8ee21324619a47b710a28b834c3b37a5f.webp",
+   "hosted": true,
+   "sha256": "673c352a864500442b3be99e68e0ead8ee21324619a47b710a28b834c3b37a5f",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 47,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Centrum-wiskunde-informatica-logo.png",
+   "license": "Public domain",
+   "attribution": "The original uploader was Rcblanke at English Wikipedia .",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Centrum-wiskunde-informatica-logo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

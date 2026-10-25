@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q665105",
+ "ids": {
+  "wikidata": "Q665105",
+  "ror": "04gzb2213"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/af/af08ec21d649d2b3574ad44de46d17718105f6c8c28bddf20f8b632af3cbb482.webp",
+   "hosted": true,
+   "sha256": "af08ec21d649d2b3574ad44de46d17718105f6c8c28bddf20f8b632af3cbb482",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 254,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Delhi_University%27s_official_logo.png",
+   "license": "Public domain",
+   "attribution": "Pt. Lachmi Dhar Kalla (1891–1953)",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Delhi_University%27s_official_logo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-00e5k0821",
+ "ids": {
+  "wikidata": "Q566189",
+  "ror": "00e5k0821"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://nyuad.nyu.edu/apps/nyuad/docroot/img/apple-touch-icon.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://nyuad.nyu.edu/",
+   "attributionUrl": "https://nyuad.nyu.edu/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

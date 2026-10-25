@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02vwzrd76",
+ "ids": {
+  "wikidata": "Q1540109",
+  "ror": "02vwzrd76"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/32/32a100da03889e5572a1cfdcd9cb45e29065636646c044185afd66fa48cf58fe.webp",
+   "hosted": true,
+   "sha256": "32a100da03889e5572a1cfdcd9cb45e29065636646c044185afd66fa48cf58fe",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 65,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_of_the_Jefferson_Lab.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_of_the_Jefferson_Lab.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

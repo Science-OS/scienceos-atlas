@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01ggx4157",
+ "ids": {
+  "wikidata": "Q42944",
+  "ror": "01ggx4157"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/9e/9e1aa75ddd2d6c87658888db5a3476c5547a8a934c74e8d4852bdb0e1c39c3a5.webp",
+   "hosted": true,
+   "sha256": "9e1aa75ddd2d6c87658888db5a3476c5547a8a934c74e8d4852bdb0e1c39c3a5",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/CERN_logo_badge.svg",
+   "license": "Public domain",
+   "attribution": "European Organization for Nuclear Research Organisation européenne pour la recherche nucléaire",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:CERN_logo_badge.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

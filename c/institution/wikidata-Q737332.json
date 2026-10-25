@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q737332",
+ "ids": {
+  "wikidata": "Q737332",
+  "ror": "05tkyf982"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/3e/3e2b8c7ddbaa7ea50d64a49b823176cb6ad94cc928d156df313bf3da96a40e04.webp",
+   "hosted": true,
+   "sha256": "3e2b8c7ddbaa7ea50d64a49b823176cb6ad94cc928d156df313bf3da96a40e04",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 64,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ben-Gurion_University_of_the_Negev_logo.svg",
+   "license": "Public domain",
+   "attribution": "Ben-Gurion University of the Negev",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Ben-Gurion_University_of_the_Negev_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

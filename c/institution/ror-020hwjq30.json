@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-020hwjq30",
+ "ids": {
+  "wikidata": "Q300980",
+  "ror": "020hwjq30"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/fe/fe25383d6a94f17a350378785c601d31b5b1b009df2282ea3086df566875f89b.webp",
+   "hosted": true,
+   "sha256": "fe25383d6a94f17a350378785c601d31b5b1b009df2282ea3086df566875f89b",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 236,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Aalto_University_logo_tri-lingual_version.png",
+   "license": "Public domain",
+   "attribution": "Rasmus Snabb",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Aalto_University_logo_tri-lingual_version.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q380",
+ "ids": {
+  "wikidata": "Q380",
+  "ror": "01zbnvs85"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/0b/0ba4dcb1766b98419fcc7698d7a4617b7015e014fbbe8e67700bb1c213aa6ad9.webp",
+   "hosted": true,
+   "sha256": "0ba4dcb1766b98419fcc7698d7a4617b7015e014fbbe8e67700bb1c213aa6ad9",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 52,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Meta_Platforms_Inc._logo.svg",
+   "license": "Public domain",
+   "attribution": "Meta Platforms",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Meta_Platforms_Inc._logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

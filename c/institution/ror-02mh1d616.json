@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02mh1d616",
+ "ids": {
+  "wikidata": "Q45135347",
+  "ror": "02mh1d616"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fphys.ncts.ntu.edu.tw&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "https://phys.ncts.ntu.edu.tw",
+   "confidence": 0.5,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

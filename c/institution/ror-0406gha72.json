@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-0406gha72",
+ "ids": {
+  "wikidata": "Q2302311",
+  "ror": "0406gha72"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/fa/fabe11daa67414d2a6b5e14da3e6667c4dbb91bd664d71ac3b67a7ebda276afe.webp",
+   "hosted": true,
+   "sha256": "fabe11daa67414d2a6b5e14da3e6667c4dbb91bd664d71ac3b67a7ebda276afe",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 76,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Nevada%2C_Las_Vegas_logo.svg",
+   "license": "Public domain",
+   "attribution": "University of Nevada, Las Vegas",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Nevada,_Las_Vegas_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

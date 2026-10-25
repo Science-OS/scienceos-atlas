@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q138510314",
+ "ids": {
+  "wikidata": "Q138510314",
+  "ror": "0265yxm37"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d8/d8d1b777c7d81ae719ff9bb6b3e8e0aa7b6dc1f1532b02ea59c46c844de7467b.webp",
+   "hosted": true,
+   "sha256": "d8d1b777c7d81ae719ff9bb6b3e8e0aa7b6dc1f1532b02ea59c46c844de7467b",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 65,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/ASAR_logo_-_english.jpg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "ASAR-for-India",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:ASAR_logo_-_english.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

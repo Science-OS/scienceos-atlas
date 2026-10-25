@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02kkvpp62",
+ "ids": {
+  "wikidata": "Q157808",
+  "ror": "02kkvpp62"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/59/5985b2b3d48af4b883d057f3d609a0cbdbaba8066fa59313e4b0f6bdce7129e4.webp",
+   "hosted": true,
+   "sha256": "5985b2b3d48af4b883d057f3d609a0cbdbaba8066fa59313e4b0f6bdce7129e4",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 84,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/TU_Muenchen_Logo.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:TU_Muenchen_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

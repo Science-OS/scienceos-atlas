@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-00v97ad02",
+ "ids": {
+  "wikidata": "Q860527",
+  "ror": "00v97ad02"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ae/ae2c607a2d2294aa4e4e05e2f05d88639fd85b262b18d55bb2a40b344bdbb9e6.webp",
+   "hosted": true,
+   "sha256": "ae2c607a2d2294aa4e4e05e2f05d88639fd85b262b18d55bb2a40b344bdbb9e6",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 87,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_North_Texas_wordmark.svg",
+   "license": "Public domain",
+   "attribution": "University of North Texas (vectorized by Deltaspace42 )",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_North_Texas_wordmark.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

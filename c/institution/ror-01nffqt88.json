@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01nffqt88",
+ "ids": {
+  "wikidata": "Q392904",
+  "ror": "01nffqt88"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/13/136971b4b3ddbfaad206aee3e9a61cb2d6de56ff1ed98bc7c75bb78eb0e7d3d2.webp",
+   "hosted": true,
+   "sha256": "136971b4b3ddbfaad206aee3e9a61cb2d6de56ff1ed98bc7c75bb78eb0e7d3d2",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 254,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Politecnicomilano-logo.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Politecnicomilano-logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

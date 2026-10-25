@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q540341",
+ "ids": {
+  "wikidata": "Q540341",
+  "ror": "04d4sd432"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/14/14fe007e47c79e88b6a035d0c7460986a4c1368b96c18653ebed30c281a1a4c6.webp",
+   "hosted": true,
+   "sha256": "14fe007e47c79e88b6a035d0c7460986a4c1368b96c18653ebed30c281a1a4c6",
+   "mime": "image/webp",
+   "width": 246,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Universit%C3%A9_de_Sfax.png",
+   "license": "CC0",
+   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_Universit%C3%A9_de_Sfax.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

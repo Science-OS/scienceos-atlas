@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-0272kpg92",
+ "ids": {
+  "wikidata": "Q15907772",
+  "ror": "0272kpg92"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/6b/6b8fcc677993011dd63acb86ec9917701e91d52d636d3c9cdc9b760f6e407794.webp",
+   "hosted": true,
+   "sha256": "6b8fcc677993011dd63acb86ec9917701e91d52d636d3c9cdc9b760f6e407794",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 64,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Meituan_English_Logo.png",
+   "license": "Public domain",
+   "attribution": "Meituan",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Meituan_English_Logo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

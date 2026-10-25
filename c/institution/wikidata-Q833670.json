@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q833670",
+ "ids": {
+  "wikidata": "Q833670",
+  "ror": "05f950310"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d9/d91d72657a0c6086c13ae2a500b0dd9b8933d33deac91a0887c10f2473006363.webp",
+   "hosted": true,
+   "sha256": "d91d72657a0c6086c13ae2a500b0dd9b8933d33deac91a0887c10f2473006363",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 92,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/KU_Leuven_logo.svg",
+   "license": "Public domain",
+   "attribution": "KU Leuven",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:KU_Leuven_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

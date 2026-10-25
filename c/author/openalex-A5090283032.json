@@ -1,0 +1,24 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "openalex-A5090283032",
+ "ids": {
+  "orcid": "0000-0001-8709-1133",
+  "wikidata": "Q114631290",
+  "openalex": "A5090283032",
+  "github": "lealtaixe"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://github.com/lealtaixe.png?size=256",
+   "hosted": false,
+   "source": "github",
+   "attribution": "GitHub profile @lealtaixe",
+   "attributionUrl": "https://github.com/lealtaixe",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

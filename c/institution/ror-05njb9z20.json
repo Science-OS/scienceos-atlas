@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-05njb9z20",
+ "ids": {
+  "wikidata": "Q1377",
+  "ror": "05njb9z20"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.uni-lj.si/_resources/themes/uni/images/favicon/apple-touch-icon.png?m=1709547504",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.uni-lj.si/",
+   "attributionUrl": "https://www.uni-lj.si/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

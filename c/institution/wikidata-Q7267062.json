@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q7267062",
+ "ids": {
+  "wikidata": "Q7267062",
+  "ror": "01wsfe280"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/73/731dd65501e8ca824138a23c65bb2a8b1b486798983f8cde3d6bd1ad3af4278c.webp",
+   "hosted": true,
+   "sha256": "731dd65501e8ca824138a23c65bb2a8b1b486798983f8cde3d6bd1ad3af4278c",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 76,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Qassim_University_logo.svg",
+   "license": "Public domain",
+   "attribution": "Qassim University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Qassim_University_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

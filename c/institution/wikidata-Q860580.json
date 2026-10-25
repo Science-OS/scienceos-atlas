@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q860580",
+ "ids": {
+  "wikidata": "Q860580",
+  "ror": "00hhjss72"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/4f/4f0204d4f4670226f92d7213444c15c075412b5504b45154813802e66b65fbba.webp",
+   "hosted": true,
+   "sha256": "4f0204d4f4670226f92d7213444c15c075412b5504b45154813802e66b65fbba",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 35,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tencent_logo_2017.svg",
+   "license": "Public domain",
+   "attribution": "Tencent.",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Tencent_logo_2017.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

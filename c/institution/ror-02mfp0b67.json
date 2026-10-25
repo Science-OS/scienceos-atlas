@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02mfp0b67",
+ "ids": {
+  "wikidata": "Q10867778",
+  "ror": "02mfp0b67"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/5f/5f8d22699a8d76bedf766ae73b027b1da6da42a6025327c7cf4b79a440e340e6.webp",
+   "hosted": true,
+   "sha256": "5f8d22699a8d76bedf766ae73b027b1da6da42a6025327c7cf4b79a440e340e6",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 67,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/NCTS-Logo.png",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "National Center for Theoretical Sciences, Physics",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:NCTS-Logo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

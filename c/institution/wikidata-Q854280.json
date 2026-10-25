@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q854280",
+ "ids": {
+  "wikidata": "Q854280",
+  "ror": "026vcq606"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c2/c266d3bdde4937f4db73ef8129de23171424c99a2965c40d35676a61ef48e174.webp",
+   "hosted": true,
+   "sha256": "c266d3bdde4937f4db73ef8129de23171424c99a2965c40d35676a61ef48e174",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 171,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/KTH_logotype.jpg",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "attribution": "I99pema",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:KTH_logotype.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

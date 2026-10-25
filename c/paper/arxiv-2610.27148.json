@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.27148",
+ "ids": {
+  "arxiv": "2610.27148"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/dc/dc4adffca199a370149672890bbee8e7830a1201c9c57cf63a746abffcfb305c.jpg",
+   "hosted": true,
+   "sha256": "dc4adffca199a370149672890bbee8e7830a1201c9c57cf63a746abffcfb305c",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.27148",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Weien Li et al., arXiv:2610.27148",
+   "attributionUrl": "https://arxiv.org/abs/2610.27148",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

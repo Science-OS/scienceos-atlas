@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-00py81415",
+ "ids": {
+  "wikidata": "Q168751",
+  "ror": "00py81415"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/da/da7681832d88f6a6e910225566843d6b8272b74764d2b5f3518272e25f1341ee.webp",
+   "hosted": true,
+   "sha256": "da7681832d88f6a6e910225566843d6b8272b74764d2b5f3518272e25f1341ee",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 112,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Duke_University_logo.svg",
+   "license": "Public domain",
+   "attribution": "Duke University, Shep",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Duke_University_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

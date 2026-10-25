@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q151510",
+ "ids": {
+  "wikidata": "Q151510",
+  "ror": "038t36y30"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/6b/6bd0b161925c2acaa77db52e760aa2cd01f75be2f9bd5e4263c403627b0e2268.webp",
+   "hosted": true,
+   "sha256": "6bd0b161925c2acaa77db52e760aa2cd01f75be2f9bd5e4263c403627b0e2268",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 135,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ruprecht-Karls-Universit%C3%A4t_Heidelberg_Logo.svg",
+   "license": "Public domain",
+   "attribution": "Original: Tou-x Vector: Lệ Xuân",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Ruprecht-Karls-Universit%C3%A4t_Heidelberg_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

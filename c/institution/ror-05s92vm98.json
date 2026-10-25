@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-05s92vm98",
+ "ids": {
+  "wikidata": "Q649906",
+  "ror": "05s92vm98"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.xidian.edu.cn&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "https://www.xidian.edu.cn",
+   "confidence": 0.5,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

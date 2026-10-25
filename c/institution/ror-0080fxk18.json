@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-0080fxk18",
+ "ids": {
+  "wikidata": "Q1026926",
+  "ror": "0080fxk18"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/4b/4b4239abea4284d88ff70b582c455cd779d443b653ffaa72cf05e229bd61a584.webp",
+   "hosted": true,
+   "sha256": "4b4239abea4284d88ff70b582c455cd779d443b653ffaa72cf05e229bd61a584",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 29,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/CSULB_wordmark.png",
+   "license": "Public domain",
+   "attribution": "California State University, Long Beach",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:CSULB_wordmark.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}

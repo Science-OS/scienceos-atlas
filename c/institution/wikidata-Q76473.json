@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q76473",
+ "ids": {
+  "wikidata": "Q76473",
+  "ror": "01ryk1543"
+ },
+ "updatedAt": "2026-10-25T09:57:34Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/35/355238b24826958064634bf4d0bab5ecf3d5d55dfa2100ac3354ff0f3eb71eff.webp",
+   "hosted": true,
+   "sha256": "355238b24826958064634bf4d0bab5ecf3d5d55dfa2100ac3354ff0f3eb71eff",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 57,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Southampton_Logo.svg",
+   "license": "Public domain",
+   "attribution": "University of Southampton",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Southampton_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-25T09:57:34Z"
+  }
+ ]
+}
