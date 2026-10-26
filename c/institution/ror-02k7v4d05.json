@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02k7v4d05",
+ "ids": {
+  "wikidata": "Q659080",
+  "ror": "02k7v4d05"
+ },
+ "updatedAt": "2026-10-26T11:20:21Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/6d/6df275d5db8da673333dc66d5383658b458f8d8fcd7c4ee51ada451084a33ff4.webp",
+   "hosted": true,
+   "sha256": "6df275d5db8da673333dc66d5383658b458f8d8fcd7c4ee51ada451084a33ff4",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Universit%C3%A4t_Bern.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_Universit%C3%A4t_Bern.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-26T11:20:21Z"
+  }
+ ]
+}

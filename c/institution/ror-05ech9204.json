@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-05ech9204",
+ "ids": {
+  "wikidata": "Q7588902",
+  "ror": "05ech9204"
+ },
+ "updatedAt": "2026-10-26T11:20:21Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/58/585a40ee5d1ee7172b1a15c433c755de1770aff1a87f9938227754f31f309eda.webp",
+   "hosted": true,
+   "sha256": "585a40ee5d1ee7172b1a15c433c755de1770aff1a87f9938227754f31f309eda",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 125,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Fisger_univ_textlogo.png",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Fisger_univ_textlogo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-26T11:20:21Z"
+  }
+ ]
+}

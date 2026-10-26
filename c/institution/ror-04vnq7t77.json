@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04vnq7t77",
+ "ids": {
+  "wikidata": "Q122453",
+  "ror": "04vnq7t77"
+ },
+ "updatedAt": "2026-10-26T11:20:21Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/1c/1cdcd99efe61516d4163553454604e7caae80ec8eefdaa245e387b866453f6da.webp",
+   "hosted": true,
+   "sha256": "1cdcd99efe61516d4163553454604e7caae80ec8eefdaa245e387b866453f6da",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 58,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Universit%C3%A4t_Stuttgart_Logo.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Universit%C3%A4t_Stuttgart_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-26T11:20:21Z"
+  }
+ ]
+}

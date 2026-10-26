@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q810771",
+ "ids": {
+  "wikidata": "Q810771",
+  "ror": "003yn7c76"
+ },
+ "updatedAt": "2026-10-26T11:20:21Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/1a/1a8a1a1c689f7a4652596c4851ba6ab29f61d6084eed5a63d686149b4c824d65.webp",
+   "hosted": true,
+   "sha256": "1a8a1a1c689f7a4652596c4851ba6ab29f61d6084eed5a63d686149b4c824d65",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 75,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bates_College_wordmark.svg",
+   "license": "Public domain",
+   "attribution": "Bates College",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Bates_College_wordmark.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-26T11:20:21Z"
+  }
+ ]
+}

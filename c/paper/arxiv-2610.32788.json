@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.32788",
+ "ids": {
+  "arxiv": "2610.32788"
+ },
+ "updatedAt": "2026-10-26T11:20:21Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/0a/0ab7409a4a657bef296b857f8e13bb704c25343e262cc7e0b0cfd266949232b6.jpg",
+   "hosted": true,
+   "sha256": "0ab7409a4a657bef296b857f8e13bb704c25343e262cc7e0b0cfd266949232b6",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.32788",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Dario Bocchi et al., arXiv:2610.32788",
+   "attributionUrl": "https://arxiv.org/abs/2610.32788",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-26T11:20:21Z"
+  }
+ ]
+}

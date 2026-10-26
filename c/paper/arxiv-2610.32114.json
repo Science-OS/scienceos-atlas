@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.32114",
+ "ids": {
+  "arxiv": "2610.32114"
+ },
+ "updatedAt": "2026-10-26T11:20:21Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/4b/4beeadf4775f28cdaade44c3e3fad698cea82e5907fe8df6cb4f714304fe2cfe.jpg",
+   "hosted": true,
+   "sha256": "4beeadf4775f28cdaade44c3e3fad698cea82e5907fe8df6cb4f714304fe2cfe",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.32114",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Soroush Ebadian et al., arXiv:2610.32114",
+   "attributionUrl": "https://arxiv.org/abs/2610.32114",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-26T11:20:21Z"
+  }
+ ]
+}

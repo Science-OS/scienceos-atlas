@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-027bh9e22",
+ "ids": {
+  "wikidata": "Q156598",
+  "ror": "027bh9e22"
+ },
+ "updatedAt": "2026-10-26T11:20:21Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b9/b99f280b1a9c8a2f063bd920941fc09def30fa565ca226845e75ca6680fb1b4a.webp",
+   "hosted": true,
+   "sha256": "b99f280b1a9c8a2f063bd920941fc09def30fa565ca226845e75ca6680fb1b4a",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 113,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/UniversiteitLeidenLogo.svg",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "attribution": "Leiden University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:UniversiteitLeidenLogo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-26T11:20:21Z"
+  }
+ ]
+}

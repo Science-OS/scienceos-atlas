@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.32668",
+ "ids": {
+  "arxiv": "2610.32668"
+ },
+ "updatedAt": "2026-10-26T11:20:21Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/8a/8a903c3f4cc6f54ac1db0988d02520ce588a4e6b9cdfac9d16b4ba0dcc6944a8.jpg",
+   "hosted": true,
+   "sha256": "8a903c3f4cc6f54ac1db0988d02520ce588a4e6b9cdfac9d16b4ba0dcc6944a8",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 819,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.32668",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Takeru Hasegawa et al., arXiv:2610.32668",
+   "attributionUrl": "https://arxiv.org/abs/2610.32668",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-26T11:20:21Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02c2kyt77",
+ "ids": {
+  "wikidata": "Q280824",
+  "ror": "02c2kyt77"
+ },
+ "updatedAt": "2026-10-26T11:20:21Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/1a/1a2c77b1419a2792c0a10a76026a55bc79b8af63ce424fcd5d5e0a215f73eb5d.webp",
+   "hosted": true,
+   "sha256": "1a2c77b1419a2792c0a10a76026a55bc79b8af63ce424fcd5d5e0a215f73eb5d",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 71,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Eindhoven_University_of_Technology_logo_new.svg",
+   "license": "Public domain",
+   "attribution": "Eindhoven University of Technology",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Eindhoven_University_of_Technology_logo_new.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-26T11:20:21Z"
+  }
+ ]
+}

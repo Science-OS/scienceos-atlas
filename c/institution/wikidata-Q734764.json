@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q734764",
+ "ids": {
+  "wikidata": "Q734764",
+  "ror": "03r8z3t63"
+ },
+ "updatedAt": "2026-10-26T11:20:21Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/a0/a0a01eb238ea433ba2843ce9b4c826cbb13b0d5cb75bf68fc32ea4c5d2ffd80c.webp",
+   "hosted": true,
+   "sha256": "a0a01eb238ea433ba2843ce9b4c826cbb13b0d5cb75bf68fc32ea4c5d2ffd80c",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 161,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/UNSW_Canberra_Logo_-_Lanscape.jpg",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "attribution": "Kurt Barnett",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:UNSW_Canberra_Logo_-_Lanscape.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-26T11:20:21Z"
+  }
+ ]
+}

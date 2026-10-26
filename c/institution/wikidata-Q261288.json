@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q261288",
+ "ids": {
+  "wikidata": "Q261288",
+  "ror": "01eyenr26"
+ },
+ "updatedAt": "2026-10-26T11:20:21Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/55/558f889b19ae1df7e478a253c2234c414e9174d4afff05f27f4ef80664440221.webp",
+   "hosted": true,
+   "sha256": "558f889b19ae1df7e478a253c2234c414e9174d4afff05f27f4ef80664440221",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 65,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dolby_logo_2019.svg",
+   "license": "Public domain",
+   "attribution": "Dolby Laboratories",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Dolby_logo_2019.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-26T11:20:21Z"
+  }
+ ]
+}

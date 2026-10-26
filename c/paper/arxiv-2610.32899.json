@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.32899",
+ "ids": {
+  "arxiv": "2610.32899"
+ },
+ "updatedAt": "2026-10-26T11:20:21Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/a4/a41f018057c650d25cd536c8814b772ea41b34e57978950c77637827c75db7f0.jpg",
+   "hosted": true,
+   "sha256": "a41f018057c650d25cd536c8814b772ea41b34e57978950c77637827c75db7f0",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.32899",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Linfeng Wei et al., arXiv:2610.32899",
+   "attributionUrl": "https://arxiv.org/abs/2610.32899",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-26T11:20:21Z"
+  }
+ ]
+}

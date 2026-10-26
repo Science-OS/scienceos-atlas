@@ -1,0 +1,30 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "openalex-A5076708141",
+ "ids": {
+  "orcid": "0000-0002-2158-8304",
+  "wikidata": "Q56230339",
+  "openalex": "A5076708141"
+ },
+ "updatedAt": "2026-10-26T11:20:21Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/0b/0b7dbc2c7cc9bbee32968b8fb605de9b7dee07cf082d0ca08df19b0a21879bdd.webp",
+   "hosted": true,
+   "sha256": "0b7dbc2c7cc9bbee32968b8fb605de9b7dee07cf082d0ca08df19b0a21879bdd",
+   "mime": "image/webp",
+   "width": 192,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/RyanTibshirani.jpg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Ryan.Tibshirani",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:RyanTibshirani.jpg",
+   "confidence": 0.95,
+   "fetchedAt": "2026-10-26T11:20:21Z"
+  }
+ ]
+}

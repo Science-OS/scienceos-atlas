@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.32438",
+ "ids": {
+  "arxiv": "2610.32438"
+ },
+ "updatedAt": "2026-10-26T11:20:21Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/bf/bf2d171c2dfa7f507c37b25c67b425b52c44af66850195a313f7109c08d2a6bc.jpg",
+   "hosted": true,
+   "sha256": "bf2d171c2dfa7f507c37b25c67b425b52c44af66850195a313f7109c08d2a6bc",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.32438",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Mamadou Sow, arXiv:2610.32438",
+   "attributionUrl": "https://arxiv.org/abs/2610.32438",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-26T11:20:21Z"
+  }
+ ]
+}

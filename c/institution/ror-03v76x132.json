@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03v76x132",
+ "ids": {
+  "wikidata": "Q49112",
+  "ror": "03v76x132"
+ },
+ "updatedAt": "2026-10-26T11:20:21Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/05/05513d484d0b2f8ed1d1cad74f40aabc32aad42ef7215919c77197c0dad48d73.webp",
+   "hosted": true,
+   "sha256": "05513d484d0b2f8ed1d1cad74f40aabc32aad42ef7215919c77197c0dad48d73",
+   "mime": "image/webp",
+   "width": 244,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Yale_University_Shield_1.svg",
+   "license": "Public domain",
+   "attribution": "Yale University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Yale_University_Shield_1.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-26T11:20:21Z"
+  }
+ ]
+}

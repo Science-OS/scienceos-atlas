@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.32515",
+ "ids": {
+  "arxiv": "2610.32515"
+ },
+ "updatedAt": "2026-10-26T11:20:21Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e5/e53b949514b621b3575da8ca2b5b8f55350a2f40f1bb30ea1e80b83384f51745.jpg",
+   "hosted": true,
+   "sha256": "e53b949514b621b3575da8ca2b5b8f55350a2f40f1bb30ea1e80b83384f51745",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.32515",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Sarah Sulollari et al., arXiv:2610.32515",
+   "attributionUrl": "https://arxiv.org/abs/2610.32515",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-26T11:20:21Z"
+  }
+ ]
+}

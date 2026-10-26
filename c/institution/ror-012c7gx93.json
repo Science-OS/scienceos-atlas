@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-012c7gx93",
+ "ids": {
+  "wikidata": "Q1055390",
+  "ror": "012c7gx93"
+ },
+ "updatedAt": "2026-10-26T11:20:21Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/37/378fd0e98db5c936366af0759eeece23ad1ac38f868c9df69c9d6366470da1ca.webp",
+   "hosted": true,
+   "sha256": "378fd0e98db5c936366af0759eeece23ad1ac38f868c9df69c9d6366470da1ca",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 81,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Oracle_Cerner_logo.svg",
+   "license": "Public domain",
+   "attribution": "Cerner",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Oracle_Cerner_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-26T11:20:21Z"
+  }
+ ]
+}

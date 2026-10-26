@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q221653",
+ "ids": {
+  "wikidata": "Q221653",
+  "ror": "04pp8hn57"
+ },
+ "updatedAt": "2026-10-26T11:20:21Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/14/14115e3c262eb24f7bc1f2e43c075b32d5943a8f34511263c1ea7f14924dd6fb.webp",
+   "hosted": true,
+   "sha256": "14115e3c262eb24f7bc1f2e43c075b32d5943a8f34511263c1ea7f14924dd6fb",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 70,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Utrecht-univesrsity-logo.svg",
+   "license": "Public domain",
+   "attribution": "Utrechy University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Utrecht-univesrsity-logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-26T11:20:21Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.32674",
+ "ids": {
+  "arxiv": "2610.32674"
+ },
+ "updatedAt": "2026-10-26T11:20:21Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/3f/3f600f88ad651be72cd66e13b8952bcc822515bc651121d621ee638db28787f8.jpg",
+   "hosted": true,
+   "sha256": "3f600f88ad651be72cd66e13b8952bcc822515bc651121d621ee638db28787f8",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.32674",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Raul C. Sîmpetru et al., arXiv:2610.32674",
+   "attributionUrl": "https://arxiv.org/abs/2610.32674",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-26T11:20:21Z"
+  }
+ ]
+}

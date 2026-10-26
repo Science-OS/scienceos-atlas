@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.32955",
+ "ids": {
+  "arxiv": "2610.32955"
+ },
+ "updatedAt": "2026-10-26T11:20:21Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/98/98deab178ff7e5b121751a21abdb83f50c36ff13903a4303f32c26cf456cd876.jpg",
+   "hosted": true,
+   "sha256": "98deab178ff7e5b121751a21abdb83f50c36ff13903a4303f32c26cf456cd876",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.32955",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Federico Lucca, arXiv:2610.32955",
+   "attributionUrl": "https://arxiv.org/abs/2610.32955",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-26T11:20:21Z"
+  }
+ ]
+}

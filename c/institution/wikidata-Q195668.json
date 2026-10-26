@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q195668",
+ "ids": {
+  "wikidata": "Q195668",
+  "ror": "026zzn846"
+ },
+ "updatedAt": "2026-10-26T11:20:21Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/a0/a0f27a221aca6c3efc7ef16d68c9166386eeaf038e0b63e5143edc268f375109.webp",
+   "hosted": true,
+   "sha256": "a0f27a221aca6c3efc7ef16d68c9166386eeaf038e0b63e5143edc268f375109",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 215,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Queen_Mary_University_of_London_coat_of_arms.svg",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "attribution": "AlexD",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Queen_Mary_University_of_London_coat_of_arms.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-26T11:20:21Z"
+  }
+ ]
+}

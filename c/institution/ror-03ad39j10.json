@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03ad39j10",
+ "ids": {
+  "wikidata": "Q645663",
+  "ror": "03ad39j10"
+ },
+ "updatedAt": "2026-10-26T11:20:21Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/17/172bf013c2f4c68ac3c9e21b66b1194f306879fd894feb9eaeb3a127648ed54f.webp",
+   "hosted": true,
+   "sha256": "172bf013c2f4c68ac3c9e21b66b1194f306879fd894feb9eaeb3a127648ed54f",
+   "mime": "image/webp",
+   "width": 251,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Emblem_of_University_of_Pisa.svg",
+   "license": "Public domain",
+   "attribution": "University of Pisa",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Emblem_of_University_of_Pisa.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-26T11:20:21Z"
+  }
+ ]
+}

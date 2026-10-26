@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q14772",
+ "ids": {
+  "wikidata": "Q14772",
+  "ror": "03vs3wt56"
+ },
+ "updatedAt": "2026-10-26T11:20:21Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://psstatic.cdn.bcebos.com/video/wiseindex/aa6eef91f8b5b1a33b454c401_1660835115000.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.baidu.com/",
+   "attributionUrl": "https://www.baidu.com/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-10-26T11:20:21Z"
+  }
+ ]
+}

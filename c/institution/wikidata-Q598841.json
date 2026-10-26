@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q598841",
+ "ids": {
+  "wikidata": "Q598841",
+  "ror": "02bfwt286"
+ },
+ "updatedAt": "2026-10-26T11:20:21Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.monash.edu&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "https://www.monash.edu",
+   "confidence": 0.5,
+   "fetchedAt": "2026-10-26T11:20:21Z"
+  }
+ ]
+}

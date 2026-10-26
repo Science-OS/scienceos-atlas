@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04t5xt781",
+ "ids": {
+  "wikidata": "Q37548",
+  "ror": "04t5xt781"
+ },
+ "updatedAt": "2026-10-26T11:20:21Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/08/08aa81cbc42a904214c8b9e66a206ebfd4ef69e107b794db059234de301a037f.webp",
+   "hosted": true,
+   "sha256": "08aa81cbc42a904214c8b9e66a206ebfd4ef69e107b794db059234de301a037f",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 82,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Northeastern_Wordmark.svg",
+   "license": "Public domain",
+   "attribution": "Northeastern University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Northeastern_Wordmark.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-26T11:20:21Z"
+  }
+ ]
+}

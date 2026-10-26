@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.32182",
+ "ids": {
+  "arxiv": "2610.32182"
+ },
+ "updatedAt": "2026-10-26T11:20:21Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/99/991a1231bf69cf885aefe7a4ef955f15006dce147eb5a437fd45e4f332c832cf.jpg",
+   "hosted": true,
+   "sha256": "991a1231bf69cf885aefe7a4ef955f15006dce147eb5a437fd45e4f332c832cf",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.32182",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Muhammad Zeeshan Karamat et al., arXiv:2610.32182",
+   "attributionUrl": "https://arxiv.org/abs/2610.32182",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-26T11:20:21Z"
+  }
+ ]
+}

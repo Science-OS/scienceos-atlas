@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-016xsfp80",
+ "ids": {
+  "wikidata": "Q632004",
+  "ror": "016xsfp80"
+ },
+ "updatedAt": "2026-10-26T11:20:21Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/65/6550bd5ec73606a30695d952ca2250be4f797d816f66b7f33daab132baaee13d.webp",
+   "hosted": true,
+   "sha256": "6550bd5ec73606a30695d952ca2250be4f797d816f66b7f33daab132baaee13d",
+   "mime": "image/webp",
+   "width": 112,
+   "height": 144,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Radboudwapen.gif",
+   "license": "CC BY-SA 3.0 nl",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en",
+   "attribution": "Edelsmidse Brom/Radboud Universiteit Nijmegen",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Radboudwapen.gif",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-26T11:20:21Z"
+  }
+ ]
+}

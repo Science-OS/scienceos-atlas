@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01aa1sn70",
+ "ids": {
+  "wikidata": "Q1005523",
+  "ror": "01aa1sn70"
+ },
+ "updatedAt": "2026-10-26T11:20:21Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/f4/f43427fe8a735598a8a5b3d3d1abb1002e2caacb882c5537e4288c87eb7dd34c.webp",
+   "hosted": true,
+   "sha256": "f43427fe8a735598a8a5b3d3d1abb1002e2caacb882c5537e4288c87eb7dd34c",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 98,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bundesanstalt_f%C3%BCr_Arbeitsschutz_und_Arbeitsmedizin_Logo.svg",
+   "license": "Public domain",
+   "attribution": "Bundesanstalt für Arbeitsschutz und Arbeitsmedizin",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Bundesanstalt_f%C3%BCr_Arbeitsschutz_und_Arbeitsmedizin_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-26T11:20:21Z"
+  }
+ ]
+}

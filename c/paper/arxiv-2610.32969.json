@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.32969",
+ "ids": {
+  "arxiv": "2610.32969"
+ },
+ "updatedAt": "2026-10-26T11:20:21Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/f6/f69578be26cae80cd78df304e2d53d4428825e71953c5d88fa7ceb55604e40d5.jpg",
+   "hosted": true,
+   "sha256": "f69578be26cae80cd78df304e2d53d4428825e71953c5d88fa7ceb55604e40d5",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.32969",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Amber Xie et al., arXiv:2610.32969",
+   "attributionUrl": "https://arxiv.org/abs/2610.32969",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-26T11:20:21Z"
+  }
+ ]
+}

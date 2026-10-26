@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.32051",
+ "ids": {
+  "arxiv": "2610.32051"
+ },
+ "updatedAt": "2026-10-26T11:20:21Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ed/ede058fec232cd16acce3edb979c63602d2a5fc9cf7afd1fda1628e77a7ba4c4.jpg",
+   "hosted": true,
+   "sha256": "ede058fec232cd16acce3edb979c63602d2a5fc9cf7afd1fda1628e77a7ba4c4",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.32051",
+   "license": "CC0 1.0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0",
+   "attribution": "Baris Ata et al., arXiv:2610.32051",
+   "attributionUrl": "https://arxiv.org/abs/2610.32051",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-26T11:20:21Z"
+  }
+ ]
+}
