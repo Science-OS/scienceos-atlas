@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.31423",
+ "ids": {
+  "arxiv": "2610.31423"
+ },
+ "updatedAt": "2026-10-27T10:44:31Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/5a/5a3e1f0462bb47c24a2fd4142bd206d195ff747731b9640e75bbc4a2add69e4f.jpg",
+   "hosted": true,
+   "sha256": "5a3e1f0462bb47c24a2fd4142bd206d195ff747731b9640e75bbc4a2add69e4f",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.31423",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Huixin Xu et al., arXiv:2610.31423",
+   "attributionUrl": "https://arxiv.org/abs/2610.31423",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-27T10:44:31Z"
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03angcq70",
+ "ids": {
+  "wikidata": "Q223429",
+  "ror": "03angcq70"
+ },
+ "updatedAt": "2026-10-27T10:44:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.birmingham.ac.uk/_s1t51Q_42c63edc-f2b3-4f81-ab21-dbfb8ad5be16/static/img/icons/favicon-512x512.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of http://www.birmingham.ac.uk/index.aspx",
+   "attributionUrl": "http://www.birmingham.ac.uk/index.aspx",
+   "confidence": 0.7,
+   "fetchedAt": "2026-10-27T10:44:31Z"
+  }
+ ]
+}

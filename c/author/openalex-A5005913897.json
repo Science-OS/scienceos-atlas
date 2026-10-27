@@ -1,0 +1,30 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "openalex-A5005913897",
+ "ids": {
+  "orcid": "0000-0003-4358-5304",
+  "wikidata": "Q6964324",
+  "openalex": "A5005913897"
+ },
+ "updatedAt": "2026-10-27T10:44:31Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b2/b2ec6902f7bfd878c3634fe391cc47e28899bf67ec1c84c58494d205744eeb2b.webp",
+   "hosted": true,
+   "sha256": "b2ec6902f7bfd878c3634fe391cc47e28899bf67ec1c84c58494d205744eeb2b",
+   "mime": "image/webp",
+   "width": 171,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Yonina_Eldar_-_Technion_2012.jpg",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "attribution": "Prof. Yonina Eldar",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Yonina_Eldar_-_Technion_2012.jpg",
+   "confidence": 0.95,
+   "fetchedAt": "2026-10-27T10:44:31Z"
+  }
+ ]
+}

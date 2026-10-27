@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1035745",
+ "ids": {
+  "wikidata": "Q1035745",
+  "ror": "03kk7td41"
+ },
+ "updatedAt": "2026-10-27T10:44:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/70/70264a4ddcbe270b90f1f2e8d02742afc5a4a4ce3a17b4b2b3ca3c000793cdc7.webp",
+   "hosted": true,
+   "sha256": "70264a4ddcbe270b90f1f2e8d02742afc5a4a4ce3a17b4b2b3ca3c000793cdc7",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 247,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cardiff_University_%28logo%29.svg",
+   "license": "Public domain",
+   "attribution": "Cardiff University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Cardiff_University_(logo).svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-27T10:44:31Z"
+  }
+ ]
+}

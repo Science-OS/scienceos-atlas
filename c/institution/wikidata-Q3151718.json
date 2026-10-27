@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q3151718",
+ "ids": {
+  "wikidata": "Q3151718",
+  "ror": "00sx0cd23"
+ },
+ "updatedAt": "2026-10-27T10:44:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.ib.edu.ar/wp-content/uploads/2024/01/cropped-10-192x192.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.ib.edu.ar/",
+   "attributionUrl": "https://www.ib.edu.ar/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-10-27T10:44:31Z"
+  }
+ ]
+}

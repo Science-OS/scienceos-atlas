@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.35195",
+ "ids": {
+  "arxiv": "2610.35195"
+ },
+ "updatedAt": "2026-10-27T10:44:31Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/9a/9ae428cc6bdc4afdedb82b3a0317ad9b5b259cbb982aa204ab8a5e1f206ad2c4.jpg",
+   "hosted": true,
+   "sha256": "9ae428cc6bdc4afdedb82b3a0317ad9b5b259cbb982aa204ab8a5e1f206ad2c4",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 889,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.35195",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Nick Tsipinakis et al., arXiv:2610.35195",
+   "attributionUrl": "https://arxiv.org/abs/2610.35195",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-27T10:44:31Z"
+  }
+ ]
+}

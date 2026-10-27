@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02v616z87",
+ "ids": {
+  "wikidata": "Q499707",
+  "ror": "02v616z87"
+ },
+ "updatedAt": "2026-10-27T10:44:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e9/e97aef31b5562edab663228688237fe42414407ae9cdcceaf1a99ab8a7e9fb87.webp",
+   "hosted": true,
+   "sha256": "e97aef31b5562edab663228688237fe42414407ae9cdcceaf1a99ab8a7e9fb87",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/BNP_Paribas.svg",
+   "license": "Public domain",
+   "attribution": "BNP Paribas CIB",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:BNP_Paribas.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-27T10:44:31Z"
+  }
+ ]
+}

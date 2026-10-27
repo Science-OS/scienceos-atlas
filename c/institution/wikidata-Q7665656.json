@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q7665656",
+ "ids": {
+  "wikidata": "Q7665656",
+  "ror": "005pn5z34"
+ },
+ "updatedAt": "2026-10-27T10:44:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d1/d11e05d2380a741de9aaaa7bf7fce8a6e0caaa2750515daa4b0ce9c01ceb6ea7.webp",
+   "hosted": true,
+   "sha256": "d11e05d2380a741de9aaaa7bf7fce8a6e0caaa2750515daa4b0ce9c01ceb6ea7",
+   "mime": "image/webp",
+   "width": 221,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/IFSP_Logo.jpg",
+   "license": "Public domain",
+   "attribution": "Abliveira",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:IFSP_Logo.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-27T10:44:31Z"
+  }
+ ]
+}

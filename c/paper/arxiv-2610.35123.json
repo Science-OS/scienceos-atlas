@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.35123",
+ "ids": {
+  "arxiv": "2610.35123"
+ },
+ "updatedAt": "2026-10-27T10:44:31Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/aa/aac7d058ff90189efb1e5b7b89fbcd34efc86599d050b4f28bf9f4c90b3907ec.jpg",
+   "hosted": true,
+   "sha256": "aac7d058ff90189efb1e5b7b89fbcd34efc86599d050b4f28bf9f4c90b3907ec",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 852,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.35123",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Luca Biferale et al., arXiv:2610.35123",
+   "attributionUrl": "https://arxiv.org/abs/2610.35123",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-27T10:44:31Z"
+  }
+ ]
+}

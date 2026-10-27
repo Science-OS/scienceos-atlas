@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.35211",
+ "ids": {
+  "arxiv": "2610.35211"
+ },
+ "updatedAt": "2026-10-27T10:44:31Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/3d/3d2f952e9579a421965647536751a77e38b75059d1096408b0d3d1c73bccf48f.jpg",
+   "hosted": true,
+   "sha256": "3d2f952e9579a421965647536751a77e38b75059d1096408b0d3d1c73bccf48f",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.35211",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Weijun Yin et al., arXiv:2610.35211",
+   "attributionUrl": "https://arxiv.org/abs/2610.35211",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-27T10:44:31Z"
+  }
+ ]
+}

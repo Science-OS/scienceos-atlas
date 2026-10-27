@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q193196",
+ "ids": {
+  "wikidata": "Q193196",
+  "ror": "02jx3x895"
+ },
+ "updatedAt": "2026-10-27T10:44:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/41/41e80146c7fe5c8c80d37b9d63314f704110c2bb1d2ead6fcf7b70440590ecff.webp",
+   "hosted": true,
+   "sha256": "41e80146c7fe5c8c80d37b9d63314f704110c2bb1d2ead6fcf7b70440590ecff",
+   "mime": "image/webp",
+   "width": 212,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/UCL_Crest.svg",
+   "license": "Public domain",
+   "attribution": "AlexD , new version by Gnesener1900",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:UCL_Crest.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-27T10:44:31Z"
+  }
+ ]
+}

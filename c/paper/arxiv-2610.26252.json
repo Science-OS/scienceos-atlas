@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.26252",
+ "ids": {
+  "arxiv": "2610.26252"
+ },
+ "updatedAt": "2026-10-27T10:44:31Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/dd/ddb49665e0f348d7c786f144f4581f4e096f54a36b2e80006944f14cdb6cea83.jpg",
+   "hosted": true,
+   "sha256": "ddb49665e0f348d7c786f144f4581f4e096f54a36b2e80006944f14cdb6cea83",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.26252",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Walaa Othman et al., arXiv:2610.26252",
+   "attributionUrl": "https://arxiv.org/abs/2610.26252",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-27T10:44:31Z"
+  }
+ ]
+}

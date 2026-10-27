@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q679913",
+ "ids": {
+  "wikidata": "Q679913",
+  "ror": "0281dp749"
+ },
+ "updatedAt": "2026-10-27T10:44:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d2/d2b9f2f39997332ce550f2e8b804747b2fc0ca2fbf7ebf226f7ba09697f377f2.webp",
+   "hosted": true,
+   "sha256": "d2b9f2f39997332ce550f2e8b804747b2fc0ca2fbf7ebf226f7ba09697f377f2",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 78,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Helmholtz_Association%27s_Logo.svg",
+   "license": "Public domain",
+   "attribution": "Helmholtz Association",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Helmholtz_Association%27s_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-27T10:44:31Z"
+  }
+ ]
+}

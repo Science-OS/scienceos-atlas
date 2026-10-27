@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.34415",
+ "ids": {
+  "arxiv": "2610.34415"
+ },
+ "updatedAt": "2026-10-27T10:44:31Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c6/c63412725e9f8bbfbfa8ceaca5351a03c2f9ce6ca834cea61b19faa161abb59c.jpg",
+   "hosted": true,
+   "sha256": "c63412725e9f8bbfbfa8ceaca5351a03c2f9ce6ca834cea61b19faa161abb59c",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.34415",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Kam Man Wu et al., arXiv:2610.34415",
+   "attributionUrl": "https://arxiv.org/abs/2610.34415",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-27T10:44:31Z"
+  }
+ ]
+}

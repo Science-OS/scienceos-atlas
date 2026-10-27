@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01xz39a70",
+ "ids": {
+  "wikidata": "Q3657876",
+  "ror": "01xz39a70"
+ },
+ "updatedAt": "2026-10-27T10:44:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/10/1083a48b7c1b85156b9b4dfd4f44d6d066a8f7372845d374a1cf640b53507034.webp",
+   "hosted": true,
+   "sha256": "1083a48b7c1b85156b9b4dfd4f44d6d066a8f7372845d374a1cf640b53507034",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_CNEA.svg",
+   "license": "Public domain",
+   "attribution": "Comisión Nacional de Energía Atómica (Vector graphics image by Canopus49",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_CNEA.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-27T10:44:31Z"
+  }
+ ]
+}

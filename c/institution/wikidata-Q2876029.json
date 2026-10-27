@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q2876029",
+ "ids": {
+  "wikidata": "Q2876029",
+  "ror": "04378d909"
+ },
+ "updatedAt": "2026-10-27T10:44:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b0/b0e7c502d1bc61e9e93d60c5494970a13a1401237a6b69ffa527aa4efb830bda.webp",
+   "hosted": true,
+   "sha256": "b0e7c502d1bc61e9e93d60c5494970a13a1401237a6b69ffa527aa4efb830bda",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 30,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Draper_Laboratory_logo.png",
+   "license": "Public domain",
+   "attribution": "Charles Stark Draper Laboratory",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Draper_Laboratory_logo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-27T10:44:31Z"
+  }
+ ]
+}

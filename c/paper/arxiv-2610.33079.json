@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.33079",
+ "ids": {
+  "arxiv": "2610.33079"
+ },
+ "updatedAt": "2026-10-27T10:44:31Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e6/e61cbaf6afd072c03822470525684e92001473c8b3e477187cfe319fab01217b.jpg",
+   "hosted": true,
+   "sha256": "e61cbaf6afd072c03822470525684e92001473c8b3e477187cfe319fab01217b",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.33079",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Zetian Song et al., arXiv:2610.33079",
+   "attributionUrl": "https://arxiv.org/abs/2610.33079",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-27T10:44:31Z"
+  }
+ ]
+}

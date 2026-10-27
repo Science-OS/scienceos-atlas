@@ -1,0 +1,24 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "wikidata-Q114158837",
+ "ids": {
+  "orcid": "0000-0003-3183-334X",
+  "wikidata": "Q114158837",
+  "openalex": "A5082554104",
+  "github": "francomarianardini"
+ },
+ "updatedAt": "2026-10-27T10:44:31Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://github.com/francomarianardini.png?size=256",
+   "hosted": false,
+   "source": "github",
+   "attribution": "GitHub profile @francomarianardini",
+   "attributionUrl": "https://github.com/francomarianardini",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-27T10:44:31Z"
+  }
+ ]
+}

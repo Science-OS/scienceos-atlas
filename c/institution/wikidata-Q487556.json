@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q487556",
+ "ids": {
+  "wikidata": "Q487556",
+  "ror": "0384j8v12"
+ },
+ "updatedAt": "2026-10-27T10:44:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.sydney.edu.au&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "https://www.sydney.edu.au",
+   "confidence": 0.5,
+   "fetchedAt": "2026-10-27T10:44:31Z"
+  }
+ ]
+}

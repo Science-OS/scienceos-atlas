@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q135218300",
+ "ids": {
+  "wikidata": "Q135218300",
+  "ror": "01ahyrz84"
+ },
+ "updatedAt": "2026-10-27T10:44:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/69/69cfcf7f923c6d9ddf0468e3d86cbeb3b99d2abb0991c26202357db6ee953a85.webp",
+   "hosted": true,
+   "sha256": "69cfcf7f923c6d9ddf0468e3d86cbeb3b99d2abb0991c26202357db6ee953a85",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 67,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logotype_Universit%C3%A9_de_Toulouse_2025.svg",
+   "license": "Public domain",
+   "attribution": "Université de Toulouse",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logotype_Universit%C3%A9_de_Toulouse_2025.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-27T10:44:31Z"
+  }
+ ]
+}

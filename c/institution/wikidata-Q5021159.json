@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q5021159",
+ "ids": {
+  "wikidata": "Q5021159",
+  "ror": "01spssf70"
+ },
+ "updatedAt": "2026-10-27T10:44:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d0/d0d8671472f5a4908f4ace7ccfff609775bbecd037d8e0d104535db2b32147f8.webp",
+   "hosted": true,
+   "sha256": "d0d8671472f5a4908f4ace7ccfff609775bbecd037d8e0d104535db2b32147f8",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 89,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/PennWest_california_wordmark.png",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:PennWest_california_wordmark.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-27T10:44:31Z"
+  }
+ ]
+}

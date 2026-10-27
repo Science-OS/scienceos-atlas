@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-00a1rzv11",
+ "ids": {
+  "wikidata": "Q465165",
+  "ror": "00a1rzv11"
+ },
+ "updatedAt": "2026-10-27T10:44:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/a8/a894b88b31a86cf66c000df6f18d2733f34de655477d7bc551cde96c3161e1b7.webp",
+   "hosted": true,
+   "sha256": "a894b88b31a86cf66c000df6f18d2733f34de655477d7bc551cde96c3161e1b7",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 99,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/AIAA_Logo_mit_Tagline.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:AIAA_Logo_mit_Tagline.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-27T10:44:31Z"
+  }
+ ]
+}

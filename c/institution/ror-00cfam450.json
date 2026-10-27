@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-00cfam450",
+ "ids": {
+  "wikidata": "Q878592",
+  "ror": "00cfam450"
+ },
+ "updatedAt": "2026-10-27T10:44:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/85/85233cc1d40ae0574c8b153dd65dbf6a21f5c28cf39eebaabea730df6303bed1.webp",
+   "hosted": true,
+   "sha256": "85233cc1d40ae0574c8b153dd65dbf6a21f5c28cf39eebaabea730df6303bed1",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 87,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Helmholtz_Munich_Logo.jpg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Ako helmholtz",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Helmholtz_Munich_Logo.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-27T10:44:31Z"
+  }
+ ]
+}

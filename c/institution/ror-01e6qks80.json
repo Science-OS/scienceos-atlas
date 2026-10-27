@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01e6qks80",
+ "ids": {
+  "wikidata": "Q579321",
+  "ror": "01e6qks80"
+ },
+ "updatedAt": "2026-10-27T10:44:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/4f/4f578b602515a86b8c5c17c448eedb0f683b4795a5e2b682ad07fdfcc039480b.webp",
+   "hosted": true,
+   "sha256": "4f578b602515a86b8c5c17c448eedb0f683b4795a5e2b682ad07fdfcc039480b",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 99,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dalhousie_University_Wordmark_2014.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Dalhousie_University_Wordmark_2014.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-27T10:44:31Z"
+  }
+ ]
+}

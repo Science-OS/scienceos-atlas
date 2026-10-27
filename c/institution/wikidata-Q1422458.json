@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1422458",
+ "ids": {
+  "wikidata": "Q1422458",
+  "ror": "002h8g185"
+ },
+ "updatedAt": "2026-10-27T10:44:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.bath.ac.uk/assembly/1/assets/university-of-bath/images/favicon/icon-180.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.bath.ac.uk/",
+   "attributionUrl": "https://www.bath.ac.uk/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-10-27T10:44:31Z"
+  }
+ ]
+}

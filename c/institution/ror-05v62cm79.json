@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-05v62cm79",
+ "ids": {
+  "wikidata": "Q1432632",
+  "ror": "05v62cm79"
+ },
+ "updatedAt": "2026-10-27T10:44:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/0a/0af85673c292508d925c679d7615f3ee7eb4780bc1a7e0082cdacd39e9530c2c.webp",
+   "hosted": true,
+   "sha256": "0af85673c292508d925c679d7615f3ee7eb4780bc1a7e0082cdacd39e9530c2c",
+   "mime": "image/webp",
+   "width": 211,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Reading_arms.svg",
+   "license": "Public domain",
+   "attribution": "Hogweard",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Reading_arms.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-27T10:44:31Z"
+  }
+ ]
+}

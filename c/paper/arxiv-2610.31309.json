@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.31309",
+ "ids": {
+  "arxiv": "2610.31309"
+ },
+ "updatedAt": "2026-10-27T10:44:31Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ee/ee3a4e7ff069835e34071b69220022eb96f4f93d40bb2e4f020d3c74061b9f63.jpg",
+   "hosted": true,
+   "sha256": "ee3a4e7ff069835e34071b69220022eb96f4f93d40bb2e4f020d3c74061b9f63",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.31309",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Jiacheng Liu et al., arXiv:2610.31309",
+   "attributionUrl": "https://arxiv.org/abs/2610.31309",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-27T10:44:31Z"
+  }
+ ]
+}

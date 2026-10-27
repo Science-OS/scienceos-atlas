@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-05kacka20",
+ "ids": {
+  "wikidata": "Q3803752",
+  "ror": "05kacka20"
+ },
+ "updatedAt": "2026-10-27T10:44:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b1/b11e6fba270cd29dae082ad71c84e958c24b9c808f8969d50d007245d1dab9d1.webp",
+   "hosted": true,
+   "sha256": "b11e6fba270cd29dae082ad71c84e958c24b9c808f8969d50d007245d1dab9d1",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 126,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/ISTI_logo.svg",
+   "license": "Public domain",
+   "attribution": "ISTI",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:ISTI_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-27T10:44:31Z"
+  }
+ ]
+}

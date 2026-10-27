@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.34663",
+ "ids": {
+  "arxiv": "2610.34663"
+ },
+ "updatedAt": "2026-10-27T10:44:31Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/82/820948f7f958d1365ef6736c99ba5415faf5590ad5de0c6c9c516e8aa327fcb2.jpg",
+   "hosted": true,
+   "sha256": "820948f7f958d1365ef6736c99ba5415faf5590ad5de0c6c9c516e8aa327fcb2",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.34663",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Mattia Scardecchia et al., arXiv:2610.34663",
+   "attributionUrl": "https://arxiv.org/abs/2610.34663",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-27T10:44:31Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-041kmwe10",
+ "ids": {
+  "wikidata": "Q189022",
+  "ror": "041kmwe10"
+ },
+ "updatedAt": "2026-10-27T10:44:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/95/95b7d0ad6ffaac18cd21b26ead107259fd6194339415f04dc6e080084be13150.webp",
+   "hosted": true,
+   "sha256": "95b7d0ad6ffaac18cd21b26ead107259fd6194339415f04dc6e080084be13150",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 28,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Imperial_College_London_new_logo.png",
+   "license": "Public domain",
+   "attribution": "Imperial College London",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Imperial_College_London_new_logo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-27T10:44:31Z"
+  }
+ ]
+}

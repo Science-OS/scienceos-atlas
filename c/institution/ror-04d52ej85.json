@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04d52ej85",
+ "ids": {
+  "wikidata": "Q6504630",
+  "ror": "04d52ej85"
+ },
+ "updatedAt": "2026-10-27T10:44:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/13/132a279a61fcd97749f19dc5d7f03448bc3da7c32807cdc1587a80d3bcfe467c.webp",
+   "hosted": true,
+   "sha256": "132a279a61fcd97749f19dc5d7f03448bc3da7c32807cdc1587a80d3bcfe467c",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 92,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_of_Lawrence_Technological_University.svg",
+   "license": "Public domain",
+   "attribution": "Cookieman1.1.1",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_of_Lawrence_Technological_University.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-27T10:44:31Z"
+  }
+ ]
+}

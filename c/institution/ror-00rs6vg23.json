@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-00rs6vg23",
+ "ids": {
+  "wikidata": "Q309331",
+  "ror": "00rs6vg23"
+ },
+ "updatedAt": "2026-10-27T10:44:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/77/779f708254736f52e3654ce6bff1a1fb1800064786361dcf6deb0d881f78f297.webp",
+   "hosted": true,
+   "sha256": "779f708254736f52e3654ce6bff1a1fb1800064786361dcf6deb0d881f78f297",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 39,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ohio_State_University_horizontal_logo.svg",
+   "license": "Public domain",
+   "attribution": "Ohio State University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Ohio_State_University_horizontal_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-27T10:44:31Z"
+  }
+ ]
+}

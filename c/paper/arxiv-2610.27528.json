@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.27528",
+ "ids": {
+  "arxiv": "2610.27528"
+ },
+ "updatedAt": "2026-10-27T10:44:31Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/32/32c6be0724d5d91775bb2556b55517d62b5fbb56bf89410a122ec93b78d32814.jpg",
+   "hosted": true,
+   "sha256": "32c6be0724d5d91775bb2556b55517d62b5fbb56bf89410a122ec93b78d32814",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.27528",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Guiquan Sun et al., arXiv:2610.27528",
+   "attributionUrl": "https://arxiv.org/abs/2610.27528",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-27T10:44:31Z"
+  }
+ ]
+}

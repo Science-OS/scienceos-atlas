@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.35862",
+ "ids": {
+  "arxiv": "2610.35862"
+ },
+ "updatedAt": "2026-10-27T10:44:31Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/0d/0d835535a36be0686c9034dd6879d57aaa3ef3da8fb6e2038a39338db20d1bd8.jpg",
+   "hosted": true,
+   "sha256": "0d835535a36be0686c9034dd6879d57aaa3ef3da8fb6e2038a39338db20d1bd8",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.35862",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Sihang Li et al., arXiv:2610.35862",
+   "attributionUrl": "https://arxiv.org/abs/2610.35862",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-27T10:44:31Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.35569",
+ "ids": {
+  "arxiv": "2610.35569"
+ },
+ "updatedAt": "2026-10-27T10:44:31Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e0/e0a6647e5251a0ade2cface4bcaca3de56d8fb5be950b5c05704b340a5b68d18.jpg",
+   "hosted": true,
+   "sha256": "e0a6647e5251a0ade2cface4bcaca3de56d8fb5be950b5c05704b340a5b68d18",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.35569",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Don Li, arXiv:2610.35569",
+   "attributionUrl": "https://arxiv.org/abs/2610.35569",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-27T10:44:31Z"
+  }
+ ]
+}

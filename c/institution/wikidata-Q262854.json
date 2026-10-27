@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q262854",
+ "ids": {
+  "wikidata": "Q262854",
+  "ror": "04f2nsd36"
+ },
+ "updatedAt": "2026-10-27T10:44:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.lancaster.ac.uk/media/lancaster-university/style-assets/images/apple-touch-icon.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.lancaster.ac.uk",
+   "attributionUrl": "https://www.lancaster.ac.uk",
+   "confidence": 0.7,
+   "fetchedAt": "2026-10-27T10:44:31Z"
+  }
+ ]
+}

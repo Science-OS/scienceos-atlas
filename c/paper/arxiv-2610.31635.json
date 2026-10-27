@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.31635",
+ "ids": {
+  "arxiv": "2610.31635"
+ },
+ "updatedAt": "2026-10-27T10:44:31Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d4/d4cc4ba02e961b96fe89242867019a1ae461cf48f1fc0357469f250c8daa5f5b.jpg",
+   "hosted": true,
+   "sha256": "d4cc4ba02e961b96fe89242867019a1ae461cf48f1fc0357469f250c8daa5f5b",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.31635",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Zunnan Xu et al., arXiv:2610.31635",
+   "attributionUrl": "https://arxiv.org/abs/2610.31635",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-27T10:44:31Z"
+  }
+ ]
+}

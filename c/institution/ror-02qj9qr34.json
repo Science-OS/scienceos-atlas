@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02qj9qr34",
+ "ids": {
+  "wikidata": "Q194266",
+  "ror": "02qj9qr34"
+ },
+ "updatedAt": "2026-10-27T10:44:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/a4/a403fc97d610206e1563915029b2cd4671a474cdfbbc1b9ccf4294b91f0f2bc1.webp",
+   "hosted": true,
+   "sha256": "a403fc97d610206e1563915029b2cd4671a474cdfbbc1b9ccf4294b91f0f2bc1",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 237,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Owu_university_logo.png",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Owu_university_logo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-27T10:44:31Z"
+  }
+ ]
+}

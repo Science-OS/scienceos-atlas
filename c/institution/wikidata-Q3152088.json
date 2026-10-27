@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q3152088",
+ "ids": {
+  "wikidata": "Q3152088",
+  "ror": "01rx4qw44"
+ },
+ "updatedAt": "2026-10-27T10:44:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/a7/a7bce908ac04b60b11a79604fd099ad14043be6e62e4ca5b1069e35e60b4eee1.webp",
+   "hosted": true,
+   "sha256": "a7bce908ac04b60b11a79604fd099ad14043be6e62e4ca5b1069e35e60b4eee1",
+   "mime": "image/webp",
+   "width": 239,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_IRIT_2018.png",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Communication IRIT",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_IRIT_2018.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-27T10:44:31Z"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03cqe8w59",
+ "ids": {
+  "wikidata": "Q6978293",
+  "ror": "03cqe8w59"
+ },
+ "updatedAt": "2026-10-27T10:44:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ca/ca4c3a223f6bdb07482bbe107bc5b49f6d454561ca622c0168508ba58c4ad506.webp",
+   "hosted": true,
+   "sha256": "ca4c3a223f6bdb07482bbe107bc5b49f6d454561ca622c0168508ba58c4ad506",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 147,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Conicet_Logo_con_letras.png",
+   "license": "CC BY 2.5 ar",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.5/ar/deed.en",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Conicet_Logo_con_letras.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-27T10:44:31Z"
+  }
+ ]
+}

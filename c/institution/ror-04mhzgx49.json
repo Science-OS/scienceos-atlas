@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04mhzgx49",
+ "ids": {
+  "wikidata": "Q319239",
+  "ror": "04mhzgx49"
+ },
+ "updatedAt": "2026-10-27T10:44:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/eb/eb0d5547b1d6d68a2de0737a68d56f17b0ef0dec832ee0b9e53d86d60cb57080.webp",
+   "hosted": true,
+   "sha256": "eb0d5547b1d6d68a2de0737a68d56f17b0ef0dec832ee0b9e53d86d60cb57080",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 139,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tel_Aviv_university_logo_-_Hebrew.png",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Wiki-tau",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Tel_Aviv_university_logo_-_Hebrew.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-27T10:44:31Z"
+  }
+ ]
+}

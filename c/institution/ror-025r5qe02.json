@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-025r5qe02",
+ "ids": {
+  "wikidata": "Q617433",
+  "ror": "025r5qe02"
+ },
+ "updatedAt": "2026-10-27T10:44:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e9/e963f888583302eb4d91c102f14832fbda0d49e80a8b1df95958b96cf2ff6468.webp",
+   "hosted": true,
+   "sha256": "e963f888583302eb4d91c102f14832fbda0d49e80a8b1df95958b96cf2ff6468",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 33,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Syracuse_University_wordmark.svg",
+   "license": "Public domain",
+   "attribution": "Syracuse University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Syracuse_University_wordmark.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-27T10:44:31Z"
+  }
+ ]
+}

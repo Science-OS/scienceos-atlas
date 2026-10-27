@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q661056",
+ "ids": {
+  "wikidata": "Q661056",
+  "ror": "04xhy8q59"
+ },
+ "updatedAt": "2026-10-27T10:44:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/cc/cc37c00544c5bdd989cf52547c1050ea2bca7dbb9f7fa1fcff4cdf63dbdd36cb.webp",
+   "hosted": true,
+   "sha256": "cc37c00544c5bdd989cf52547c1050ea2bca7dbb9f7fa1fcff4cdf63dbdd36cb",
+   "mime": "image/webp",
+   "width": 233,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Blason_divers_fr_Universit%C3%A9_Poitiers.svg",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "attribution": "Ssire",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Blason_divers_fr_Universit%C3%A9_Poitiers.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-27T10:44:31Z"
+  }
+ ]
+}

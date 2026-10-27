@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.32195",
+ "ids": {
+  "arxiv": "2610.32195"
+ },
+ "updatedAt": "2026-10-27T10:44:31Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/81/81f7ef149b8a361e887d60ecf9e4f2fb07244818af8538cd2091b37e2b2fbb43.jpg",
+   "hosted": true,
+   "sha256": "81f7ef149b8a361e887d60ecf9e4f2fb07244818af8538cd2091b37e2b2fbb43",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.32195",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Dongki Kim et al., arXiv:2610.32195",
+   "attributionUrl": "https://arxiv.org/abs/2610.32195",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-27T10:44:31Z"
+  }
+ ]
+}
