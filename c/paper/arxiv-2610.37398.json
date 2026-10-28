@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.37398",
+ "ids": {
+  "arxiv": "2610.37398"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/3f/3f8b9b2eff398d0694a87f4640378dbdaa62cbfde145a3aaa4b7a3bc67c50c10.jpg",
+   "hosted": true,
+   "sha256": "3f8b9b2eff398d0694a87f4640378dbdaa62cbfde145a3aaa4b7a3bc67c50c10",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.37398",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Giada Badaracco et al., arXiv:2610.37398",
+   "attributionUrl": "https://arxiv.org/abs/2610.37398",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

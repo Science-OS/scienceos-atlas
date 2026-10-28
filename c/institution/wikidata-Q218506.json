@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q218506",
+ "ids": {
+  "wikidata": "Q218506",
+  "ror": "012a77v79"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/90/904c996066fe56c6ee8cd7f4264d4bf77e0d6d99b5af50121593044ee20f71c1.webp",
+   "hosted": true,
+   "sha256": "904c996066fe56c6ee8cd7f4264d4bf77e0d6d99b5af50121593044ee20f71c1",
+   "mime": "image/webp",
+   "width": 210,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logotyp_Lunds_universitet_%28vit%29.png",
+   "license": "Public domain",
+   "attribution": "Lunds Universitet, bild från 1666.",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logotyp_Lunds_universitet_(vit).png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

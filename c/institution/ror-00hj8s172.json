@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-00hj8s172",
+ "ids": {
+  "wikidata": "Q49088",
+  "ror": "00hj8s172"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/3b/3b0f0dcccab074436f116293eb17f24cb49f54c2218d5a51a28eed56bfb94eee.webp",
+   "hosted": true,
+   "sha256": "3b0f0dcccab074436f116293eb17f24cb49f54c2218d5a51a28eed56bfb94eee",
+   "mime": "image/webp",
+   "width": 196,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_Arms_of_Columbia_University.svg",
+   "license": "CC0",
+   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "attribution": "Hstoops",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_Columbia_University.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

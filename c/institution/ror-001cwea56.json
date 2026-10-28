@@ -1,0 +1,21 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-001cwea56",
+ "ids": {
+  "ror": "001cwea56"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.cttc.cat/wp-content/uploads/2021/09/favicon.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.cttc.cat",
+   "attributionUrl": "https://www.cttc.cat",
+   "confidence": 0.7,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

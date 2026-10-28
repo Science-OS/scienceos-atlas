@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-05g3dte14",
+ "ids": {
+  "wikidata": "Q861548",
+  "ror": "05g3dte14"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d4/d437cfd1ec9117393998cbab97d604ee32745012935c91c75ea3e29dba787d84.webp",
+   "hosted": true,
+   "sha256": "d437cfd1ec9117393998cbab97d604ee32745012935c91c75ea3e29dba787d84",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 55,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Florida_State_University_logo.svg",
+   "license": "Public domain",
+   "attribution": "Florida State University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Florida_State_University_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.34886",
+ "ids": {
+  "arxiv": "2610.34886"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/91/91492261dbd793f046fea6c73acd1d352cf4fd528d5b2c2be1ad9d4a7fd2464f.jpg",
+   "hosted": true,
+   "sha256": "91492261dbd793f046fea6c73acd1d352cf4fd528d5b2c2be1ad9d4a7fd2464f",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.34886",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Rhea Sanjay Sukthanker et al., arXiv:2610.34886",
+   "attributionUrl": "https://arxiv.org/abs/2610.34886",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

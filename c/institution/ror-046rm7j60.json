@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-046rm7j60",
+ "ids": {
+  "wikidata": "Q174710",
+  "ror": "046rm7j60"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/94/947d3243dbd739ad8ccd66b6a47fd33f12cd3e3b3c4893c7cad8f3fb5ad1144c.webp",
+   "hosted": true,
+   "sha256": "947d3243dbd739ad8ccd66b6a47fd33f12cd3e3b3c4893c7cad8f3fb5ad1144c",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 85,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_California%2C_Los_Angeles_logo.svg",
+   "license": "Public domain",
+   "attribution": "UCLA",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_California,_Los_Angeles_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

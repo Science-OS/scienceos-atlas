@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q158085",
+ "ids": {
+  "wikidata": "Q158085",
+  "ror": "01hhn8329"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.mpg.de/assets/touch-icon-180x180-a3e396f9294afe6618861344bef35fc0075f9631fe80702eb259befcd682a42c.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of http://www.mpg.de/en",
+   "attributionUrl": "http://www.mpg.de/en",
+   "confidence": 0.7,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

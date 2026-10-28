@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03qxff017",
+ "ids": {
+  "wikidata": "Q174158",
+  "ror": "03qxff017"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/1a/1a6ac8078a513cd43c19fb91f6b75b1134563a8ec84534abdbb29da837058ffc.webp",
+   "hosted": true,
+   "sha256": "1a6ac8078a513cd43c19fb91f6b75b1134563a8ec84534abdbb29da837058ffc",
+   "mime": "image/webp",
+   "width": 139,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hebrew_University_Logo.svg",
+   "license": "Public domain",
+   "attribution": "Hebrew University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Hebrew_University_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

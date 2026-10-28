@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q3668446",
+ "ids": {
+  "wikidata": "Q3668446",
+  "ror": "00268wk31"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.ukh.edu.krd/wp-content/uploads/2022/04/cropped-GPi-99ua_400x400-1-192x192.jpeg",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.ukh.edu.krd/",
+   "attributionUrl": "https://www.ukh.edu.krd/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1067642",
+ "ids": {
+  "wikidata": "Q1067642",
+  "ror": "02k5gp281"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.hua.gr/wp-content/uploads/2024/04/cropped-cropped-cropped-HUA-Logo-Blue-RGB-2-1-300x300.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.hua.gr",
+   "attributionUrl": "https://www.hua.gr",
+   "confidence": 0.7,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

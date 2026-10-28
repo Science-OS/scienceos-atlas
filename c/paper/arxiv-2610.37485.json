@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.37485",
+ "ids": {
+  "arxiv": "2610.37485"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e5/e58d34bda89ff3c14635d71f8c4e8d7dad0dee76c0abb57d9f094f950c91894d.jpg",
+   "hosted": true,
+   "sha256": "e58d34bda89ff3c14635d71f8c4e8d7dad0dee76c0abb57d9f094f950c91894d",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.37485",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "David Voderholzer et al., arXiv:2610.37485",
+   "attributionUrl": "https://arxiv.org/abs/2610.37485",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

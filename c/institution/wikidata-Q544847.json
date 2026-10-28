@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q544847",
+ "ids": {
+  "wikidata": "Q544847",
+  "ror": "002zrf773"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/73/737692c72d68f890fef807282342782710f96e01e7542cc14758e6c6de0f525a.webp",
+   "hosted": true,
+   "sha256": "737692c72d68f890fef807282342782710f96e01e7542cc14758e6c6de0f525a",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 47,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Qualcomm-Logo.svg",
+   "license": "Public domain",
+   "attribution": "Original: Qualcomm",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Qualcomm-Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

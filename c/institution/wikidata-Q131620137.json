@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q131620137",
+ "ids": {
+  "wikidata": "Q131620137",
+  "ror": "04dbtaf18"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/a0/a00480f2874218d886076591bb1d2f62d30ad843aac9597d0e5fb830e3f1e2c9.webp",
+   "hosted": true,
+   "sha256": "a00480f2874218d886076591bb1d2f62d30ad843aac9597d0e5fb830e3f1e2c9",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 67,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/ASNR_logo.jpg",
+   "license": "CC0",
+   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "attribution": "ASNR",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:ASNR_logo.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

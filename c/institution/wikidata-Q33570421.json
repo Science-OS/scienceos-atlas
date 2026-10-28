@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q33570421",
+ "ids": {
+  "wikidata": "Q33570421",
+  "ror": "01r9jj364"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/77/7775d4de06df7be0727d2345add2f5a3b6286ba56cf478267a6c6972aa913ca1.webp",
+   "hosted": true,
+   "sha256": "7775d4de06df7be0727d2345add2f5a3b6286ba56cf478267a6c6972aa913ca1",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 57,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/KakaoBank_logo.svg",
+   "license": "Public domain",
+   "attribution": "Kakao Corp.",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:KakaoBank_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.34735",
+ "ids": {
+  "arxiv": "2610.34735"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/69/69fb88ade5e795b4ec7fdc85bd7cf531e8f25b080debb28617206e0e100bd456.jpg",
+   "hosted": true,
+   "sha256": "69fb88ade5e795b4ec7fdc85bd7cf531e8f25b080debb28617206e0e100bd456",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.34735",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Yuting Ning et al., arXiv:2610.34735",
+   "attributionUrl": "https://arxiv.org/abs/2610.34735",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.36420",
+ "ids": {
+  "arxiv": "2610.36420"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/4e/4e5d9a2cc941c3c6f9c03e61d1caf457c5e944bf0c9719a6b39adb29f2180b9f.jpg",
+   "hosted": true,
+   "sha256": "4e5d9a2cc941c3c6f9c03e61d1caf457c5e944bf0c9719a6b39adb29f2180b9f",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.36420",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Truman Hickok, arXiv:2610.36420",
+   "attributionUrl": "https://arxiv.org/abs/2610.36420",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

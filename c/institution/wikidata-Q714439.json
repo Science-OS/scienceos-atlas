@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q714439",
+ "ids": {
+  "wikidata": "Q714439",
+  "ror": "01qz5mb56"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.ornl.gov/wp-content/uploads/2025/02/cropped-favicon-300x300.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.ornl.gov",
+   "attributionUrl": "https://www.ornl.gov",
+   "confidence": 0.7,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

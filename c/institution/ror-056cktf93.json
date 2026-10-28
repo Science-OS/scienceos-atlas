@@ -1,0 +1,21 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-056cktf93",
+ "ids": {
+  "ror": "056cktf93"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.omron.com%2Fsinicx%2Fabout&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "https://www.omron.com/sinicx/about",
+   "confidence": 0.5,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

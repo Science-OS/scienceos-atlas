@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.37171",
+ "ids": {
+  "arxiv": "2610.37171"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d8/d8e7b050a082a62397ba2a5a7a57303be188faeaca397dd2b9bf898ae6b42750.jpg",
+   "hosted": true,
+   "sha256": "d8e7b050a082a62397ba2a5a7a57303be188faeaca397dd2b9bf898ae6b42750",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.37171",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Saeid Safarveisi, arXiv:2610.37171",
+   "attributionUrl": "https://arxiv.org/abs/2610.37171",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

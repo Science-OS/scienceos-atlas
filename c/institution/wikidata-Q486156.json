@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q486156",
+ "ids": {
+  "wikidata": "Q486156",
+  "ror": "01xtthb56"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/f8/f8fb9e5933eb859296dfe1c7a41af8c49d2b94fb3e4ba1f0b6328dd909ba8bac.webp",
+   "hosted": true,
+   "sha256": "f8fb9e5933eb859296dfe1c7a41af8c49d2b94fb3e4ba1f0b6328dd909ba8bac",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/UiO_logo.png",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Oslo2019",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:UiO_logo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-057kvja37",
+ "ids": {
+  "wikidata": "Q16902025",
+  "ror": "057kvja37"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://en.bilgem.tubitak.gov.tr/wp-content/uploads/sites/8/cropped-7-favicon-1-1-192x192.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of http://bilgem.tubitak.gov.tr/en",
+   "attributionUrl": "http://bilgem.tubitak.gov.tr/en",
+   "confidence": 0.7,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

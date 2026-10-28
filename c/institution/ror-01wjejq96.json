@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01wjejq96",
+ "ids": {
+  "wikidata": "Q39988",
+  "ror": "01wjejq96"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/3c/3cab7b63bc6452c1402a263180862f4794f5dd50069234a03b4672140e3c01c5.webp",
+   "hosted": true,
+   "sha256": "3cab7b63bc6452c1402a263180862f4794f5dd50069234a03b4672140e3c01c5",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 96,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Yonsei_University_logotype%28ko%29.png",
+   "license": "Public domain",
+   "attribution": "Yonsei University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Yonsei_University_logotype(ko).png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

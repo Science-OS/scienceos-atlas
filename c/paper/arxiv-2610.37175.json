@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.37175",
+ "ids": {
+  "arxiv": "2610.37175"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/0b/0bd8f2a4637dc2f9d867316f15f259f57edc2991a136f4710a7c2c570fd15a31.jpg",
+   "hosted": true,
+   "sha256": "0bd8f2a4637dc2f9d867316f15f259f57edc2991a136f4710a7c2c570fd15a31",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.37175",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Brian Ko et al., arXiv:2610.37175",
+   "attributionUrl": "https://arxiv.org/abs/2610.37175",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

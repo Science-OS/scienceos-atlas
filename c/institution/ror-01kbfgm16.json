@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01kbfgm16",
+ "ids": {
+  "wikidata": "Q3547155",
+  "ror": "01kbfgm16"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/51/5199aac7b5c90fed047b922378f086aad96c09fb77372f31f1ccf57d71051744.webp",
+   "hosted": true,
+   "sha256": "5199aac7b5c90fed047b922378f086aad96c09fb77372f31f1ccf57d71051744",
+   "mime": "image/webp",
+   "width": 220,
+   "height": 26,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/UCSD_Health_logo.png",
+   "license": "Public domain",
+   "attribution": "University of California",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:UCSD_Health_logo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

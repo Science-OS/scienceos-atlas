@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1583495",
+ "ids": {
+  "wikidata": "Q1583495",
+  "ror": "03cmntr54"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/15/15c47f905a4fa46fabf170ace2f9818fc291dbfc636cbfd0c6f9207bd8c3253e.webp",
+   "hosted": true,
+   "sha256": "15c47f905a4fa46fabf170ace2f9818fc291dbfc636cbfd0c6f9207bd8c3253e",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logotipo_del_Instituto_de_Astrof%C3%ADsica_de_Canarias.svg",
+   "license": "Public domain",
+   "attribution": "Instituto de Astrofísica de Canarias",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logotipo_del_Instituto_de_Astrof%C3%ADsica_de_Canarias.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

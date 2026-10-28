@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.22543",
+ "ids": {
+  "arxiv": "2610.22543"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/1e/1e4c6bd66aff9ec3a0c95e7b2c874df14e03af97d0c70aa762daa3603776b84b.jpg",
+   "hosted": true,
+   "sha256": "1e4c6bd66aff9ec3a0c95e7b2c874df14e03af97d0c70aa762daa3603776b84b",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.22543",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Eliezer Shlomi et al., arXiv:2610.22543",
+   "attributionUrl": "https://arxiv.org/abs/2610.22543",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

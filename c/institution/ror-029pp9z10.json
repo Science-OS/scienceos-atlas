@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-029pp9z10",
+ "ids": {
+  "wikidata": "Q249373",
+  "ror": "029pp9z10"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/bc/bccfd722c5870ef2a5f3f03ae7eeea54ac0f2b586a365b1bba0471eb1f08148d.webp",
+   "hosted": true,
+   "sha256": "bccfd722c5870ef2a5f3f03ae7eeea54ac0f2b586a365b1bba0471eb1f08148d",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 115,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/JHU_APL_logo.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:JHU_APL_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.36411",
+ "ids": {
+  "arxiv": "2610.36411"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/8a/8a6cad5e4020f56a2a5ae6a6956ac89ffe51ae1d98e0910cbf6f7c28f0ff2233.jpg",
+   "hosted": true,
+   "sha256": "8a6cad5e4020f56a2a5ae6a6956ac89ffe51ae1d98e0910cbf6f7c28f0ff2233",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.36411",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Saim Rehman et al., arXiv:2610.36411",
+   "attributionUrl": "https://arxiv.org/abs/2610.36411",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

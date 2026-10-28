@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1122926",
+ "ids": {
+  "wikidata": "Q1122926",
+  "ror": "01c27hj86"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e9/e9613b0847c995e099e333f8a617ac05292d65747dff7534ad09accf9adf388c.webp",
+   "hosted": true,
+   "sha256": "e9613b0847c995e099e333f8a617ac05292d65747dff7534ad09accf9adf388c",
+   "mime": "image/webp",
+   "width": 127,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/ULisboa_logo.svg",
+   "license": "Public domain",
+   "attribution": "Universidade de Lisboa",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:ULisboa_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

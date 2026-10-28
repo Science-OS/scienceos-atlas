@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-00kybxq39",
+ "ids": {
+  "wikidata": "Q2579532",
+  "ror": "00kybxq39"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/93/93915df070c1fd0a560149d8c631475b2241f73af943f4b44dca2a89132e353b.webp",
+   "hosted": true,
+   "sha256": "93915df070c1fd0a560149d8c631475b2241f73af943f4b44dca2a89132e353b",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 59,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Universit%C3%A9_de_Sherbrooke_%28logo%29_%282%29.svg",
+   "license": "Public domain",
+   "attribution": "Université de Sherbrooke",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Universit%C3%A9_de_Sherbrooke_(logo)_(2).svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

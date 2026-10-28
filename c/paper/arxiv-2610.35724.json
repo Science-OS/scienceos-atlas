@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.35724",
+ "ids": {
+  "arxiv": "2610.35724"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/25/25a6cb251cbc88fb39b2eb474ee6f3c45616e27f40a9784a665e23605b5fce9c.jpg",
+   "hosted": true,
+   "sha256": "25a6cb251cbc88fb39b2eb474ee6f3c45616e27f40a9784a665e23605b5fce9c",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.35724",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Shuyun Wang et al., arXiv:2610.35724",
+   "attributionUrl": "https://arxiv.org/abs/2610.35724",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

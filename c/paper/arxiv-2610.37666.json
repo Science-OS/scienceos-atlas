@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.37666",
+ "ids": {
+  "arxiv": "2610.37666"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/32/32a097e7cc7df45b525c0c68c57479eefa86806dd96d268d7b05269bc77fdf95.jpg",
+   "hosted": true,
+   "sha256": "32a097e7cc7df45b525c0c68c57479eefa86806dd96d268d7b05269bc77fdf95",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.37666",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Chaehyun Kim et al., arXiv:2610.37666",
+   "attributionUrl": "https://arxiv.org/abs/2610.37666",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

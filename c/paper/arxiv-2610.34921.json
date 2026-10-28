@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.34921",
+ "ids": {
+  "arxiv": "2610.34921"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/a7/a747841d5c945ffe12b17a18b6d62a14f619ba75f89ffbd79d1b3cd783657fa7.jpg",
+   "hosted": true,
+   "sha256": "a747841d5c945ffe12b17a18b6d62a14f619ba75f89ffbd79d1b3cd783657fa7",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.34921",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Jinyuan Hu et al., arXiv:2610.34921",
+   "attributionUrl": "https://arxiv.org/abs/2610.34921",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

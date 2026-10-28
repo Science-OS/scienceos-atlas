@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-00jmfr291",
+ "ids": {
+  "wikidata": "Q230492",
+  "ror": "00jmfr291"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/0e/0e95a58a2ca9436dc83916fad167b103588682374fd9537df1d45bfe30755efa.webp",
+   "hosted": true,
+   "sha256": "0e95a58a2ca9436dc83916fad167b103588682374fd9537df1d45bfe30755efa",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 51,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Michigan_logo.svg",
+   "license": "Public domain",
+   "attribution": "University of Michigan",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Michigan_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

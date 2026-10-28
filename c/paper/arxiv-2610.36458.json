@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.36458",
+ "ids": {
+  "arxiv": "2610.36458"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ec/ec6a198583b2ab1a66c69907a4388b2f50171536f574b058c33d5e1704b92844.jpg",
+   "hosted": true,
+   "sha256": "ec6a198583b2ab1a66c69907a4388b2f50171536f574b058c33d5e1704b92844",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.36458",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Renaud Gaucher et al., arXiv:2610.36458",
+   "attributionUrl": "https://arxiv.org/abs/2610.36458",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

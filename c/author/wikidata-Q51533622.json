@@ -1,0 +1,30 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "wikidata-Q51533622",
+ "ids": {
+  "orcid": "0000-0003-2313-2578",
+  "wikidata": "Q51533622",
+  "openalex": "A5068236230"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/6b/6b8b1ea1a041a0ecaf14bcc8f196a44dbc35a67fea5c50b1ed55abf9a055f839.webp",
+   "hosted": true,
+   "sha256": "6b8b1ea1a041a0ecaf14bcc8f196a44dbc35a67fea5c50b1ed55abf9a055f839",
+   "mime": "image/webp",
+   "width": 167,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Florent_KRZAKALA_in_2020.jpg",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "EPFL-MEDIACOM",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_Florent_KRZAKALA_in_2020.jpg",
+   "confidence": 0.95,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

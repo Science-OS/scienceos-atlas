@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q30338771",
+ "ids": {
+  "wikidata": "Q30338771",
+  "ror": "04cjgh922"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http%3A%2F%2Fhoneywell.com%2FPages%2FHome.aspx&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "http://honeywell.com/Pages/Home.aspx",
+   "confidence": 0.5,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

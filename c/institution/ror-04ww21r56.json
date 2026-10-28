@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04ww21r56",
+ "ids": {
+  "wikidata": "Q267111",
+  "ror": "04ww21r56"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/59/5992cbbc7bfb3ff50bcd02114fcc0509bcc2ec900e29c7d5433bfea836de6561.webp",
+   "hosted": true,
+   "sha256": "5992cbbc7bfb3ff50bcd02114fcc0509bcc2ec900e29c7d5433bfea836de6561",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 83,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Niigata_University_Logo.svg",
+   "license": "Public domain",
+   "attribution": "国立大学法人新潟大学",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Niigata_University_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

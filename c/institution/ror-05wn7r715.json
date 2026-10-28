@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-05wn7r715",
+ "ids": {
+  "wikidata": "Q284777",
+  "ror": "05wn7r715"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c1/c1873fa3ca927bef86d7be39614f20e0397f36eac2cfd565690c23b41b5801dc.webp",
+   "hosted": true,
+   "sha256": "c1873fa3ca927bef86d7be39614f20e0397f36eac2cfd565690c23b41b5801dc",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 164,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/West_washington_univ_logo.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:West_washington_univ_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

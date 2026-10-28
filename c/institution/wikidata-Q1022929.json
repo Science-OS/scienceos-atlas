@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1022929",
+ "ids": {
+  "wikidata": "Q1022929",
+  "ror": "03a60m280"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/21/21ff7bc316172c8c1ed3dba5e0de1c7356eb34a0a5b7f3d77f716e033d2b762c.webp",
+   "hosted": true,
+   "sha256": "21ff7bc316172c8c1ed3dba5e0de1c7356eb34a0a5b7f3d77f716e033d2b762c",
+   "mime": "image/webp",
+   "width": 184,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mi_Fu_Shu_Su_Tie.jpg",
+   "license": "Public domain",
+   "attribution": "Wikimedia Commons",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Mi_Fu_Shu_Su_Tie.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

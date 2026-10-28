@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1150245",
+ "ids": {
+  "wikidata": "Q1150245",
+  "ror": "02278tr80"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b7/b7e52d3b64abeca82d4989e44d8a2fed2550fd609a821827cf0e9c3e2163adf6.webp",
+   "hosted": true,
+   "sha256": "b7e52d3b64abeca82d4989e44d8a2fed2550fd609a821827cf0e9c3e2163adf6",
+   "mime": "image/webp",
+   "width": 229,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kyutech_icon.svg",
+   "license": "Public domain",
+   "attribution": "Kyutech Vectorization by VectorVoyager",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Kyutech_icon.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

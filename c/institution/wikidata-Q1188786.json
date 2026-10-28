@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1188786",
+ "ids": {
+  "wikidata": "Q1188786",
+  "ror": "00p4k0j84"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d1/d132b2d905ba14527eb708753aeb38d3108f89f65cb9767b7c4708fd6290fcdb.webp",
+   "hosted": true,
+   "sha256": "d132b2d905ba14527eb708753aeb38d3108f89f65cb9767b7c4708fd6290fcdb",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 70,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kyushu_University_logo%2C_type_D.svg",
+   "license": "Public domain",
+   "attribution": "九州大学広報室",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Kyushu_University_logo,_type_D.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

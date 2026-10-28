@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.35864",
+ "ids": {
+  "arxiv": "2610.35864"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/fc/fcb62599749a925f4f2ef09ac55861c7cb45925d04be2984fd51cccacef03b2f.jpg",
+   "hosted": true,
+   "sha256": "fcb62599749a925f4f2ef09ac55861c7cb45925d04be2984fd51cccacef03b2f",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.35864",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Muxi Diao et al., arXiv:2610.35864",
+   "attributionUrl": "https://arxiv.org/abs/2610.35864",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

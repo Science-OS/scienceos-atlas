@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04mm9fg30",
+ "ids": {
+  "wikidata": "Q6039118",
+  "ror": "04mm9fg30"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/6b/6bf5f6306765f7ebb7ad04d0a7700753666dd6dadacefc6df552f1c68f193281.webp",
+   "hosted": true,
+   "sha256": "6bf5f6306765f7ebb7ad04d0a7700753666dd6dadacefc6df552f1c68f193281",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 81,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Imdea-networks-white_background-with-fractal.png",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Alxsnc12",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Imdea-networks-white_background-with-fractal.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

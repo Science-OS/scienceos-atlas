@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.33877",
+ "ids": {
+  "arxiv": "2610.33877"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/1a/1a01dba6f9b022fdce9a3c0c314d45049aefb096e8fbf31755532913a2411788.jpg",
+   "hosted": true,
+   "sha256": "1a01dba6f9b022fdce9a3c0c314d45049aefb096e8fbf31755532913a2411788",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.33877",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Yehonatan Elisha et al., arXiv:2610.33877",
+   "attributionUrl": "https://arxiv.org/abs/2610.33877",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

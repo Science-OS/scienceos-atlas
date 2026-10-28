@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-041ypg504",
+ "ids": {
+  "wikidata": "Q1806348",
+  "ror": "041ypg504"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.ulb.tu-darmstadt.de&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "https://www.ulb.tu-darmstadt.de",
+   "confidence": 0.5,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

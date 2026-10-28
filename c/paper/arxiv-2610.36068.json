@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.36068",
+ "ids": {
+  "arxiv": "2610.36068"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/36/364577e6cf67c0b2977c1ef9dc6a6629ab45dc3166d9dd76fc7dbefe94e0d1fe.jpg",
+   "hosted": true,
+   "sha256": "364577e6cf67c0b2977c1ef9dc6a6629ab45dc3166d9dd76fc7dbefe94e0d1fe",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.36068",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Jiayi Luo et al., arXiv:2610.36068",
+   "attributionUrl": "https://arxiv.org/abs/2610.36068",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

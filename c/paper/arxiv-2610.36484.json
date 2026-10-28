@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.36484",
+ "ids": {
+  "arxiv": "2610.36484"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ce/ce9c47184206f159180529b19ff761ff56dbd6c57cf1467393520fd66e86db13.jpg",
+   "hosted": true,
+   "sha256": "ce9c47184206f159180529b19ff761ff56dbd6c57cf1467393520fd66e86db13",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.36484",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Kianté Fernandez et al., arXiv:2610.36484",
+   "attributionUrl": "https://arxiv.org/abs/2610.36484",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

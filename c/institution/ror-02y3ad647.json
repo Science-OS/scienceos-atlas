@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02y3ad647",
+ "ids": {
+  "wikidata": "Q501758",
+  "ror": "02y3ad647"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/0c/0c0849fcc2332eeaef0e5d67b71c225062b009163754ee445f69cff4e2152a34.webp",
+   "hosted": true,
+   "sha256": "0c0849fcc2332eeaef0e5d67b71c225062b009163754ee445f69cff4e2152a34",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 49,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Florida_logo.svg",
+   "license": "Public domain",
+   "attribution": "University of Florida",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Florida_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

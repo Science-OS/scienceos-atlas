@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q30289535",
+ "ids": {
+  "wikidata": "Q30289535",
+  "ror": "057315g56"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/1e/1e1c1ccf33220d8d57539f46bc0b3d4494610881c8e2d039ff48577444d149a7.webp",
+   "hosted": true,
+   "sha256": "1e1c1ccf33220d8d57539f46bc0b3d4494610881c8e2d039ff48577444d149a7",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 179,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Salesforce.com_logo.svg",
+   "license": "Public domain",
+   "attribution": "™/®Salesforce.com",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Salesforce.com_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

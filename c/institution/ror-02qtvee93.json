@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02qtvee93",
+ "ids": {
+  "wikidata": "Q1041737",
+  "ror": "02qtvee93"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/9b/9bc744a18052d89727f11107872d418c531a3bd5bad844f6da1a6dd016951ffe.webp",
+   "hosted": true,
+   "sha256": "9bc744a18052d89727f11107872d418c531a3bd5bad844f6da1a6dd016951ffe",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 69,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Carleton_University_Logo.svg",
+   "license": "Public domain",
+   "attribution": "Carleton University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Carleton_University_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

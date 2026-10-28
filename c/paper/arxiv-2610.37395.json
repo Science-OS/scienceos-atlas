@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.37395",
+ "ids": {
+  "arxiv": "2610.37395"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/5d/5de4e1849eb7f7ec90eef7fe7af4e9c23018945551494127cb0a28fbbc841308.jpg",
+   "hosted": true,
+   "sha256": "5de4e1849eb7f7ec90eef7fe7af4e9c23018945551494127cb0a28fbbc841308",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.37395",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Weining Zhu, arXiv:2610.37395",
+   "attributionUrl": "https://arxiv.org/abs/2610.37395",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

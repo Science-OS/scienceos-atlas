@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q131900758",
+ "ids": {
+  "wikidata": "Q131900758",
+  "ror": "03v7q6847"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fsafer-ai.org&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "https://safer-ai.org",
+   "confidence": 0.5,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

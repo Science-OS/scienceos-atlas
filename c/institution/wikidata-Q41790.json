@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q41790",
+ "ids": {
+  "wikidata": "Q41790",
+  "ror": "01r024a98"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/8a/8afa9fb10e8b3c2dbefcaf90addffb793ef44db0690419f56e5358c40cf5cdbf.webp",
+   "hosted": true,
+   "sha256": "8afa9fb10e8b3c2dbefcaf90addffb793ef44db0690419f56e5358c40cf5cdbf",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 241,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_of_Chung-Ang_University.svg",
+   "license": "Public domain",
+   "attribution": "중앙대학교",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_of_Chung-Ang_University.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

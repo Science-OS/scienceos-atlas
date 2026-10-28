@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.32046",
+ "ids": {
+  "arxiv": "2610.32046"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/7a/7a90aee24f71b92a880c8c3ef5466289b8c614bd5261afd8f26aef347d52fa04.jpg",
+   "hosted": true,
+   "sha256": "7a90aee24f71b92a880c8c3ef5466289b8c614bd5261afd8f26aef347d52fa04",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.32046",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Yepeng Liu et al., arXiv:2610.32046",
+   "attributionUrl": "https://arxiv.org/abs/2610.32046",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

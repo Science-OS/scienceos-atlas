@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01e41cf67",
+ "ids": {
+  "wikidata": "Q379848",
+  "ror": "01e41cf67"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/dc/dc5bb35b44a57850000589818529ba00dacf263745f1ed0818f04679d4058b33.webp",
+   "hosted": true,
+   "sha256": "dc5bb35b44a57850000589818529ba00dacf263745f1ed0818f04679d4058b33",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 118,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Los_Alamos_National_Laboratory_logo_2001-2021.svg",
+   "license": "Public domain",
+   "attribution": "LANL",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Los_Alamos_National_Laboratory_logo_2001-2021.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

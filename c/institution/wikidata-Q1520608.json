@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1520608",
+ "ids": {
+  "wikidata": "Q1520608",
+  "ror": "02qjrjx09"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ca/ca59556f9b7832fe963b3e94188e99a6610050c390ed58104e33c5f2fd929d2f.webp",
+   "hosted": true,
+   "sha256": "ca59556f9b7832fe963b3e94188e99a6610050c390ed58104e33c5f2fd929d2f",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Cyprus.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author Vectorized by: Ufo karadagli",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Cyprus.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

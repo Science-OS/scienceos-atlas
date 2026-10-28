@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q743615",
+ "ids": {
+  "wikidata": "Q743615",
+  "ror": "02956yf07"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/53/531ea6630f96080571c705902e06125200e2cb6aec79e302ab3886800eb1173f.webp",
+   "hosted": true,
+   "sha256": "531ea6630f96080571c705902e06125200e2cb6aec79e302ab3886800eb1173f",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 85,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_of_University_of_Tsukuba.svg",
+   "license": "Public domain",
+   "attribution": "筑波大学",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_of_University_of_Tsukuba.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.37037",
+ "ids": {
+  "arxiv": "2610.37037"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/a0/a03fbccafed30400c77b7de9dec31d3b8fc853994b938c9396cf81ba6bb2d4cd.jpg",
+   "hosted": true,
+   "sha256": "a03fbccafed30400c77b7de9dec31d3b8fc853994b938c9396cf81ba6bb2d4cd",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.37037",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Lai Wei et al., arXiv:2610.37037",
+   "attributionUrl": "https://arxiv.org/abs/2610.37037",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

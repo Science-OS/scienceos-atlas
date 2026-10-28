@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q201492",
+ "ids": {
+  "wikidata": "Q201492",
+  "ror": "01pxwe438"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/93/93b87a2094420b0f226e9995b4b8704c52c534e84b5f4f275d4e3a58e29d3b39.webp",
+   "hosted": true,
+   "sha256": "93b87a2094420b0f226e9995b4b8704c52c534e84b5f4f275d4e3a58e29d3b39",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 61,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mcgill_univ_ca_logo.png",
+   "license": "Public domain",
+   "attribution": "patent of arms for James McGill (1744–1813) granted by England's Garter-King-at-Arms of 1922",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Mcgill_univ_ca_logo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

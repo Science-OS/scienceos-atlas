@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q3884",
+ "ids": {
+  "wikidata": "Q3884",
+  "ror": "04mv4n011"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/23/23826be77172d97bebb7259c3ee808b010448b408419e2726e2ac7a6f84883fa.webp",
+   "hosted": true,
+   "sha256": "23826be77172d97bebb7259c3ee808b010448b408419e2726e2ac7a6f84883fa",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 86,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Amazon_2024.svg",
+   "license": "Public domain",
+   "attribution": "Amazon.com, Inc., Koto, and NaN (typeface creator)",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Amazon_2024.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

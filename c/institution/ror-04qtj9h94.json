@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04qtj9h94",
+ "ids": {
+  "wikidata": "Q1269766",
+  "ror": "04qtj9h94"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/81/813031400d983338ed6e3a7a2028c458b88b6a244c6cb4b2ac3c43dadf5fbc0a.webp",
+   "hosted": true,
+   "sha256": "813031400d983338ed6e3a7a2028c458b88b6a244c6cb4b2ac3c43dadf5fbc0a",
+   "mime": "image/webp",
+   "width": 175,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Danmarks_Tekniske_Universitet_%28logo%29.svg",
+   "license": "Public domain",
+   "attribution": "Technical University of Denmark",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Danmarks_Tekniske_Universitet_(logo).svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

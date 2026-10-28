@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q5461285",
+ "ids": {
+  "wikidata": "Q5461285",
+  "ror": "010bgev76"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://floridacollege.edu/wp-content/uploads/2022/04/cropped-fc-college-falcon-head-favicon-01-192x192.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://floridacollege.edu/",
+   "attributionUrl": "https://floridacollege.edu/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

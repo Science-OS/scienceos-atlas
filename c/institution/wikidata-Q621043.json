@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q621043",
+ "ids": {
+  "wikidata": "Q621043",
+  "ror": "03czfpz43"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.emory.edu&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "https://www.emory.edu",
+   "confidence": 0.5,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

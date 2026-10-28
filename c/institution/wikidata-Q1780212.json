@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1780212",
+ "ids": {
+  "wikidata": "Q1780212",
+  "ror": "0199hds37"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/88/88a93e935de05b7b3f9aa8e048fadcf2aa2fd04fc580d5af7bd29e417387d423.webp",
+   "hosted": true,
+   "sha256": "88a93e935de05b7b3f9aa8e048fadcf2aa2fd04fc580d5af7bd29e417387d423",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 154,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo-UP13-noirS.png",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "attribution": "AntGIR",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo-UP13-noirS.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

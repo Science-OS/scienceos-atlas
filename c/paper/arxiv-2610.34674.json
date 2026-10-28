@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.34674",
+ "ids": {
+  "arxiv": "2610.34674"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/fd/fd4d1b108b77832485528e36f3a9a3ee7bc58ad80e89ac19aaaa54e3fc8dc474.jpg",
+   "hosted": true,
+   "sha256": "fd4d1b108b77832485528e36f3a9a3ee7bc58ad80e89ac19aaaa54e3fc8dc474",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.34674",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Hyunwoong Bae et al., arXiv:2610.34674",
+   "attributionUrl": "https://arxiv.org/abs/2610.34674",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

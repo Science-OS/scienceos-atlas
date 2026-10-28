@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.37364",
+ "ids": {
+  "arxiv": "2610.37364"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/94/947b377eb470e2cabee338c0c6ac8e2c5e128565b3c39f00f2cfd8dcebe81730.jpg",
+   "hosted": true,
+   "sha256": "947b377eb470e2cabee338c0c6ac8e2c5e128565b3c39f00f2cfd8dcebe81730",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.37364",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Henrique Schechter Vera et al., arXiv:2610.37364",
+   "attributionUrl": "https://arxiv.org/abs/2610.37364",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

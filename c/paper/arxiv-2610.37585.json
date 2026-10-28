@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.37585",
+ "ids": {
+  "arxiv": "2610.37585"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/4b/4bb5c4e5434f58b4f757b3b23a328e1277e04b536a3017ebbb7887762b5c2318.jpg",
+   "hosted": true,
+   "sha256": "4bb5c4e5434f58b4f757b3b23a328e1277e04b536a3017ebbb7887762b5c2318",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.37585",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Adrien Petralia et al., arXiv:2610.37585",
+   "attributionUrl": "https://arxiv.org/abs/2610.37585",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

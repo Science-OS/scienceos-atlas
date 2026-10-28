@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.36888",
+ "ids": {
+  "arxiv": "2610.36888"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/39/39e8f4c6bb55dad3bee91ae251954e8635db667d1a5d86495197ab8f023c2fc5.jpg",
+   "hosted": true,
+   "sha256": "39e8f4c6bb55dad3bee91ae251954e8635db667d1a5d86495197ab8f023c2fc5",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 819,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.36888",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Martín de Frutos et al., arXiv:2610.36888",
+   "attributionUrl": "https://arxiv.org/abs/2610.36888",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

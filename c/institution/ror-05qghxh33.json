@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-05qghxh33",
+ "ids": {
+  "wikidata": "Q969850",
+  "ror": "05qghxh33"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/4f/4f96d852dfa2a65bb068a2350e17f1a2ea453469d658ccd991b52a4686eae596.webp",
+   "hosted": true,
+   "sha256": "4f96d852dfa2a65bb068a2350e17f1a2ea453469d658ccd991b52a4686eae596",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 198,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Stony_Brook_University_logo.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Stony_Brook_University_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

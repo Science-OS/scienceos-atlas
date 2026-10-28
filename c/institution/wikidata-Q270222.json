@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q270222",
+ "ids": {
+  "wikidata": "Q270222",
+  "ror": "05hs6h993"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e1/e1f1b5856eb19b0b48e1ecdf348d26c6a238ae9cd572b537579b85aac82f700d.webp",
+   "hosted": true,
+   "sha256": "e1f1b5856eb19b0b48e1ecdf348d26c6a238ae9cd572b537579b85aac82f700d",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 60,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Michigan_State_University_wordmark.svg",
+   "license": "Public domain",
+   "attribution": "Michigan State University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Michigan_State_University_wordmark.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

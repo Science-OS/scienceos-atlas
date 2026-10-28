@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03k1gpj17",
+ "ids": {
+  "wikidata": "Q1111640",
+  "ror": "03k1gpj17"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/cf/cf9eb16cc67cc9a63050858ef4eda38ef9611aef645eadcfba9ebc10f02a3d3d.webp",
+   "hosted": true,
+   "sha256": "cf9eb16cc67cc9a63050858ef4eda38ef9611aef645eadcfba9ebc10f02a3d3d",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 111,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Colorado_State_University_logo.svg",
+   "license": "Public domain",
+   "attribution": "Colorado State University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Colorado_State_University_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

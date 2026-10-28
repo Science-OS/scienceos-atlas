@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03prydq77",
+ "ids": {
+  "wikidata": "Q165980",
+  "ror": "03prydq77"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/70/70ca7451f4e817bc685adda0e86e6c0452ad912a2eb085ea308d5463fa0eded7.webp",
+   "hosted": true,
+   "sha256": "70ca7451f4e817bc685adda0e86e6c0452ad912a2eb085ea308d5463fa0eded7",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 80,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Universit%C3%A4t_Wien.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Universit%C3%A4t_Wien.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q49110",
+ "ids": {
+  "wikidata": "Q49110",
+  "ror": "05qwgg493"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/f6/f64eef0b9970acb00e5d31fce95988ba128a361b8dfbcbc2cd166611d92641b6.webp",
+   "hosted": true,
+   "sha256": "f64eef0b9970acb00e5d31fce95988ba128a361b8dfbcbc2cd166611d92641b6",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 115,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Boston_University_wordmark.svg",
+   "license": "Public domain",
+   "attribution": "Boston University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Boston_University_wordmark.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

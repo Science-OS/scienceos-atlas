@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1816405",
+ "ids": {
+  "wikidata": "Q1816405",
+  "ror": "03dtebk39"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.noa.gr/wp-content/uploads/2020/02/cropped-logo_noasmall-1-192x192.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.noa.gr",
+   "attributionUrl": "https://www.noa.gr",
+   "confidence": 0.7,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

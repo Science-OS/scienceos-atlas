@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q117044341",
+ "ids": {
+  "wikidata": "Q117044341",
+  "ror": "02nfy3535"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/89/8955cf61aee8f6a698ec073e3af21c3c26412c99ccab462bec6211039b2b53e5.webp",
+   "hosted": true,
+   "sha256": "8955cf61aee8f6a698ec073e3af21c3c26412c99ccab462bec6211039b2b53e5",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 83,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/MCML_Logo.jpg",
+   "license": "Public domain",
+   "attribution": "Munich Center for Machine Learning",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:MCML_Logo.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

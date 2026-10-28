@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1136919",
+ "ids": {
+  "wikidata": "Q1136919",
+  "ror": "04rswrd78"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/0c/0c24bad995f5ec2492e514c5b1923e2cf2e7431c351fd7f2b3af52fb59e679bf.webp",
+   "hosted": true,
+   "sha256": "0c24bad995f5ec2492e514c5b1923e2cf2e7431c351fd7f2b3af52fb59e679bf",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 85,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Iowa_State_University_wordmark.svg",
+   "license": "Public domain",
+   "attribution": "Iowa State University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Iowa_State_University_wordmark.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}

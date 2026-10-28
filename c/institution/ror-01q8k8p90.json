@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01q8k8p90",
+ "ids": {
+  "wikidata": "Q7728557",
+  "ror": "01q8k8p90"
+ },
+ "updatedAt": "2026-10-28T11:28:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.cyi.ac.cy/templates/gk_rockwall/images/touch-device.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.cyi.ac.cy/",
+   "attributionUrl": "https://www.cyi.ac.cy/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-10-28T11:28:29Z"
+  }
+ ]
+}
