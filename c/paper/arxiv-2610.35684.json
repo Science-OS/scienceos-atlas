@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.35684",
+ "ids": {
+  "arxiv": "2610.35684"
+ },
+ "updatedAt": "2026-10-29T11:39:07Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/30/30c9f4f435ceeee5eea45585c5dadefdaf1bc49ea67e6d83548d0db09001902d.jpg",
+   "hosted": true,
+   "sha256": "30c9f4f435ceeee5eea45585c5dadefdaf1bc49ea67e6d83548d0db09001902d",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.35684",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Junyeong Ahn et al., arXiv:2610.35684",
+   "attributionUrl": "https://arxiv.org/abs/2610.35684",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-29T11:39:07Z"
+  }
+ ]
+}

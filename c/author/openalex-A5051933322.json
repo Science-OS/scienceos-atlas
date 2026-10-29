@@ -1,0 +1,30 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "openalex-A5051933322",
+ "ids": {
+  "orcid": "0009-0006-1984-0060",
+  "wikidata": "Q21263733",
+  "openalex": "A5051933322"
+ },
+ "updatedAt": "2026-10-29T11:39:07Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/4c/4c7d8a8d9cb26eda00936debc5d69745222253e4304f12c84ec6c2981af23f9d.webp",
+   "hosted": true,
+   "sha256": "4c7d8a8d9cb26eda00936debc5d69745222253e4304f12c84ec6c2981af23f9d",
+   "mime": "image/webp",
+   "width": 192,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Julia_Kempe.jpg",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "CDS",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Julia_Kempe.jpg",
+   "confidence": 0.95,
+   "fetchedAt": "2026-10-29T11:39:07Z"
+  }
+ ]
+}

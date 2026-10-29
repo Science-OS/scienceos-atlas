@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01ewh7m12",
+ "ids": {
+  "wikidata": "Q6049553",
+  "ror": "01ewh7m12"
+ },
+ "updatedAt": "2026-10-29T11:39:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d5/d5266512076b72c3dcad98196567527fbdc694e8be587b621832994fc9b59e97.webp",
+   "hosted": true,
+   "sha256": "d5266512076b72c3dcad98196567527fbdc694e8be587b621832994fc9b59e97",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 209,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/ICSI_logo_qa.jpg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:ICSI_logo_qa.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-29T11:39:07Z"
+  }
+ ]
+}

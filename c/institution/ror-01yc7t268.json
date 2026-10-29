@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01yc7t268",
+ "ids": {
+  "wikidata": "Q777403",
+  "ror": "01yc7t268"
+ },
+ "updatedAt": "2026-10-29T11:39:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/69/690da2ac877cd9ab9f18476f859eaa2496375d56dfdb4fb437e8e03174a30147.webp",
+   "hosted": true,
+   "sha256": "690da2ac877cd9ab9f18476f859eaa2496375d56dfdb4fb437e8e03174a30147",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 63,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Washu_textlogo.png",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Washu_textlogo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-29T11:39:07Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q273626",
+ "ids": {
+  "wikidata": "Q273626",
+  "ror": "05hy3tk52"
+ },
+ "updatedAt": "2026-10-29T11:39:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/21/210ab24acdde2d18b4bac696d338cec7373da193f362a8335458f683171a9c13.webp",
+   "hosted": true,
+   "sha256": "210ab24acdde2d18b4bac696d338cec7373da193f362a8335458f683171a9c13",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 84,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%89cole_polytechnique_signature.svg",
+   "license": "Public domain",
+   "attribution": "École polytechnique",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:%C3%89cole_polytechnique_signature.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-29T11:39:07Z"
+  }
+ ]
+}

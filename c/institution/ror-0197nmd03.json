@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-0197nmd03",
+ "ids": {
+  "wikidata": "Q1152190",
+  "ror": "0197nmd03"
+ },
+ "updatedAt": "2026-10-29T11:39:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/09/09e13c481e21eeb483cb5594951b87fd02017f7d70ce59bd25cc70eede8c853a.webp",
+   "hosted": true,
+   "sha256": "09e13c481e21eeb483cb5594951b87fd02017f7d70ce59bd25cc70eede8c853a",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 80,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ritsumeikan_University_logo_mark.svg",
+   "license": "Public domain",
+   "attribution": "秋山具義",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Ritsumeikan_University_logo_mark.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-29T11:39:07Z"
+  }
+ ]
+}

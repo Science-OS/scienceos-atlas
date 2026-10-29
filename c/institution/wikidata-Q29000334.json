@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q29000334",
+ "ids": {
+  "wikidata": "Q29000334",
+  "ror": "05k87vq12"
+ },
+ "updatedAt": "2026-10-29T11:39:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Flabs%2Fcambridge%2Fdefault.aspx&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "http://research.microsoft.com/en-us/labs/cambridge/default.aspx",
+   "confidence": 0.5,
+   "fetchedAt": "2026-10-29T11:39:07Z"
+  }
+ ]
+}

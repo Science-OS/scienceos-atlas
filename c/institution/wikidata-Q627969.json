@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q627969",
+ "ids": {
+  "wikidata": "Q627969",
+  "ror": "03c4mmv16"
+ },
+ "updatedAt": "2026-10-29T11:39:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/91/91052344a345597c057357731cc49edad8ef62584e793f0bcba9f3207d07ca26.webp",
+   "hosted": true,
+   "sha256": "91052344a345597c057357731cc49edad8ef62584e793f0bcba9f3207d07ca26",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 52,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Univ_ottawa_red_textlogo.png",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Univ_ottawa_red_textlogo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-29T11:39:07Z"
+  }
+ ]
+}

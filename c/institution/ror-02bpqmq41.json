@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02bpqmq41",
+ "ids": {
+  "wikidata": "Q1073484",
+  "ror": "02bpqmq41"
+ },
+ "updatedAt": "2026-10-29T11:39:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/01/0101ed994d3c97fb98bd45b1a3c06a1ba4c07cac429ec259f65b10a5e9be2413.webp",
+   "hosted": true,
+   "sha256": "0101ed994d3c97fb98bd45b1a3c06a1ba4c07cac429ec259f65b10a5e9be2413",
+   "mime": "image/webp",
+   "width": 255,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/CRRC_Logo.png",
+   "license": "Public domain",
+   "attribution": "Medicus of Borg",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:CRRC_Logo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-29T11:39:07Z"
+  }
+ ]
+}

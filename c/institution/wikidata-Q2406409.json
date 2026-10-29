@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q2406409",
+ "ids": {
+  "wikidata": "Q2406409",
+  "ror": "05xvt9f17"
+ },
+ "updatedAt": "2026-10-29T11:39:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/63/63adcf7b3833e671bf2338dc6513a18d9f750afa0fb3a78adf244114fd2cbbff.webp",
+   "hosted": true,
+   "sha256": "63adcf7b3833e671bf2338dc6513a18d9f750afa0fb3a78adf244114fd2cbbff",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 65,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_of_Leiden_University_Medical_Center_%282026%29.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_of_Leiden_University_Medical_Center_(2026).svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-29T11:39:07Z"
+  }
+ ]
+}

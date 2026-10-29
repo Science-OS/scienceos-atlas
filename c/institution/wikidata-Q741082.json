@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q741082",
+ "ids": {
+  "wikidata": "Q741082",
+  "ror": "01sf06y89"
+ },
+ "updatedAt": "2026-10-29T11:39:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ab/abfc876c3315bd56778b8ac7f0277267aa360891cef668d14390512aeaff2b7a.webp",
+   "hosted": true,
+   "sha256": "abfc876c3315bd56778b8ac7f0277267aa360891cef668d14390512aeaff2b7a",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 77,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Macquarie_University_International_brandmark_%E2%80%93_Horizontal_configuration.svg",
+   "license": "CC0",
+   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "attribution": "Macquarie University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Macquarie_University_International_brandmark_%E2%80%93_Horizontal_configuration.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-29T11:39:07Z"
+  }
+ ]
+}

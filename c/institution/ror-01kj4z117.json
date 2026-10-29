@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01kj4z117",
+ "ids": {
+  "wikidata": "Q840443",
+  "ror": "01kj4z117"
+ },
+ "updatedAt": "2026-10-29T11:39:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/34/344c8716cb4065be18b99c16cfc53d25eb4d2e948f99155d0ee1c4a78e9ca4bd.webp",
+   "hosted": true,
+   "sha256": "344c8716cb4065be18b99c16cfc53d25eb4d2e948f99155d0ee1c4a78e9ca4bd",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 192,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Swu_38jiao.JPG",
+   "license": "Public domain",
+   "attribution": "愿聞其詳",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Swu_38jiao.JPG",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-29T11:39:07Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02ttsq026",
+ "ids": {
+  "wikidata": "Q736674",
+  "ror": "02ttsq026"
+ },
+ "updatedAt": "2026-10-29T11:39:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d1/d151ab78e56056206be531bc7c423896d9251793079f2b9f6df87bd43ef8ac46.webp",
+   "hosted": true,
+   "sha256": "d151ab78e56056206be531bc7c423896d9251793079f2b9f6df87bd43ef8ac46",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 39,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/UC_Boulder_logo.svg",
+   "license": "Public domain",
+   "attribution": "University of Colorado",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:UC_Boulder_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-29T11:39:07Z"
+  }
+ ]
+}

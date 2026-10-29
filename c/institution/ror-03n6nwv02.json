@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03n6nwv02",
+ "ids": {
+  "wikidata": "Q25864",
+  "ror": "03n6nwv02"
+ },
+ "updatedAt": "2026-10-29T11:39:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ba/ba5dd1b227dcb8f6f4aa8b325a36a737e833f5f7ce582bbca376c9e7a6170bd5.webp",
+   "hosted": true,
+   "sha256": "ba5dd1b227dcb8f6f4aa8b325a36a737e833f5f7ce582bbca376c9e7a6170bd5",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 202,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Universidad_Polit%C3%A9cnica_de_Madrid.svg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Marion Moseby",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_Universidad_Polit%C3%A9cnica_de_Madrid.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-29T11:39:07Z"
+  }
+ ]
+}

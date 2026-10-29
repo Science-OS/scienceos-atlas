@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-013cjyk83",
+ "ids": {
+  "wikidata": "Q1163431",
+  "ror": "013cjyk83"
+ },
+ "updatedAt": "2026-10-29T11:39:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/4f/4f09d0714a9b56b12c1876efaf8e1e09060a43dd2f9cf6766df8a67843f6976c.webp",
+   "hosted": true,
+   "sha256": "4f09d0714a9b56b12c1876efaf8e1e09060a43dd2f9cf6766df8a67843f6976c",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 105,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/LOGO-PSL-juin-2026.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:LOGO-PSL-juin-2026.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-29T11:39:07Z"
+  }
+ ]
+}

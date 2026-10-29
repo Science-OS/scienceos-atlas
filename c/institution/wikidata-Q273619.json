@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q273619",
+ "ids": {
+  "wikidata": "Q273619",
+  "ror": "05f8d4e86"
+ },
+ "updatedAt": "2026-10-29T11:39:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/87/87cdf2f497dd86eb477d3946569a77d641ab82f8ce3e13cd39c6e5528b01dd72.webp",
+   "hosted": true,
+   "sha256": "87cdf2f497dd86eb477d3946569a77d641ab82f8ce3e13cd39c6e5528b01dd72",
+   "mime": "image/webp",
+   "width": 220,
+   "height": 229,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Poly.png",
+   "license": "Public domain",
+   "attribution": "Polytechnique Montréal",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Poly.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-29T11:39:07Z"
+  }
+ ]
+}

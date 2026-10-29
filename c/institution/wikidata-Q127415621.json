@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q127415621",
+ "ids": {
+  "wikidata": "Q127415621",
+  "ror": "010wkqn50"
+ },
+ "updatedAt": "2026-10-29T11:39:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fresearch%2Flab%2Fmicrosoft-research-new-england%2F&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/",
+   "confidence": 0.5,
+   "fetchedAt": "2026-10-29T11:39:07Z"
+  }
+ ]
+}

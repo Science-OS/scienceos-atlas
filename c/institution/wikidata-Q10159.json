@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q10159",
+ "ids": {
+  "wikidata": "Q10159",
+  "ror": "04zmssz18"
+ },
+ "updatedAt": "2026-10-29T11:39:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/21/21a3c7b65bb8bb92ce43dd4f8b573d902f35a03e4aae2c03dfade60c032b2cb3.webp",
+   "hosted": true,
+   "sha256": "21a3c7b65bb8bb92ce43dd4f8b573d902f35a03e4aae2c03dfade60c032b2cb3",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 95,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_ENS_de_Lyon_2010.png",
+   "license": "Public domain",
+   "attribution": "User:Akiro, modified by User:Jameslwoodward",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_ENS_de_Lyon_2010.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-29T11:39:07Z"
+  }
+ ]
+}

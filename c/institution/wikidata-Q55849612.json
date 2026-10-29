@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q55849612",
+ "ids": {
+  "wikidata": "Q55849612",
+  "ror": "05f82e368"
+ },
+ "updatedAt": "2026-10-29T11:39:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/50/504d232d9972a2acc314f1518c55d2fa453410bbc67c63f27da44c562999ab9c.webp",
+   "hosted": true,
+   "sha256": "504d232d9972a2acc314f1518c55d2fa453410bbc67c63f27da44c562999ab9c",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 98,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Universit%C3%A9_Paris-Cit%C3%A9_%28partenariat_Wikim%C3%A9dia%29.svg",
+   "license": "Public domain",
+   "attribution": "Graphéine",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_Universit%C3%A9_Paris-Cit%C3%A9_(partenariat_Wikim%C3%A9dia).svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-29T11:39:07Z"
+  }
+ ]
+}

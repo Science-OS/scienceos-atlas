@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q106412008",
+ "ids": {
+  "wikidata": "Q106412008",
+  "ror": "04pvzz946"
+ },
+ "updatedAt": "2026-10-29T11:39:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://iaifi.org/apple-touch-icon.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://iaifi.org/",
+   "attributionUrl": "https://iaifi.org/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-10-29T11:39:07Z"
+  }
+ ]
+}

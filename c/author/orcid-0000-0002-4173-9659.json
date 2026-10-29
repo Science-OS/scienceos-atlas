@@ -1,0 +1,30 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "orcid-0000-0002-4173-9659",
+ "ids": {
+  "orcid": "0000-0002-4173-9659",
+  "wikidata": "Q6771460",
+  "openalex": "A5011504360"
+ },
+ "updatedAt": "2026-10-29T11:39:07Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e1/e1d002418aa3bdcc49ec25f83ce103ea91ba21154fa11ac226fae13da6ccf92f.webp",
+   "hosted": true,
+   "sha256": "e1d002418aa3bdcc49ec25f83ce103ea91ba21154fa11ac226fae13da6ccf92f",
+   "mime": "image/webp",
+   "width": 221,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Buehler.jpg",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "attribution": "Javaseehe",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Buehler.jpg",
+   "confidence": 0.95,
+   "fetchedAt": "2026-10-29T11:39:07Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q6412129",
+ "ids": {
+  "wikidata": "Q6412129",
+  "ror": "01evb6z23"
+ },
+ "updatedAt": "2026-10-29T11:39:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/f4/f40399f7259cf84f360108af50be0bbb0f31a521b15616f15097ff4cc5e75ad7.webp",
+   "hosted": true,
+   "sha256": "f40399f7259cf84f360108af50be0bbb0f31a521b15616f15097ff4cc5e75ad7",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 123,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/King_university_textlogo.png",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:King_university_textlogo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-29T11:39:07Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-030hj3061",
+ "ids": {
+  "wikidata": "Q27962533",
+  "ror": "030hj3061"
+ },
+ "updatedAt": "2026-10-29T11:39:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ca/ca4eb22e6ff72f98ae6fefa40e33ef92f7958f845c4feeb82c842ef44d7e155c.webp",
+   "hosted": true,
+   "sha256": "ca4eb22e6ff72f98ae6fefa40e33ef92f7958f845c4feeb82c842ef44d7e155c",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 151,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_IMT_Atlantique.svg",
+   "license": "Public domain",
+   "attribution": "IMT Atlantique",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_IMT_Atlantique.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-29T11:39:07Z"
+  }
+ ]
+}

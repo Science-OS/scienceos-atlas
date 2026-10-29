@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03r0ha626",
+ "ids": {
+  "wikidata": "Q168515",
+  "ror": "03r0ha626"
+ },
+ "updatedAt": "2026-10-29T11:39:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/eb/ebf4891a8b56f85ce7081225d4b9fd5145c9f88201e8c28488de3349e7eec53f.webp",
+   "hosted": true,
+   "sha256": "ebf4891a8b56f85ce7081225d4b9fd5145c9f88201e8c28488de3349e7eec53f",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 67,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Utah_horizontal_logo.svg",
+   "license": "Public domain",
+   "attribution": "University of Utah",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Utah_horizontal_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-29T11:39:07Z"
+  }
+ ]
+}

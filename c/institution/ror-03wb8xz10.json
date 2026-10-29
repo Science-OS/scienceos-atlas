@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03wb8xz10",
+ "ids": {
+  "wikidata": "Q274591",
+  "ror": "03wb8xz10"
+ },
+ "updatedAt": "2026-10-29T11:39:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/8d/8dc5e6b62dba18295a9b04f698ca195223c78f3f380f0cd374b124a3577ac2b0.webp",
+   "hosted": true,
+   "sha256": "8dc5e6b62dba18295a9b04f698ca195223c78f3f380f0cd374b124a3577ac2b0",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 109,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%89lectricit%C3%A9_de_France_logo.svg",
+   "license": "Public domain",
+   "attribution": "Électricité de France",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:%C3%89lectricit%C3%A9_de_France_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-29T11:39:07Z"
+  }
+ ]
+}

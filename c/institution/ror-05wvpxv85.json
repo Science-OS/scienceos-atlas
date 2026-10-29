@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-05wvpxv85",
+ "ids": {
+  "wikidata": "Q49120",
+  "ror": "05wvpxv85"
+ },
+ "updatedAt": "2026-10-29T11:39:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/49/492f3da63b35e352425c24fed45b8ae9d4095bb471968c00e0d0a8d7608cea1d.webp",
+   "hosted": true,
+   "sha256": "492f3da63b35e352425c24fed45b8ae9d4095bb471968c00e0d0a8d7608cea1d",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 111,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tufts_University_wordmark.svg",
+   "license": "Public domain",
+   "attribution": "Tufts University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Tufts_University_wordmark.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-29T11:39:07Z"
+  }
+ ]
+}

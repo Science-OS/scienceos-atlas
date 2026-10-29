@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02jbv0t02",
+ "ids": {
+  "wikidata": "Q1133630",
+  "ror": "02jbv0t02"
+ },
+ "updatedAt": "2026-10-29T11:39:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/fd/fdd49cea810011db44ddc49268060244f1cef25e1c5deb8bfeeb9f90873527b8.webp",
+   "hosted": true,
+   "sha256": "fdd49cea810011db44ddc49268060244f1cef25e1c5deb8bfeeb9f90873527b8",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 194,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Berkeley_Lab_Logo_Large.jpg",
+   "license": "Public domain",
+   "attribution": "Lawrence Berkeley National Laboratory",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Berkeley_Lab_Logo_Large.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-29T11:39:07Z"
+  }
+ ]
+}

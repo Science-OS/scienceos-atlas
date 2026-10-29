@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01dp7jr64",
+ "ids": {
+  "wikidata": "Q97041886",
+  "ror": "01dp7jr64"
+ },
+ "updatedAt": "2026-10-29T11:39:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://ens.edu.bi/wp-content/uploads/2021/11/cropped-logo1-192x192.jpg",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://ens.edu.bi",
+   "attributionUrl": "https://ens.edu.bi",
+   "confidence": 0.7,
+   "fetchedAt": "2026-10-29T11:39:07Z"
+  }
+ ]
+}

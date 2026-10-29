@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-042tfbd02",
+ "ids": {
+  "wikidata": "Q48759778",
+  "ror": "042tfbd02"
+ },
+ "updatedAt": "2026-10-29T11:39:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/35/355a3069c55a4e518f70588fd4c3e0c34d6b56cee9b5c77c5ad0d515e1d15d74.webp",
+   "hosted": true,
+   "sha256": "355a3069c55a4e518f70588fd4c3e0c34d6b56cee9b5c77c5ad0d515e1d15d74",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Institut_polytechnique_de_Paris_logo.svg",
+   "license": "Public domain",
+   "attribution": "Institut polytechnique de Paris",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Institut_polytechnique_de_Paris_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-29T11:39:07Z"
+  }
+ ]
+}

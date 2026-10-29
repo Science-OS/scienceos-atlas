@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.35962",
+ "ids": {
+  "arxiv": "2610.35962"
+ },
+ "updatedAt": "2026-10-29T11:39:07Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/3f/3f6a3aa9fb05140f17caef97a60d57274a0f2eb8cc5281da44168143531151f5.jpg",
+   "hosted": true,
+   "sha256": "3f6a3aa9fb05140f17caef97a60d57274a0f2eb8cc5281da44168143531151f5",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.35962",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Skander Moalla et al., arXiv:2610.35962",
+   "attributionUrl": "https://arxiv.org/abs/2610.35962",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-29T11:39:07Z"
+  }
+ ]
+}

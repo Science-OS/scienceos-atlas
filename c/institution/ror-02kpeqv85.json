@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02kpeqv85",
+ "ids": {
+  "wikidata": "Q336264",
+  "ror": "02kpeqv85"
+ },
+ "updatedAt": "2026-10-29T11:39:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/5d/5dea3efe8131428355c0d6d77f2d26b2ed862d7b3e04733c96c85677a570885d.webp",
+   "hosted": true,
+   "sha256": "5dea3efe8131428355c0d6d77f2d26b2ed862d7b3e04733c96c85677a570885d",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kyoto_University_emblem.svg",
+   "license": "Public domain",
+   "attribution": "京都大学、小川録郎、川崎清、久谷政樹",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Kyoto_University_emblem.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-29T11:39:07Z"
+  }
+ ]
+}

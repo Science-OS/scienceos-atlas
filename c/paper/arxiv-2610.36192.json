@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.36192",
+ "ids": {
+  "arxiv": "2610.36192"
+ },
+ "updatedAt": "2026-10-29T11:39:07Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/33/33ff329a7e3002e3b404de427412cdaecb94ee815034f4810cb41bda14b57c46.jpg",
+   "hosted": true,
+   "sha256": "33ff329a7e3002e3b404de427412cdaecb94ee815034f4810cb41bda14b57c46",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.36192",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Ziqiao Wang et al., arXiv:2610.36192",
+   "attributionUrl": "https://arxiv.org/abs/2610.36192",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-29T11:39:07Z"
+  }
+ ]
+}

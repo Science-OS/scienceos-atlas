@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-05591te55",
+ "ids": {
+  "wikidata": "Q55044",
+  "ror": "05591te55"
+ },
+ "updatedAt": "2026-10-29T11:39:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b0/b0b3a8f347dd96c6398f951218e8aef15e08a0bbcfef29109ffcc3badadff537.webp",
+   "hosted": true,
+   "sha256": "b0b3a8f347dd96c6398f951218e8aef15e08a0bbcfef29109ffcc3badadff537",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 134,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/LMU_Muenchen_Logo.svg",
+   "license": "Public domain",
+   "attribution": "Ludwig-Maximilians-Universität München",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:LMU_Muenchen_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-29T11:39:07Z"
+  }
+ ]
+}

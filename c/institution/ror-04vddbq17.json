@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04vddbq17",
+ "ids": {
+  "wikidata": "Q4699645",
+  "ror": "04vddbq17"
+ },
+ "updatedAt": "2026-10-29T11:39:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.akgec.ac.in/wp-content/uploads/2020/06/cropped-AKGEC_1_0-192x192.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.akgec.ac.in",
+   "attributionUrl": "https://www.akgec.ac.in",
+   "confidence": 0.7,
+   "fetchedAt": "2026-10-29T11:39:07Z"
+  }
+ ]
+}

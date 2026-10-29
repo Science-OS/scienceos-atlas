@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-008x57b05",
+ "ids": {
+  "wikidata": "Q175241",
+  "ror": "008x57b05"
+ },
+ "updatedAt": "2026-10-29T11:39:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/51/51d0a6cdece77bc1c81a23782b801b43a96e2130e199d23d04b4db6e50f72728.webp",
+   "hosted": true,
+   "sha256": "51d0a6cdece77bc1c81a23782b801b43a96e2130e199d23d04b4db6e50f72728",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 85,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Universiteit_Antwerpen_nieuw_logo.svg",
+   "license": "Public domain",
+   "attribution": "Universiteit Antwerpen",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Universiteit_Antwerpen_nieuw_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-29T11:39:07Z"
+  }
+ ]
+}

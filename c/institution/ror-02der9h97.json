@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02der9h97",
+ "ids": {
+  "wikidata": "Q49206",
+  "ror": "02der9h97"
+ },
+ "updatedAt": "2026-10-29T11:39:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/02/02e54ea337f5c3207ee53d402ce6afdd895e3de935d46b699ad90bd9ec602276.webp",
+   "hosted": true,
+   "sha256": "02e54ea337f5c3207ee53d402ce6afdd895e3de935d46b699ad90bd9ec602276",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 79,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Connecticut_logo.svg",
+   "license": "Public domain",
+   "attribution": "University of Connecticut",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Connecticut_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-29T11:39:07Z"
+  }
+ ]
+}

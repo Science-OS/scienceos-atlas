@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1474517",
+ "ids": {
+  "wikidata": "Q1474517",
+  "ror": "02vjkv261"
+ },
+ "updatedAt": "2026-10-29T11:39:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/15/158e9ba986bf52980fd4482809786c72f515288563bc1225878aba969f3e1054.webp",
+   "hosted": true,
+   "sha256": "158e9ba986bf52980fd4482809786c72f515288563bc1225878aba969f3e1054",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 104,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Inserm.svg",
+   "license": "Public domain",
+   "attribution": "Inserm",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Inserm.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-29T11:39:07Z"
+  }
+ ]
+}

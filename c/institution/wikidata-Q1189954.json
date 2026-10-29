@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1189954",
+ "ids": {
+  "wikidata": "Q1189954",
+  "ror": "04y8cs423"
+ },
+ "updatedAt": "2026-10-29T11:39:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/dd/ddca315b55873a4f3e91752de5857eda361abffca9040fea7ba1f491a8de9316.webp",
+   "hosted": true,
+   "sha256": "ddca315b55873a4f3e91752de5857eda361abffca9040fea7ba1f491a8de9316",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 78,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Mines_Paris_-_PSL.png",
+   "license": "Public domain",
+   "attribution": "LeGraphiste",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_Mines_Paris_-_PSL.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-29T11:39:07Z"
+  }
+ ]
+}

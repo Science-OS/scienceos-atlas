@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-05a0dhs15",
+ "ids": {
+  "wikidata": "Q83259",
+  "ror": "05a0dhs15"
+ },
+ "updatedAt": "2026-10-29T11:39:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/9d/9d137f74372768b2f78e682530d1e3f4eadc653ec863c985472775c7fcd1f86e.webp",
+   "hosted": true,
+   "sha256": "9d137f74372768b2f78e682530d1e3f4eadc653ec863c985472775c7fcd1f86e",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 108,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_%C3%89cole_normale_sup%C3%A9rieure_-_PSL_%28ENS-PSL%29.svg",
+   "license": "Public domain",
+   "attribution": "LeGraphiste",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_%C3%89cole_normale_sup%C3%A9rieure_-_PSL_(ENS-PSL).svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-29T11:39:07Z"
+  }
+ ]
+}

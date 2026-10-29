@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q309988",
+ "ids": {
+  "wikidata": "Q309988",
+  "ror": "04t3en479"
+ },
+ "updatedAt": "2026-10-29T11:39:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/84/84e79516551b6e789305a8eb65ad9a26301547b0701b88e980d6472809b94987.webp",
+   "hosted": true,
+   "sha256": "84e79516551b6e789305a8eb65ad9a26301547b0701b88e980d6472809b94987",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 128,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_KIT.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_KIT.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-29T11:39:07Z"
+  }
+ ]
+}

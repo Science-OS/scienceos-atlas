@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q831227",
+ "ids": {
+  "wikidata": "Q831227",
+  "ror": "05d2yfz11"
+ },
+ "updatedAt": "2026-10-29T11:39:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.nudt.edu.cn%2F&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "https://www.nudt.edu.cn/",
+   "confidence": 0.5,
+   "fetchedAt": "2026-10-29T11:39:07Z"
+  }
+ ]
+}

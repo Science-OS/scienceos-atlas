@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q30262213",
+ "ids": {
+  "wikidata": "Q30262213",
+  "ror": "01ydp2x12"
+ },
+ "updatedAt": "2026-10-29T11:39:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.minesparis.psl.eu/persee/wp-content/uploads/sites/22/2026/06/cropped-favicon-mines-100px-192x192.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of http://www.persee.mines-paristech.fr/",
+   "attributionUrl": "http://www.persee.mines-paristech.fr/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-10-29T11:39:07Z"
+  }
+ ]
+}

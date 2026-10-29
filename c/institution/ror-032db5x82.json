@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-032db5x82",
+ "ids": {
+  "wikidata": "Q500606",
+  "ror": "032db5x82"
+ },
+ "updatedAt": "2026-10-29T11:39:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/28/282d1e786323be5b65c2a13052f33a48c2af13e3d88bc798c2202ac2e6f5a39e.webp",
+   "hosted": true,
+   "sha256": "282d1e786323be5b65c2a13052f33a48c2af13e3d88bc798c2202ac2e6f5a39e",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 42,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_South_Florida_wordmark.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_South_Florida_wordmark.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-29T11:39:07Z"
+  }
+ ]
+}

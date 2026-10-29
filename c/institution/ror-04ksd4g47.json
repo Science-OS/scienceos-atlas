@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04ksd4g47",
+ "ids": {
+  "wikidata": "Q4346622",
+  "ror": "04ksd4g47"
+ },
+ "updatedAt": "2026-10-29T11:39:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/6c/6cf8994ca1edb3a7bc56791f97e2a366cc5858db0b9d0bac3f695bf0dd957af1.webp",
+   "hosted": true,
+   "sha256": "6cf8994ca1edb3a7bc56791f97e2a366cc5858db0b9d0bac3f695bf0dd957af1",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 167,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Nii_logo.svg",
+   "license": "Public domain",
+   "attribution": "国立情報学研究所",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Nii_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-29T11:39:07Z"
+  }
+ ]
+}

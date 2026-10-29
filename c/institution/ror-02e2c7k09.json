@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02e2c7k09",
+ "ids": {
+  "wikidata": "Q752663",
+  "ror": "02e2c7k09"
+ },
+ "updatedAt": "2026-10-29T11:39:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/de/de91a792ac6f2bb1892134f7635deb57ff3761f456da907db75083258de56094.webp",
+   "hosted": true,
+   "sha256": "de91a792ac6f2bb1892134f7635deb57ff3761f456da907db75083258de56094",
+   "mime": "image/webp",
+   "width": 254,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Zegel_Technische_Universiteit_Delft.svg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "NielsvSilfhout",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Zegel_Technische_Universiteit_Delft.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-29T11:39:07Z"
+  }
+ ]
+}
