@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q136778",
+ "ids": {
+  "wikidata": "Q136778",
+  "ror": "03ddh2c27"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/9a/9a8832f4d85875ba1d53d60df16dcb029ba453f3580f22ac492a27e848504a77.webp",
+   "hosted": true,
+   "sha256": "9a8832f4d85875ba1d53d60df16dcb029ba453f3580f22ac492a27e848504a77",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 118,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/LG_logo_%282014%29.svg",
+   "license": "Public domain",
+   "attribution": "LG Corporation",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:LG_logo_(2014).svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

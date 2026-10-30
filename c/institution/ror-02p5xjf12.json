@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02p5xjf12",
+ "ids": {
+  "wikidata": "Q17028121",
+  "ror": "02p5xjf12"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/2d/2de2a971c3a8d6b9ef587ec12ed25dd02917509db3980b143aa1d8d26594985e.webp",
+   "hosted": true,
+   "sha256": "2de2a971c3a8d6b9ef587ec12ed25dd02917509db3980b143aa1d8d26594985e",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 56,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Texas_Rio_Grande_Valley_logo.svg",
+   "license": "Public domain",
+   "attribution": "University of Texas Rio Grande Valley",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Texas_Rio_Grande_Valley_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

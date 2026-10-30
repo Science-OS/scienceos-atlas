@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1982481",
+ "ids": {
+  "wikidata": "Q1982481",
+  "ror": "03hdf3w38"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e8/e811a58f1bdb8c97588e096cb1f51ba2c91ed2ba02940a8cbdfb955a559ae60d.webp",
+   "hosted": true,
+   "sha256": "e811a58f1bdb8c97588e096cb1f51ba2c91ed2ba02940a8cbdfb955a559ae60d",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 50,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Northeastern_University_London_Wordmark.svg",
+   "license": "Public domain",
+   "attribution": "Northeastern University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Northeastern_University_London_Wordmark.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

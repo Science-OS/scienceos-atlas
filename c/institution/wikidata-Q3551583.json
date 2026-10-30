@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q3551583",
+ "ids": {
+  "wikidata": "Q3551583",
+  "ror": "0566t4z20"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.univ-dschang.org/wp-content/uploads/2024/09/cropped-LogoUDS-268x300-sans-fond-192x192.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.univ-dschang.org",
+   "attributionUrl": "https://www.univ-dschang.org",
+   "confidence": 0.7,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

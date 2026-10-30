@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.40551",
+ "ids": {
+  "arxiv": "2610.40551"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/f4/f4ea99ac30ce7f6ece89e1bec5cb880ec8cce4f9e7dfc7b499f957acba7ef93a.jpg",
+   "hosted": true,
+   "sha256": "f4ea99ac30ce7f6ece89e1bec5cb880ec8cce4f9e7dfc7b499f957acba7ef93a",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.40551",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Alan Sorani et al., arXiv:2610.40551",
+   "attributionUrl": "https://arxiv.org/abs/2610.40551",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

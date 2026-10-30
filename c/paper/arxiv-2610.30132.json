@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.30132",
+ "ids": {
+  "arxiv": "2610.30132"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/7d/7dc367d7bcddb3079bed2468eaf47494c9e3efb470d3f029c47cf20823584541.jpg",
+   "hosted": true,
+   "sha256": "7dc367d7bcddb3079bed2468eaf47494c9e3efb470d3f029c47cf20823584541",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.30132",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Zhennan Wan et al., arXiv:2610.30132",
+   "attributionUrl": "https://arxiv.org/abs/2610.30132",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

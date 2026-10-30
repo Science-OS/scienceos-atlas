@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q97200300",
+ "ids": {
+  "wikidata": "Q97200300",
+  "ror": "02hmjzt55"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/06/061f8557c52f3101df716cc40db7450c983b6cb51cfe9532e6898430af48db34.webp",
+   "hosted": true,
+   "sha256": "061f8557c52f3101df716cc40db7450c983b6cb51cfe9532e6898430af48db34",
+   "mime": "image/webp",
+   "width": 191,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Main_Logo_of_National_Research_and_Innovation_Agency_of_Indonesia.svg",
+   "license": "Public domain",
+   "attribution": "Badan Riset dan Inovasi Nasional, Indonesia.",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Main_Logo_of_National_Research_and_Innovation_Agency_of_Indonesia.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

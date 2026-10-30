@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-035xkbk20",
+ "ids": {
+  "wikidata": "Q2302586",
+  "ror": "035xkbk20"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/27/27adf19464f586bca419f9a1990181926c3b9e351c176e10def5ac3facdfff28.webp",
+   "hosted": true,
+   "sha256": "27adf19464f586bca419f9a1990181926c3b9e351c176e10def5ac3facdfff28",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 111,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Aix_Marseille_Universit%C3%A9_logo_2024.png",
+   "license": "Public domain",
+   "attribution": "Université d'Aix-Marseille",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Aix_Marseille_Universit%C3%A9_logo_2024.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

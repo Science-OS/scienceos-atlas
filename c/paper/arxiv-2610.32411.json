@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.32411",
+ "ids": {
+  "arxiv": "2610.32411"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/68/68238b7bc08acb5c6d669edd3b3fdb58948bc8f89df90b6d7bf824ccd64024e5.jpg",
+   "hosted": true,
+   "sha256": "68238b7bc08acb5c6d669edd3b3fdb58948bc8f89df90b6d7bf824ccd64024e5",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.32411",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Jia Wang et al., arXiv:2610.32411",
+   "attributionUrl": "https://arxiv.org/abs/2610.32411",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

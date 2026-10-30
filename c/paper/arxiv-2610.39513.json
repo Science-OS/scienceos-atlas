@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.39513",
+ "ids": {
+  "arxiv": "2610.39513"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/de/dee8130f3ca99f7c3200d93faa6c129260dd2ed762dc87fe34a70f1000af5288.jpg",
+   "hosted": true,
+   "sha256": "dee8130f3ca99f7c3200d93faa6c129260dd2ed762dc87fe34a70f1000af5288",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.39513",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Ishan Amin et al., arXiv:2610.39513",
+   "attributionUrl": "https://arxiv.org/abs/2610.39513",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

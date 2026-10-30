@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.38331",
+ "ids": {
+  "arxiv": "2610.38331"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d8/d855d74d31e31dfd7ef4fdf0b7ec77a3ef628ea7b43993b8a7f5da6bfc9d7c74.jpg",
+   "hosted": true,
+   "sha256": "d855d74d31e31dfd7ef4fdf0b7ec77a3ef628ea7b43993b8a7f5da6bfc9d7c74",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.38331",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Jayden Teoh, arXiv:2610.38331",
+   "attributionUrl": "https://arxiv.org/abs/2610.38331",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

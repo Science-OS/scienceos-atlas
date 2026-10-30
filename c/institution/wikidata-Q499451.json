@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q499451",
+ "ids": {
+  "wikidata": "Q499451",
+  "ror": "05vt9qd57"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/82/82ade0362b6b3305497e729e77113f8ace25c2c1f235a3de780286e79b449a60.webp",
+   "hosted": true,
+   "sha256": "82ade0362b6b3305497e729e77113f8ace25c2c1f235a3de780286e79b449a60",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 90,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rutgers_University_with_the_state_university_logo.svg",
+   "license": "Public domain",
+   "attribution": "Rutgers University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Rutgers_University_with_the_state_university_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

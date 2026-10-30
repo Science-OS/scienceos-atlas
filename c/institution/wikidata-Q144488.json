@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q144488",
+ "ids": {
+  "wikidata": "Q144488",
+  "ror": "039bjqg32"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/6e/6eb05de865cd86b1226579684082daf08ea744e00a8a86b395177341c2f68b80.webp",
+   "hosted": true,
+   "sha256": "6eb05de865cd86b1226579684082daf08ea744e00a8a86b395177341c2f68b80",
+   "mime": "image/webp",
+   "width": 237,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/LOGO_IKP_%28cropped%29.png",
+   "license": "Public domain",
+   "attribution": "Instytut Kultury Polskiej",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:LOGO_IKP_(cropped).png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

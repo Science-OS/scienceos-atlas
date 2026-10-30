@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.39731",
+ "ids": {
+  "arxiv": "2610.39731"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/85/85dc70b875520cec64544f2d53851f09e83b75e607117e377e13c80f93be89e5.jpg",
+   "hosted": true,
+   "sha256": "85dc70b875520cec64544f2d53851f09e83b75e607117e377e13c80f93be89e5",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.39731",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Tobias Reinhart et al., arXiv:2610.39731",
+   "attributionUrl": "https://arxiv.org/abs/2610.39731",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

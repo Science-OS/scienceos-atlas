@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01k97gp34",
+ "ids": {
+  "wikidata": "Q685557",
+  "ror": "01k97gp34"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b2/b2b990596a24f7a977b954c8a8258e24775f50548eedfc76e3250242c62df435.webp",
+   "hosted": true,
+   "sha256": "b2b990596a24f7a977b954c8a8258e24775f50548eedfc76e3250242c62df435",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 51,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Technische_Universit%C3%A4t_Dortmund_Logo.svg",
+   "license": "Public domain",
+   "attribution": "Norro",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Technische_Universit%C3%A4t_Dortmund_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

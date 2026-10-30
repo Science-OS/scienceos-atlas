@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-048sx0r50",
+ "ids": {
+  "wikidata": "Q1472358",
+  "ror": "048sx0r50"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/9f/9f98bf0399e2a55a75cb421d9f81035b66104974a917ff1db42c290f0fd19d09.webp",
+   "hosted": true,
+   "sha256": "9f98bf0399e2a55a75cb421d9f81035b66104974a917ff1db42c290f0fd19d09",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 67,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Houston_logo.svg",
+   "license": "Public domain",
+   "attribution": "University of Houston",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Houston_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

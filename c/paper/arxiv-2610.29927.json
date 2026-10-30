@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.29927",
+ "ids": {
+  "arxiv": "2610.29927"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/05/059d926d53f627164a4611e80731f852ab0e1ca3d9b25904ae0117e3cc98f6ee.jpg",
+   "hosted": true,
+   "sha256": "059d926d53f627164a4611e80731f852ab0e1ca3d9b25904ae0117e3cc98f6ee",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.29927",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Yifan Sun et al., arXiv:2610.29927",
+   "attributionUrl": "https://arxiv.org/abs/2610.29927",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

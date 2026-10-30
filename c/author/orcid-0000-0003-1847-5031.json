@@ -1,0 +1,24 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "orcid-0000-0003-1847-5031",
+ "ids": {
+  "orcid": "0000-0003-1847-5031",
+  "wikidata": "Q59510580",
+  "openalex": "A5063367289",
+  "github": "lordgrilo"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://github.com/lordgrilo.png?size=256",
+   "hosted": false,
+   "source": "github",
+   "attribution": "GitHub profile @lordgrilo",
+   "attributionUrl": "https://github.com/lordgrilo",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

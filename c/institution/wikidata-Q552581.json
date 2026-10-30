@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q552581",
+ "ids": {
+  "wikidata": "Q552581",
+  "ror": "03dsc8d33"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/16/16122247d5b583247018b38187e8b0668463d1eb53a3b28e321bbfa8274cfbad.webp",
+   "hosted": true,
+   "sha256": "16122247d5b583247018b38187e8b0668463d1eb53a3b28e321bbfa8274cfbad",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 127,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/SAP_2011_logo.svg",
+   "license": "Public domain",
+   "attribution": "SAP SE",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:SAP_2011_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

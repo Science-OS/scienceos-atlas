@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.40454",
+ "ids": {
+  "arxiv": "2610.40454"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/01/016e64733f79b91d2659b84818aa8732e98053d2b97c34a02631f99f1a5b320c.jpg",
+   "hosted": true,
+   "sha256": "016e64733f79b91d2659b84818aa8732e98053d2b97c34a02631f99f1a5b320c",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.40454",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Adilet Metinov et al., arXiv:2610.40454",
+   "attributionUrl": "https://arxiv.org/abs/2610.40454",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

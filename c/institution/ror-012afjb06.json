@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-012afjb06",
+ "ids": {
+  "wikidata": "Q622137",
+  "ror": "012afjb06"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/7e/7e7de42cde7481af8d44d5b56cc46285fe0670ec2eaeeef6e05b4288db4300f2.webp",
+   "hosted": true,
+   "sha256": "7e7de42cde7481af8d44d5b56cc46285fe0670ec2eaeeef6e05b4288db4300f2",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 29,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lehigh_University_text.png",
+   "license": "Public domain",
+   "attribution": "Lehigh University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Lehigh_University_text.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

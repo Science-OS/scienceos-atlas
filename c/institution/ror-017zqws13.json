@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-017zqws13",
+ "ids": {
+  "wikidata": "Q238101",
+  "ror": "017zqws13"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b3/b3d48c3e226705cf765a923f1cef2c7a13b7907d3dc17db0b32a3b73f6b0594a.webp",
+   "hosted": true,
+   "sha256": "b3d48c3e226705cf765a923f1cef2c7a13b7907d3dc17db0b32a3b73f6b0594a",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 66,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Minnesota_wordmark.png",
+   "license": "Public domain",
+   "attribution": "The University of Minnesota and the State of Minnesota .",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Minnesota_wordmark.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

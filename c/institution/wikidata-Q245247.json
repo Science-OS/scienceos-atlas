@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q245247",
+ "ids": {
+  "wikidata": "Q245247",
+  "ror": "0220mzb33"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/a9/a94e4decfed4b415594a6f7b7f56c45acdf15fcfd286809a242143148e73ebc8.webp",
+   "hosted": true,
+   "sha256": "a94e4decfed4b415594a6f7b7f56c45acdf15fcfd286809a242143148e73ebc8",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 171,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kcl-logo.svg",
+   "license": "Public domain",
+   "attribution": "reviczky",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Kcl-logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

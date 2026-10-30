@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.40541",
+ "ids": {
+  "arxiv": "2610.40541"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/76/7680ba6b7fca3df9d2875bc3cacc695dcb675e93e831291d866a92c6aefdca08.jpg",
+   "hosted": true,
+   "sha256": "7680ba6b7fca3df9d2875bc3cacc695dcb675e93e831291d866a92c6aefdca08",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.40541",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Haowen Shi et al., arXiv:2610.40541",
+   "attributionUrl": "https://arxiv.org/abs/2610.40541",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

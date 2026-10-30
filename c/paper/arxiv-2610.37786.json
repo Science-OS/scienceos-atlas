@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.37786",
+ "ids": {
+  "arxiv": "2610.37786"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/1a/1a584186823fac1e7579e7f5a447532808cbf9c81b76eca9bddc127ea6fcbd49.jpg",
+   "hosted": true,
+   "sha256": "1a584186823fac1e7579e7f5a447532808cbf9c81b76eca9bddc127ea6fcbd49",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.37786",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Tianci Xie et al., arXiv:2610.37786",
+   "attributionUrl": "https://arxiv.org/abs/2610.37786",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

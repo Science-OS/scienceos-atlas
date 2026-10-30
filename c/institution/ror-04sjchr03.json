@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04sjchr03",
+ "ids": {
+  "wikidata": "Q1067935",
+  "ror": "04sjchr03"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/05/056234ef1be011882d587ecd4e2f64610427724fb7748d93e8a2ce83ec62c269.webp",
+   "hosted": true,
+   "sha256": "056234ef1be011882d587ecd4e2f64610427724fb7748d93e8a2ce83ec62c269",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 150,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Universit%C3%A9_laval.jpg",
+   "license": "Public domain",
+   "attribution": "Pisenr",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Universit%C3%A9_laval.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

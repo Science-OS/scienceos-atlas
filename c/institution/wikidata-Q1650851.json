@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1650851",
+ "ids": {
+  "wikidata": "Q1650851",
+  "ror": "00te2x188"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http%3A%2F%2Fwww.isi.it%2F&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "http://www.isi.it/",
+   "confidence": 0.5,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

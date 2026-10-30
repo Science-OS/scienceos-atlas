@@ -1,0 +1,24 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "orcid-0000-0003-2199-3948",
+ "ids": {
+  "orcid": "0000-0003-2199-3948",
+  "wikidata": "Q87117840",
+  "openalex": "A5100719529",
+  "github": "CQFIO"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://github.com/CQFIO.png?size=256",
+   "hosted": false,
+   "source": "github",
+   "attribution": "GitHub profile @CQFIO",
+   "attributionUrl": "https://github.com/CQFIO",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

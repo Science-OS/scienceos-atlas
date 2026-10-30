@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q459506",
+ "ids": {
+  "wikidata": "Q459506",
+  "ror": "0524sp257"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.bristol.ac.uk/assets/responsive-web-project/2.7.8/favicons/apple-touch-icon.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.bristol.ac.uk/",
+   "attributionUrl": "https://www.bristol.ac.uk/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

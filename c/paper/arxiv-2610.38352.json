@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.38352",
+ "ids": {
+  "arxiv": "2610.38352"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/5c/5c4390cff1103ed9dde9031e441c2da30b84b94503ad3fc1eceb9ca7ccaaae9f.jpg",
+   "hosted": true,
+   "sha256": "5c4390cff1103ed9dde9031e441c2da30b84b94503ad3fc1eceb9ca7ccaaae9f",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.38352",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Chenyu Mu et al., arXiv:2610.38352",
+   "attributionUrl": "https://arxiv.org/abs/2610.38352",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-05t1h8f27",
+ "ids": {
+  "wikidata": "Q3056815",
+  "ror": "05t1h8f27"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/1b/1ba0e10d48a4fc5263832096b44c39c684c9c66143f981353a1135382e023d5d.webp",
+   "hosted": true,
+   "sha256": "1ba0e10d48a4fc5263832096b44c39c684c9c66143f981353a1135382e023d5d",
+   "mime": "image/webp",
+   "width": 150,
+   "height": 99,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/HuddunimainmarqueRGB.gif",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "attribution": "University Of Huddersfield",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:HuddunimainmarqueRGB.gif",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

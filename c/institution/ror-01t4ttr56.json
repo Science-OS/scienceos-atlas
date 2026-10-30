@@ -1,0 +1,21 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01t4ttr56",
+ "ids": {
+  "ror": "01t4ttr56"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://scads.ai/wp-content/uploads/cropped-Favicon-192x192.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://scads.ai",
+   "attributionUrl": "https://scads.ai",
+   "confidence": 0.7,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

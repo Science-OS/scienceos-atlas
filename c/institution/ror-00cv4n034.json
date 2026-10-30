@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-00cv4n034",
+ "ids": {
+  "wikidata": "Q7373850",
+  "ror": "00cv4n034"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.rbht.nhs.uk/profiles/rbht/themes/nhs/images/favicon/favicon-228.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.rbht.nhs.uk/our-hospitals",
+   "attributionUrl": "https://www.rbht.nhs.uk/our-hospitals",
+   "confidence": 0.7,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

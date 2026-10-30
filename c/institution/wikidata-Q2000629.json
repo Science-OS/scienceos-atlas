@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q2000629",
+ "ids": {
+  "wikidata": "Q2000629",
+  "ror": "01v5cv687"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/21/21504039f34ae83eccdc31df6ebbf491d36698b2a1fb31a8338de43c7de6ba81.webp",
+   "hosted": true,
+   "sha256": "21504039f34ae83eccdc31df6ebbf491d36698b2a1fb31a8338de43c7de6ba81",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 98,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/URJC_logo.svg",
+   "license": "Public domain",
+   "attribution": "URJC SVG by CMetalCore This W3C-unspecified vector image was created with Inkscape .",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:URJC_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

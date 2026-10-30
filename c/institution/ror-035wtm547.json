@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-035wtm547",
+ "ids": {
+  "wikidata": "Q7895782",
+  "ror": "035wtm547"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/65/65b8c6127fbe542909fd390f918fb74f1c142edee43b3c5eff22a9e8098796be.webp",
+   "hosted": true,
+   "sha256": "65b8c6127fbe542909fd390f918fb74f1c142edee43b3c5eff22a9e8098796be",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 237,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/UMDearborn_Vertical_Logo.svg",
+   "license": "Public domain",
+   "attribution": "External Relations",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:UMDearborn_Vertical_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

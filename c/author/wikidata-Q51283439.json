@@ -1,0 +1,30 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "wikidata-Q51283439",
+ "ids": {
+  "orcid": "0000-0002-1609-2080",
+  "wikidata": "Q51283439",
+  "openalex": "A5024774718"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/82/82c0874aaaaee2c6f75b28eac06ea5803b2c9cf6d6e93bec2172549c94cd24bf.webp",
+   "hosted": true,
+   "sha256": "82c0874aaaaee2c6f75b28eac06ea5803b2c9cf6d6e93bec2172549c94cd24bf",
+   "mime": "image/webp",
+   "width": 171,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sebastian-Rudolph-2019.png",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Sebastianrudolph",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Sebastian-Rudolph-2019.png",
+   "confidence": 0.95,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

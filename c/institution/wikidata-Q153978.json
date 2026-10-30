@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q153978",
+ "ids": {
+  "wikidata": "Q153978",
+  "ror": "03a1kwz48"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Favicons/apple-touch-icon.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://uni-tuebingen.de/",
+   "attributionUrl": "https://uni-tuebingen.de/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

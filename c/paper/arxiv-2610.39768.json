@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.39768",
+ "ids": {
+  "arxiv": "2610.39768"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e7/e708c717312ceb4aae766055be119d2b4995d1fc9bf891b248299d880ce9c7de.jpg",
+   "hosted": true,
+   "sha256": "e708c717312ceb4aae766055be119d2b4995d1fc9bf891b248299d880ce9c7de",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.39768",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Rohit Murali et al., arXiv:2610.39768",
+   "attributionUrl": "https://arxiv.org/abs/2610.39768",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

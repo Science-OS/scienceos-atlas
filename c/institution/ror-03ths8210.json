@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03ths8210",
+ "ids": {
+  "wikidata": "Q1247135",
+  "ror": "03ths8210"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/9e/9ea9a618c6f782e81e63e1082cdc6890087b1b5b041dcbbe7828009905810ab0.webp",
+   "hosted": true,
+   "sha256": "9ea9a618c6f782e81e63e1082cdc6890087b1b5b041dcbbe7828009905810ab0",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_UC3M.svg",
+   "license": "Public domain",
+   "attribution": "Manolin160",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_UC3M.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

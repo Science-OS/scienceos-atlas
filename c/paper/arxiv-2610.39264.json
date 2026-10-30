@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.39264",
+ "ids": {
+  "arxiv": "2610.39264"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/9d/9d9677bc0ee5d85cb77587bbf16cc58f912c0bae2f7edb7dd5833a2074de22de.jpg",
+   "hosted": true,
+   "sha256": "9d9677bc0ee5d85cb77587bbf16cc58f912c0bae2f7edb7dd5833a2074de22de",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.39264",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Peitong Duan et al., arXiv:2610.39264",
+   "attributionUrl": "https://arxiv.org/abs/2610.39264",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

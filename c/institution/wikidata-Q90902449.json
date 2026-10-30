@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q90902449",
+ "ids": {
+  "wikidata": "Q90902449",
+  "ror": "00n51jg89"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fsiriusuniversity.ru&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "https://siriusuniversity.ru",
+   "confidence": 0.5,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

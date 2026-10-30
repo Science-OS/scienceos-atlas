@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1351061",
+ "ids": {
+  "wikidata": "Q1351061",
+  "ror": "03xez1567"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.salk.edu/wp-content/uploads/2024/07/salk-logo-512-200x200.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.salk.edu/",
+   "attributionUrl": "https://www.salk.edu/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

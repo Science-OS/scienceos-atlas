@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.40486",
+ "ids": {
+  "arxiv": "2610.40486"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/bd/bddb8ab787b45ff94ba23b0072e4fcde9d8cde5f35566b95f177a697b1f23aec.jpg",
+   "hosted": true,
+   "sha256": "bddb8ab787b45ff94ba23b0072e4fcde9d8cde5f35566b95f177a697b1f23aec",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.40486",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Yijia Fang et al., arXiv:2610.40486",
+   "attributionUrl": "https://arxiv.org/abs/2610.40486",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

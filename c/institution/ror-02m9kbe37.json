@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02m9kbe37",
+ "ids": {
+  "wikidata": "Q1816857",
+  "ror": "02m9kbe37"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/bf/bf1cbcfff432965bfdb47baf3537d88a096402d58a64fcbb9915439f9d6cc4b5.webp",
+   "hosted": true,
+   "sha256": "bf1cbcfff432965bfdb47baf3537d88a096402d58a64fcbb9915439f9d6cc4b5",
+   "mime": "image/webp",
+   "width": 178,
+   "height": 236,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_USTV.png",
+   "license": "Public domain",
+   "attribution": "USTV",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_USTV.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

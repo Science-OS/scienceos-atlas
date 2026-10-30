@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q492442",
+ "ids": {
+  "wikidata": "Q492442",
+  "ror": "01cdrde68"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/62/628e0e9967ca9015936f502884281140fd70ee0f0bd0ae6cf235f50eaa8a58f6.webp",
+   "hosted": true,
+   "sha256": "628e0e9967ca9015936f502884281140fd70ee0f0bd0ae6cf235f50eaa8a58f6",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 88,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/United_Nations_University_logo.svg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "The UN logo was authored by Joowwww (22 July 2008) the UNU Hexagon was authored by the United Nations University (8 August 2018)",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:United_Nations_University_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

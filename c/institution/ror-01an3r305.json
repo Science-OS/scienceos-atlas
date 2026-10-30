@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01an3r305",
+ "ids": {
+  "wikidata": "Q235034",
+  "ror": "01an3r305"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/0e/0e708754e51c36694b132f8825fec16e1bb46718897ef756d0df3af8fb84de46.webp",
+   "hosted": true,
+   "sha256": "0e708754e51c36694b132f8825fec16e1bb46718897ef756d0df3af8fb84de46",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 116,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Pittsburgh_wordmark.svg",
+   "license": "Public domain",
+   "attribution": "University of Pittsburgh",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Pittsburgh_wordmark.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

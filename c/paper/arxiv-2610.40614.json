@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.40614",
+ "ids": {
+  "arxiv": "2610.40614"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/94/9496a1648f65805a589e37d7434aa9e5587474588067a17a5153b2165a896b55.jpg",
+   "hosted": true,
+   "sha256": "9496a1648f65805a589e37d7434aa9e5587474588067a17a5153b2165a896b55",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.40614",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Jinhyeok Choi et al., arXiv:2610.40614",
+   "attributionUrl": "https://arxiv.org/abs/2610.40614",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

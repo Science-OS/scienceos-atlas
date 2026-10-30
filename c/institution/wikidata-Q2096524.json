@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q2096524",
+ "ids": {
+  "wikidata": "Q2096524",
+  "ror": "01yp9g959"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/5f/5ffb623939d8886db679dd52897f24518ac158029a7b0148b5a5b8b1d28eceaf.webp",
+   "hosted": true,
+   "sha256": "5ffb623939d8886db679dd52897f24518ac158029a7b0148b5a5b8b1d28eceaf",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 78,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Ulster_logo.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Ulster_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

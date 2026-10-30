@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q5377871",
+ "ids": {
+  "wikidata": "Q5377871",
+  "ror": "0439y7842"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.ukri.org/wp-content/uploads/2020/12/cropped-ukri-site-icon-192x192.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.ukri.org/councils/epsrc/",
+   "attributionUrl": "https://www.ukri.org/councils/epsrc/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.40585",
+ "ids": {
+  "arxiv": "2610.40585"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/70/7080f154d60ba243d6743fa045d49ded3a394323fb80696416be9fb70d9451b5.jpg",
+   "hosted": true,
+   "sha256": "7080f154d60ba243d6743fa045d49ded3a394323fb80696416be9fb70d9451b5",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.40585",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Peixue Wu, arXiv:2610.40585",
+   "attributionUrl": "https://arxiv.org/abs/2610.40585",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

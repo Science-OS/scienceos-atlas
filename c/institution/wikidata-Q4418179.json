@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q4418179",
+ "ids": {
+  "wikidata": "Q4418179",
+  "ror": "04v2j2k71"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.xauat.edu.cn&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "https://www.xauat.edu.cn",
+   "confidence": 0.5,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

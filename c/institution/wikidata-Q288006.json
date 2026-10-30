@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q288006",
+ "ids": {
+  "wikidata": "Q288006",
+  "ror": "007y6q934"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/92/9206bc0164c98f7bfae7415b675aad2adc651f7cb677fb6a440792cd6ceee6af.webp",
+   "hosted": true,
+   "sha256": "9206bc0164c98f7bfae7415b675aad2adc651f7cb677fb6a440792cd6ceee6af",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 137,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/TELUQ_rvb_500x174.png",
+   "license": "Public domain",
+   "attribution": "Dominique Fourcaudot (COMM-TÉLUQ)",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:TELUQ_rvb_500x174.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

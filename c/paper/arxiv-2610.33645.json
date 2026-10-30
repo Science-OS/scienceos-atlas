@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.33645",
+ "ids": {
+  "arxiv": "2610.33645"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/30/30400570375bd0b74240fe969d8bafe986309176bb61cd7589db4eb22cbc6b9a.jpg",
+   "hosted": true,
+   "sha256": "30400570375bd0b74240fe969d8bafe986309176bb61cd7589db4eb22cbc6b9a",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.33645",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Wenjun Hou et al., arXiv:2610.33645",
+   "attributionUrl": "https://arxiv.org/abs/2610.33645",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

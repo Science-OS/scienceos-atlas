@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03ks2a131",
+ "ids": {
+  "wikidata": "Q627039",
+  "ror": "03ks2a131"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ac/ac5007685dfba5e49334a95bdd13fa3cb1d513ce4dd20646b51de63a190a3598.webp",
+   "hosted": true,
+   "sha256": "ac5007685dfba5e49334a95bdd13fa3cb1d513ce4dd20646b51de63a190a3598",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 73,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mitre_Corporation_logo.svg",
+   "license": "Public domain",
+   "attribution": "The MITRE Corporation",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Mitre_Corporation_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

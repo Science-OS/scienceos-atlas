@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q4916523",
+ "ids": {
+  "wikidata": "Q4916523",
+  "ror": "046sh6j17"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.bits-pilani.ac.in/wp-content/uploads/cropped-favicon-1-192x192.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of http://www.bits-pilani.ac.in/Goa/",
+   "attributionUrl": "http://www.bits-pilani.ac.in/Goa/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-00vtgdb53",
+ "ids": {
+  "wikidata": "Q192775",
+  "ror": "00vtgdb53"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.gla.ac.uk/3t4/img/hd_hi.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.gla.ac.uk/",
+   "attributionUrl": "https://www.gla.ac.uk/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

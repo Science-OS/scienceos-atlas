@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.40362",
+ "ids": {
+  "arxiv": "2610.40362"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/50/5041ae92690eda6f812d1ff4225603f05544e5a0f3e736f9390742a618e97793.jpg",
+   "hosted": true,
+   "sha256": "5041ae92690eda6f812d1ff4225603f05544e5a0f3e736f9390742a618e97793",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.40362",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Qifan Yu et al., arXiv:2610.40362",
+   "attributionUrl": "https://arxiv.org/abs/2610.40362",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

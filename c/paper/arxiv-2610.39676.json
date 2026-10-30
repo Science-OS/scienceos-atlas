@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.39676",
+ "ids": {
+  "arxiv": "2610.39676"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/35/35709405a4c32e8fe73e89da09cbd411e086feb2f28981c2a89d451bab2a2712.jpg",
+   "hosted": true,
+   "sha256": "35709405a4c32e8fe73e89da09cbd411e086feb2f28981c2a89d451bab2a2712",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.39676",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Sergei Fedorchenko et al., arXiv:2610.39676",
+   "attributionUrl": "https://arxiv.org/abs/2610.39676",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}

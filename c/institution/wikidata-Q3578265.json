@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q3578265",
+ "ids": {
+  "wikidata": "Q3578265",
+  "ror": "0062q1w72"
+ },
+ "updatedAt": "2026-10-30T11:29:41Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/db/dbf608fe9fb5ffe253d25281b5964d901d7fb1457567fe7b7348617b6746b591.webp",
+   "hosted": true,
+   "sha256": "dbf608fe9fb5ffe253d25281b5964d901d7fb1457567fe7b7348617b6746b591",
+   "mime": "image/webp",
+   "width": 225,
+   "height": 224,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecole_nationale_Sup%C3%A9rieure_Polytechnique_de_Yaounde.jpg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Ecole Nationale supérieure polytechnique de yaounde",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Ecole_nationale_Sup%C3%A9rieure_Polytechnique_de_Yaounde.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-30T11:29:41Z"
+  }
+ ]
+}
