@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.38174",
+ "ids": {
+  "arxiv": "2610.38174"
+ },
+ "updatedAt": "2026-10-31T11:00:30Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/df/df16b31dd5d0ae5a40e57007efe42d9896c98fc0c81cb6cc573e743b833c8a2d.jpg",
+   "hosted": true,
+   "sha256": "df16b31dd5d0ae5a40e57007efe42d9896c98fc0c81cb6cc573e743b833c8a2d",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.38174",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Debargha Ganguly et al., arXiv:2610.38174",
+   "attributionUrl": "https://arxiv.org/abs/2610.38174",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-31T11:00:30Z"
+  }
+ ]
+}

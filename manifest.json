@@ -1,12 +1,12 @@
 {
  "version": 1,
- "generatedAt": "2026-10-30T11:29:41Z",
+ "generatedAt": "2026-10-31T11:00:30Z",
  "counts": {
   "author": 21,
-  "institution": 511,
-  "paper": 351,
-  "hostedFiles": 669,
-  "linkOnly": 213
+  "institution": 514,
+  "paper": 356,
+  "hostedFiles": 675,
+  "linkOnly": 215
  },
- "hostedBytes": 29344257
+ "hostedBytes": 29747498
 }

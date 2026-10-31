@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.39293",
+ "ids": {
+  "arxiv": "2610.39293"
+ },
+ "updatedAt": "2026-10-31T11:00:30Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d7/d7ad0ca74a9ea0c9f3f1d536e78777e9ce238b08d724875d3f48a21bf96552dc.jpg",
+   "hosted": true,
+   "sha256": "d7ad0ca74a9ea0c9f3f1d536e78777e9ce238b08d724875d3f48a21bf96552dc",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.39293",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Rishav Pramanik et al., arXiv:2610.39293",
+   "attributionUrl": "https://arxiv.org/abs/2610.39293",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-31T11:00:30Z"
+  }
+ ]
+}

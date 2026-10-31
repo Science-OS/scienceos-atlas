@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1501084",
+ "ids": {
+  "wikidata": "Q1501084",
+  "ror": "00rg70c39"
+ },
+ "updatedAt": "2026-10-31T11:00:30Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/4c/4cebad20486375991606aa699f8ffee76c0dd5b00c2da93148fc2678eb815b2c.webp",
+   "hosted": true,
+   "sha256": "4cebad20486375991606aa699f8ffee76c0dd5b00c2da93148fc2678eb815b2c",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 132,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo-policlinico-gemelli_nuovo.png",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Enotecaquark",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo-policlinico-gemelli_nuovo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-10-31T11:00:30Z"
+  }
+ ]
+}

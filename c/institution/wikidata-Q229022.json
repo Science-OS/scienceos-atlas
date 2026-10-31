@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q229022",
+ "ids": {
+  "wikidata": "Q229022",
+  "ror": "03h7r5v07"
+ },
+ "updatedAt": "2026-10-31T11:00:30Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.unicatt.eu&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "https://www.unicatt.eu",
+   "confidence": 0.5,
+   "fetchedAt": "2026-10-31T11:00:30Z"
+  }
+ ]
+}

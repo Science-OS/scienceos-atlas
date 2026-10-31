@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.38681",
+ "ids": {
+  "arxiv": "2610.38681"
+ },
+ "updatedAt": "2026-10-31T11:00:30Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/01/018e8b64f84b999fa07a0d29e9f1fe479254cf0359fb13643184cbd7cd995100.jpg",
+   "hosted": true,
+   "sha256": "018e8b64f84b999fa07a0d29e9f1fe479254cf0359fb13643184cbd7cd995100",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.38681",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Yecheng Wu et al., arXiv:2610.38681",
+   "attributionUrl": "https://arxiv.org/abs/2610.38681",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-31T11:00:30Z"
+  }
+ ]
+}

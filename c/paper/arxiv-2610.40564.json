@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.40564",
+ "ids": {
+  "arxiv": "2610.40564"
+ },
+ "updatedAt": "2026-10-31T11:00:30Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c7/c7a9b7e9ebcbd4d1c2a28aadb9f23a6a9b066fa3693e0f1af44d931b0135c882.jpg",
+   "hosted": true,
+   "sha256": "c7a9b7e9ebcbd4d1c2a28aadb9f23a6a9b066fa3693e0f1af44d931b0135c882",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.40564",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Yuda Song et al., arXiv:2610.40564",
+   "attributionUrl": "https://arxiv.org/abs/2610.40564",
+   "confidence": 1.0,
+   "fetchedAt": "2026-10-31T11:00:30Z"
+  }
+ ]
+}
