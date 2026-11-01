@@ -136,6 +136,39 @@ class MediaCfg(_Cfg):
     queue: MediaQueueCfg = MediaQueueCfg()
 
 
+class AudioSummaryCfg(_Cfg):
+    """The spoken summary (3-4 plain sentences per paper). Provider and model reuse the briefs settings unless set here."""
+    provider: Literal["openai", "anthropic"] | None = None    # None = briefs.provider
+    model: str | None = None                                  # None = briefs.providers[provider].model
+    max_cost_usd_per_run: float = 0.10                        # hard stop (projected worst case before each call)
+    words_min: int = 55
+    words_max: int = 85
+    max_output_tokens: int = 260
+
+
+class AudioCfg(_Cfg):
+    """The daily audio brief: Kyutai Pocket TTS narration, one clip per paper (README "Audio brief")."""
+    enabled: Literal["auto", "true", "false"] | bool = "auto"   # auto = on when the `audio` extra is installed
+    voice: str = "alba"                       # a built-in Pocket TTS voice; alba is CC BY 4.0 (credit Kyutai)
+    model: str = "kyutai/pocket-tts"          # published in the manifest (engine.model)
+    language: str = "english"                 # Pocket TTS config name
+    bitrate: str = "48k"                      # AAC-LC, mono
+    sample_rate: int = 24000                  # Pocket TTS native rate; clips keep it
+    gap_ms: int = 600                         # silence the player puts between clips (manifest gapMs)
+    edge_ms: int = 120                        # silence kept at both ends of every synthesised sentence
+    sentence_gap_ms: int = 250                # silence inserted between sentences of one clip
+    top_overall: int = 20                     # top N of the day's feed by rank ...
+    per_category: int = 3                     # ... plus the top K of each of the largest primary categories ...
+    categories: int = 12                      # ... (how many categories)
+    max_papers: int = 40                      # hard cap per day after de-duplication
+    retention_days: int = 8                   # days kept on the `audio` branch and in the site
+    align: Literal["whisper", "heuristic"] = "whisper"
+    whisper_model: str = "tiny.en"            # faster-whisper, int8, CPU
+    max_seconds: float = 1500                 # wall-clock cap for the audio stage; what is left waits for the next run
+    max_site_mb: int = 120                    # published audio/ budget (also counts toward output.max_site_mb)
+    summary: AudioSummaryCfg = AudioSummaryCfg()
+
+
 class OutputCfg(_Cfg):
     max_site_mb: int = 450
 
@@ -151,6 +184,7 @@ class Config(_Cfg):
     thumbs: ThumbsCfg = ThumbsCfg()
     briefs: BriefsCfg = BriefsCfg()
     media: MediaCfg = MediaCfg()
+    audio: AudioCfg = AudioCfg()
     output: OutputCfg = OutputCfg()
 
 

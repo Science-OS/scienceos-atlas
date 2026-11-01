@@ -1,4 +1,4 @@
-"""One ingestion run: harvest -> HF signals -> OpenAlex -> briefs -> thumbnails -> media store -> build -> validate.
+"""One ingestion run: harvest -> HF signals -> OpenAlex -> briefs -> audio scripts -> thumbnails -> media store -> audio -> build -> validate.
 Every stage is wrapped so a failure in one source degrades the output instead of killing the run."""
 
 from __future__ import annotations
@@ -14,6 +14,10 @@ from pathlib import Path
 from typing import Any
 
 from . import arxiv, hf as hf_mod
+from .audio import stage as audio_stage
+from .audio.align import Aligner
+from .audio.engine import TtsEngine
+from .audio.storage import AudioStore
 from .briefs import BriefResult, BriefStats, generate_briefs, resolve_provider
 from .build import SiteBuilder
 from .config import Config
@@ -45,7 +49,10 @@ class RunOptions:
     skip_thumbs: bool = False
     skip_briefs: bool = False
     skip_media: bool = False
+    skip_audio: bool = False
     media_dir: Path | None = None   # the media store (the `media` branch checkout in CI); None = no media store in this run
+    audio_dir: Path | None = None   # the audio store (the `audio` branch checkout in CI); None = no audio brief in this run
+    audio_isolate: bool = True      # synthesise in a child process (a crash or hang there cannot take the feed down)
     now: datetime | None = None
 
 
@@ -320,11 +327,18 @@ def stage_media(store: Store, cfg: Config, media: MediaStore, http: MediaHttp, t
     return run_media(cfg, store, media, http, state_targets(store, cfg.openalex.max_authors_per_paper, order), now)
 
 
+def stage_audio_scripts(store: Store, cfg: Config, day: str, now: datetime, state_dir: Path) -> dict[str, Any]:
+    """Pick the day's papers from the ranked feed (the list the `today` shard is cut from), write their scripts (see atlas.audio)."""
+    ranked = rank_day(cfg, store.papers_between(day, day), store.hf_signals(), day)
+    return audio_stage.stage_audio_scripts(store, cfg, ranked, day, now, state_dir)
+
+
 # ------------------------------------------------------------------ run
 
 
 def run(cfg: Config, opts: RunOptions, *, arxiv_client: PoliteClient | None = None, hf_client: PoliteClient | None = None,
-        oa_client: OpenAlexClient | None = None, media_http: MediaHttp | None = None) -> RunResult:
+        oa_client: OpenAlexClient | None = None, media_http: MediaHttp | None = None, audio_engine: TtsEngine | None = None,
+        audio_aligner: Aligner | None | bool = True) -> RunResult:
     t0 = time.time()
     now = opts.now or datetime.now(timezone.utc)
     today = now.date()
@@ -348,11 +362,14 @@ def run(cfg: Config, opts: RunOptions, *, arxiv_client: PoliteClient | None = No
     own_media_http = media is not None and media_http is None and not opts.skip_media
     if own_media_http:
         media_http = MediaHttp.create(cfg)
+    # the audio brief: published from the audio store unless switched off; its stages run when the extra is installed (or an engine is injected)
+    publish_audio = opts.audio_dir is not None and str(cfg.audio.enabled).lower() != "false"
+    audio = AudioStore(opts.audio_dir) if publish_audio else None
 
-    def stage(name: str, fn, *args) -> None:
+    def stage(name: str, fn, *args, **kwargs) -> None:
         t = time.time()
         try:
-            st[name] = fn(*args)
+            st[name] = fn(*args, **kwargs)
         except Exception as exc:
             log.exception("Stage %s failed; continuing", name)
             st[name] = {"error": f"{type(exc).__name__}: {exc}"}
@@ -367,6 +384,14 @@ def run(cfg: Config, opts: RunOptions, *, arxiv_client: PoliteClient | None = No
             stage("openalex", stage_openalex, store, cfg, oa, today, now)
         if not opts.skip_briefs:
             stage("briefs", stage_briefs, store, cfg, today, now)
+        audio_day = (store.feed_dates() or [None])[-1]
+        audio_on, audio_why = audio_stage.is_enabled(cfg.audio, audio_engine is not None or audio_stage.engine_installed())
+        run_audio = publish_audio and not opts.skip_audio and audio_day is not None
+        if run_audio and audio_on:
+            stage("audio_scripts", stage_audio_scripts, store, cfg, audio_day, now, state_dir)
+        elif run_audio:
+            st["audio"] = {"skipped": audio_why, "seconds": 0.0}
+            log.info("Audio brief skipped: %s", audio_why)
         if cfg.thumbs.enabled and not opts.skip_thumbs:
             stage("thumbs", stage_thumbs, store, cfg, arxiv_client, thumbs_dir, today, now, media)
         if media is not None and not opts.skip_media:
@@ -374,6 +399,9 @@ def run(cfg: Config, opts: RunOptions, *, arxiv_client: PoliteClient | None = No
             stage("media", stage_media, store, cfg, media, media_http, today, now)
         if media is not None:
             media.write_manifest(ts(now))
+        if run_audio and audio_on and "audio_scripts" in st and "error" not in st["audio_scripts"]:
+            stage("audio", audio_stage.stage_audio, cfg, audio_day, state_dir, Path(opts.audio_dir), now,
+                  engine=audio_engine, aligner=audio_aligner, isolate=opts.audio_isolate)
 
         # retention: keep `retention_days` of feed days
         latest = (store.feed_dates() or [today.isoformat()])[-1]
@@ -382,10 +410,10 @@ def run(cfg: Config, opts: RunOptions, *, arxiv_client: PoliteClient | None = No
             thumb_path(thumbs_dir, aid).unlink(missing_ok=True)
 
         t_build = time.time()
-        builder = SiteBuilder(store, cfg, site_dir, thumbs_dir, now, media)
+        builder = SiteBuilder(store, cfg, site_dir, thumbs_dir, now, media, audio)
         bstats = builder.build()
         result.stats["stages"]["build"] = bstats.__dict__ | {"seconds": round(time.time() - t_build, 1)}
-        report = validate_site(site_dir, cfg.output.max_site_mb, media_max_mb=cfg.media.max_site_mb)
+        report = validate_site(site_dir, cfg.output.max_site_mb, media_max_mb=cfg.media.max_site_mb, audio_max_mb=cfg.audio.max_site_mb)
         result.stats["validation"] = {"ok": report.ok, "checked": report.checked, "errors": report.errors[:20],
                                       "site_mb": round(report.site_bytes / 1e6, 2)}
         result.stats["totals"] = {
@@ -401,12 +429,15 @@ def run(cfg: Config, opts: RunOptions, *, arxiv_client: PoliteClient | None = No
             "hosted_thumbnails": bstats.papers_with_hosted_thumb,
             "media_entries_published": bstats.media_entries,
             "media_mb_published": round(bstats.media_bytes / 1e6, 2),
+            "audio_days_published": len(bstats.audio.get("days", [])),
+            "audio_clips_published": bstats.audio.get("clips", 0),
+            "audio_mb_published": round(bstats.audio.get("bytes", 0) / 1e6, 2),
         }
         result.ok = report.ok
         result.stats["duration_s"] = round(time.time() - t0, 1)
         builder.write_status(result.stats)
         # status.json embeds run stats; re-validate that one file against its schema
-        final = validate_site(site_dir, cfg.output.max_site_mb, media_max_mb=cfg.media.max_site_mb)
+        final = validate_site(site_dir, cfg.output.max_site_mb, media_max_mb=cfg.media.max_site_mb, audio_max_mb=cfg.audio.max_site_mb)
         if not final.ok:
             result.ok = False
             result.stats["validation"]["errors"] = final.errors[:20]

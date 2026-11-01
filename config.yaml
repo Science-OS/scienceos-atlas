@@ -120,5 +120,32 @@ media:                                      # the central media store: photos, l
     schema: social
     table: media_requests
 
+audio:                                      # the daily audio brief (README "Audio brief"): Pocket TTS narration, one clip per paper
+  enabled: auto                             # auto = on when the `audio` extra (pocket-tts, faster-whisper, av) is installed; true/false to force
+  voice: alba                               # built-in Pocket TTS voice; alba is CC BY 4.0 (credit Kyutai). Avoid cosette/jean (non-commercial)
+  model: kyutai/pocket-tts                  # published as engine.model in the manifest
+  language: english                         # Pocket TTS config (english = english_2026-10, 100M parameters, 24 kHz)
+  bitrate: 48k                              # AAC-LC mono, about 0.36 MB per minute
+  sample_rate: 24000
+  gap_ms: 600                               # silence the player puts between clips (manifest gapMs)
+  edge_ms: 120                              # silence kept at both ends of every synthesised sentence
+  sentence_gap_ms: 250                      # silence inserted between the sentences of a clip
+  top_overall: 20                           # the day's top N papers by rank ...
+  per_category: 3                           # ... plus the top K of each of the largest primary categories in that day's feed ...
+  categories: 12                            # ... (how many categories)
+  max_papers: 40                            # cap per day after de-duplication
+  retention_days: 8                         # days kept on the `audio` branch and published
+  align: whisper                            # word timings: whisper (faster-whisper) | heuristic (pause-aware character weights)
+  whisper_model: tiny.en                    # int8 on CPU
+  max_seconds: 1500                         # wall-clock cap for the audio stage; what is left waits for the next run
+  max_site_mb: 120                          # published audio/ budget (also counts toward output.max_site_mb)
+  summary:                                  # the spoken summary: 3-4 plain sentences per paper, cached per arXiv id, never regenerated
+    provider: null                          # null = briefs.provider
+    model: null                             # null = briefs.providers[provider].model
+    max_cost_usd_per_run: 0.10              # hard stop
+    words_min: 55
+    words_max: 85
+    max_output_tokens: 260
+
 output:
   max_site_mb: 450                          # hard stop below the 500 MB budget

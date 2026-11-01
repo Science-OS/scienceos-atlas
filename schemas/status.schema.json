@@ -27,6 +27,46 @@
     },
     "sources": {"type": "array", "items": {"type": "string"}},
     "license": {"type": "string"},
-    "run": {"type": "object"}
+    "run": {"type": "object"},
+    "audio": {
+      "description": "The daily audio brief (audio/<date>.json): what the audio stages did in this run and what the site serves. Present when the run had an audio store.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["enabled", "published"],
+      "properties": {
+        "enabled": {"type": "boolean"},
+        "note": {"type": "string", "description": "Why the stages did nothing or failed, if they did."},
+        "date": {"$ref": "common.schema.json#/$defs/DateString"},
+        "papersSelected": {"type": "integer", "minimum": 0},
+        "clipsBuilt": {"type": "integer", "minimum": 0},
+        "clipsReused": {"type": "integer", "minimum": 0},
+        "clipsFailed": {"type": "integer", "minimum": 0},
+        "clipsAligned": {"type": "integer", "minimum": 0},
+        "clipsEstimated": {"type": "integer", "minimum": 0},
+        "summaries": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "llm": {"type": "integer", "minimum": 0},
+            "fallback": {"type": "integer", "minimum": 0},
+            "costUsd": {"type": "number", "minimum": 0}
+          }
+        },
+        "seconds": {"type": "number", "minimum": 0},
+        "rtf": {"type": ["number", "null"]},
+        "stoppedReason": {"type": "string"},
+        "published": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["days", "clips", "bytes"],
+          "properties": {
+            "days": {"type": "array", "items": {"$ref": "common.schema.json#/$defs/DateString"}},
+            "clips": {"type": "integer", "minimum": 0},
+            "bytes": {"type": "integer", "minimum": 0},
+            "skipped": {"type": "object", "additionalProperties": {"type": "string"}}
+          }
+        }
+      }
+    }
   }
 }

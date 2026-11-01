@@ -57,7 +57,7 @@ class BriefProvider(Protocol):
     name: str
     model: str
 
-    def generate(self, title: str, abstract: str, max_output_tokens: int) -> BriefResult: ...
+    def generate(self, title: str, abstract: str, max_output_tokens: int, system: str | None = None) -> BriefResult: ...
 
 
 def _user_prompt(title: str, abstract: str) -> str:
@@ -75,10 +75,10 @@ class OpenAIProvider:
             headers={"Authorization": f"Bearer {api_key}"},
         )
 
-    def generate(self, title: str, abstract: str, max_output_tokens: int) -> BriefResult:
+    def generate(self, title: str, abstract: str, max_output_tokens: int, system: str | None = None) -> BriefResult:
         body = {
             "model": self.model,
-            "messages": [{"role": "system", "content": SYSTEM_PROMPT}, {"role": "user", "content": _user_prompt(title, abstract)}],
+            "messages": [{"role": "system", "content": system or SYSTEM_PROMPT}, {"role": "user", "content": _user_prompt(title, abstract)}],
             "max_completion_tokens": max_output_tokens,
             **self._extra,
         }
@@ -101,11 +101,11 @@ class AnthropicProvider:
             headers={"x-api-key": api_key, "anthropic-version": "2023-06-01"},
         )
 
-    def generate(self, title: str, abstract: str, max_output_tokens: int) -> BriefResult:
+    def generate(self, title: str, abstract: str, max_output_tokens: int, system: str | None = None) -> BriefResult:
         body = {
             "model": self.model,
             "max_tokens": max_output_tokens,
-            "system": SYSTEM_PROMPT,
+            "system": system or SYSTEM_PROMPT,
             "messages": [{"role": "user", "content": _user_prompt(title, abstract)}],
             **self._extra,
         }
@@ -159,6 +159,7 @@ def generate_briefs(
     max_cost_usd: float,
     max_output_tokens: int,
     save: Callable[[str, BriefResult, float], None],
+    system_prompt: str | None = None,   # another task (the spoken summary) reuses this loop with its own instructions
 ) -> BriefStats:
     """Cost guard: before each call project the worst case (input estimate + max output); stop at the cap."""
     stats = BriefStats()
@@ -166,14 +167,14 @@ def generate_briefs(
         if arxiv_id in cached_ids:
             stats.skipped_cached += 1
             continue
-        projected_in = (len(title) + len(abstract[:3500]) + len(SYSTEM_PROMPT)) // 3 + 20
+        projected_in = (len(title) + len(abstract[:3500]) + len(system_prompt or SYSTEM_PROMPT)) // 3 + 20
         worst = estimate_cost_usd(pcfg, projected_in, max_output_tokens)
         if stats.cost_usd + worst > max_cost_usd:
             stats.stopped_reason = f"cost_guard (spent ${stats.cost_usd:.4f} of ${max_cost_usd:.2f})"
             log.warning("Brief cost guard hit: %s", stats.stopped_reason)
             break
         try:
-            result = provider.generate(title, abstract, max_output_tokens)
+            result = provider.generate(title, abstract, max_output_tokens, system=system_prompt) if system_prompt else provider.generate(title, abstract, max_output_tokens)
         except Exception as exc:  # never crash the run for one paper
             stats.failed += 1
             log.warning("Brief for %s failed: %s", arxiv_id, type(exc).__name__)

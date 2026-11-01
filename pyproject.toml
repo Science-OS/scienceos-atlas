@@ -12,17 +12,37 @@ dependencies = [
   "referencing>=0.35",
   "pyyaml>=6.0",
   "pillow>=10.0",     # media store: every photo and logo is normalised to a small WebP
+  "numpy>=2",         # audio brief: sample-level silence trimming and word-timing maths (imported at start-up, so it must always be there)
 ]
 
 [project.optional-dependencies]
 # Licence-permitted first-page thumbnails. pypdfium2 (Apache-2.0/BSD) instead of PyMuPDF (AGPL).
 thumbs = ["pypdfium2>=4.30"]
+# The daily audio brief (src/atlas/audio): Kyutai Pocket TTS narration, faster-whisper word alignment, AAC encoding via PyAV.
+# torch is a direct dependency only so that [tool.uv.sources] can route it to the CPU-only wheels on Linux (CI runners have no GPU).
+audio = [
+  "pocket-tts>=4.0.1,<5",
+  "torch>=2.5",
+  "faster-whisper>=1.1",
+  "av>=14",
+]
 
 [project.scripts]
 atlas = "atlas.cli:main"
 
 [dependency-groups]
-dev = ["pytest>=8.0"]
+# av is in the audio extra too; it lives here as well so the unit tests of the audio package (the AAC encoder, silence trimming, alignment maths,
+# all with a fake TTS engine) run in CI without installing torch.
+dev = ["pytest>=8.0", "av>=14"]
+
+[tool.uv.sources]
+# CPU-only torch on Linux (the PyPI Linux wheel drags in ~3 GB of CUDA libraries); macOS and Windows wheels from PyPI are CPU/MPS builds.
+torch = [{ index = "pytorch-cpu", marker = "sys_platform == 'linux'" }]
+
+[[tool.uv.index]]
+name = "pytorch-cpu"
+url = "https://download.pytorch.org/whl/cpu"
+explicit = true
 
 [build-system]
 requires = ["hatchling"]

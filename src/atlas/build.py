@@ -13,6 +13,8 @@ from pathlib import Path
 from typing import Any
 
 from .arxiv import ApiEntry
+from .audio.site import publish_to_site as publish_audio_to_site
+from .audio.storage import AudioStore
 from .config import Config
 from .hf import HfSignal
 from .licenses import allows_redistribution
@@ -29,6 +31,7 @@ from .models import (
 from .scoring import score_paper
 from .store import Store, StoredPaper
 from .thumbs import thumb_path
+from .validate import make_validators
 
 log = logging.getLogger("atlas.build")
 
@@ -82,6 +85,7 @@ class BuildStats:
     media_entries: int = 0
     media_blobs: int = 0
     media_bytes: int = 0
+    audio: dict[str, Any] = field(default_factory=dict)   # what was copied into site/audio (days, clips, bytes, skipped days), or {"error": ...}
 
 
 def github_repo_slug(url: str | None) -> str | None:
@@ -152,9 +156,11 @@ def build_author_json(card: dict[str, Any], fetched_at: str, media: MediaStore |
 
 
 class SiteBuilder:
-    def __init__(self, store: Store, cfg: Config, site_dir: Path, thumbs_dir: Path, now: datetime, media: MediaStore | None = None):
+    def __init__(self, store: Store, cfg: Config, site_dir: Path, thumbs_dir: Path, now: datetime, media: MediaStore | None = None,
+                 audio: AudioStore | None = None):
         self.store, self.cfg, self.site, self.thumbs_dir, self.now = store, cfg, site_dir, thumbs_dir, now
         self.media = media
+        self.audio = audio
         self.now_ts = ts(now)
         self.stats = BuildStats()
 
@@ -347,6 +353,15 @@ class SiteBuilder:
             ms = publish_to_site(self.media, site, set(views), self.now_ts)
             self.stats.media_entries, self.stats.media_blobs, self.stats.media_bytes = ms["entries"], ms["blobs"], ms["bytes"]
 
+        # the audio brief: day manifests and the clips they reference. Never fatal: a bad day is left out and reported in status.json.
+        if self.audio is not None:
+            try:
+                self.stats.audio = publish_audio_to_site(self.audio, site, latest, cfg.audio, make_validators()["audio_day"])
+            except Exception as exc:
+                log.exception("Copying the audio brief into the site failed; publishing the feed without it")
+                shutil.rmtree(site / "audio", ignore_errors=True)
+                self.stats.audio = {"error": f"{type(exc).__name__}: {exc}"}
+
         # manifest (newest first; today, trending, then categories) + status
         feed_order = {"today": 0, "trending": 1}
         manifest_shards.sort(key=lambda s: (feed_order.get(s["feed"], 2), s["feed"]))
@@ -386,7 +401,40 @@ class SiteBuilder:
                        "Thumbnails only for papers licensed CC BY, CC BY-SA or CC0. No PDFs are served.",
             "run": run,
         }
+        if self.audio is not None:
+            status["audio"] = self._audio_status(run)
         write_json(self.site / "status.json", status, pretty=True)
+
+    def _audio_status(self, run: dict[str, Any]) -> dict[str, Any]:
+        """status.json `audio`: what the audio stages did in this run and what the site now serves."""
+        stages = run.get("stages", {})
+        syn, scripts, pub = stages.get("audio", {}), stages.get("audio_scripts", {}), self.stats.audio
+        out: dict[str, Any] = {"enabled": str(self.cfg.audio.enabled).lower() != "false"}
+        reason = syn.get("skipped") or scripts.get("skipped") or scripts.get("error") or syn.get("error")
+        if reason:
+            out["note"] = str(reason)[:300]
+        if syn.get("date") or scripts.get("date"):
+            out["date"] = syn.get("date") or scripts.get("date")
+        for key, src, name in (("papersSelected", scripts, "selected"), ("clipsBuilt", syn, "built"), ("clipsReused", syn, "reused"),
+                               ("clipsFailed", syn, "failed"), ("clipsAligned", syn, "aligned"), ("clipsEstimated", syn, "estimated")):
+            if isinstance(src.get(name), int):
+                out[key] = src[name]
+        sm = scripts.get("summaries") or {}
+        if sm:
+            out["summaries"] = {k: sm[k] for k in ("llm", "fallback") if isinstance(sm.get(k), int)}
+            if isinstance(sm.get("cost_usd"), (int, float)):
+                out["summaries"]["costUsd"] = sm["cost_usd"]
+        for key, name in (("seconds", "seconds"), ("rtf", "rtf")):
+            if isinstance(syn.get(name), (int, float)):
+                out[key] = syn[name]
+        if syn.get("stopped_reason"):
+            out["stoppedReason"] = str(syn["stopped_reason"])[:300]
+        out["published"] = {"days": pub.get("days", []), "clips": pub.get("clips", 0), "bytes": pub.get("bytes", 0)}
+        if pub.get("skipped"):
+            out["published"]["skipped"] = {d: str(r)[:200] for d, r in pub["skipped"].items()}
+        if pub.get("error"):
+            out["note"] = (out.get("note", "") + " " + pub["error"]).strip()[:300]
+        return out
 
     def _feeds_in_manifest(self) -> list[str]:
         return [s["feed"] for s in json.loads((self.site / "index.json").read_text())["shards"]]

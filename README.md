@@ -1,6 +1,6 @@
 # ScienceOS Atlas
 
-A $0, static, daily-updated paper feed for the ScienceOS iPhone and Mac apps.
+A $0, static, daily-updated paper feed (with a narrated audio brief) for the ScienceOS iPhone and Mac apps.
 A GitHub Actions job runs after arXiv's announcement, builds JSON files and publishes them to GitHub Pages.
 The apps read the files directly. There is no server, no database and no PDF re-serving.
 
@@ -29,6 +29,8 @@ site/
   authors/<openalexId>.json          AtlasAuthorFile, light author card (id without the "oa:" prefix)
   thumbs/<arxivId>.jpg               600 px first page, ONLY for CC BY / CC BY-SA / CC0 papers (kept for older app builds)
   media/                             the central media store: photos, logos, thumbnails (see "Media store")
+  audio/<date>.json                  the daily audio brief: narration clips with word timings (see "Audio brief")      (8 days)
+  audio/clips/<id>.m4a               AAC clips, named by content key
 ```
 
 Clients should use `index.json` and the `path` values in it; `sha256` lets them skip unchanged shards.
@@ -86,9 +88,12 @@ Pages serves `ETag` / `Last-Modified`. Shards whose content did not change keep 
    budget on hidden tokens). A brief is 1 to 2 plain-language sentences (about 35 words) written from the title
    and abstract only; the abstract is treated as data. Measured: about $0.00007 per paper, so roughly $0.007 for a
    day's top 100; the first run also covers the two previous days (about $0.02).
-7. **Media store** (`src/atlas/media/`): thumbnails move into the store, then photos and logos are resolved for
+7. **Audio scripts** (`src/atlas/audio/`, right after the briefs): the day's papers are picked from the ranked feed and a spoken
+   summary is written for each. See "Audio brief" below.
+8. **Media store** (`src/atlas/media/`): thumbnails move into the store, then photos and logos are resolved for
    the feed's authors and institutions plus the client work queue. See "Media store" below.
-8. **Build + validate**: shards, papers, authors, thumbs, media, manifest, status; every JSON file is validated against
+9. **Audio** (after the media store): the scripts are spoken by Kyutai Pocket TTS, word timings are aligned, clips are encoded and stored.
+10. **Build + validate**: shards, papers, authors, thumbs, media, manifest, status; every JSON file is validated against
    the copied schema, manifest hashes and counts are cross-checked, author/thumbnail/media references must resolve,
    and the site must stay under `output.max_site_mb` (450), of which `media/` may use `media.max_site_mb` (250).
 
@@ -191,18 +196,112 @@ uv run atlas state restore --force
 
 A backfill writes TTL bookkeeping into the database you point it at; work on a copy of `state/atlas.sqlite` for experiments.
 
+## Audio brief
+
+"Listen to today's briefs" in the iPhone app: one narrated clip per paper (title, first author, a spoken summary), generated here once a day with
+[Kyutai Pocket TTS](https://github.com/kyutai-labs/pocket-tts), stored on GitHub, published next to the feed. The phone assembles the playlist from the
+papers of its own digest (intro + clips + outro) and highlights the spoken word from the timings. Code: `src/atlas/audio/`, contract:
+`schemas/audio.schema.json` (repo-local, not Link v1), plan: `ScienceOS-Electron/.claude/logs/2026-11-01-audio-brief/PLAN.md`.
+
+**What is published**
+
+```
+audio/<YYYY-MM-DD>.json    scienceos.atlas.audio-day/1: {date, generatedAt, engine, gapMs, intros{"1".."8"}, outro, papers{"arxiv:<id>": Clip}}
+audio/clips/<id>.m4a       AAC-LC, mono, 24 kHz, 48 kbps (about 0.36 MB per minute); <id> = sha256(engine.version | voice | text)[:32]
+Clip = {id, url "audio/clips/<id>.m4a", sha256, bytes, durationMs, text, words[[startMs,endMs,u16Start,u16End]...], sentences[...], timing "aligned"|"estimated"}
+```
+
+`words` has one entry per whitespace-separated word of `text`, in order; offsets are UTF-16 code units (Swift `String.utf16`). Clip ids are content keys, so a
+paper that stays in the feed is never synthesised twice and a client can cache a clip forever. Intros exist for 1 to 8 briefs ("Here are your six briefs for
+Friday, October 30." - the feed's date, not the machine's) and the outro is "That's all for today. Tap a paper to read it."
+
+**Which papers** (`audio:` in `config.yaml`): from the day's ranked feed, the exact list the `today` shard is cut from, the top `top_overall` (20) by rank plus the
+top `per_category` (3) of each of the `categories` (12) most common primary categories of that day, de-duplicated and capped at `max_papers` (40). Generation order is
+top papers first, then category picks one depth at a time (every category's best, then every category's second best ...), so a time budget or the cap drops third picks
+before it drops whole categories.
+
+**The script of a clip**: `{title}. From {first author}{ and colleagues}{ at {institution}}. {spoken summary}`. The title and everything else is normalised for speech
+(`audio/text.py`, tested): TeX resolved (`$\alpha$-divergence` -> "alpha-divergence"), URLs and citation marks removed, `&`, `%`, `3x`, `e.g.`, `vs.`, `C++` spelled
+out, dashes become pauses, letters the voice cannot read (CJK, Cyrillic) dropped, no soundless "words" left; accents stay. The first author's institution is OpenAlex's
+name from the enriched work when there is one, else arXiv's own affiliation text if short. The **spoken summary** is 3 to 4 plain sentences (55 to 85 words) written
+by the LLM that writes the briefs (same provider, key, model and cost guard; `audio.summary` can override provider/model and has its own `max_cost_usd_per_run`), told to
+write for the ear, expand abbreviations on first use and add no fact that is not in the abstract. It is cached per arXiv id in the SQLite state (table `spoken_summaries`),
+**written once and never regenerated** - the clip made from it is addressed by its content. Without an API key, or when a call fails, the script falls back to the paper's
+brief plus the first sentence of the abstract (nothing is cached for the fallback, so the LLM text is used as soon as it exists). Measured: about $0.0001 per summary
+(roughly $0.004 for a full day of 40, only for the latest day's selected papers).
+
+**Speech and timing.** The script is split into sentences and Pocket TTS (CPU, voice `alba`, model loaded once per run) speaks them one by one; each sentence's silence is
+trimmed and re-padded to exactly `edge_ms` (120 ms) on both sides, sentences are joined with `sentence_gap_ms` (250 ms) of silence, so every sentence span is exact. Word
+timings: faster-whisper (`tiny.en`, int8, CPU, `word_timestamps=True`) re-listens to each sentence and its words are mapped onto the script's words (difflib on lower-case
+alphanumeric tokens, so "state-of-the-art" and "state of the art" agree; numbers or names heard differently are spread inside their gap; words nobody heard are interpolated).
+Two corrections come from the audio itself (`audio/refine.py`): tiny.en is calibrated against the voice (its timestamps run about 100 ms late, `WHISPER_BIAS_S`), and a
+real pause of the voice (silence of 120 ms or more inside a sentence) pins the end of the word before it and the start of the word after it - exactly where whisper blurs.
+If whisper is not installed, fails, or recognises too little of a sentence (under half of its tokens), that sentence gets a pause-aware, character-weighted estimate
+instead (pauses after commas and colons from the measured 370 ms, split at the real pauses when the commas and the pauses agree) and the clip says `"timing": "estimated"`.
+
+Measured on 12 papers of the live feed (2026-10-30, 72 sentences, 1,153 words; the 100 ms correction was calibrated on the first 6 and checked on the other 6; there is no ground truth for
+mid-sentence words, hence the comparison with a larger model and with the voice's own pauses; the voice is non-deterministic, so numbers vary a little run to run):
+
+| | whisper tiny.en as shipped | estimate only (`align: heuristic`) |
+|---|---|---|
+| word start vs whisper small.en run per sentence (a larger, independent model) | median 30-40 ms, mean 45-54, p90 100 | median 111-114 ms, mean 142-151, p90 308-343 |
+| start of the word after a comma/colon pause vs the real silence (24 anchors) | median 0 ms, mean 0-5 | median 0 ms, mean 1 |
+| for comparison: raw tiny.en before the two corrections / the plain character-weighted estimate without the audio's pauses | median 120 ms, mean 134, p90 200 / median 128-150, p90 370-455 | |
+| re-transcribing the whole clip with tiny.en, no prompt: word error rate | 7-12 % (TTS + ASR errors, mostly numbers and names) | 6-12 % |
+
+Speed on an Apple M5 Pro, one CPU thread for the voice: 6 papers + the 9 intro/outro clips = 244 s of audio in 52-70 s wall time (model load 5-10 s, speaking 30 s = 8x real time,
+whisper 13 s, AAC 1.4 s, 6 LLM calls 13-16 s); a full day (40 papers, about 26 minutes of audio, about 10 MB) should take 5 minutes here and perhaps 10-15 on an Actions
+runner, inside `audio.max_seconds` (25 min), after which remaining papers are skipped for the day (the phone reads them with its own voice).
+
+**Storage.** The audio store is the orphan branch `audio`, checked out at the start of a run (`atlas audio checkout`, a git worktree) and published at the end as **one commit
+with no parent, force-pushed** like the `state` branch (`atlas audio publish`): `clips/<id>.m4a` and `days/<date>.json` for the last `retention_days` (8) - old days and the
+clips only they used disappear from the branch, so it stays around 100 MB. Clips unchanged since the last run are git objects the remote already has, so a push uploads only
+the new audio, and nothing is pushed when the tree equals the remote's. The build copies `days/<date>.json` to `site/audio/<date>.json` and the clips they reference to
+`site/audio/clips/`, newest day first within `audio.max_site_mb` (120, counted toward `output.max_site_mb`).
+
+**Never fails the feed.** Both stages are wrapped; the speech step runs in a child process (`atlas audio synth`, with the exact config of the run and a hard timeout), so a native
+crash, a hang or a missing model costs only the audio. The manifest is rewritten after every finished paper, so a killed run still leaves a playable day. The build only copies
+a day that passes the same checks `validate.py` applies (schema; every clip present with the manifest's size and SHA-256; clip id = hash of version|voice|text; one timing per word
+with the exact UTF-16 span and monotonic times; size budget); a day that does not is left out and named in `status.json` (`audio.published.skipped`). `status.json` also carries
+what the stages did (`audio.clipsBuilt/Reused/Failed/Aligned/Estimated`, `summaries`, `seconds`, `rtf`, `note` when something was skipped).
+
+**Install and run locally**
+
+```bash
+uv sync --extra thumbs --extra audio           # pocket-tts, torch (CPU wheels on Linux), faster-whisper, PyAV (bundles ffmpeg); first run downloads ~0.5 GB of weights
+export HF_HOME=/some/scratch/hf_home           # where the weights go (default ~/.cache/huggingface); built-in voices need no Hugging Face login
+uv run atlas audio render --papers feed-shard.json --date 2026-10-30 --out /tmp/audio --limit 6 --llm
+                                               # offline unless asked: papers = JSON list of Paper objects, {"papers": [...]} or a feed shard; writes /tmp/audio/<date>.json + clips/
+                                               # --llm: spoken summaries (needs OPENAI_API_KEY); --select: apply the daily selection; --authors-from <site URL or dir>: first-author institutions
+                                               # --align heuristic: no whisper; --state-db x.sqlite: keep LLM summaries between renders
+uv run atlas audio run --state state --audio-dir /tmp/audio-store --limit 6 --no-llm
+                                               # scripts + speech for the newest day of a state DB (what `atlas run` does after the briefs); --isolate = child process like CI
+uv run atlas run --skip-audio                  # a normal run without the audio stages (still publishes whatever the audio store holds)
+uv run atlas audio checkout --audio-dir audio-store    # CI: the audio branch as a worktree (orphan on the first run)
+uv run atlas audio publish --audio-dir audio-store --no-push    # CI: one parentless commit; drop --no-push to force-push HEAD to `audio`
+ATLAS_AUDIO_SMOKE=1 uv run pytest tests/test_audio_real_model.py    # optional: the real models end to end (skipped otherwise; every other test uses a fake engine)
+```
+
+Without the `audio` extra (or with `audio.enabled: false`) `atlas run` skips the stages and says so in `status.json`; `enabled: auto` turns them on when pocket-tts is installed.
+
+**Licences and credit.** Pocket TTS by Kyutai: code MIT, model weights CC BY 4.0. The voice **alba** is CC BY 4.0; every manifest carries the credit
+(`engine.credit`: "Voice: Alba · Pocket TTS by Kyutai (CC BY 4.0)") for the app to show. Do not switch to `cosette` or `jean` (non-commercial). Whisper (MIT, via faster-whisper) is used
+only to time words and its output is not published. The generated audio is derived from arXiv metadata (CC0) and LLM text written from titles and abstracts.
+
+**Costs.** $0 for the speech (Actions minutes on a public repo), about $0.004 per day for the summaries with `gpt-6-luna`, about 10 MB of site size per day (about 80 MB for the 8 retained days).
+
 ## Running it
 
 ```bash
-uv sync --extra thumbs          # Python 3.12 (see .python-version)
-uv run pytest                   # no network needed
+uv sync --extra thumbs          # Python 3.12 (see .python-version); add `--extra audio` for the audio brief (see "Audio brief")
+uv run pytest                   # no network needed, no model downloads (the audio tests use a fake voice)
 uv run atlas run --limit 50     # smoke test: real APIs, polite, ~2 minutes
 uv run atlas run                # a normal daily run
 uv run atlas run --offline      # rebuild site/ from state/ only
 uv run atlas validate           # validate an existing site/ (including site/media)
 ```
 
-`state/` (SQLite + thumbnails + run logs) and `site/` are git-ignored. Each run writes
+`state/` (SQLite + thumbnails + run logs + audio plans), `site/`, `media-store/`, `audio-store/` and `.hf-cache/` are git-ignored. Each run writes
 `state/runs/atlas_ingest_<key>_<sha7>_<date>_<time>.log` and a `.meta.json` sidecar with parameters and
 per-stage statistics; the workflow uploads them as the `run-logs` artifact and a summary table to the job page.
 
@@ -215,9 +314,12 @@ per-stage statistics; the workflow uploads them as the `run-logs` artifact and a
   `actions/deploy-pages`. Superseded state caches are deleted. A `keepalive` job makes an empty commit when the
   last commit is older than 45 days, because GitHub pauses scheduled workflows in public repos after 60 idle days.
 
-Around the run, `daily.yml` has four more steps, each a thin call into the CLI: `atlas state restore` (a no-op unless the cache missed),
-`atlas media checkout` (branch `media` as the `media-store/` worktree, orphan branch on the first run), `atlas media publish` (commit and push `HEAD:media`) and
-`atlas state snapshot`. The build job has `contents: write` for those two branches; the deploy job is unchanged.
+Around the run, `daily.yml` has more steps, each a thin call into the CLI: `atlas state restore` (a no-op unless the cache missed),
+`atlas media checkout` (branch `media` as the `media-store/` worktree, orphan branch on the first run), `atlas media publish` (commit and push `HEAD:media`),
+`atlas audio checkout` / `atlas audio publish` (branch `audio` as the `audio-store/` worktree; one parentless commit, force-pushed) and `atlas state snapshot`. The speech weights
+(`HF_HOME=.hf-cache`, about 0.5 GB) are restored from and saved to an `actions/cache` entry. `uv sync --extra thumbs --extra audio --frozen` installs the audio extra; torch comes
+from the PyTorch CPU index on Linux (`[tool.uv.sources]` in `pyproject.toml`, so no CUDA wheels), and `uv.lock` has to be regenerated (`uv lock`) whenever it changes.
+The build job has `contents: write` for those three branches; the deploy job is unchanged. The audio steps are `continue-on-error`.
 
 If the cache is ever evicted, the next run restores `state/atlas.sqlite` from the encrypted `state` branch. Without that branch (or the secret) it
 cold-starts (yesterday plus 2 days) and the 30-day history rebuilds over the following days; shards already published are replaced by the rebuilt site.
@@ -251,11 +353,14 @@ run. The cost guard stops at `max_cost_usd_per_run` (default $0.25).
 
 ```
 config.yaml                 every tunable
-schemas/                    copied Link v1 schemas (+ repo-local status.schema.json, media.schema.json)
+schemas/                    copied Link v1 schemas (+ repo-local status.schema.json, media.schema.json, audio.schema.json)
 src/atlas/                  arxiv, hf, openalex, scoring, matching, licenses, thumbs, briefs, store (SQLite),
                             build (site assembly), validate, pipeline, snapshot (encrypted state), cli
 src/atlas/media/            keys, images (WebP), catalogue, store (content-addressed files), sources + web (Wikidata, Commons,
                             ROR, GitHub, Bluesky, homepages), cascade, queue, stage (budgets, TTLs), papers, publish (site copy, git)
+src/atlas/audio/            text (speech normaliser, scripts, UTF-16), select, summaries (LLM + fallback), plan, engine (Pocket TTS), dsp, encode (AAC),
+                            align (whisper + estimate), refine (pause snapping), clips, synth (the day), storage, site (copy + budget), publish (branch),
+                            render (offline), stage (pipeline glue, child process)
 site_static/                files copied verbatim into site/
 tests/                      pytest; tests/data holds small real responses captured once (2026-10-22), tests/data/media the Wikidata,
                             Commons, ROR and Bluesky responses of the media cascades (2026-10-24)

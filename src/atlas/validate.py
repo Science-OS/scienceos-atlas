@@ -1,6 +1,8 @@
 """Validate every published JSON file against the copied Link v1 atlas schema, plus structural cross-checks
-(manifest hashes/counts, author and thumbnail references, size budget), and the published media store: every catalogue
-entry against schemas/media.schema.json, hosted files present and byte-exact, media size budget."""
+(manifest hashes/counts, author and thumbnail references, size budget), the published media store (every catalogue
+entry against schemas/media.schema.json, hosted files present and byte-exact, media size budget) and the audio brief
+(every day manifest against schemas/audio.schema.json, clips present with the manifest's size and SHA-256, word timings
+consistent with the text, audio size budget)."""
 
 from __future__ import annotations
 
@@ -15,6 +17,8 @@ from jsonschema import Draft202012Validator
 from referencing import Registry, Resource
 from referencing.jsonschema import DRAFT202012
 
+from .audio.storage import clip_id, manifest_clips, sha256_hex
+from .audio.text import split_words, utf16_len
 from .config import REPO_ROOT
 from .media.keys import valid_key
 from .media.store import MediaStore
@@ -25,6 +29,7 @@ SCHEMA_DIR = REPO_ROOT / "schemas"
 ATLAS_ID = "https://scienceos.app/link/v1/atlas.schema.json"
 STATUS_ID = "https://scienceos.app/link/v1/atlas-status.schema.json"
 MEDIA_ID = "https://scienceos.app/link/v1/atlas-media.schema.json"
+AUDIO_ID = "https://scienceos.app/link/v1/atlas-audio.schema.json"
 
 
 @dataclass
@@ -44,7 +49,7 @@ class Report:
 
 def make_validators(schema_dir: Path = SCHEMA_DIR) -> dict[str, Draft202012Validator]:
     resources = []
-    for name in ("atlas.schema.json", "common.schema.json", "status.schema.json", "media.schema.json"):
+    for name in ("atlas.schema.json", "common.schema.json", "status.schema.json", "media.schema.json", "audio.schema.json"):
         contents = json.loads((schema_dir / name).read_text())
         resources.append((contents["$id"], Resource.from_contents(contents, default_specification=DRAFT202012)))
     registry: Registry = Registry().with_resources(resources)
@@ -60,6 +65,7 @@ def make_validators(schema_dir: Path = SCHEMA_DIR) -> dict[str, Draft202012Valid
         "status": v(STATUS_ID),
         "media_entry": v(f"{MEDIA_ID}#/$defs/CatalogueEntry"),
         "media_manifest": v(f"{MEDIA_ID}#/$defs/Manifest"),
+        "audio_day": v(f"{AUDIO_ID}#/$defs/Day"),
     }
 
 
@@ -126,7 +132,90 @@ def _check_media(site: Path, vs: dict[str, Draft202012Validator], report: Report
         report.err(f"media/ is {media_bytes / 1e6:.0f} MB, over the {media_max_mb} MB media budget")
 
 
-def validate_site(site: Path, max_site_mb: int = 450, schema_dir: Path = SCHEMA_DIR, media_max_mb: int = 250) -> Report:
+def _timeline_errors(rows: list[list[int]], duration_ms: int, label: str) -> list[str]:
+    errs = []
+    ps = pe = 0
+    for i, (s, e, *_rest) in enumerate(rows):
+        if s > e or e > duration_ms:
+            errs.append(f"{label}[{i}]: {s}-{e} ms is outside 0-{duration_ms} ms")
+            break
+        if s < ps or e < pe:
+            errs.append(f"{label}[{i}]: not monotonic")
+            break
+        ps, pe = s, e
+    return errs
+
+
+def audio_day_errors(doc: Any, validator: Draft202012Validator, clips_dir: Path, *, label: str, expect_date: str | None = None,
+                     hashed: dict[str, str | None] | None = None) -> list[str]:
+    """Everything that must hold for one day manifest to be published: schema; every referenced clip file exists with the manifest's byte count and
+    SHA-256; clip ids and urls are what the contract says; every word of the text has one monotonic timing and its exact UTF-16 span.
+    `hashed` caches the verdict per clip id across days (a clip is checked once)."""
+    errs = [f"{label}: {'/'.join(str(p) for p in e.absolute_path) or '<root>'}: {e.message[:160]}"
+            for e in sorted(validator.iter_errors(doc), key=lambda e: list(e.absolute_path))[:3]]
+    if errs:
+        return errs
+    if expect_date and doc["date"] != expect_date:
+        errs.append(f"{label}: date {doc['date']} does not match the file name")
+    hashed = {} if hashed is None else hashed
+    eng = doc["engine"]
+    for clip in manifest_clips(doc):
+        cid, tag = clip["id"], f"{label} clip {clip['id'][:8]}"
+        if cid != clip_id(eng["version"], eng["voice"], clip["text"]):
+            errs.append(f"{tag}: id is not sha256(version|voice|text)")
+        if clip["url"] != f"audio/clips/{cid}.m4a":
+            errs.append(f"{tag}: url does not match the id")
+        if cid not in hashed:
+            f = clips_dir / f"{cid}.m4a"
+            if not f.is_file():
+                hashed[cid] = "file is missing"
+            else:
+                data = f.read_bytes()
+                hashed[cid] = None if len(data) == clip["bytes"] and sha256_hex(data) == clip["sha256"] else "bytes/sha256 differ from the manifest"
+        if hashed[cid]:
+            errs.append(f"{tag}: {hashed[cid]}")
+        words = split_words(clip["text"])
+        if len(clip["words"]) != len(words):
+            errs.append(f"{tag}: {len(clip['words'])} timings for {len(words)} words")
+        elif any(r[2] != w.u16_start or r[3] != w.u16_end for r, w in zip(clip["words"], words)):
+            errs.append(f"{tag}: a word's UTF-16 span does not match the text")
+        errs += [f"{tag}: {m}" for m in _timeline_errors(clip["words"], clip["durationMs"], "words")]
+        errs += [f"{tag}: {m}" for m in _timeline_errors(clip["sentences"], clip["durationMs"], "sentences")]
+        n16 = utf16_len(clip["text"])
+        if any(r[2] > r[3] or r[3] > n16 for r in clip["sentences"]):
+            errs.append(f"{tag}: a sentence span is outside the text")
+    return errs
+
+
+def _check_audio(site: Path, vs: dict[str, Draft202012Validator], report: Report, audio_max_mb: int) -> None:
+    root = site / "audio"
+    referenced: set[str] = set()
+    hashed: dict[str, str | None] = {}
+    days = 0
+    for p in sorted(root.glob("*.json")):
+        rel = p.relative_to(site).as_posix()
+        try:
+            doc = json.loads(p.read_text(encoding="utf-8"))
+        except (OSError, ValueError) as exc:
+            report.err(f"{rel}: unreadable ({exc})")
+            continue
+        errs = audio_day_errors(doc, vs["audio_day"], root / "clips", label=rel, expect_date=p.stem, hashed=hashed)
+        for e in errs[:5]:
+            report.err(e)
+        if not errs:
+            days += 1
+            referenced.update(c["id"] for c in manifest_clips(doc))
+    for f in sorted((root / "clips").glob("*")) if (root / "clips").is_dir() else []:
+        if f.stem not in referenced:
+            report.err(f"audio/clips/{f.name}: not referenced by any day manifest")
+    report.checked["audio_days"] = days
+    report.checked["audio_clips"] = len(referenced)
+    audio_bytes = sum(p.stat().st_size for p in root.rglob("*") if p.is_file())
+    if audio_bytes > audio_max_mb * 1024 * 1024:
+        report.err(f"audio/ is {audio_bytes / 1e6:.0f} MB, over the {audio_max_mb} MB audio budget")
+
+
+def validate_site(site: Path, max_site_mb: int = 450, schema_dir: Path = SCHEMA_DIR, media_max_mb: int = 250, audio_max_mb: int = 120) -> Report:
     report = Report()
     vs = make_validators(schema_dir)
 
@@ -210,6 +299,8 @@ def validate_site(site: Path, max_site_mb: int = 450, schema_dir: Path = SCHEMA_
 
     if (site / "media").is_dir():
         _check_media(site, vs, report, media_max_mb)
+    if (site / "audio").is_dir():
+        _check_audio(site, vs, report, audio_max_mb)
     report.site_bytes = sum(p.stat().st_size for p in site.rglob("*") if p.is_file())
     if report.site_bytes > max_site_mb * 1024 * 1024:
         report.err(f"site is {report.site_bytes / 1e6:.0f} MB, over the {max_site_mb} MB budget")

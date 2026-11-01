@@ -5,6 +5,8 @@ __pycache__/
 state/
 site/
 media-store/
+audio-store/
+.hf-cache/
 .DS_Store
 .env
 .env.*

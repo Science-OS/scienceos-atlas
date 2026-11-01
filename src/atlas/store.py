@@ -34,6 +34,9 @@ CREATE TABLE IF NOT EXISTS briefs(
   arxiv_id TEXT PRIMARY KEY, text TEXT NOT NULL, source TEXT NOT NULL, model TEXT,
   generated_at TEXT NOT NULL, cost_usd REAL NOT NULL DEFAULT 0
 );
+CREATE TABLE IF NOT EXISTS spoken_summaries(
+  arxiv_id TEXT PRIMARY KEY, text TEXT NOT NULL, model TEXT, generated_at TEXT NOT NULL, cost_usd REAL NOT NULL DEFAULT 0
+);
 CREATE TABLE IF NOT EXISTS rejected(arxiv_id TEXT PRIMARY KEY, datestamp TEXT NOT NULL);
 CREATE TABLE IF NOT EXISTS thumbs(arxiv_id TEXT PRIMARY KEY, status TEXT NOT NULL, bytes INTEGER, updated_at TEXT NOT NULL);
 CREATE TABLE IF NOT EXISTS media_checks(
@@ -203,6 +206,19 @@ class Store:
                 (arxiv_id, text, source, model, now, cost_usd),
             )
 
+    # -- spoken summaries (the audio brief; one LLM text per paper, written once and never regenerated) -------------
+    def spoken_summary_rows(self) -> dict[str, dict[str, Any]]:
+        return {r["arxiv_id"]: dict(r) for r in self.conn.execute("SELECT * FROM spoken_summaries")}
+
+    def set_spoken_summary(self, arxiv_id: str, text: str, model: str | None, now: str, cost_usd: float) -> bool:
+        """INSERT OR IGNORE: the first summary stays, so the clip made from it (a content key) never changes. True when a row was written."""
+        with self.conn:
+            cur = self.conn.execute(
+                "INSERT OR IGNORE INTO spoken_summaries(arxiv_id,text,model,generated_at,cost_usd) VALUES(?,?,?,?,?)",
+                (arxiv_id, text, model, now, cost_usd),
+            )
+        return cur.rowcount > 0
+
     # -- thumbs ----------------------------------------------------------------
     def thumb_rows(self) -> dict[str, dict[str, Any]]:
         return {r["arxiv_id"]: dict(r) for r in self.conn.execute("SELECT * FROM thumbs")}
@@ -247,7 +263,7 @@ class Store:
         ids = [r["arxiv_id"] for r in self.conn.execute("SELECT arxiv_id FROM papers WHERE feed_date < ?", (keep_from_date,))]
         with self.conn:
             self.conn.execute("DELETE FROM papers WHERE feed_date < ?", (keep_from_date,))
-            for table in ("hf", "oa_works", "briefs", "thumbs"):
+            for table in ("hf", "oa_works", "briefs", "spoken_summaries", "thumbs"):
                 self.conn.execute(f"DELETE FROM {table} WHERE arxiv_id NOT IN (SELECT arxiv_id FROM papers)")
         with self.conn:
             self.conn.execute("DELETE FROM rejected WHERE datestamp < ?", (keep_from_date,))

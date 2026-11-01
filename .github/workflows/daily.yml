@@ -27,8 +27,10 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 120
     permissions:
-      contents: write       # push the append-only `media` branch and the single-commit `state` branch
+      contents: write       # push the append-only `media` branch and the single-commit `state` and `audio` branches
       actions: write        # prune superseded state caches
+    env:
+      HF_HOME: ${{ github.workspace }}/.hf-cache      # Pocket TTS and faster-whisper weights land here (cached below)
     steps:
       - uses: actions/checkout@v7
 
@@ -38,6 +40,21 @@ jobs:
           enable-cache: true
 
       - run: uv sync --extra thumbs --frozen
+
+      # `audio` = Pocket TTS + faster-whisper + PyAV; torch comes from the PyTorch CPU index (pyproject [tool.uv.sources]), never the CUDA wheels.
+      # A separate step so a failed install never blocks the feed: without the extra the audio stage skips itself.
+      - name: Install the audio extra
+        continue-on-error: true
+        timeout-minutes: 10
+        run: uv sync --extra thumbs --extra audio --frozen
+
+      # The speech weights (about 0.5 GB): downloaded on the first run, then restored. The key names what is in it; bump it when the models change.
+      - name: Restore speech models
+        id: models
+        uses: actions/cache/restore@v6
+        with:
+          path: .hf-cache
+          key: hf-models-pocket-tts-4.0.1-whisper-tiny.en-v1
 
       # SQLite state + thumbnails: makes the OAI harvest and the OpenAlex enrichment incremental.
       - name: Restore state
@@ -60,7 +77,15 @@ jobs:
       - name: Check out the media branch
         run: uv run atlas media checkout --media-dir media-store
 
+      # The audio store is the single-commit `audio` branch checked out as a worktree (orphan branch on the first run): clips that are already
+      # there are not synthesised again.
+      - name: Check out the audio branch
+        continue-on-error: true       # audio is optional: without the checkout the run still builds the feed (and synthesises into a plain directory)
+        timeout-minutes: 5
+        run: uv run atlas audio checkout --audio-dir audio-store
+
       - name: Ingest, build, validate
+        timeout-minutes: 100
         env:
           ATLAS_LIMIT: ${{ github.event.inputs.limit }}
           ATLAS_BACKFILL_DAYS: ${{ github.event.inputs.backfill_days }}
@@ -75,6 +100,22 @@ jobs:
         if: always()
         continue-on-error: true
         run: uv run atlas media publish --media-dir media-store
+
+      # The audio brief: the whole store (last 8 days) as ONE parentless commit, force-pushed to `audio`. Unchanged clips are objects the remote
+      # already has, so only the new audio is uploaded. A failure here never fails the run.
+      - name: Publish audio branch
+        if: always()
+        continue-on-error: true
+        timeout-minutes: 10
+        run: uv run atlas audio publish --audio-dir audio-store
+
+      - name: Save speech models
+        if: always() && steps.models.outputs.cache-hit != 'true' && hashFiles('.hf-cache/**') != ''
+        continue-on-error: true
+        uses: actions/cache/save@v6
+        with:
+          path: .hf-cache
+          key: hf-models-pocket-tts-4.0.1-whisper-tiny.en-v1
 
       - name: Save state
         if: always() && hashFiles('state/atlas.sqlite') != ''

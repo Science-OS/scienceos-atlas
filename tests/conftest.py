@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import logging
 from pathlib import Path
 
 import httpx
@@ -54,3 +55,21 @@ def atom_feed(entries: list[dict]) -> bytes:
         )
     parts.append("</feed>")
     return "\n".join(parts).encode()
+
+
+@pytest.fixture(autouse=True)
+def _keep_root_logging_handlers():
+    """`atlas` CLI commands reconfigure the root logger with a handler bound to the test's captured stdout; drop it when the test ends so later tests
+    do not log into a closed stream."""
+    root = logging.getLogger()
+    handlers, level = root.handlers[:], root.level
+    yield
+    root.handlers[:] = handlers
+    root.setLevel(level)
+
+
+@pytest.fixture(autouse=True)
+def _no_real_speech_model_in_tests(monkeypatch):
+    """A developer who installed the `audio` extra must not get real Pocket TTS runs (seconds each, files in the working directory) out of tests that
+    drive `atlas run` through the CLI. Tests that exercise the audio stages inject a fake engine, or patch this themselves."""
+    monkeypatch.setattr("atlas.audio.stage.engine_installed", lambda: False)

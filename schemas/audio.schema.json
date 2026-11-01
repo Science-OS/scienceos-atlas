@@ -1,0 +1,68 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://scienceos.app/link/v1/atlas-audio.schema.json",
+  "title": "ScienceOS Atlas - audio brief day manifest (repo-local; not part of Link v1)",
+  "description": "audio/<YYYY-MM-DD>.json: for one feed date, the narration clips of the daily audio brief (Kyutai Pocket TTS) with word timings. Clip ids are content keys: sha256(engine.version|engine.voice|text)[:32]. Offsets are UTF-16 code units of `text`.",
+  "$defs": {
+    "Engine": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name", "version", "model", "voice", "credit"],
+      "properties": {
+        "name": {"type": "string", "minLength": 1},
+        "version": {"type": "string", "minLength": 1},
+        "model": {"type": "string", "minLength": 1},
+        "voice": {"type": "string", "minLength": 1},
+        "credit": {"type": "string", "minLength": 1}
+      }
+    },
+    "Span": {
+      "description": "[startMs, endMs, u16Start, u16End]",
+      "type": "array",
+      "items": {"type": "integer", "minimum": 0},
+      "minItems": 4,
+      "maxItems": 4
+    },
+    "Clip": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "url", "sha256", "bytes", "durationMs", "text", "words", "sentences", "timing"],
+      "properties": {
+        "id": {"type": "string", "pattern": "^[0-9a-f]{32}$"},
+        "url": {"type": "string", "pattern": "^audio/clips/[0-9a-f]{32}\\.m4a$"},
+        "sha256": {"$ref": "common.schema.json#/$defs/Sha256Hex"},
+        "bytes": {"type": "integer", "minimum": 1},
+        "durationMs": {"type": "integer", "minimum": 1},
+        "text": {"type": "string", "minLength": 1, "maxLength": 4000},
+        "words": {"type": "array", "minItems": 1, "items": {"$ref": "#/$defs/Span"}},
+        "sentences": {"type": "array", "minItems": 1, "items": {"$ref": "#/$defs/Span"}},
+        "timing": {"enum": ["aligned", "estimated"]}
+      }
+    },
+    "Day": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["schema", "date", "generatedAt", "engine", "gapMs", "intros", "outro", "papers"],
+      "properties": {
+        "schema": {"const": "scienceos.atlas.audio-day/1"},
+        "date": {"$ref": "common.schema.json#/$defs/DateString"},
+        "generatedAt": {"$ref": "common.schema.json#/$defs/Timestamp"},
+        "engine": {"$ref": "#/$defs/Engine"},
+        "gapMs": {"type": "integer", "minimum": 0, "maximum": 5000},
+        "intros": {
+          "description": "Keyed by the number of briefs read (\"1\" ... \"8\"): 'Here are your six briefs for Friday, October 30.'",
+          "type": "object",
+          "propertyNames": {"pattern": "^[1-8]$"},
+          "additionalProperties": {"$ref": "#/$defs/Clip"}
+        },
+        "outro": {"$ref": "#/$defs/Clip"},
+        "papers": {
+          "description": "Keyed by Paper.id exactly as in the feed (arxiv:<id>).",
+          "type": "object",
+          "propertyNames": {"pattern": "^arxiv:.+$"},
+          "additionalProperties": {"$ref": "#/$defs/Clip"}
+        }
+      }
+    }
+  }
+}
