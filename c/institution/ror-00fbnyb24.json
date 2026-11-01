@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-00fbnyb24",
+ "ids": {
+  "wikidata": "Q161976",
+  "ror": "00fbnyb24"
+ },
+ "updatedAt": "2026-11-01T11:56:42Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ec/ec0e8605d4c298f10bd795402952e23bd6ac3769c1c976162abdc614c99b2880.webp",
+   "hosted": true,
+   "sha256": "ec0e8605d4c298f10bd795402952e23bd6ac3769c1c976162abdc614c99b2880",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 76,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo-Universitaet-Wuerzburg-2026.svg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Universität Würzburg",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo-Universitaet-Wuerzburg-2026.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-01T11:56:42Z"
+  }
+ ]
+}

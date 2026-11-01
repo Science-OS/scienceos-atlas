@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01zy2cs03",
+ "ids": {
+  "wikidata": "Q883545",
+  "ror": "01zy2cs03"
+ },
+ "updatedAt": "2026-11-01T11:56:42Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/a8/a81aa5973de4557f9ed37f07be08c49be7e33a0d19668b51ebf0c1ccacbffc2a.webp",
+   "hosted": true,
+   "sha256": "a81aa5973de4557f9ed37f07be08c49be7e33a0d19668b51ebf0c1ccacbffc2a",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 126,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/HZDR-LOGO.png",
+   "license": "Public domain",
+   "attribution": "HZDR",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:HZDR-LOGO.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-01T11:56:42Z"
+  }
+ ]
+}

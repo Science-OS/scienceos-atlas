@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1060",
+ "ids": {
+  "wikidata": "Q1060",
+  "ror": "04bs1pb34"
+ },
+ "updatedAt": "2026-11-01T11:56:42Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/27/27f7521df52b34b1e6f0f20396bb8d4243a8c6bcdb0dadcc61b2110f5babdf6d.webp",
+   "hosted": true,
+   "sha256": "27f7521df52b34b1e6f0f20396bb8d4243a8c6bcdb0dadcc61b2110f5babdf6d",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 71,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Technische_Universit%C3%A4t_Hamburg_%28TUHH%29_logo.svg",
+   "license": "Public domain",
+   "attribution": "TUHH",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Technische_Universit%C3%A4t_Hamburg_(TUHH)_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-01T11:56:42Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q311801",
+ "ids": {
+  "wikidata": "Q311801",
+  "ror": "01js2sh04"
+ },
+ "updatedAt": "2026-11-01T11:56:42Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e5/e53f53c820dc3911f478f1a4592860d3dbbcfbba4b2b1a3464c48e008fb4a0ef.webp",
+   "hosted": true,
+   "sha256": "e53f53c820dc3911f478f1a4592860d3dbbcfbba4b2b1a3464c48e008fb4a0ef",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Desy_logo_3c_web.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Desy_logo_3c_web.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-01T11:56:42Z"
+  }
+ ]
+}

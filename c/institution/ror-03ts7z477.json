@@ -1,0 +1,21 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03ts7z477",
+ "ids": {
+  "ror": "03ts7z477"
+ },
+ "updatedAt": "2026-11-01T11:56:42Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.chuv.ch/typo3conf/ext/site_package/Resources/Public/Icons/Favicons/apple-touch-icon.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.chuv.ch/fr/ira/ira-home/",
+   "attributionUrl": "https://www.chuv.ch/fr/ira/ira-home/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-01T11:56:42Z"
+  }
+ ]
+}

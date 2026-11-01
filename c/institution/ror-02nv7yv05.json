@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02nv7yv05",
+ "ids": {
+  "wikidata": "Q697111",
+  "ror": "02nv7yv05"
+ },
+ "updatedAt": "2026-11-01T11:56:42Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/4e/4ee37aac1ed35fc2118bfa2bc4034342ab765e19bcf393a5f2c71648a5fa44a5.webp",
+   "hosted": true,
+   "sha256": "4ee37aac1ed35fc2118bfa2bc4034342ab765e19bcf393a5f2c71648a5fa44a5",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 74,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_des_Forschungszentrums_J%C3%BClich_seit_2018.svg",
+   "license": "Public domain",
+   "attribution": "Forschungszentrum Jülich",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_des_Forschungszentrums_J%C3%BClich_seit_2018.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-01T11:56:42Z"
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02hdt9m26",
+ "ids": {
+  "ror": "02hdt9m26"
+ },
+ "updatedAt": "2026-11-01T11:56:42Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://cdn.prod.website-files.com/63ea083f4e797cf53055586b/63eded8562bed76889904698_webclip.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://datascience.ch/",
+   "attributionUrl": "https://datascience.ch/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-01T11:56:42Z"
+  }
+ ]
+}

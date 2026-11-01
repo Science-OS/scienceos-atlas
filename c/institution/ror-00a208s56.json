@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-00a208s56",
+ "ids": {
+  "wikidata": "Q159630",
+  "ror": "00a208s56"
+ },
+ "updatedAt": "2026-11-01T11:56:42Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/5f/5fec0a6ff1bc6c8243d56e859e57b543148af1c799b903b90e4a25e23eced05b.webp",
+   "hosted": true,
+   "sha256": "5fec0a6ff1bc6c8243d56e859e57b543148af1c799b903b90e4a25e23eced05b",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 168,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/TU_Chemnitz_Logo_gruen.svg",
+   "license": "Public domain",
+   "attribution": "MattJoon",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:TU_Chemnitz_Logo_gruen.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-01T11:56:42Z"
+  }
+ ]
+}

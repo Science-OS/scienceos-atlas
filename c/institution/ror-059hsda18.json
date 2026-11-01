@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-059hsda18",
+ "ids": {
+  "wikidata": "Q312",
+  "ror": "059hsda18"
+ },
+ "updatedAt": "2026-11-01T11:56:42Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/4d/4dd684ee1dcab3ba2166aa6303b2c0b0300b14e11eee70d6e94bfd4328022ea9.webp",
+   "hosted": true,
+   "sha256": "4dd684ee1dcab3ba2166aa6303b2c0b0300b14e11eee70d6e94bfd4328022ea9",
+   "mime": "image/webp",
+   "width": 208,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Apple_logo_black.svg",
+   "license": "Public domain",
+   "attribution": "Original: Rob Janoff",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Apple_logo_black.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-01T11:56:42Z"
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01jx86h05",
+ "ids": {
+  "wikidata": "Q21032368",
+  "ror": "01jx86h05"
+ },
+ "updatedAt": "2026-11-01T11:56:42Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.sana.de/typo3conf/ext/as_template/Resources/Public/Icons/android-icon-192x192.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.sana.de/herzzentrum-dresden",
+   "attributionUrl": "https://www.sana.de/herzzentrum-dresden",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-01T11:56:42Z"
+  }
+ ]
+}

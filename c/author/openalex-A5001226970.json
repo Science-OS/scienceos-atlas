@@ -1,0 +1,30 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "openalex-A5001226970",
+ "ids": {
+  "orcid": "0000-0002-1992-2684",
+  "wikidata": "Q3571662",
+  "openalex": "A5001226970"
+ },
+ "updatedAt": "2026-11-01T11:56:42Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b0/b0be691fc61ea8399c1cc010576d8647f2c528e666afa5a249b4c0cda90faf68.webp",
+   "hosted": true,
+   "sha256": "b0be691fc61ea8399c1cc010576d8647f2c528e666afa5a249b4c0cda90faf68",
+   "mime": "image/webp",
+   "width": 235,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Yann_LeCun_-_2025_%28cropped%29.jpg",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "attribution": "Ecole polytechnique from Paris",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Yann_LeCun_-_2025_(cropped).jpg",
+   "confidence": 0.95,
+   "fetchedAt": "2026-11-01T11:56:42Z"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "orcid-0000-0002-3752-2756",
+ "ids": {
+  "orcid": "0000-0002-3752-2756",
+  "wikidata": "Q28016131",
+  "openalex": "A5071983998"
+ },
+ "updatedAt": "2026-11-01T11:56:42Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/9b/9bb87136b433afbc0cd6007b6d6905427d016f8d03b9bc284e52ba42f2420728.webp",
+   "hosted": true,
+   "sha256": "9bb87136b433afbc0cd6007b6d6905427d016f8d03b9bc284e52ba42f2420728",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 160,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Deep_Thinkers_on_Deep_Learning.jpg",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+   "attribution": "Steve Jurvetson from Menlo Park, USA",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Deep_Thinkers_on_Deep_Learning.jpg",
+   "confidence": 0.95,
+   "fetchedAt": "2026-11-01T11:56:42Z"
+  }
+ ]
+}

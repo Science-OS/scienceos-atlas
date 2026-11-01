@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1047060",
+ "ids": {
+  "wikidata": "Q1047060",
+  "ror": "051fd9666"
+ },
+ "updatedAt": "2026-11-01T11:56:42Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/f3/f3d930fe593d392afe68eb86f5e43f31a7e9521e40f3e3e7c39d1a07a9c702c6.webp",
+   "hosted": true,
+   "sha256": "f3d930fe593d392afe68eb86f5e43f31a7e9521e40f3e3e7c39d1a07a9c702c6",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 26,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/CWRU_Two-line_horizontal_logo_Blue.svg",
+   "license": "Public domain",
+   "attribution": "Case Western Reserve University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:CWRU_Two-line_horizontal_logo_Blue.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-01T11:56:42Z"
+  }
+ ]
+}

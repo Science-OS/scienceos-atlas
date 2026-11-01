@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04gcegc37",
+ "ids": {
+  "wikidata": "Q48880933",
+  "ror": "04gcegc37"
+ },
+ "updatedAt": "2026-11-01T11:56:42Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.cug.edu.cn%2F&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "https://www.cug.edu.cn/",
+   "confidence": 0.5,
+   "fetchedAt": "2026-11-01T11:56:42Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1071052",
+ "ids": {
+  "wikidata": "Q1071052",
+  "ror": "0447kww10"
+ },
+ "updatedAt": "2026-11-01T11:56:42Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/7a/7ab92af5b2701ebd1e646746cd86659de18935e33af562836bc2bc8155ea572e.webp",
+   "hosted": true,
+   "sha256": "7ab92af5b2701ebd1e646746cd86659de18935e33af562836bc2bc8155ea572e",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 51,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Miyazaki_Logo.svg",
+   "license": "Public domain",
+   "attribution": "国立大学法人宮崎大学 宮崎大学",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Miyazaki_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-01T11:56:42Z"
+  }
+ ]
+}

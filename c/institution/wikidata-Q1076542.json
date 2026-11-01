@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1076542",
+ "ids": {
+  "wikidata": "Q1076542",
+  "ror": "01703db54"
+ },
+ "updatedAt": "2026-11-01T11:56:42Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/59/59923e4f6ddf070feba27ae8573c0236199736ca60177d7f83e21ff647fe2b5b.webp",
+   "hosted": true,
+   "sha256": "59923e4f6ddf070feba27ae8573c0236199736ca60177d7f83e21ff647fe2b5b",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 45,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/AIST_logo_en.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:AIST_logo_en.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-01T11:56:42Z"
+  }
+ ]
+}

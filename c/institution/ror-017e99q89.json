@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-017e99q89",
+ "ids": {
+  "wikidata": "Q16289",
+  "ror": "017e99q89"
+ },
+ "updatedAt": "2026-11-01T11:56:42Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/9c/9c3695347283280c810babf6d4cdec769d01c10340e754d95924f340d19a8be5.webp",
+   "hosted": true,
+   "sha256": "9c3695347283280c810babf6d4cdec769d01c10340e754d95924f340d19a8be5",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 192,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/ITA_%E2%80%94_Trentino-Alto_Adige_%E2%80%94_Autonome_Provinz_Trient_%28Hinweistafel_Trentino_%C2%B7_Willkommen%29_Mattes_2023-06-13.jpg",
+   "license": "Public domain",
+   "attribution": "Mateus2019",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:ITA_%E2%80%94_Trentino-Alto_Adige_%E2%80%94_Autonome_Provinz_Trient_(Hinweistafel_Trentino_%C2%B7_Willkommen)_Mattes_2023-06-13.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-01T11:56:42Z"
+  }
+ ]
+}

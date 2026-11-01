@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-00d7xrm67",
+ "ids": {
+  "wikidata": "Q689775",
+  "ror": "00d7xrm67"
+ },
+ "updatedAt": "2026-11-01T11:56:42Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/4b/4b71ca1e0c5aef2d430cbcacfceed0a03e06250794104be360db066cb6b9e589.webp",
+   "hosted": true,
+   "sha256": "4b71ca1e0c5aef2d430cbcacfceed0a03e06250794104be360db066cb6b9e589",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 128,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/TU_Graz.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:TU_Graz.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-01T11:56:42Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-00ntfnx83",
+ "ids": {
+  "wikidata": "Q274486",
+  "ror": "00ntfnx83"
+ },
+ "updatedAt": "2026-11-01T11:56:42Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/fc/fcf10eb62e03c2b8693bcaba1271d44749b58589c08298b21c6f324b410420f1.webp",
+   "hosted": true,
+   "sha256": "fcf10eb62e03c2b8693bcaba1271d44749b58589c08298b21c6f324b410420f1",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 78,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Waseda_university_logo.svg",
+   "license": "Public domain",
+   "attribution": "早稲田大学",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Waseda_university_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-01T11:56:42Z"
+  }
+ ]
+}
