@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03nawhv43",
+ "ids": {
+  "wikidata": "Q1075148",
+  "ror": "03nawhv43"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/18/18479bda8dbac3e949d2a4ce1a7eab11de18403fb252e260c10891c095a4f37a.webp",
+   "hosted": true,
+   "sha256": "18479bda8dbac3e949d2a4ce1a7eab11de18403fb252e260c10891c095a4f37a",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 52,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_California%2C_Riverside_logo.svg",
+   "license": "Public domain",
+   "attribution": "University of California, Riverside",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_California,_Riverside_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

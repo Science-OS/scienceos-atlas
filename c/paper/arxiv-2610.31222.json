@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.31222",
+ "ids": {
+  "arxiv": "2610.31222"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/13/13a52127cb6831548bdb9601e7f0a2380ace08754b6c6994677d3898ba03973e.jpg",
+   "hosted": true,
+   "sha256": "13a52127cb6831548bdb9601e7f0a2380ace08754b6c6994677d3898ba03973e",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.31222",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Ariel Lapid et al., arXiv:2610.31222",
+   "attributionUrl": "https://arxiv.org/abs/2610.31222",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

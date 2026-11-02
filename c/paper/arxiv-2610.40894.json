@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.40894",
+ "ids": {
+  "arxiv": "2610.40894"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/07/07514a5e1151f9a2c55278103c4536769812db45785d31d0e57ba2d1e254401d.jpg",
+   "hosted": true,
+   "sha256": "07514a5e1151f9a2c55278103c4536769812db45785d31d0e57ba2d1e254401d",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.40894",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Daniel J. Bauman et al., arXiv:2610.40894",
+   "attributionUrl": "https://arxiv.org/abs/2610.40894",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.41046",
+ "ids": {
+  "arxiv": "2610.41046"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e7/e7735e55b51414b8a16d120889ee452b7cc7bd40db563a3a141a01a0d227fd4a.jpg",
+   "hosted": true,
+   "sha256": "e7735e55b51414b8a16d120889ee452b7cc7bd40db563a3a141a01a0d227fd4a",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.41046",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Viktoriia Huryn et al., arXiv:2610.41046",
+   "attributionUrl": "https://arxiv.org/abs/2610.41046",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

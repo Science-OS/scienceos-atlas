@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q163810",
+ "ids": {
+  "wikidata": "Q163810",
+  "ror": "05b6ypc36"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/5d/5dea30bae63d938a95bfe1b2f8aa0475a986cf23583977b9d524fb8988c449b3.webp",
+   "hosted": true,
+   "sha256": "5dea30bae63d938a95bfe1b2f8aa0475a986cf23583977b9d524fb8988c449b3",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 20,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Volvo-Spread-Word-Mark-Black.svg",
+   "license": "Public domain",
+   "attribution": "Volvo Group",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Volvo-Spread-Word-Mark-Black.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

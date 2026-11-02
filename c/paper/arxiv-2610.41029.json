@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.41029",
+ "ids": {
+  "arxiv": "2610.41029"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/20/2059bb0d99021f6df8be349c2a640205fa8bf5aa7ff4f42cf533abb1648aaade.jpg",
+   "hosted": true,
+   "sha256": "2059bb0d99021f6df8be349c2a640205fa8bf5aa7ff4f42cf533abb1648aaade",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.41029",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Gennadi Glinsky, arXiv:2610.41029",
+   "attributionUrl": "https://arxiv.org/abs/2610.41029",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

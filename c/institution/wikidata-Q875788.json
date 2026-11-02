@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q875788",
+ "ids": {
+  "wikidata": "Q875788",
+  "ror": "054pv6659"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/8b/8bf6f39208a31875367938fc961ac7834e569673a551fd7a1b618ca1f87c59ed.webp",
+   "hosted": true,
+   "sha256": "8bf6f39208a31875367938fc961ac7834e569673a551fd7a1b618ca1f87c59ed",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 102,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Universitaet-innsbruck-logo-rgb-farbe.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Universitaet-innsbruck-logo-rgb-farbe.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

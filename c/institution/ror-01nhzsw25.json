@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01nhzsw25",
+ "ids": {
+  "wikidata": "Q167840",
+  "ror": "01nhzsw25"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/3a/3a94a27b33b8252cbbddc466aebc31698bf1cecb91a7c47eed91ad33e058677f.webp",
+   "hosted": true,
+   "sha256": "3a94a27b33b8252cbbddc466aebc31698bf1cecb91a7c47eed91ad33e058677f",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 85,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hydro-Qu%C3%A9bec_logo.svg",
+   "license": "Public domain",
+   "attribution": "Gagnon/Valkus, Inc.",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Hydro-Qu%C3%A9bec_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

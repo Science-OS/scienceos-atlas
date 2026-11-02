@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.41881",
+ "ids": {
+  "arxiv": "2610.41881"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/35/35997cd3aa5309782221f80a4717d31d995d6fe434579159dcf9a30fbe34a8ef.jpg",
+   "hosted": true,
+   "sha256": "35997cd3aa5309782221f80a4717d31d995d6fe434579159dcf9a30fbe34a8ef",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.41881",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Clara von Bismarck-Osten et al., arXiv:2610.41881",
+   "attributionUrl": "https://arxiv.org/abs/2610.41881",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.41294",
+ "ids": {
+  "arxiv": "2610.41294"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/45/45591031f06651a22f2307200ae462c39a624494d9b44234b7e431e942a9551d.jpg",
+   "hosted": true,
+   "sha256": "45591031f06651a22f2307200ae462c39a624494d9b44234b7e431e942a9551d",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 889,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.41294",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Saanvi Chawla et al., arXiv:2610.41294",
+   "attributionUrl": "https://arxiv.org/abs/2610.41294",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

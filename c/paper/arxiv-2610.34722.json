@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.34722",
+ "ids": {
+  "arxiv": "2610.34722"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/41/410d2d5687ef04e8d099cf38d8030a26337d3296950fd7599c5dccbcd8f871db.jpg",
+   "hosted": true,
+   "sha256": "410d2d5687ef04e8d099cf38d8030a26337d3296950fd7599c5dccbcd8f871db",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.34722",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Jongha Kim et al., arXiv:2610.34722",
+   "attributionUrl": "https://arxiv.org/abs/2610.34722",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

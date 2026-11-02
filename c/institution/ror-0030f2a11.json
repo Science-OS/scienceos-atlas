@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-0030f2a11",
+ "ids": {
+  "wikidata": "Q1544159",
+  "ror": "0030f2a11"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d3/d3420b509280df9931758ecbabdb3c4ba9c8b86ea7b2ff04d8d77f2d892c7777.webp",
+   "hosted": true,
+   "sha256": "d3420b509280df9931758ecbabdb3c4ba9c8b86ea7b2ff04d8d77f2d892c7777",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 71,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Uk_erlangen.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Uk_erlangen.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q117251",
+ "ids": {
+  "wikidata": "Q117251",
+  "ror": "02z58ft15"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/47/476fc11fa7a44696df105384d23da463d6279f576c177f26db61dbc3e2389b76.webp",
+   "hosted": true,
+   "sha256": "476fc11fa7a44696df105384d23da463d6279f576c177f26db61dbc3e2389b76",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 58,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/UCharleston_logo.png",
+   "license": "Public domain",
+   "attribution": "University of Charleston",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:UCharleston_logo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

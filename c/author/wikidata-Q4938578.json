@@ -1,0 +1,30 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "wikidata-Q4938578",
+ "ids": {
+  "orcid": "0000-0002-7408-6148",
+  "wikidata": "Q4938578",
+  "openalex": "A5005993212"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ad/ad19dae696f510afcdaee081f80f14c02891b77c46a49112a52e24774e21810a.webp",
+   "hosted": true,
+   "sha256": "ad19dae696f510afcdaee081f80f14c02891b77c46a49112a52e24774e21810a",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 171,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bojan_Mohar_Oberwolfach_2022.jpg",
+   "license": "CC BY-SA 2.0 de",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+   "attribution": "Petra Lein",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Bojan_Mohar_Oberwolfach_2022.jpg",
+   "confidence": 0.95,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

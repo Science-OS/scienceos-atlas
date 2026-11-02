@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.41634",
+ "ids": {
+  "arxiv": "2610.41634"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/cc/cc4ac37947a3bfbebc591d4ee1177accc07afa4e8a78275100290c945de03bc9.jpg",
+   "hosted": true,
+   "sha256": "cc4ac37947a3bfbebc591d4ee1177accc07afa4e8a78275100290c945de03bc9",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.41634",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Theodore de Pomereu et al., arXiv:2610.41634",
+   "attributionUrl": "https://arxiv.org/abs/2610.41634",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

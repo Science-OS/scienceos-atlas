@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q156725",
+ "ids": {
+  "wikidata": "Q156725",
+  "ror": "00g30e956"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/47/47ef57ced473a360d17a09fd5ad69de0bdf4d19e7b45f13cc01364af10b291b5.webp",
+   "hosted": true,
+   "sha256": "47ef57ced473a360d17a09fd5ad69de0bdf4d19e7b45f13cc01364af10b291b5",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 83,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/UHH_Universit%C3%A4t_Hamburg_Logo_mit_Schrift_2010_Farbe_CMYK.svg",
+   "license": "Public domain",
+   "attribution": "Universität Hamburg / Peter Schmidt 1999",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:UHH_Universit%C3%A4t_Hamburg_Logo_mit_Schrift_2010_Farbe_CMYK.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

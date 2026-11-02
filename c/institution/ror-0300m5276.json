@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-0300m5276",
+ "ids": {
+  "wikidata": "Q6840202",
+  "ror": "0300m5276"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/0a/0a2b4cf6ac0bd5826aca3017fe781fb28d4b71ea19712bad8e0881bf84d5ff2c.webp",
+   "hosted": true,
+   "sha256": "0a2b4cf6ac0bd5826aca3017fe781fb28d4b71ea19712bad8e0881bf84d5ff2c",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Microsoft-Research-New-Logo.jpg",
+   "license": "Public domain",
+   "attribution": "Microsoft Research",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Microsoft-Research-New-Logo.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

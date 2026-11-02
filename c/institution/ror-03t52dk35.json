@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03t52dk35",
+ "ids": {
+  "wikidata": "Q1141452",
+  "ror": "03t52dk35"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/fb/fb64df25eff33ea832ae5ab1b2d3be0ef2375593d19ed6c1d8698e5d819b7dd8.webp",
+   "hosted": true,
+   "sha256": "fb64df25eff33ea832ae5ab1b2d3be0ef2375593d19ed6c1d8698e5d819b7dd8",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 100,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Western_Sydney_University_logo.png",
+   "license": "Public domain",
+   "attribution": "Western Sydney University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Western_Sydney_University_logo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

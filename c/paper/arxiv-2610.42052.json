@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.42052",
+ "ids": {
+  "arxiv": "2610.42052"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/61/61fa4576dec0d6c749178cf2b17d3e1e2f09bdbe77924d8a60af270f8a7d918f.jpg",
+   "hosted": true,
+   "sha256": "61fa4576dec0d6c749178cf2b17d3e1e2f09bdbe77924d8a60af270f8a7d918f",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.42052",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Taegyu Yang, arXiv:2610.42052",
+   "attributionUrl": "https://arxiv.org/abs/2610.42052",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

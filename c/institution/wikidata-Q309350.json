@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q309350",
+ "ids": {
+  "wikidata": "Q309350",
+  "ror": "000e0be47"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/9c/9cceb38fb521c1b49cea9735d7edeb3ae827f3a10b49ff39be02069c3134d680.webp",
+   "hosted": true,
+   "sha256": "9cceb38fb521c1b49cea9735d7edeb3ae827f3a10b49ff39be02069c3134d680",
+   "mime": "image/webp",
+   "width": 170,
+   "height": 169,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Northwestern_University.png",
+   "license": "Public domain",
+   "attribution": "Northwestern University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Northwestern_University.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

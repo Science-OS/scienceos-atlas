@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-05e94g991",
+ "ids": {
+  "wikidata": "Q1145814",
+  "ror": "05e94g991"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/eb/eb11a1f1e29eb48d607a4db919ec34970761458f899d0a60392605daf21c5155.webp",
+   "hosted": true,
+   "sha256": "eb11a1f1e29eb48d607a4db919ec34970761458f899d0a60392605daf21c5155",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 30,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Uillinois_wordmark.svg",
+   "license": "Public domain",
+   "attribution": "University of Illinois System",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Uillinois_wordmark.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q5644305",
+ "ids": {
+  "wikidata": "Q5644305",
+  "ror": "03ec28972"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e7/e7a61694b8b8761bb26d386f59099dbb349e779f001c6d7935e897ea55232895.webp",
+   "hosted": true,
+   "sha256": "e7a61694b8b8761bb26d386f59099dbb349e779f001c6d7935e897ea55232895",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 146,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hamburger_Institut_f%C3%BCr_Sozialforschung_logo.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Hamburger_Institut_f%C3%BCr_Sozialforschung_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

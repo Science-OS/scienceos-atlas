@@ -1,0 +1,21 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03t0n2419",
+ "ids": {
+  "ror": "03t0n2419"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.hamburg-institut.com/wp-content/uploads/2021/06/cropped-hhi-icon_600x600-192x192.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.hamburg-institut.com/",
+   "attributionUrl": "https://www.hamburg-institut.com/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

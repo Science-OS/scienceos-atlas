@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.41070",
+ "ids": {
+  "arxiv": "2610.41070"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b0/b021a1a47aa9fd9334ce434900e145e92075578c5c40697e074d352a2c3c833a.jpg",
+   "hosted": true,
+   "sha256": "b021a1a47aa9fd9334ce434900e145e92075578c5c40697e074d352a2c3c833a",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.41070",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "AkshatKumar Nigam et al., arXiv:2610.41070",
+   "attributionUrl": "https://arxiv.org/abs/2610.41070",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

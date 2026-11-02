@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q649120",
+ "ids": {
+  "wikidata": "Q649120",
+  "ror": "05gvnxz63"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/dc/dce28d96281f5f1e69a422e1aa1232c43c6e2f4363b78472a1612529d8e332bd.webp",
+   "hosted": true,
+   "sha256": "dce28d96281f5f1e69a422e1aa1232c43c6e2f4363b78472a1612529d8e332bd",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 71,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/ArgonneLaboratoryLogo.png",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:ArgonneLaboratoryLogo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

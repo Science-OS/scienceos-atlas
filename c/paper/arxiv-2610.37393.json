@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.37393",
+ "ids": {
+  "arxiv": "2610.37393"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/74/74d3707e6cad80eb667e5269f817cdd76bce1f079adb3a5dbc5abba76e29da60.jpg",
+   "hosted": true,
+   "sha256": "74d3707e6cad80eb667e5269f817cdd76bce1f079adb3a5dbc5abba76e29da60",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.37393",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Sinjae Kang et al., arXiv:2610.37393",
+   "attributionUrl": "https://arxiv.org/abs/2610.37393",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

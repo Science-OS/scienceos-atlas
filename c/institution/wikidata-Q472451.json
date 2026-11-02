@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q472451",
+ "ids": {
+  "wikidata": "Q472451",
+  "ror": "0449c4c15"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/5a/5a79addd1f28dfcd10f67938dcc1dac3c706db532db16bda11df1860b85c8586.webp",
+   "hosted": true,
+   "sha256": "5a79addd1f28dfcd10f67938dcc1dac3c706db532db16bda11df1860b85c8586",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 64,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Siemens_Healthineers_logo.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Siemens_Healthineers_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

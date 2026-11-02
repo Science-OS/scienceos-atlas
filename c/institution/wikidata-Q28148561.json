@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q28148561",
+ "ids": {
+  "wikidata": "Q28148561",
+  "ror": "01cmst727"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/5e/5efdb1c024f24426ac56f68536124bcb918c263bd6213915f0ee73a35602d3ed.webp",
+   "hosted": true,
+   "sha256": "5efdb1c024f24426ac56f68536124bcb918c263bd6213915f0ee73a35602d3ed",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 39,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Simons_Foundation_wordmark_2021.svg",
+   "license": "Public domain",
+   "attribution": "Simons Foundation",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Simons_Foundation_wordmark_2021.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

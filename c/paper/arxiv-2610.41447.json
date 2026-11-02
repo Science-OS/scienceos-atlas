@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.41447",
+ "ids": {
+  "arxiv": "2610.41447"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c2/c2a387adeff0fad86be2f20fe880bfd00930f4b6af96a585b73e6a1ddca93116.jpg",
+   "hosted": true,
+   "sha256": "c2a387adeff0fad86be2f20fe880bfd00930f4b6af96a585b73e6a1ddca93116",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.41447",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Bastian Weißenburger et al., arXiv:2610.41447",
+   "attributionUrl": "https://arxiv.org/abs/2610.41447",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

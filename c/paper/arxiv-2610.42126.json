@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.42126",
+ "ids": {
+  "arxiv": "2610.42126"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e0/e064ab55757e7fbb21b05472c6ffd2dc9518d4de3618176cc7150dd16618659d.jpg",
+   "hosted": true,
+   "sha256": "e064ab55757e7fbb21b05472c6ffd2dc9518d4de3618176cc7150dd16618659d",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.42126",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Benjamin T. Pike, arXiv:2610.42126",
+   "attributionUrl": "https://arxiv.org/abs/2610.42126",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.41103",
+ "ids": {
+  "arxiv": "2610.41103"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c5/c57bef635dd98578a5cb44ae9c1161d7a5eed2073c8492737431d27e2acc60a4.jpg",
+   "hosted": true,
+   "sha256": "c57bef635dd98578a5cb44ae9c1161d7a5eed2073c8492737431d27e2acc60a4",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.41103",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Emil Dimanchev et al., arXiv:2610.41103",
+   "attributionUrl": "https://arxiv.org/abs/2610.41103",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

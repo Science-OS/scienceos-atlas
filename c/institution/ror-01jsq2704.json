@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01jsq2704",
+ "ids": {
+  "wikidata": "Q390287",
+  "ror": "01jsq2704"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ee/ee2e23efb27eee9414e9e5775f86de1a363048bc595fdde50a5c0cece45ef2b0.webp",
+   "hosted": true,
+   "sha256": "ee2e23efb27eee9414e9e5775f86de1a363048bc595fdde50a5c0cece45ef2b0",
+   "mime": "image/webp",
+   "width": 254,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Budapesti_Tudomanyegyetem_nagy_pecsetje_Orszag_Vilag_1880_XIII_sz.jpg",
+   "license": "Public domain",
+   "attribution": "http://hu.wikipedia.org/wiki/F%C3%A1jl:Budapesti_Tudomanyegyetem_nagy_pecsetje_Orszag_Vilag_1880_XIII_sz.jpg",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Budapesti_Tudomanyegyetem_nagy_pecsetje_Orszag_Vilag_1880_XIII_sz.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

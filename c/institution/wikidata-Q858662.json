@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q858662",
+ "ids": {
+  "wikidata": "Q858662",
+  "ror": "03v0r5n49"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/72/72ae9ff3d413a917c3f9e0c948893bda1e4c8877661cfc248422093cfee83eb7.webp",
+   "hosted": true,
+   "sha256": "72ae9ff3d413a917c3f9e0c948893bda1e4c8877661cfc248422093cfee83eb7",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/IIT_Madras_Logo_%28Black_and_White%29.svg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Indian Institute of Technology Madras",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:IIT_Madras_Logo_(Black_and_White).svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

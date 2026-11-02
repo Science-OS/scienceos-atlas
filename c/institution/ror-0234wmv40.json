@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-0234wmv40",
+ "ids": {
+  "wikidata": "Q702482",
+  "ror": "0234wmv40"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e4/e4100b1cd7ac960c1f3c8b00a960241e37ba0a60ab580cf2808786310d24d52f.webp",
+   "hosted": true,
+   "sha256": "e4100b1cd7ac960c1f3c8b00a960241e37ba0a60ab580cf2808786310d24d52f",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 79,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Universit%C3%A4t_Bayreuth.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Universit%C3%A4t_Bayreuth.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

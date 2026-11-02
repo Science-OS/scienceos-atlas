@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q63035278",
+ "ids": {
+  "wikidata": "Q63035278",
+  "ror": "05a5cgn70"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/f8/f8c1663f26e859c7a3e1949bfa15cefbe1adf47a2ae1fc73f9618147eb8b529a.webp",
+   "hosted": true,
+   "sha256": "f8c1663f26e859c7a3e1949bfa15cefbe1adf47a2ae1fc73f9618147eb8b529a",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 32,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/XPeng_logo.svg",
+   "license": "Public domain",
+   "attribution": "XPeng Motor",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:XPeng_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

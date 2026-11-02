@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-05n8ah907",
+ "ids": {
+  "wikidata": "Q157062",
+  "ror": "05n8ah907"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/8a/8a96a99ff812019e0b4727817e37f31b9e3a1e943dda12013ead0a20c985c420.webp",
+   "hosted": true,
+   "sha256": "8a96a99ff812019e0b4727817e37f31b9e3a1e943dda12013ead0a20c985c420",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 55,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Unilever_text_logo.svg",
+   "license": "Public domain",
+   "attribution": "Unilever",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Unilever_text_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

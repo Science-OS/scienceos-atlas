@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q129421",
+ "ids": {
+  "wikidata": "Q129421",
+  "ror": "05rrcem69"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/f2/f2c872ced3aae5c9de69d8e9c2e8695247bc09e7cc8fd1a00b82da59ca533cd2.webp",
+   "hosted": true,
+   "sha256": "f2c872ced3aae5c9de69d8e9c2e8695247bc09e7cc8fd1a00b82da59ca533cd2",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_University_of_California_Davis.svg",
+   "license": "Public domain",
+   "attribution": "Original University of California seal: probably Tiffany & Co,; This SVG file: Casecrer",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:The_University_of_California_Davis.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-024d6js02",
+ "ids": {
+  "wikidata": "Q31519",
+  "ror": "024d6js02"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/83/83bfb67107c33b3d0539814e5395f3a4c9a0558e93648c29d871cbbc679af0d9.webp",
+   "hosted": true,
+   "sha256": "83bfb67107c33b3d0539814e5395f3a4c9a0558e93648c29d871cbbc679af0d9",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 23,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Univerzita_Karlova_horizontal_logo_2023.svg",
+   "license": "Public domain",
+   "attribution": "Univerzita Karlova",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Univerzita_Karlova_horizontal_logo_2023.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

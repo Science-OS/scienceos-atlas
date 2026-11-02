@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-051escj72",
+ "ids": {
+  "wikidata": "Q776223",
+  "ror": "051escj72"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.umontpellier.fr/wp-content/uploads/2022/12/logo-um-mini-192x192.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://umontpellier.fr",
+   "attributionUrl": "https://umontpellier.fr",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q4393424",
+ "ids": {
+  "wikidata": "Q4393424",
+  "ror": "02rkvz144"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.nenu.edu.cn/images/favicon.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.nenu.edu.cn",
+   "attributionUrl": "https://www.nenu.edu.cn",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

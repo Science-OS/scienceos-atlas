@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.41930",
+ "ids": {
+  "arxiv": "2610.41930"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e2/e2ddf12f4a5edb5e8724c037ff08696de5a849c2d01852290b92e94b8e92cc3b.jpg",
+   "hosted": true,
+   "sha256": "e2ddf12f4a5edb5e8724c037ff08696de5a849c2d01852290b92e94b8e92cc3b",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 889,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.41930",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Anthony Pasion et al., arXiv:2610.41930",
+   "attributionUrl": "https://arxiv.org/abs/2610.41930",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

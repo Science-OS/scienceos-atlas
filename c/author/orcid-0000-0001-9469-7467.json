@@ -1,0 +1,24 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "orcid-0000-0001-9469-7467",
+ "ids": {
+  "orcid": "0000-0001-9469-7467",
+  "wikidata": "Q57306922",
+  "openalex": "A5102914582",
+  "github": "eccarson"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://github.com/eccarson.png?size=256",
+   "hosted": false,
+   "source": "github",
+   "attribution": "GitHub profile @eccarson",
+   "attributionUrl": "https://github.com/eccarson",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

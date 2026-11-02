@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q3555077",
+ "ids": {
+  "wikidata": "Q3555077",
+  "ror": "056e22e24"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e3/e3a625585c4d8870ec1272e97603c4b90862b53804e8bcfb276e33df73b5902a.webp",
+   "hosted": true,
+   "sha256": "e3a625585c4d8870ec1272e97603c4b90862b53804e8bcfb276e33df73b5902a",
+   "mime": "image/webp",
+   "width": 220,
+   "height": 44,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vaughn_College_logo.gif",
+   "license": "Public domain",
+   "attribution": "Not applicable; contains no original authorship",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Vaughn_College_logo.gif",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

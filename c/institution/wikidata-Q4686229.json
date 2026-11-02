@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q4686229",
+ "ids": {
+  "wikidata": "Q4686229",
+  "ror": "00319zh75"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://als.lbl.gov/wp-content/uploads/2016/07/cropped-favicon-192x192.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://als.lbl.gov",
+   "attributionUrl": "https://als.lbl.gov",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

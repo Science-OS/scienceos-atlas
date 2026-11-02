@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q937482",
+ "ids": {
+  "wikidata": "Q937482",
+  "ror": "028ndzd53"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/fd/fd3206309573b25cca11bf893417b397287a27f9519dc2081d84427fd1864161.webp",
+   "hosted": true,
+   "sha256": "fd3206309573b25cca11bf893417b397287a27f9519dc2081d84427fd1864161",
+   "mime": "image/webp",
+   "width": 200,
+   "height": 106,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Edge_Hill_University_logo.png",
+   "license": "Public domain",
+   "attribution": "Edge Hill University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Edge_Hill_University_logo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

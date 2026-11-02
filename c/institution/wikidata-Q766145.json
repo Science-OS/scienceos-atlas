@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q766145",
+ "ids": {
+  "wikidata": "Q766145",
+  "ror": "0293rh119"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/72/725d94756d0af573f3002bf1bd7e6b8cd52d1130580f6b7199834007626ca4ae.webp",
+   "hosted": true,
+   "sha256": "725d94756d0af573f3002bf1bd7e6b8cd52d1130580f6b7199834007626ca4ae",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 55,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Oregon_logo.svg",
+   "license": "Public domain",
+   "attribution": "University of Oregon",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Oregon_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

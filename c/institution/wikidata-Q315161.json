@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q315161",
+ "ids": {
+  "wikidata": "Q315161",
+  "ror": "00mx91s63"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/bb/bb5a619d58d9dbb22d9fd688cbea2a77abf7ef1f575fe997f667536ac5c616ea.webp",
+   "hosted": true,
+   "sha256": "bb5a619d58d9dbb22d9fd688cbea2a77abf7ef1f575fe997f667536ac5c616ea",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 42,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/KU_Eichst%C3%A4tt-Ingolstadt_Logo.svg",
+   "license": "Public domain",
+   "attribution": "Kommunikation KU",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:KU_Eichst%C3%A4tt-Ingolstadt_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

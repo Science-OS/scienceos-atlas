@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01tm6cn81",
+ "ids": {
+  "wikidata": "Q371522",
+  "ror": "01tm6cn81"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.gu.se/themes/custom/gu_theme_ruby/dist/images/favicons/apple-touch-icon.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.gu.se",
+   "attributionUrl": "https://www.gu.se",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

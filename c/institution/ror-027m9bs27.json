@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-027m9bs27",
+ "ids": {
+  "wikidata": "Q230899",
+  "ror": "027m9bs27"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d6/d6044432bb693282c36e2652f48a838c7ea69fe702ac8b9b7133101bd826c03c.webp",
+   "hosted": true,
+   "sha256": "d6044432bb693282c36e2652f48a838c7ea69fe702ac8b9b7133101bd826c03c",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 80,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Manchester_University_Logo_%282%29.png",
+   "license": "Public domain",
+   "attribution": "Transferred from en.wikipedia to Commons by SreeBot .",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Manchester_University_Logo_(2).png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

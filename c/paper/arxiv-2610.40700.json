@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.40700",
+ "ids": {
+  "arxiv": "2610.40700"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/74/7417f83b9788e04558f107ff7623071f5fc46d4dcb16dae0e3015ac858cc23b9.jpg",
+   "hosted": true,
+   "sha256": "7417f83b9788e04558f107ff7623071f5fc46d4dcb16dae0e3015ac858cc23b9",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.40700",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Caleb N. Ellington et al., arXiv:2610.40700",
+   "attributionUrl": "https://arxiv.org/abs/2610.40700",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

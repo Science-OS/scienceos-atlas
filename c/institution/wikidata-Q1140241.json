@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1140241",
+ "ids": {
+  "wikidata": "Q1140241",
+  "ror": "01q1z8k08"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/2d/2d8653b5f4f13a2c9fdb33f40ecbdb3ccbd93c16b33b1c76dc6dabed7aba2983.webp",
+   "hosted": true,
+   "sha256": "2d8653b5f4f13a2c9fdb33f40ecbdb3ccbd93c16b33b1c76dc6dabed7aba2983",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 126,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/SUNY_brandmark.svg",
+   "license": "Public domain",
+   "attribution": "State University of New York",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:SUNY_brandmark.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}

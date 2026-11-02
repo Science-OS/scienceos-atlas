@@ -1,0 +1,24 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "orcid-0000-0002-5403-6434",
+ "ids": {
+  "orcid": "0000-0002-5403-6434",
+  "wikidata": "Q131673573",
+  "openalex": "A5019525050",
+  "github": "luofuli"
+ },
+ "updatedAt": "2026-11-02T13:42:30Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://github.com/luofuli.png?size=256",
+   "hosted": false,
+   "source": "github",
+   "attribution": "GitHub profile @luofuli",
+   "attributionUrl": "https://github.com/luofuli",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-02T13:42:30Z"
+  }
+ ]
+}
