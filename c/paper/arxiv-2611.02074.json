@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.02074",
+ "ids": {
+  "arxiv": "2611.02074"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/a1/a1822da566da8a44535467aeec5e8a2446ea3ee5afc8dee6fc3db97a9465f921.jpg",
+   "hosted": true,
+   "sha256": "a1822da566da8a44535467aeec5e8a2446ea3ee5afc8dee6fc3db97a9465f921",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.02074",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Ziming Li et al., arXiv:2611.02074",
+   "attributionUrl": "https://arxiv.org/abs/2611.02074",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

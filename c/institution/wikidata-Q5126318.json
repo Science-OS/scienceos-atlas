@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q5126318",
+ "ids": {
+  "wikidata": "Q5126318",
+  "ror": "04n1me355"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/2c/2c276b8bb46b06ac4fcc45bde7420c6133b47c464e4c9f0e62a171147e52faff.webp",
+   "hosted": true,
+   "sha256": "2c276b8bb46b06ac4fcc45bde7420c6133b47c464e4c9f0e62a171147e52faff",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 100,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Claremont_McKenna_College_wordmark.svg",
+   "license": "Public domain",
+   "attribution": "Claremont McKenna College",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Claremont_McKenna_College_wordmark.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

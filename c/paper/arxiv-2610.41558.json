@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.41558",
+ "ids": {
+  "arxiv": "2610.41558"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/23/2369d5ceae69d9d99a21306c1c49b29be1d8ce35863ce0afa94a83ca77d6cd3f.jpg",
+   "hosted": true,
+   "sha256": "2369d5ceae69d9d99a21306c1c49b29be1d8ce35863ce0afa94a83ca77d6cd3f",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.41558",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Jan Kamm et al., arXiv:2610.41558",
+   "attributionUrl": "https://arxiv.org/abs/2610.41558",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q40018",
+ "ids": {
+  "wikidata": "Q40018",
+  "ror": "04xysgw12"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/77/77d67ee5e0c77ed32c527ff9f337442e852593f7f12b8f894bd00f7ef8217693.webp",
+   "hosted": true,
+   "sha256": "77d67ee5e0c77ed32c527ff9f337442e852593f7f12b8f894bd00f7ef8217693",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 22,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Postech_Logotype.svg",
+   "license": "Public domain",
+   "attribution": "Pohang University of Science and Technology",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Postech_Logotype.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

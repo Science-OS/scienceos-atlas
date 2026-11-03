@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.40883",
+ "ids": {
+  "arxiv": "2610.40883"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b7/b78522dc9e2ede90a38ad7cfd6f7d0b72c18f1c9e2f80e120de878c7af02bf9b.jpg",
+   "hosted": true,
+   "sha256": "b78522dc9e2ede90a38ad7cfd6f7d0b72c18f1c9e2f80e120de878c7af02bf9b",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.40883",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Fengji Jing et al., arXiv:2610.40883",
+   "attributionUrl": "https://arxiv.org/abs/2610.40883",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

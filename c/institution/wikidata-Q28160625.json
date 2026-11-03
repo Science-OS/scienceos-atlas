@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q28160625",
+ "ids": {
+  "wikidata": "Q28160625",
+  "ror": "03081nz23"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/5d/5dbf8c482fcb54e9b3b18472ac54a7676843f05f559b87d363f4937a6cc549e9.webp",
+   "hosted": true,
+   "sha256": "5dbf8c482fcb54e9b3b18472ac54a7676843f05f559b87d363f4937a6cc549e9",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 61,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%C4%B0stinye_%C3%9Cniversitesi_logo.svg",
+   "license": "Public domain",
+   "attribution": "İstinye Üniversitesi",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:%C4%B0stinye_%C3%9Cniversitesi_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

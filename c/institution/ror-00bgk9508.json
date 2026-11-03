@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-00bgk9508",
+ "ids": {
+  "wikidata": "Q392897",
+  "ror": "00bgk9508"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/1b/1b7a975661888e3f617d967763587984df1849e75a9faf83e88b1cca4f29fa79.webp",
+   "hosted": true,
+   "sha256": "1b7a975661888e3f617d967763587984df1849e75a9faf83e88b1cca4f29fa79",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 109,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Politecnico_di_Torino_-_wordmark_%28Italy%2C_2021%29.svg",
+   "license": "Public domain",
+   "attribution": "Wellnet; Sixeleven [1]",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Politecnico_di_Torino_-_wordmark_(Italy,_2021).svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

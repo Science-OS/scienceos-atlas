@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q18907470",
+ "ids": {
+  "wikidata": "Q18907470",
+  "ror": "04xa5qt51"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://xlab.si/images/favicon/favicon-196x196.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://xlab.si",
+   "attributionUrl": "https://xlab.si",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04cvxnb49",
+ "ids": {
+  "wikidata": "Q50662",
+  "ror": "04cvxnb49"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/29/29e8df574d8eadcce6adb432d242d94646d60d904db7bc90a4bfad3d527c44f0.webp",
+   "hosted": true,
+   "sha256": "29e8df574d8eadcce6adb432d242d94646d60d904db7bc90a4bfad3d527c44f0",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 140,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo-Goethe-University-Frankfurt-am-Main.svg",
+   "license": "Public domain",
+   "attribution": "Johann-Wolfgang-Goethe-Universität Frankfurt am Main",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo-Goethe-University-Frankfurt-am-Main.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

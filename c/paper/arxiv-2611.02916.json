@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.02916",
+ "ids": {
+  "arxiv": "2611.02916"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/6b/6bd83023e2f58b84d2981ecd10695234c37ff7706a61fa54d8a3f87f5bed0a6b.jpg",
+   "hosted": true,
+   "sha256": "6bd83023e2f58b84d2981ecd10695234c37ff7706a61fa54d8a3f87f5bed0a6b",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.02916",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Björn Lundgren et al., arXiv:2611.02916",
+   "attributionUrl": "https://arxiv.org/abs/2611.02916",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

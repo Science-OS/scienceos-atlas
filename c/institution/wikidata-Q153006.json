@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q153006",
+ "ids": {
+  "wikidata": "Q153006",
+  "ror": "046ak2485"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/2a/2a6b094ad92b46da5e5b5624c75c866eb5897331264268b923742f90d2a4ad48.webp",
+   "hosted": true,
+   "sha256": "2a6b094ad92b46da5e5b5624c75c866eb5897331264268b923742f90d2a4ad48",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 86,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Freie_Universit%C3%A4t_Berlin_Logo_05.2024.svg",
+   "license": "Public domain",
+   "attribution": "Freie Universität Berlin",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Freie_Universit%C3%A4t_Berlin_Logo_05.2024.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

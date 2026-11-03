@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-041nk4h53",
+ "ids": {
+  "wikidata": "Q519826",
+  "ror": "041nk4h53"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/fa/fa9599f3b32b26a6b3bca0affce9e3dbc2bff6d623c9f0522db09b2bc39d80bd.webp",
+   "hosted": true,
+   "sha256": "fa9599f3b32b26a6b3bca0affce9e3dbc2bff6d623c9f0522db09b2bc39d80bd",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 43,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lawrence_Livermore_National_Laboratory_logo.svg",
+   "license": "Public domain",
+   "attribution": "Lawrence Livermore National Laboratory",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Lawrence_Livermore_National_Laboratory_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

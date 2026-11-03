@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.02963",
+ "ids": {
+  "arxiv": "2611.02963"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/cf/cf90dffb2162a949da2336d1ce54d174d7f9bfe6c2230cd736f7d00b4738b39c.jpg",
+   "hosted": true,
+   "sha256": "cf90dffb2162a949da2336d1ce54d174d7f9bfe6c2230cd736f7d00b4738b39c",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.02963",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Yali Aharon-Holzman et al., arXiv:2611.02963",
+   "attributionUrl": "https://arxiv.org/abs/2611.02963",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

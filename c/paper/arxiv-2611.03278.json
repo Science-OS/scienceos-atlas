@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.03278",
+ "ids": {
+  "arxiv": "2611.03278"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/04/04ecc9f0ae9cdd44dbd7acbb3b4f36d47465edd8f7f2bf3985c9ad1e192c1519.jpg",
+   "hosted": true,
+   "sha256": "04ecc9f0ae9cdd44dbd7acbb3b4f36d47465edd8f7f2bf3985c9ad1e192c1519",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.03278",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Pilhwa Lee, arXiv:2611.03278",
+   "attributionUrl": "https://arxiv.org/abs/2611.03278",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

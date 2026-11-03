@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.41563",
+ "ids": {
+  "arxiv": "2610.41563"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/8e/8ecc14b580d6d0d077f8bb14cb2666b54a1fa4695f3bd0baa89ccc21d6e64cb3.jpg",
+   "hosted": true,
+   "sha256": "8ecc14b580d6d0d077f8bb14cb2666b54a1fa4695f3bd0baa89ccc21d6e64cb3",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.41563",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Mahmoud S. Mayaleh et al., arXiv:2610.41563",
+   "attributionUrl": "https://arxiv.org/abs/2610.41563",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

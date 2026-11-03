@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-05qpz1x62",
+ "ids": {
+  "wikidata": "Q154561",
+  "ror": "05qpz1x62"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/30/30af9a1c910a46618eea72f59ff28d8f5b7eee7dcce4e6010bf470f824a626cd.webp",
+   "hosted": true,
+   "sha256": "30af9a1c910a46618eea72f59ff28d8f5b7eee7dcce4e6010bf470f824a626cd",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 102,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_UniJena.svg",
+   "license": "Public domain",
+   "attribution": "Friedrich-Schiller-Universität Jena",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_UniJena.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

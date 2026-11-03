@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-043vm9914",
+ "ids": {
+  "wikidata": "Q30256327",
+  "ror": "043vm9914"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://dsi.us/wp-content/uploads/2017/06/cropped-DSI-site-logo-192x192.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of http://dsi.us/",
+   "attributionUrl": "http://dsi.us/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

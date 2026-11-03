@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.03577",
+ "ids": {
+  "arxiv": "2611.03577"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d3/d3a8e8213a844f36c42e0accb02a76c74f0ce365651aa10f1dd4914a6648da65.jpg",
+   "hosted": true,
+   "sha256": "d3a8e8213a844f36c42e0accb02a76c74f0ce365651aa10f1dd4914a6648da65",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.03577",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Avni Mittal et al., arXiv:2611.03577",
+   "attributionUrl": "https://arxiv.org/abs/2611.03577",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

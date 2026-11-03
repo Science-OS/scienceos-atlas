@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.40759",
+ "ids": {
+  "arxiv": "2610.40759"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b6/b6a1f18b0a3654155f84f0ca8b067ecc8ec3e5d6876e3140f6d4264ceea4de2b.jpg",
+   "hosted": true,
+   "sha256": "b6a1f18b0a3654155f84f0ca8b067ecc8ec3e5d6876e3140f6d4264ceea4de2b",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.40759",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Phillip Long et al., arXiv:2610.40759",
+   "attributionUrl": "https://arxiv.org/abs/2610.40759",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

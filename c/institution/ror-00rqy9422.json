@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-00rqy9422",
+ "ids": {
+  "wikidata": "Q866012",
+  "ror": "00rqy9422"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://static.uq.net.au/v10/logos/corporate/uq-apple-touch-icon.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.uq.edu.au",
+   "attributionUrl": "https://www.uq.edu.au",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

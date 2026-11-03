@@ -1,0 +1,30 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "orcid-0000-0003-3626-6700",
+ "ids": {
+  "orcid": "0000-0003-3626-6700",
+  "wikidata": "Q103329073",
+  "openalex": "A5091000281"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/4e/4e53ea7be0b073cf21aa956cee3f2ee530305f0f939d5efb806afca6f67bb203.webp",
+   "hosted": true,
+   "sha256": "4e53ea7be0b073cf21aa956cee3f2ee530305f0f939d5efb806afca6f67bb203",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 168,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Benjamin_Gess_Oberwolfach_2025.jpg",
+   "license": "CC BY-SA 2.0 de",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+   "attribution": "Marlene Ruf",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Benjamin_Gess_Oberwolfach_2025.jpg",
+   "confidence": 0.95,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

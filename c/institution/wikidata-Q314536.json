@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q314536",
+ "ids": {
+  "wikidata": "Q314536",
+  "ror": "05xg72x27"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/2a/2a4fba5af2035bddf449f463625f35c7ecb917562f399b6a21a9ad05fe960393.webp",
+   "hosted": true,
+   "sha256": "2a4fba5af2035bddf449f463625f35c7ecb917562f399b6a21a9ad05fe960393",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 47,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/NTNU-logo.svg",
+   "license": "Public domain",
+   "attribution": "Hele logoen: NTNU Det blå symbolet: Bruno Oldani",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:NTNU-logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

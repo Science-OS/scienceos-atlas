@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.41690",
+ "ids": {
+  "arxiv": "2610.41690"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/f4/f44dd19c87399cfcacbbb0cf066f1dc28f0a3ea278b5bc9bffe8be8a51f995ea.jpg",
+   "hosted": true,
+   "sha256": "f44dd19c87399cfcacbbb0cf066f1dc28f0a3ea278b5bc9bffe8be8a51f995ea",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 819,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.41690",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Krishnan Suresh, arXiv:2610.41690",
+   "attributionUrl": "https://arxiv.org/abs/2610.41690",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

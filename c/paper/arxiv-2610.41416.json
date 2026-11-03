@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.41416",
+ "ids": {
+  "arxiv": "2610.41416"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/7f/7f2fe0f68908c050c092536767f561307d6181a13495e6fc96137340b6c85fc5.jpg",
+   "hosted": true,
+   "sha256": "7f2fe0f68908c050c092536767f561307d6181a13495e6fc96137340b6c85fc5",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.41416",
+   "license": "CC0 1.0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0",
+   "attribution": "Guangchen Chen et al., arXiv:2610.41416",
+   "attributionUrl": "https://arxiv.org/abs/2610.41416",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

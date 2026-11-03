@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.42043",
+ "ids": {
+  "arxiv": "2610.42043"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/66/66019ecdc8a410d3df1e35a5bb3da5a523a0982ed15da4356d1365d35403fbdf.jpg",
+   "hosted": true,
+   "sha256": "66019ecdc8a410d3df1e35a5bb3da5a523a0982ed15da4356d1365d35403fbdf",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.42043",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Amit Jain et al., arXiv:2610.42043",
+   "attributionUrl": "https://arxiv.org/abs/2610.42043",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.42071",
+ "ids": {
+  "arxiv": "2610.42071"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ef/efcc394634f827f9c8bb2b6ab09cc040495f31670c8ba3261a6975428fc9ac98.jpg",
+   "hosted": true,
+   "sha256": "efcc394634f827f9c8bb2b6ab09cc040495f31670c8ba3261a6975428fc9ac98",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.42071",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Jonas Bresch et al., arXiv:2610.42071",
+   "attributionUrl": "https://arxiv.org/abs/2610.42071",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

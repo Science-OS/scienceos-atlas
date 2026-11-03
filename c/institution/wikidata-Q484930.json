@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q484930",
+ "ids": {
+  "wikidata": "Q484930",
+  "ror": "01545pm61"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/78/78a06224f1a3ba62e3a76838fde5b0b750a7dead147569b4baa48be33c71c6f9.webp",
+   "hosted": true,
+   "sha256": "78a06224f1a3ba62e3a76838fde5b0b750a7dead147569b4baa48be33c71c6f9",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 103,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Analog_Devices_Logo.svg",
+   "license": "Public domain",
+   "attribution": "Connormah",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Analog_Devices_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

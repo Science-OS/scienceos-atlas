@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04tj63d06",
+ "ids": {
+  "wikidata": "Q1132346",
+  "ror": "04tj63d06"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/34/34d03487f1186b182e7b29bd26eeb99ded824c15cc958d499261c3e5fdef2011.webp",
+   "hosted": true,
+   "sha256": "34d03487f1186b182e7b29bd26eeb99ded824c15cc958d499261c3e5fdef2011",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 123,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/NC_State_University_brick_logo.svg",
+   "license": "Public domain",
+   "attribution": "NC State University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:NC_State_University_brick_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

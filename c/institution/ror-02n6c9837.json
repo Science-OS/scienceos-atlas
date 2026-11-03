@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02n6c9837",
+ "ids": {
+  "wikidata": "Q158205",
+  "ror": "02n6c9837"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/98/98891e1fc6fe69ac99464dee86d976f9d2f4e0ae8268c5bf0c9282d20570e9ec.webp",
+   "hosted": true,
+   "sha256": "98891e1fc6fe69ac99464dee86d976f9d2f4e0ae8268c5bf0c9282d20570e9ec",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 68,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sanofi-2022.svg",
+   "license": "Public domain",
+   "attribution": "Sanofi",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Sanofi-2022.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

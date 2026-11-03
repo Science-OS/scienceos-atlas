@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.02897",
+ "ids": {
+  "arxiv": "2611.02897"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d4/d465492b38cbaea1e91de137178e668b55404126c07e89c05eec6756cf3ae000.jpg",
+   "hosted": true,
+   "sha256": "d465492b38cbaea1e91de137178e668b55404126c07e89c05eec6756cf3ae000",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.02897",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Yuan-Kang Lee et al., arXiv:2611.02897",
+   "attributionUrl": "https://arxiv.org/abs/2611.02897",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

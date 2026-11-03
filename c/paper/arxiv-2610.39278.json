@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.39278",
+ "ids": {
+  "arxiv": "2610.39278"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/30/30bb2b517e0d6eab1bd498b61e4e4b9d0b8e5e87e30e3675194f97fe88a0e066.jpg",
+   "hosted": true,
+   "sha256": "30bb2b517e0d6eab1bd498b61e4e4b9d0b8e5e87e30e3675194f97fe88a0e066",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.39278",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Yuhao Lu et al., arXiv:2610.39278",
+   "attributionUrl": "https://arxiv.org/abs/2610.39278",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

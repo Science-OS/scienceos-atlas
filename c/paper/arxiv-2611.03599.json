@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.03599",
+ "ids": {
+  "arxiv": "2611.03599"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/04/048eeab9bd303a31e8c7b6fe09acd0e3d528932873eef2fbab81f695bf90e013.jpg",
+   "hosted": true,
+   "sha256": "048eeab9bd303a31e8c7b6fe09acd0e3d528932873eef2fbab81f695bf90e013",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.03599",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Mahdi Haghifam et al., arXiv:2611.03599",
+   "attributionUrl": "https://arxiv.org/abs/2611.03599",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

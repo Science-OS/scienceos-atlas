@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-012ajp527",
+ "ids": {
+  "wikidata": "Q1231433",
+  "ror": "012ajp527"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d7/d79b94f3f76ec5645a12353e583db8d00654eecb1fa86670eb81cb244fbe7a88.webp",
+   "hosted": true,
+   "sha256": "d79b94f3f76ec5645a12353e583db8d00654eecb1fa86670eb81cb244fbe7a88",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 205,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Free_University_of_Bozen-Bolzano_logo.svg",
+   "license": "Public domain",
+   "attribution": "Free University of Bozen-Bolzano",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Free_University_of_Bozen-Bolzano_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

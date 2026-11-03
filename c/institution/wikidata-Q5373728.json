@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q5373728",
+ "ids": {
+  "wikidata": "Q5373728",
+  "ror": "05dm4ck87"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/9f/9fd825362b0f25f59875505260589133409725dd7cee2973771b94aae2878f85.webp",
+   "hosted": true,
+   "sha256": "9fd825362b0f25f59875505260589133409725dd7cee2973771b94aae2878f85",
+   "mime": "image/webp",
+   "width": 204,
+   "height": 70,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/NewEmoryHealthcare.png",
+   "license": "Public domain",
+   "attribution": "Emory Healthcare",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:NewEmoryHealthcare.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

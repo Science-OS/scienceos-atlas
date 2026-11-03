@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.02956",
+ "ids": {
+  "arxiv": "2611.02956"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/a8/a8d8286a2b7b66d42b1745f0a306738ec9e5a2f719bcd10a04f8430bb8925884.jpg",
+   "hosted": true,
+   "sha256": "a8d8286a2b7b66d42b1745f0a306738ec9e5a2f719bcd10a04f8430bb8925884",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.02956",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Roman Vashurin et al., arXiv:2611.02956",
+   "attributionUrl": "https://arxiv.org/abs/2611.02956",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

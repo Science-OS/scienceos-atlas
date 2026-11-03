@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-0022nd079",
+ "ids": {
+  "wikidata": "Q3518863",
+  "ror": "0022nd079"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://iitg.ac.in/favicon/android-icon-192x192.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://iitg.ac.in",
+   "attributionUrl": "https://iitg.ac.in",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

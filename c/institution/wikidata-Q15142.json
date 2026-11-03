@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q15142",
+ "ids": {
+  "wikidata": "Q15142",
+  "ror": "0072zz521"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/0a/0ae06b9ad75951deb90618fc14cddae686e48a68bf852bc66080f6befb6ac5fa.webp",
+   "hosted": true,
+   "sha256": "0ae06b9ad75951deb90618fc14cddae686e48a68bf852bc66080f6befb6ac5fa",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 33,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/UMassAmherst_logo.png",
+   "license": "Public domain",
+   "attribution": "The original uploader was Meganfoxx at English Wikipedia .",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:UMassAmherst_logo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

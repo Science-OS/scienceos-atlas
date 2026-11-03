@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04cpx2569",
+ "ids": {
+  "wikidata": "Q7410499",
+  "ror": "04cpx2569"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c8/c86bc63e89a83e0e870c579b51d3a476a82be1d886cecb83744a1fa76c9d2a13.webp",
+   "hosted": true,
+   "sha256": "c86bc63e89a83e0e870c579b51d3a476a82be1d886cecb83744a1fa76c9d2a13",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 85,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Samsung_old_logo_before_year_2015.svg",
+   "license": "Public domain",
+   "attribution": "Samsung",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Samsung_old_logo_before_year_2015.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

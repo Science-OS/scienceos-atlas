@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.40943",
+ "ids": {
+  "arxiv": "2610.40943"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b7/b7b7820e4846d53017788b24c9e80fa7b6d01e3a2f29e9c7be1d8083ca239d14.jpg",
+   "hosted": true,
+   "sha256": "b7b7820e4846d53017788b24c9e80fa7b6d01e3a2f29e9c7be1d8083ca239d14",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.40943",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Michel Fabrice Serret et al., arXiv:2610.40943",
+   "attributionUrl": "https://arxiv.org/abs/2610.40943",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

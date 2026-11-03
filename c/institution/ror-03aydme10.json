@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03aydme10",
+ "ids": {
+  "wikidata": "Q672416",
+  "ror": "03aydme10"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/f9/f9ff3cb6a6a15222235a6c82b91a880e0a0e4ae6d077d4f89113e0ee4495510a.webp",
+   "hosted": true,
+   "sha256": "f9ff3cb6a6a15222235a6c82b91a880e0a0e4ae6d077d4f89113e0ee4495510a",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 154,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Official_logo_SNS.svg",
+   "license": "Public domain",
+   "attribution": "Ufficio Comunicazione Scuola Normale Superiore",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Official_logo_SNS.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

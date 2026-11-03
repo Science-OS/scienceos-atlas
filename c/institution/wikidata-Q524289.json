@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q524289",
+ "ids": {
+  "wikidata": "Q524289",
+  "ror": "0175hh227"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/f4/f42ea886321b992036312605e8f33f969e30dc4568e3644f0710df81628c12fd.webp",
+   "hosted": true,
+   "sha256": "f42ea886321b992036312605e8f33f969e30dc4568e3644f0710df81628c12fd",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 50,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/CNAM_Logo.svg",
+   "license": "Public domain",
+   "attribution": "Conservatoire national des arts et métiers",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:CNAM_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

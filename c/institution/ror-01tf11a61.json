@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01tf11a61",
+ "ids": {
+  "wikidata": "Q3664704",
+  "ror": "01tf11a61"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.cmcc.it&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "https://www.cmcc.it",
+   "confidence": 0.5,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

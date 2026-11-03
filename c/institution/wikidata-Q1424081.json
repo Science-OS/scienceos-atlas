@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1424081",
+ "ids": {
+  "wikidata": "Q1424081",
+  "ror": "02kswqa67"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/4e/4eebbd7dda6cb1d0774bbf0045efca4426ff02eee2ea3174833f5fec9bf13c26.webp",
+   "hosted": true,
+   "sha256": "4eebbd7dda6cb1d0774bbf0045efca4426ff02eee2ea3174833f5fec9bf13c26",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 81,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Marmara_University_logo.svg",
+   "license": "Public domain",
+   "attribution": "Marmara University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Marmara_University_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

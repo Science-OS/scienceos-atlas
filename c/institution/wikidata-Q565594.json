@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q565594",
+ "ids": {
+  "wikidata": "Q565594",
+  "ror": "038483r84"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/6b/6ba7558be125004219addde71db6d4e4a37d97bfde4ea11fb6cf16f8fabe892d.webp",
+   "hosted": true,
+   "sha256": "6ba7558be125004219addde71db6d4e4a37d97bfde4ea11fb6cf16f8fabe892d",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 140,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Eni_wordmark.svg",
+   "license": "Public domain",
+   "attribution": "Eni SpA",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Eni_wordmark.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

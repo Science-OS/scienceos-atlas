@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1471684",
+ "ids": {
+  "wikidata": "Q1471684",
+  "ror": "04v4g9h31"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.uth.gr&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "https://www.uth.gr",
+   "confidence": 0.5,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

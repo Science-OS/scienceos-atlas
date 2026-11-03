@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1781394",
+ "ids": {
+  "wikidata": "Q1781394",
+  "ror": "049emcs32"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/98/98d082b4c5d859862b830804750446b044aadbc68226259fd3a68d2153532e4e.webp",
+   "hosted": true,
+   "sha256": "98d082b4c5d859862b830804750446b044aadbc68226259fd3a68d2153532e4e",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 179,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/UT_Dallas_Wordmark_-_-_SVG_Brand_Identity_File.svg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "The University of Texas at Dallas",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:UT_Dallas_Wordmark_-_-_SVG_Brand_Identity_File.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

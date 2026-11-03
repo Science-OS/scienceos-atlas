@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-0575yy874",
+ "ids": {
+  "wikidata": "Q2456800",
+  "ror": "0575yy874"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/02/02e8a71e4c9315dc89a499446c76c7a0d3acc6987f176d70514ab06d503663d8.webp",
+   "hosted": true,
+   "sha256": "02e8a71e4c9315dc89a499446c76c7a0d3acc6987f176d70514ab06d503663d8",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 75,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_of_UMC_Utrecht_%282019%29.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_of_UMC_Utrecht_(2019).svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

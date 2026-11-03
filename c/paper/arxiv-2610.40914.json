@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.40914",
+ "ids": {
+  "arxiv": "2610.40914"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/20/20d74bb0588d8e1be6ec6ccc605af503d9a08e184bf18a85d377fdff52be545a.jpg",
+   "hosted": true,
+   "sha256": "20d74bb0588d8e1be6ec6ccc605af503d9a08e184bf18a85d377fdff52be545a",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.40914",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Junha Park et al., arXiv:2610.40914",
+   "attributionUrl": "https://arxiv.org/abs/2610.40914",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

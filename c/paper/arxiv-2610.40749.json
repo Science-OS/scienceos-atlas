@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.40749",
+ "ids": {
+  "arxiv": "2610.40749"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/46/46354f3788a5c7f3e39dbcb73deabc7292f906b2de4e02d5d7b58e6c8b99dc0e.jpg",
+   "hosted": true,
+   "sha256": "46354f3788a5c7f3e39dbcb73deabc7292f906b2de4e02d5d7b58e6c8b99dc0e",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.40749",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "John Alison et al., arXiv:2610.40749",
+   "attributionUrl": "https://arxiv.org/abs/2610.40749",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

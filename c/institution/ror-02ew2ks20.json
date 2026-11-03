@@ -1,0 +1,21 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02ew2ks20",
+ "ids": {
+  "ror": "02ew2ks20"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.softbank.jp%2Fen%2F&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "https://www.softbank.jp/en/",
+   "confidence": 0.5,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

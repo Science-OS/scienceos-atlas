@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.41104",
+ "ids": {
+  "arxiv": "2610.41104"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/f1/f17cb7ac750482c6d6b4722c90544a261782067db1c1ec378283e5e2f191efd5.jpg",
+   "hosted": true,
+   "sha256": "f17cb7ac750482c6d6b4722c90544a261782067db1c1ec378283e5e2f191efd5",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.41104",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Aryan Das et al., arXiv:2610.41104",
+   "attributionUrl": "https://arxiv.org/abs/2610.41104",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

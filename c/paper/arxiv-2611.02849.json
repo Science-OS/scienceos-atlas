@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.02849",
+ "ids": {
+  "arxiv": "2611.02849"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/13/131cd2ce8b2dc0ddadb23aad30ff48a2636bea32c1a0a1d6db0fafadcdcad388.jpg",
+   "hosted": true,
+   "sha256": "131cd2ce8b2dc0ddadb23aad30ff48a2636bea32c1a0a1d6db0fafadcdcad388",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.02849",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Qian Cheng et al., arXiv:2611.02849",
+   "attributionUrl": "https://arxiv.org/abs/2611.02849",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

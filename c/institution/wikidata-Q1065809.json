@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1065809",
+ "ids": {
+  "wikidata": "Q1065809",
+  "ror": "02gz6gg07"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/70/70c83a0ad12fae0560698cae6e627be7fa981be360ef32fb05762e556d31762e.webp",
+   "hosted": true,
+   "sha256": "70c83a0ad12fae0560698cae6e627be7fa981be360ef32fb05762e556d31762e",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 47,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Florida_International_University_logo.svg",
+   "license": "Public domain",
+   "attribution": "Florida International University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Florida_International_University_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

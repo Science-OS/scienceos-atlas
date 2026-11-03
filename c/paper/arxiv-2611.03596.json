@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.03596",
+ "ids": {
+  "arxiv": "2611.03596"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/bb/bb4715d48ec079d85d27e42368566b3f6376f5633b3cc8cb0f0cd1717e923bc0.jpg",
+   "hosted": true,
+   "sha256": "bb4715d48ec079d85d27e42368566b3f6376f5633b3cc8cb0f0cd1717e923bc0",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.03596",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Philip A. LeMaitre et al., arXiv:2611.03596",
+   "attributionUrl": "https://arxiv.org/abs/2611.03596",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

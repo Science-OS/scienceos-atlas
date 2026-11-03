@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q55619051",
+ "ids": {
+  "wikidata": "Q55619051",
+  "ror": "04t0qbt32"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/6e/6eb14966fd53b501b474cb9876087e0696de2bf973b726803b7f5cd153088d62.webp",
+   "hosted": true,
+   "sha256": "6eb14966fd53b501b474cb9876087e0696de2bf973b726803b7f5cd153088d62",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 147,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/TU_Dublin_Logo.svg",
+   "license": "Public domain",
+   "attribution": "Technological University Dublin",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:TU_Dublin_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

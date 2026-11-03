@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q192314",
+ "ids": {
+  "wikidata": "Q192314",
+  "ror": "01x3kkr08"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/2a/2aabc3100a5005f40b6b05c85adc49c4646d8194a8486c2a4817afeb843872d7.webp",
+   "hosted": true,
+   "sha256": "2aabc3100a5005f40b6b05c85adc49c4646d8194a8486c2a4817afeb843872d7",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 36,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_of_JPMorganChase_2024.svg",
+   "license": "Public domain",
+   "attribution": "JPMorgan Chase & Co.",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_of_JPMorganChase_2024.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

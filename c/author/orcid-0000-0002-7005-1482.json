@@ -1,0 +1,30 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "orcid-0000-0002-7005-1482",
+ "ids": {
+  "orcid": "0000-0002-7005-1482",
+  "wikidata": "Q7794768",
+  "openalex": "A5079825006"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/0c/0ce9625141c37eda2019d46ca01671a9e792dd62d87ae133701832e6b3760c37.webp",
+   "hosted": true,
+   "sha256": "0ce9625141c37eda2019d46ca01671a9e792dd62d87ae133701832e6b3760c37",
+   "mime": "image/webp",
+   "width": 184,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tom_W_Malone%2C_Webshop_2011%2C_University_of_Maryland.jpg",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+   "attribution": "Marc Smith",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Tom_W_Malone,_Webshop_2011,_University_of_Maryland.jpg",
+   "confidence": 0.95,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

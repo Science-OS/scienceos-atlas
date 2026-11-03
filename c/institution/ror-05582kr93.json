@@ -1,0 +1,21 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-05582kr93",
+ "ids": {
+  "ror": "05582kr93"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http%3A%2F%2Fwww.analog.com%2Fen%2Fabout-adi%2Fcorporate-information%2Fregional-headquarters%2Fdirections-to-analog-devices-international.html&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "http://www.analog.com/en/about-adi/corporate-information/regional-headquarters/directions-to-analog-devices-international.html",
+   "confidence": 0.5,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

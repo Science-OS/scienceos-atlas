@@ -1,0 +1,21 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-0253jyq40",
+ "ids": {
+  "ror": "0253jyq40"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.media.mit.edu/static/images/icons/android-icon-192x192.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.media.mit.edu",
+   "attributionUrl": "https://www.media.mit.edu",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}

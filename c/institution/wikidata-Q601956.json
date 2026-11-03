@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q601956",
+ "ids": {
+  "wikidata": "Q601956",
+  "ror": "04m5j1k67"
+ },
+ "updatedAt": "2026-11-03T12:55:12Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/6e/6e7074964e10c9bb43cea2221b0e30c6cd6f4e472863f3d022869be7741fe074.webp",
+   "hosted": true,
+   "sha256": "6e7074964e10c9bb43cea2221b0e30c6cd6f4e472863f3d022869be7741fe074",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 45,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Universit%C3%A4t_Aalborg_Logo.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Universit%C3%A4t_Aalborg_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-03T12:55:12Z"
+  }
+ ]
+}
