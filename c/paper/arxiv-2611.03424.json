@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.03424",
+ "ids": {
+  "arxiv": "2611.03424"
+ },
+ "updatedAt": "2026-11-04T13:09:00Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/2d/2dfa03fafc9a8737430d69b373f6fe4bc120a86728916216b5e7991f7dd3f0b0.jpg",
+   "hosted": true,
+   "sha256": "2dfa03fafc9a8737430d69b373f6fe4bc120a86728916216b5e7991f7dd3f0b0",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.03424",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Shanshan Zhong et al., arXiv:2611.03424",
+   "attributionUrl": "https://arxiv.org/abs/2611.03424",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-04T13:09:00Z"
+  }
+ ]
+}

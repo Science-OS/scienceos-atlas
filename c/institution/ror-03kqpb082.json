@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03kqpb082",
+ "ids": {
+  "wikidata": "Q1329478",
+  "ror": "03kqpb082"
+ },
+ "updatedAt": "2026-11-04T13:09:00Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/3d/3d4f1fd285f961a6b590d9304190015f223dfee174f4793ba40b6b095b218e68.webp",
+   "hosted": true,
+   "sha256": "3d4f1fd285f961a6b590d9304190015f223dfee174f4793ba40b6b095b218e68",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 125,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/CVUT_logo.jpg",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "attribution": "České vysoké učení technické v Praze",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:CVUT_logo.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-04T13:09:00Z"
+  }
+ ]
+}

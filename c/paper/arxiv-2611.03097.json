@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.03097",
+ "ids": {
+  "arxiv": "2611.03097"
+ },
+ "updatedAt": "2026-11-04T13:09:00Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/a3/a34a8cc98bb298e3241530718fb0e2cdfe46cb49f775720ba4e18eef2e896562.jpg",
+   "hosted": true,
+   "sha256": "a34a8cc98bb298e3241530718fb0e2cdfe46cb49f775720ba4e18eef2e896562",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.03097",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Tiansheng Hu et al., arXiv:2611.03097",
+   "attributionUrl": "https://arxiv.org/abs/2611.03097",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-04T13:09:00Z"
+  }
+ ]
+}

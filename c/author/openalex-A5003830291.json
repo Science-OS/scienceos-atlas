@@ -1,0 +1,41 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "openalex-A5003830291",
+ "ids": {
+  "orcid": "0000-0001-8457-3866",
+  "wikidata": "Q135913272",
+  "openalex": "A5003830291",
+  "github": "ftosoni"
+ },
+ "updatedAt": "2026-11-04T13:09:00Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/2c/2c6a32ab18d11941569ce573814c3b6caaf478859cc3a125f527c0b09696464a.webp",
+   "hosted": true,
+   "sha256": "2c6a32ab18d11941569ce573814c3b6caaf478859cc3a125f527c0b09696464a",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 171,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Francesco_Tosoni_alle_Ninfee_di_Monet%2C_Orangerie%2C_Parigi_%2800462%29.jpg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Elarionne",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Francesco_Tosoni_alle_Ninfee_di_Monet,_Orangerie,_Parigi_(00462).jpg",
+   "confidence": 0.95,
+   "fetchedAt": "2026-11-04T13:09:00Z"
+  },
+  {
+   "role": "photo",
+   "url": "https://github.com/ftosoni.png?size=256",
+   "hosted": false,
+   "source": "github",
+   "attribution": "GitHub profile @ftosoni",
+   "attributionUrl": "https://github.com/ftosoni",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-04T13:09:00Z"
+  }
+ ]
+}

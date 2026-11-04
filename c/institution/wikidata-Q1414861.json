@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1414861",
+ "ids": {
+  "wikidata": "Q1414861",
+  "ror": "03yghzc09"
+ },
+ "updatedAt": "2026-11-04T13:09:00Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/1a/1a760324778a5a283c5e8dbfb1c62048bb6eeb59f7fdd48bea982282e53086f4.webp",
+   "hosted": true,
+   "sha256": "1a760324778a5a283c5e8dbfb1c62048bb6eeb59f7fdd48bea982282e53086f4",
+   "mime": "image/webp",
+   "width": 200,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Exepos%C3%A9_Logo_2012_-_present_%28cropped%29.jpg",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "attribution": "Cryek",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Exepos%C3%A9_Logo_2012_-_present_(cropped).jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-04T13:09:00Z"
+  }
+ ]
+}

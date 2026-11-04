@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03qvtpc38",
+ "ids": {
+  "wikidata": "Q626783",
+  "ror": "03qvtpc38"
+ },
+ "updatedAt": "2026-11-04T13:09:00Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/fe/fedd44abf955c3a43639193ba1850a729be4e55af5d10f6a18e4c3d751dd589a.webp",
+   "hosted": true,
+   "sha256": "fedd44abf955c3a43639193ba1850a729be4e55af5d10f6a18e4c3d751dd589a",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 95,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Daulogu.png",
+   "license": "Public domain",
+   "attribution": "dongau",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Daulogu.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-04T13:09:00Z"
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q7894646",
+ "ids": {
+  "wikidata": "Q7894646",
+  "ror": "00f72x493"
+ },
+ "updatedAt": "2026-11-04T13:09:00Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http%3A%2F%2Fen.ucas.edu.ps%2Fdefault.aspx&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "http://en.ucas.edu.ps/default.aspx",
+   "confidence": 0.5,
+   "fetchedAt": "2026-11-04T13:09:00Z"
+  }
+ ]
+}

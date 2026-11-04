@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.39813",
+ "ids": {
+  "arxiv": "2610.39813"
+ },
+ "updatedAt": "2026-11-04T13:09:00Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/21/21aa55662bed4333848ed2eac3e883438719fcfc15a86815c5eb3a0499ad8dba.jpg",
+   "hosted": true,
+   "sha256": "21aa55662bed4333848ed2eac3e883438719fcfc15a86815c5eb3a0499ad8dba",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.39813",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Qinuo Cao et al., arXiv:2610.39813",
+   "attributionUrl": "https://arxiv.org/abs/2610.39813",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-04T13:09:00Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q682739",
+ "ids": {
+  "wikidata": "Q682739",
+  "ror": "052r2xn60"
+ },
+ "updatedAt": "2026-11-04T13:09:00Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/16/16cee1fa1238d74b9a48a3bb63aec86a92f5232b3e442bd113e05a856be14a59.webp",
+   "hosted": true,
+   "sha256": "16cee1fa1238d74b9a48a3bb63aec86a92f5232b3e442bd113e05a856be14a59",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 123,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/JKU_Logo.svg",
+   "license": "Public domain",
+   "attribution": "JKU Linz",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:JKU_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-04T13:09:00Z"
+  }
+ ]
+}

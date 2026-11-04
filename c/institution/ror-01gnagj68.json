@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01gnagj68",
+ "ids": {
+  "wikidata": "Q19840740",
+  "ror": "01gnagj68"
+ },
+ "updatedAt": "2026-11-04T13:09:00Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/97/97478dbff1cc7a2107d6f234aa7230eaee0effb62767664259225f8f6c2aaff5.webp",
+   "hosted": true,
+   "sha256": "97478dbff1cc7a2107d6f234aa7230eaee0effb62767664259225f8f6c2aaff5",
+   "mime": "image/webp",
+   "width": 111,
+   "height": 53,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/SIRC-TCM_Logo.png",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Herbalpop",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:SIRC-TCM_Logo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-04T13:09:00Z"
+  }
+ ]
+}

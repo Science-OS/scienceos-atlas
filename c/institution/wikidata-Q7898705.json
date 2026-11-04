@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q7898705",
+ "ids": {
+  "wikidata": "Q7898705",
+  "ror": "02jhx4860"
+ },
+ "updatedAt": "2026-11-04T13:09:00Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d7/d7e6e62e9bb4bc51163a32a95d170b5fd2a51af2890a10e9046e87ed377dcb5c.webp",
+   "hosted": true,
+   "sha256": "d7e6e62e9bb4bc51163a32a95d170b5fd2a51af2890a10e9046e87ed377dcb5c",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 52,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Upper_iowa_univ_logo.png",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Upper_iowa_univ_logo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-04T13:09:00Z"
+  }
+ ]
+}

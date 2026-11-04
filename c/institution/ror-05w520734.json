@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-05w520734",
+ "ids": {
+  "wikidata": "Q16002567",
+  "ror": "05w520734"
+ },
+ "updatedAt": "2026-11-04T13:09:00Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/70/708e1d4e6b6132e64ef9441914e29b6a999d1e780f6ca8ac514962c3e75fb259.webp",
+   "hosted": true,
+   "sha256": "708e1d4e6b6132e64ef9441914e29b6a999d1e780f6ca8ac514962c3e75fb259",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 81,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Allen_Institute_for_Artificial_Intelligence.svg",
+   "license": "Public domain",
+   "attribution": "Allen Institute for AI",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Allen_Institute_for_Artificial_Intelligence.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-04T13:09:00Z"
+  }
+ ]
+}

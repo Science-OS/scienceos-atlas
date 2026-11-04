@@ -1,0 +1,24 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "openalex-A5066564672",
+ "ids": {
+  "orcid": "0000-0002-8266-2424",
+  "wikidata": "Q127420844",
+  "openalex": "A5066564672",
+  "github": "goldblum"
+ },
+ "updatedAt": "2026-11-04T13:09:00Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://github.com/goldblum.png?size=256",
+   "hosted": false,
+   "source": "github",
+   "attribution": "GitHub profile @goldblum",
+   "attributionUrl": "https://github.com/goldblum",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-04T13:09:00Z"
+  }
+ ]
+}

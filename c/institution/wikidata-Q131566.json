@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q131566",
+ "ids": {
+  "wikidata": "Q131566",
+  "ror": "01n002310"
+ },
+ "updatedAt": "2026-11-04T13:09:00Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/85/850e164720177fa517fbc3df5dfdda8e58478c7489fcb99cceae68e56e8ec6c6.webp",
+   "hosted": true,
+   "sha256": "850e164720177fa517fbc3df5dfdda8e58478c7489fcb99cceae68e56e8ec6c6",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 144,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/IEEE_logo.svg",
+   "license": "Public domain",
+   "attribution": "Institute of Electrical and Electronics Engineers",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:IEEE_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-04T13:09:00Z"
+  }
+ ]
+}

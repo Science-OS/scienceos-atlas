@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-025602r80",
+ "ids": {
+  "wikidata": "Q774609",
+  "ror": "025602r80"
+ },
+ "updatedAt": "2026-11-04T13:09:00Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/09/0995f1e12bc8c80f5678940d07599f351636ad8115fb4d61ce52184f4447c810.webp",
+   "hosted": true,
+   "sha256": "0995f1e12bc8c80f5678940d07599f351636ad8115fb4d61ce52184f4447c810",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 181,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sant%27Anna_School_of_Advanced_Studies_Logo_ENG.png",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Sant'Anna School of Advanced Studies",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Sant%27Anna_School_of_Advanced_Studies_Logo_ENG.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-04T13:09:00Z"
+  }
+ ]
+}

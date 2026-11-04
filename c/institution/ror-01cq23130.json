@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01cq23130",
+ "ids": {
+  "wikidata": "Q2094177",
+  "ror": "01cq23130"
+ },
+ "updatedAt": "2026-11-04T13:09:00Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/14/1476e5ed39d8ef9fedc9d3f0e05c909f293f6b46fa2feee839471dafcae8a64d.webp",
+   "hosted": true,
+   "sha256": "1476e5ed39d8ef9fedc9d3f0e05c909f293f6b46fa2feee839471dafcae8a64d",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 84,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Memphis_wordmark.svg",
+   "license": "Public domain",
+   "attribution": "University of Memphis",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Memphis_wordmark.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-04T13:09:00Z"
+  }
+ ]
+}

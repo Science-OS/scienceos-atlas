@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.37914",
+ "ids": {
+  "arxiv": "2610.37914"
+ },
+ "updatedAt": "2026-11-04T13:09:00Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e7/e7872a2d14e88999ce7956af249a90ae06aee8860dc273a22afc8e3f4426dbff.jpg",
+   "hosted": true,
+   "sha256": "e7872a2d14e88999ce7956af249a90ae06aee8860dc273a22afc8e3f4426dbff",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.37914",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Marcos Hernanz, arXiv:2610.37914",
+   "attributionUrl": "https://arxiv.org/abs/2610.37914",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-04T13:09:00Z"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "orcid-0000-0002-8315-4886",
+ "ids": {
+  "orcid": "0000-0002-8315-4886",
+  "wikidata": "Q3229792",
+  "openalex": "A5065368881"
+ },
+ "updatedAt": "2026-11-04T13:09:00Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ee/ee528a17781632a68a4c48d4fcef330509f3e34bd5c250f1cf1e1c31bd4c334d.webp",
+   "hosted": true,
+   "sha256": "ee528a17781632a68a4c48d4fcef330509f3e34bd5c250f1cf1e1c31bd4c334d",
+   "mime": "image/webp",
+   "width": 191,
+   "height": 210,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Leonidas_Guibas_2010_06_29.png",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "attribution": "Sergio01",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Leonidas_Guibas_2010_06_29.png",
+   "confidence": 0.95,
+   "fetchedAt": "2026-11-04T13:09:00Z"
+  }
+ ]
+}

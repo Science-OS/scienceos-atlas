@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q178848",
+ "ids": {
+  "wikidata": "Q178848",
+  "ror": "00mkhxb43"
+ },
+ "updatedAt": "2026-11-04T13:09:00Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://static.nd.edu/images/webclips/default/webclip-512.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.nd.edu/",
+   "attributionUrl": "https://www.nd.edu/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-04T13:09:00Z"
+  }
+ ]
+}

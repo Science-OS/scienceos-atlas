@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q757391",
+ "ids": {
+  "wikidata": "Q757391",
+  "ror": "02zx40v98"
+ },
+ "updatedAt": "2026-11-04T13:09:00Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ac/acdf76785e6f093159ecafa1c13cb65fed5924a65caad2aa449b652e44068140.webp",
+   "hosted": true,
+   "sha256": "acdf76785e6f093159ecafa1c13cb65fed5924a65caad2aa449b652e44068140",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 63,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Central_European_University_Logo.svg",
+   "license": "Public domain",
+   "attribution": "Central European University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Central_European_University_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-04T13:09:00Z"
+  }
+ ]
+}

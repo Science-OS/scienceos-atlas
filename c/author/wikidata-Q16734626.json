@@ -1,0 +1,30 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "wikidata-Q16734626",
+ "ids": {
+  "orcid": "0000-0002-2062-131X",
+  "wikidata": "Q16734626",
+  "openalex": "A5121131775"
+ },
+ "updatedAt": "2026-11-04T13:09:00Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/97/97da5e6f4e8eed3978e0f2460e36362548423d33942f43b2ff4505e77c761d74.webp",
+   "hosted": true,
+   "sha256": "97da5e6f4e8eed3978e0f2460e36362548423d33942f43b2ff4505e77c761d74",
+   "mime": "image/webp",
+   "width": 171,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Professor_Vincent_Poor_FREng_ForMemRS.jpg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Royal Society uploader",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Professor_Vincent_Poor_FREng_ForMemRS.jpg",
+   "confidence": 0.95,
+   "fetchedAt": "2026-11-04T13:09:00Z"
+  }
+ ]
+}

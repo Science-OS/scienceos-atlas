@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.40753",
+ "ids": {
+  "arxiv": "2610.40753"
+ },
+ "updatedAt": "2026-11-04T13:09:00Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/a3/a31218531f9b54267e7a4bd508b5ccecec36951732d14bdb84d315e1eae2b8bf.jpg",
+   "hosted": true,
+   "sha256": "a31218531f9b54267e7a4bd508b5ccecec36951732d14bdb84d315e1eae2b8bf",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.40753",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Weiheng Wu et al., arXiv:2610.40753",
+   "attributionUrl": "https://arxiv.org/abs/2610.40753",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-04T13:09:00Z"
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-005235b87",
+ "ids": {
+  "ror": "005235b87"
+ },
+ "updatedAt": "2026-11-04T13:09:00Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.centreforbrainhealth.ca/wp-content/uploads/2021/10/cropped-Untitled_design__47_-removebg-preview-192x192.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.centreforbrainhealth.ca",
+   "attributionUrl": "https://www.centreforbrainhealth.ca",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-04T13:09:00Z"
+  }
+ ]
+}

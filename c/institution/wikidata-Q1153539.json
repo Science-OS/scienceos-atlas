@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1153539",
+ "ids": {
+  "wikidata": "Q1153539",
+  "ror": "00mcjh785"
+ },
+ "updatedAt": "2026-11-04T13:09:00Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d5/d5ac9401ec63c75efdd6928d29284976ca22aaae9bdbd59935729decbba88d89.webp",
+   "hosted": true,
+   "sha256": "d5ac9401ec63c75efdd6928d29284976ca22aaae9bdbd59935729decbba88d89",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Xiamen_University_logo.svg",
+   "license": "Public domain",
+   "attribution": "林文庆",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Xiamen_University_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-04T13:09:00Z"
+  }
+ ]
+}

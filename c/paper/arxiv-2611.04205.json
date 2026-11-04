@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.04205",
+ "ids": {
+  "arxiv": "2611.04205"
+ },
+ "updatedAt": "2026-11-04T13:09:00Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/9b/9b776c15766ac15f74ef4ae95c04fe9460c9c6d92ed45c3abbb93895077059b3.jpg",
+   "hosted": true,
+   "sha256": "9b776c15766ac15f74ef4ae95c04fe9460c9c6d92ed45c3abbb93895077059b3",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.04205",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Alexandros Pavlis, arXiv:2611.04205",
+   "attributionUrl": "https://arxiv.org/abs/2611.04205",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-04T13:09:00Z"
+  }
+ ]
+}

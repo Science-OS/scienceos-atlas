@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q689400",
+ "ids": {
+  "wikidata": "Q689400",
+  "ror": "04d836q62"
+ },
+ "updatedAt": "2026-11-04T13:09:00Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/34/3467dc0bbc76593e0db18a1ac97ea4fc697ee640dbc770d36f0b64946a431e8c.webp",
+   "hosted": true,
+   "sha256": "3467dc0bbc76593e0db18a1ac97ea4fc697ee640dbc770d36f0b64946a431e8c",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 112,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/TU-Logo-Austria_CMYK.png",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author en:TU Wien de:Technische Universität Wien",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:TU-Logo-Austria_CMYK.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-04T13:09:00Z"
+  }
+ ]
+}

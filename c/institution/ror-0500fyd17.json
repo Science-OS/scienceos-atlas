@@ -1,0 +1,21 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-0500fyd17",
+ "ids": {
+  "ror": "0500fyd17"
+ },
+ "updatedAt": "2026-11-04T13:09:00Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.huawei.com/-/media/htemplate-home/1.0.1.20251205144752/components/assets/img/apple-touch-icon-precomposed-180.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.huawei.com/en/",
+   "attributionUrl": "https://www.huawei.com/en/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-04T13:09:00Z"
+  }
+ ]
+}

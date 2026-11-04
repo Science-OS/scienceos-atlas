@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q681025",
+ "ids": {
+  "wikidata": "Q681025",
+  "ror": "01y64my43"
+ },
+ "updatedAt": "2026-11-04T13:09:00Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/33/33c61fda6709fd2072f86972f4256b884825160b9d6e966c7e22f806990fba0d.webp",
+   "hosted": true,
+   "sha256": "33c61fda6709fd2072f86972f4256b884825160b9d6e966c7e22f806990fba0d",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 189,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_at_Buffalo_logo.svg",
+   "license": "Public domain",
+   "attribution": "University at Buffalo",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_at_Buffalo_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-04T13:09:00Z"
+  }
+ ]
+}

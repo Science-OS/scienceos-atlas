@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.38252",
+ "ids": {
+  "arxiv": "2610.38252"
+ },
+ "updatedAt": "2026-11-04T13:09:00Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/af/af2f7b7a2e6aac82c1b3e61a8596a50b448ab4eafb12076941619d6d9d896d7a.jpg",
+   "hosted": true,
+   "sha256": "af2f7b7a2e6aac82c1b3e61a8596a50b448ab4eafb12076941619d6d9d896d7a",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.38252",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Mateusz Modrzejewski et al., arXiv:2610.38252",
+   "attributionUrl": "https://arxiv.org/abs/2610.38252",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-04T13:09:00Z"
+  }
+ ]
+}

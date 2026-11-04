@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.05221",
+ "ids": {
+  "arxiv": "2611.05221"
+ },
+ "updatedAt": "2026-11-04T13:09:00Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/7e/7e49f0b9ffb131684ff7c916cb7dccc7a64412afd95966f0c6a33eb6acb92e9a.jpg",
+   "hosted": true,
+   "sha256": "7e49f0b9ffb131684ff7c916cb7dccc7a64412afd95966f0c6a33eb6acb92e9a",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.05221",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Martin Bichler et al., arXiv:2611.05221",
+   "attributionUrl": "https://arxiv.org/abs/2611.05221",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-04T13:09:00Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.03938",
+ "ids": {
+  "arxiv": "2611.03938"
+ },
+ "updatedAt": "2026-11-04T13:09:00Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/3b/3be13a1009af8a483351dc32ac9134a8b1ccae8fea624754a486bf77d005a504.jpg",
+   "hosted": true,
+   "sha256": "3be13a1009af8a483351dc32ac9134a8b1ccae8fea624754a486bf77d005a504",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.03938",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Raj Chetty et al., arXiv:2611.03938",
+   "attributionUrl": "https://arxiv.org/abs/2611.03938",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-04T13:09:00Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03vfp4g33",
+ "ids": {
+  "wikidata": "Q17056472",
+  "ror": "03vfp4g33"
+ },
+ "updatedAt": "2026-11-04T13:09:00Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/da/da2faaa20195b7f92a07c30740a12d95653c107b3b4eedfb10558162c513c3a5.webp",
+   "hosted": true,
+   "sha256": "da2faaa20195b7f92a07c30740a12d95653c107b3b4eedfb10558162c513c3a5",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 128,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/IIIT-Delhi_Insignia.svg",
+   "license": "Public domain",
+   "attribution": "http://www.iiitd.ac.in/",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:IIIT-Delhi_Insignia.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-04T13:09:00Z"
+  }
+ ]
+}
