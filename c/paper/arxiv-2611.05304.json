@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.05304",
+ "ids": {
+  "arxiv": "2611.05304"
+ },
+ "updatedAt": "2026-11-05T13:23:28Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/0a/0acf169143be1b7d072e3a952390bc911414dd3bc2c8ecdbedcbc57cc3d0c4a6.jpg",
+   "hosted": true,
+   "sha256": "0acf169143be1b7d072e3a952390bc911414dd3bc2c8ecdbedcbc57cc3d0c4a6",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.05304",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Minsoo Cheong et al., arXiv:2611.05304",
+   "attributionUrl": "https://arxiv.org/abs/2611.05304",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-05T13:23:28Z"
+  }
+ ]
+}

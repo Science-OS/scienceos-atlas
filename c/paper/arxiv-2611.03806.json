@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.03806",
+ "ids": {
+  "arxiv": "2611.03806"
+ },
+ "updatedAt": "2026-11-05T13:23:28Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/64/64e002e1025ca663c46acc39a03a3dc5841604aa045fa7a59a89e82d837d1fdf.jpg",
+   "hosted": true,
+   "sha256": "64e002e1025ca663c46acc39a03a3dc5841604aa045fa7a59a89e82d837d1fdf",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.03806",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Andreas Bjerregaard et al., arXiv:2611.03806",
+   "attributionUrl": "https://arxiv.org/abs/2611.03806",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-05T13:23:28Z"
+  }
+ ]
+}

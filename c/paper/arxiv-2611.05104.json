@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.05104",
+ "ids": {
+  "arxiv": "2611.05104"
+ },
+ "updatedAt": "2026-11-05T13:23:28Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c8/c894a6261c08f6aacc1f201ab5aa34cbd6f86226dffbbb19c4965f885300497c.jpg",
+   "hosted": true,
+   "sha256": "c894a6261c08f6aacc1f201ab5aa34cbd6f86226dffbbb19c4965f885300497c",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.05104",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Maximilian Thürmer et al., arXiv:2611.05104",
+   "attributionUrl": "https://arxiv.org/abs/2611.05104",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-05T13:23:28Z"
+  }
+ ]
+}

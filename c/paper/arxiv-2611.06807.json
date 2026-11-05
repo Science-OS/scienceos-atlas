@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.06807",
+ "ids": {
+  "arxiv": "2611.06807"
+ },
+ "updatedAt": "2026-11-05T13:23:28Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/fa/fa4dae224dc18ee8478cb82ca900e300d5fee290eec48f3c0eadb0fab5fa7133.jpg",
+   "hosted": true,
+   "sha256": "fa4dae224dc18ee8478cb82ca900e300d5fee290eec48f3c0eadb0fab5fa7133",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.06807",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Liv Anke Richter et al., arXiv:2611.06807",
+   "attributionUrl": "https://arxiv.org/abs/2611.06807",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-05T13:23:28Z"
+  }
+ ]
+}

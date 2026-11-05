@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.05334",
+ "ids": {
+  "arxiv": "2611.05334"
+ },
+ "updatedAt": "2026-11-05T13:23:28Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/58/58388cf310f52428c6225549c3f165aa7477e6b5c15996bac329d6519d580c37.jpg",
+   "hosted": true,
+   "sha256": "58388cf310f52428c6225549c3f165aa7477e6b5c15996bac329d6519d580c37",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.05334",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Bowen Li et al., arXiv:2611.05334",
+   "attributionUrl": "https://arxiv.org/abs/2611.05334",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-05T13:23:28Z"
+  }
+ ]
+}

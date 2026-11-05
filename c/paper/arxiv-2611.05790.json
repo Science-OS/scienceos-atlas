@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.05790",
+ "ids": {
+  "arxiv": "2611.05790"
+ },
+ "updatedAt": "2026-11-05T13:23:28Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/32/32e7a874d46a784dd906336194464017b762cc5a7a60e2094ebe16c3c09bb1a4.jpg",
+   "hosted": true,
+   "sha256": "32e7a874d46a784dd906336194464017b762cc5a7a60e2094ebe16c3c09bb1a4",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.05790",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Anarya Ray, arXiv:2611.05790",
+   "attributionUrl": "https://arxiv.org/abs/2611.05790",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-05T13:23:28Z"
+  }
+ ]
+}

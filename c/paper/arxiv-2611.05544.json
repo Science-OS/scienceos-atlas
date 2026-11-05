@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.05544",
+ "ids": {
+  "arxiv": "2611.05544"
+ },
+ "updatedAt": "2026-11-05T13:23:28Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/43/43352d57f08eefba10bdf07c1051420a5829d04e6511be63a3dba86eb30522c1.jpg",
+   "hosted": true,
+   "sha256": "43352d57f08eefba10bdf07c1051420a5829d04e6511be63a3dba86eb30522c1",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.05544",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Yaiza Bermudez et al., arXiv:2611.05544",
+   "attributionUrl": "https://arxiv.org/abs/2611.05544",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-05T13:23:28Z"
+  }
+ ]
+}

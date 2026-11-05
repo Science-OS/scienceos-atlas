@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.06914",
+ "ids": {
+  "arxiv": "2611.06914"
+ },
+ "updatedAt": "2026-11-05T13:23:28Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/48/48f3159cc0edef7b1d0052aa68e869514d90bc899d3ef1437754171e662f1593.jpg",
+   "hosted": true,
+   "sha256": "48f3159cc0edef7b1d0052aa68e869514d90bc899d3ef1437754171e662f1593",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.06914",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Mattia Greiche et al., arXiv:2611.06914",
+   "attributionUrl": "https://arxiv.org/abs/2611.06914",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-05T13:23:28Z"
+  }
+ ]
+}

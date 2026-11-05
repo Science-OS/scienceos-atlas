@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q815432",
+ "ids": {
+  "wikidata": "Q815432",
+  "ror": "02kn6nx58"
+ },
+ "updatedAt": "2026-11-05T13:23:28Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ee/eeb1bc13a96d9482f7156b0dcca86672bc7031d06a37200afab229c8286a0299.webp",
+   "hosted": true,
+   "sha256": "eeb1bc13a96d9482f7156b0dcca86672bc7031d06a37200afab229c8286a0299",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 80,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Keio_University_logo%2C_ja_and_en_3.svg",
+   "license": "Public domain",
+   "attribution": "慶応義塾大学",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Keio_University_logo,_ja_and_en_3.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-05T13:23:28Z"
+  }
+ ]
+}

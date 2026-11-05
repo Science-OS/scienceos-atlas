@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02tphfq59",
+ "ids": {
+  "wikidata": "Q5255905",
+  "ror": "02tphfq59"
+ },
+ "updatedAt": "2026-11-05T13:23:28Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b8/b8f132834e1c8a68af80e651b6eacd8b63e80802a50a7d63294103fccecb3a1b.webp",
+   "hosted": true,
+   "sha256": "b8f132834e1c8a68af80e651b6eacd8b63e80802a50a7d63294103fccecb3a1b",
+   "mime": "image/webp",
+   "width": 241,
+   "height": 120,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Unr_univ_rosario_logo.png",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Unr_univ_rosario_logo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-05T13:23:28Z"
+  }
+ ]
+}

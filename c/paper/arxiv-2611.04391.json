@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.04391",
+ "ids": {
+  "arxiv": "2611.04391"
+ },
+ "updatedAt": "2026-11-05T13:23:28Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b6/b68484c51897ee4f85273e2ce17fea5e79f253dd4e350ae1b672d7cf7e10a770.jpg",
+   "hosted": true,
+   "sha256": "b68484c51897ee4f85273e2ce17fea5e79f253dd4e350ae1b672d7cf7e10a770",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.04391",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Junhyeong Park et al., arXiv:2611.04391",
+   "attributionUrl": "https://arxiv.org/abs/2611.04391",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-05T13:23:28Z"
+  }
+ ]
+}

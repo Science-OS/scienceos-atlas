@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.06470",
+ "ids": {
+  "arxiv": "2611.06470"
+ },
+ "updatedAt": "2026-11-05T13:23:28Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/de/de9182713ef52e03225df6c6079c7d2c10cffccd131e3da4fa43e24f8b0c3ba3.jpg",
+   "hosted": true,
+   "sha256": "de9182713ef52e03225df6c6079c7d2c10cffccd131e3da4fa43e24f8b0c3ba3",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.06470",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Christopher Gorham Lester et al., arXiv:2611.06470",
+   "attributionUrl": "https://arxiv.org/abs/2611.06470",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-05T13:23:28Z"
+  }
+ ]
+}

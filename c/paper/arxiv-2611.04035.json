@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.04035",
+ "ids": {
+  "arxiv": "2611.04035"
+ },
+ "updatedAt": "2026-11-05T13:23:28Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/47/4771d7c4552db6060e88499f55c74791f730552b7f69b4896be3e326826f7024.jpg",
+   "hosted": true,
+   "sha256": "4771d7c4552db6060e88499f55c74791f730552b7f69b4896be3e326826f7024",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.04035",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Erkang Zhu et al., arXiv:2611.04035",
+   "attributionUrl": "https://arxiv.org/abs/2611.04035",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-05T13:23:28Z"
+  }
+ ]
+}

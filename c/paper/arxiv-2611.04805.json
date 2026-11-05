@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.04805",
+ "ids": {
+  "arxiv": "2611.04805"
+ },
+ "updatedAt": "2026-11-05T13:23:28Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/f3/f39042cc0eedcdc194e7e99bb6fa4cad1257318ec336122590db6a237b1f89d6.jpg",
+   "hosted": true,
+   "sha256": "f39042cc0eedcdc194e7e99bb6fa4cad1257318ec336122590db6a237b1f89d6",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.04805",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Laure Berti-Equille, arXiv:2611.04805",
+   "attributionUrl": "https://arxiv.org/abs/2611.04805",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-05T13:23:28Z"
+  }
+ ]
+}

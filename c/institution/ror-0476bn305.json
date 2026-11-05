@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-0476bn305",
+ "ids": {
+  "wikidata": "Q7410538",
+  "ror": "0476bn305"
+ },
+ "updatedAt": "2026-11-05T13:23:28Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/be/bec778b1d254cb0f163a6b7c5f7d6ffa5112fb29a7b33e02a289685f823a1f25.webp",
+   "hosted": true,
+   "sha256": "bec778b1d254cb0f163a6b7c5f7d6ffa5112fb29a7b33e02a289685f823a1f25",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 43,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Samsung_SDS_logo_%28korean%29.svg",
+   "license": "Public domain",
+   "attribution": "Samsung SDS",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Samsung_SDS_logo_(korean).svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-05T13:23:28Z"
+  }
+ ]
+}

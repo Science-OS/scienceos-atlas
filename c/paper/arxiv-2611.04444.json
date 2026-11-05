@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.04444",
+ "ids": {
+  "arxiv": "2611.04444"
+ },
+ "updatedAt": "2026-11-05T13:23:28Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/41/4180a6e079adfa3dba6213baddf428eaad79876dd239c8eb84f1a9e24a2fdb1a.jpg",
+   "hosted": true,
+   "sha256": "4180a6e079adfa3dba6213baddf428eaad79876dd239c8eb84f1a9e24a2fdb1a",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.04444",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "L. Sunil Chandran et al., arXiv:2611.04444",
+   "attributionUrl": "https://arxiv.org/abs/2611.04444",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-05T13:23:28Z"
+  }
+ ]
+}

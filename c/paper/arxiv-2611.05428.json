@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.05428",
+ "ids": {
+  "arxiv": "2611.05428"
+ },
+ "updatedAt": "2026-11-05T13:23:28Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/59/594a984e8f97a592118baa61d4829bb4a0eefcc80877641fadb199c378b526c1.jpg",
+   "hosted": true,
+   "sha256": "594a984e8f97a592118baa61d4829bb4a0eefcc80877641fadb199c378b526c1",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 850,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.05428",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Moslem Uddin et al., arXiv:2611.05428",
+   "attributionUrl": "https://arxiv.org/abs/2611.05428",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-05T13:23:28Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.04007",
+ "ids": {
+  "arxiv": "2611.04007"
+ },
+ "updatedAt": "2026-11-05T13:23:28Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/1d/1d8d8db88b075508d48b89e71911e3a6e7b6729b41a15b2e9e55e9b84d73f1c0.jpg",
+   "hosted": true,
+   "sha256": "1d8d8db88b075508d48b89e71911e3a6e7b6729b41a15b2e9e55e9b84d73f1c0",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.04007",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Sandesh Lamsal et al., arXiv:2611.04007",
+   "attributionUrl": "https://arxiv.org/abs/2611.04007",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-05T13:23:28Z"
+  }
+ ]
+}

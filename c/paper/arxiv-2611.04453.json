@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.04453",
+ "ids": {
+  "arxiv": "2611.04453"
+ },
+ "updatedAt": "2026-11-05T13:23:28Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/27/2762b9a780400a31d482ec6e0810fb888d2c39f86139752b77a87d609a769562.jpg",
+   "hosted": true,
+   "sha256": "2762b9a780400a31d482ec6e0810fb888d2c39f86139752b77a87d609a769562",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.04453",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Yakir Berchenko, arXiv:2611.04453",
+   "attributionUrl": "https://arxiv.org/abs/2611.04453",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-05T13:23:28Z"
+  }
+ ]
+}

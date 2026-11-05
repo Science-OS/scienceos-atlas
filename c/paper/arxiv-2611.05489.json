@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.05489",
+ "ids": {
+  "arxiv": "2611.05489"
+ },
+ "updatedAt": "2026-11-05T13:23:28Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/64/64664d88326344a59ba4b72220a01e13c0b730fe262bb01da08209194662f07b.jpg",
+   "hosted": true,
+   "sha256": "64664d88326344a59ba4b72220a01e13c0b730fe262bb01da08209194662f07b",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.05489",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Simeon Ball et al., arXiv:2611.05489",
+   "attributionUrl": "https://arxiv.org/abs/2611.05489",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-05T13:23:28Z"
+  }
+ ]
+}

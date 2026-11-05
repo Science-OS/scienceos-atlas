@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.04612",
+ "ids": {
+  "arxiv": "2611.04612"
+ },
+ "updatedAt": "2026-11-05T13:23:28Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b4/b4ae72ff6b115293cc65a06ad4ee8da8b139f3c3b32ea27b92259bab314042b3.jpg",
+   "hosted": true,
+   "sha256": "b4ae72ff6b115293cc65a06ad4ee8da8b139f3c3b32ea27b92259bab314042b3",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.04612",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Changxin Yang et al., arXiv:2611.04612",
+   "attributionUrl": "https://arxiv.org/abs/2611.04612",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-05T13:23:28Z"
+  }
+ ]
+}

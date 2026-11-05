@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.05738",
+ "ids": {
+  "arxiv": "2611.05738"
+ },
+ "updatedAt": "2026-11-05T13:23:28Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ef/efefc8b82316d4dc3829652bda59fd7eaac4821cbe9b56ce64cc292d0c88cba8.jpg",
+   "hosted": true,
+   "sha256": "efefc8b82316d4dc3829652bda59fd7eaac4821cbe9b56ce64cc292d0c88cba8",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.05738",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Changyeon Lee et al., arXiv:2611.05738",
+   "attributionUrl": "https://arxiv.org/abs/2611.05738",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-05T13:23:28Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.05280",
+ "ids": {
+  "arxiv": "2611.05280"
+ },
+ "updatedAt": "2026-11-05T13:23:28Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/10/10d0e28d7aa5d0ebc3f29d1fd3045e286085db9c5b21a90e3880add22b201431.jpg",
+   "hosted": true,
+   "sha256": "10d0e28d7aa5d0ebc3f29d1fd3045e286085db9c5b21a90e3880add22b201431",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.05280",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Shengyu Wang et al., arXiv:2611.05280",
+   "attributionUrl": "https://arxiv.org/abs/2611.05280",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-05T13:23:28Z"
+  }
+ ]
+}

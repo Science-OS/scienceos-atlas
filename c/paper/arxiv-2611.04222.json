@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.04222",
+ "ids": {
+  "arxiv": "2611.04222"
+ },
+ "updatedAt": "2026-11-05T13:23:28Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/09/098e3f4a376e9b3a778b65027a7b290652f4cad54e5d4f98abacda8aaa3b1796.jpg",
+   "hosted": true,
+   "sha256": "098e3f4a376e9b3a778b65027a7b290652f4cad54e5d4f98abacda8aaa3b1796",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.04222",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Yong Li et al., arXiv:2611.04222",
+   "attributionUrl": "https://arxiv.org/abs/2611.04222",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-05T13:23:28Z"
+  }
+ ]
+}

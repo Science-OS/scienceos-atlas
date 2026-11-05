@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.04450",
+ "ids": {
+  "arxiv": "2611.04450"
+ },
+ "updatedAt": "2026-11-05T13:23:28Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/f2/f237b175567e02baaf66ef417629abb5247a00ca552e926fd6cc586b04d96f70.jpg",
+   "hosted": true,
+   "sha256": "f237b175567e02baaf66ef417629abb5247a00ca552e926fd6cc586b04d96f70",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.04450",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Mohamed Tarek, arXiv:2611.04450",
+   "attributionUrl": "https://arxiv.org/abs/2611.04450",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-05T13:23:28Z"
+  }
+ ]
+}

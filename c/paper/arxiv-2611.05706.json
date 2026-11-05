@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.05706",
+ "ids": {
+  "arxiv": "2611.05706"
+ },
+ "updatedAt": "2026-11-05T13:23:28Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/83/83c21c2877c738759a368e519e98886f6fbbbe7e610655ccc3fc6555f5d9b05a.jpg",
+   "hosted": true,
+   "sha256": "83c21c2877c738759a368e519e98886f6fbbbe7e610655ccc3fc6555f5d9b05a",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.05706",
+   "license": "CC0 1.0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0",
+   "attribution": "Philip R. Neary, arXiv:2611.05706",
+   "attributionUrl": "https://arxiv.org/abs/2611.05706",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-05T13:23:28Z"
+  }
+ ]
+}

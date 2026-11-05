@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.06910",
+ "ids": {
+  "arxiv": "2611.06910"
+ },
+ "updatedAt": "2026-11-05T13:23:28Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/1c/1c5c22a4507985e0f1db8956dc337ba2bd86f8558be998e0d60fcd1ecb636fdf.jpg",
+   "hosted": true,
+   "sha256": "1c5c22a4507985e0f1db8956dc337ba2bd86f8558be998e0d60fcd1ecb636fdf",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.06910",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Bingran You et al., arXiv:2611.06910",
+   "attributionUrl": "https://arxiv.org/abs/2611.06910",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-05T13:23:28Z"
+  }
+ ]
+}

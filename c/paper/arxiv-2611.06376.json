@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.06376",
+ "ids": {
+  "arxiv": "2611.06376"
+ },
+ "updatedAt": "2026-11-05T13:23:28Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/66/6620afb2f49c88766e2affa3f1a57d5bdf11f08bf859d32b81d63c17fa17a1c3.jpg",
+   "hosted": true,
+   "sha256": "6620afb2f49c88766e2affa3f1a57d5bdf11f08bf859d32b81d63c17fa17a1c3",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.06376",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Silvio C. Patricio, arXiv:2611.06376",
+   "attributionUrl": "https://arxiv.org/abs/2611.06376",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-05T13:23:28Z"
+  }
+ ]
+}
