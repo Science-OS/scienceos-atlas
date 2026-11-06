@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q139567770",
+ "ids": {
+  "wikidata": "Q139567770",
+  "ror": "053cgvy07"
+ },
+ "updatedAt": "2026-11-06T13:06:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://bpb-us-e1.wpmucdn.com/sites.northwestern.edu/dist/1/9013/files/2025/03/SkAI-Site-Icon-200x200.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://skai-institute.org",
+   "attributionUrl": "https://skai-institute.org",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-06T13:06:03Z"
+  }
+ ]
+}

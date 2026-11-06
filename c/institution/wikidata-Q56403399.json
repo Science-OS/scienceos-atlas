@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q56403399",
+ "ids": {
+  "wikidata": "Q56403399",
+  "ror": "033003e23"
+ },
+ "updatedAt": "2026-11-06T13:06:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/eb/eb9718c860adf8c8dbb4bc21b977189c129faea6d62d0573ec02084981c5df95.webp",
+   "hosted": true,
+   "sha256": "eb9718c860adf8c8dbb4bc21b977189c129faea6d62d0573ec02084981c5df95",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 82,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tampere_University_logo.svg",
+   "license": "Public domain",
+   "attribution": "Porkka & Kuutsa",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Tampere_University_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-06T13:06:03Z"
+  }
+ ]
+}

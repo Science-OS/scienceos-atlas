@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.40516",
+ "ids": {
+  "arxiv": "2610.40516"
+ },
+ "updatedAt": "2026-11-06T13:06:03Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/0f/0fc6d2575fc6b6f9ef3d3725cf78ff3cd1c929a0d3bfa2aefbd66af689f7a908.jpg",
+   "hosted": true,
+   "sha256": "0fc6d2575fc6b6f9ef3d3725cf78ff3cd1c929a0d3bfa2aefbd66af689f7a908",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.40516",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Max Neuwinger et al., arXiv:2610.40516",
+   "attributionUrl": "https://arxiv.org/abs/2610.40516",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-06T13:06:03Z"
+  }
+ ]
+}

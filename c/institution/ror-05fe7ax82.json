@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-05fe7ax82",
+ "ids": {
+  "wikidata": "Q859363",
+  "ror": "05fe7ax82"
+ },
+ "updatedAt": "2026-11-06T13:06:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/df/dff8078b034e5c4cf1148a60f4b19677e2304ec33d9620d6f06cb9e296841850.webp",
+   "hosted": true,
+   "sha256": "dff8078b034e5c4cf1148a60f4b19677e2304ec33d9620d6f06cb9e296841850",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 40,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Sciences_Po.svg",
+   "license": "Public domain",
+   "attribution": "Paris Institute of Political Studies",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_Sciences_Po.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-06T13:06:03Z"
+  }
+ ]
+}

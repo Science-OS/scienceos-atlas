@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02r0e4r58",
+ "ids": {
+  "wikidata": "Q17353726",
+  "ror": "02r0e4r58"
+ },
+ "updatedAt": "2026-11-06T13:06:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.jara.org/files/templates/jara/bilder/app-icons/apple-touch-icon.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.jara.org/",
+   "attributionUrl": "https://www.jara.org/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-06T13:06:03Z"
+  }
+ ]
+}

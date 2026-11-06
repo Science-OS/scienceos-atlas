@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.03852",
+ "ids": {
+  "arxiv": "2611.03852"
+ },
+ "updatedAt": "2026-11-06T13:06:03Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/16/16ef4ef169bc8f73b4d759d3f7a1f61f24cd8ed4e0855ef357a0be13ff6ac18e.jpg",
+   "hosted": true,
+   "sha256": "16ef4ef169bc8f73b4d759d3f7a1f61f24cd8ed4e0855ef357a0be13ff6ac18e",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.03852",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Anton Hristov, arXiv:2611.03852",
+   "attributionUrl": "https://arxiv.org/abs/2611.03852",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-06T13:06:03Z"
+  }
+ ]
+}

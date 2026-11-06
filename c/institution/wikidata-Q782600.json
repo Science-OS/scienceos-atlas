@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q782600",
+ "ids": {
+  "wikidata": "Q782600",
+  "ror": "05ynxx418"
+ },
+ "updatedAt": "2026-11-06T13:06:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/1d/1d7503efd6076511374dd6998e38e96cfb234fe6fd2f1bafb257039fcb05ef89.webp",
+   "hosted": true,
+   "sha256": "1d7503efd6076511374dd6998e38e96cfb234fe6fd2f1bafb257039fcb05ef89",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 67,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Linkoping_University_Logo.svg",
+   "license": "Public domain",
+   "attribution": "Linköping University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Linkoping_University_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-06T13:06:03Z"
+  }
+ ]
+}

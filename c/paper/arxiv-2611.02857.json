@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.02857",
+ "ids": {
+  "arxiv": "2611.02857"
+ },
+ "updatedAt": "2026-11-06T13:06:03Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/97/97d6e3ec59236c15fa9607d8cfc15438ef3b60bd891b368549d30f0fed97d32e.jpg",
+   "hosted": true,
+   "sha256": "97d6e3ec59236c15fa9607d8cfc15438ef3b60bd891b368549d30f0fed97d32e",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.02857",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Jeong-gi Kwak et al., arXiv:2611.02857",
+   "attributionUrl": "https://arxiv.org/abs/2611.02857",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-06T13:06:03Z"
+  }
+ ]
+}

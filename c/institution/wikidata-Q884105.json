@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q884105",
+ "ids": {
+  "wikidata": "Q884105",
+  "ror": "058rn5r42"
+ },
+ "updatedAt": "2026-11-06T13:06:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/78/78b054229bfc02189f9fe945672d10e9f557b6b514201ccc809c28c178b68bb4.webp",
+   "hosted": true,
+   "sha256": "78b054229bfc02189f9fe945672d10e9f557b6b514201ccc809c28c178b68bb4",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/HPI_logo.svg",
+   "license": "Public domain",
+   "attribution": "Hasso Plattner Institute",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:HPI_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-06T13:06:03Z"
+  }
+ ]
+}

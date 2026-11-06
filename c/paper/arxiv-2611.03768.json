@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.03768",
+ "ids": {
+  "arxiv": "2611.03768"
+ },
+ "updatedAt": "2026-11-06T13:06:03Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e0/e0e98308301523d9bbc501a261a5ffbd37e1c0a9e3753b714d08e978f0dd42d7.jpg",
+   "hosted": true,
+   "sha256": "e0e98308301523d9bbc501a261a5ffbd37e1c0a9e3753b714d08e978f0dd42d7",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.03768",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Serdarcan Dilbaz et al., arXiv:2611.03768",
+   "attributionUrl": "https://arxiv.org/abs/2611.03768",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-06T13:06:03Z"
+  }
+ ]
+}

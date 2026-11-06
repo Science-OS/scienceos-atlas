@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01ek73717",
+ "ids": {
+  "wikidata": "Q248",
+  "ror": "01ek73717"
+ },
+ "updatedAt": "2026-11-06T13:06:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e1/e13d3da23e75d879a486765791e411b1e5177ab3c7822c40f0932f47793a57d0.webp",
+   "hosted": true,
+   "sha256": "e13d3da23e75d879a486765791e411b1e5177ab3c7822c40f0932f47793a57d0",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 100,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Intel_logo_2023.svg",
+   "license": "Public domain",
+   "attribution": "Intel",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Intel_logo_2023.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-06T13:06:03Z"
+  }
+ ]
+}

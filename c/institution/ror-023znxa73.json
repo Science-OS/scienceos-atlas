@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-023znxa73",
+ "ids": {
+  "wikidata": "Q27621",
+  "ror": "023znxa73"
+ },
+ "updatedAt": "2026-11-06T13:06:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://spbu.ru/themes/spbgu/markup/dist/android-chrome-192x192.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://spbu.ru/",
+   "attributionUrl": "https://spbu.ru/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-06T13:06:03Z"
+  }
+ ]
+}

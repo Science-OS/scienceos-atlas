@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1161666",
+ "ids": {
+  "wikidata": "Q1161666",
+  "ror": "04emwm605"
+ },
+ "updatedAt": "2026-11-06T13:06:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/43/432df73feae2b8970e58e88c675323a900f1962ed6aef7e964ce8c59d0d3ba1d.webp",
+   "hosted": true,
+   "sha256": "432df73feae2b8970e58e88c675323a900f1962ed6aef7e964ce8c59d0d3ba1d",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 31,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Thales_Logo.svg",
+   "license": "Public domain",
+   "attribution": "™/®Thales S.A.",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Thales_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-06T13:06:03Z"
+  }
+ ]
+}

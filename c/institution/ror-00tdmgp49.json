@@ -1,0 +1,21 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-00tdmgp49",
+ "ids": {
+  "ror": "00tdmgp49"
+ },
+ "updatedAt": "2026-11-06T13:06:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://i0.wp.com/cpii.hk/wp-content/uploads/2023/03/cropped-logo-small-1.png?fit=192%2C192&ssl=1",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://cpii.hk",
+   "attributionUrl": "https://cpii.hk",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-06T13:06:03Z"
+  }
+ ]
+}

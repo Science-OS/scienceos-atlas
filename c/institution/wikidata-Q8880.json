@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q8880",
+ "ids": {
+  "wikidata": "Q8880",
+  "ror": "00k4n6c32"
+ },
+ "updatedAt": "2026-11-06T13:06:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d8/d8d9e1e5532af3c76912ab62051b5993834fe49783133bead7ab547d26437e13.webp",
+   "hosted": true,
+   "sha256": "d8d9e1e5532af3c76912ab62051b5993834fe49783133bead7ab547d26437e13",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 178,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/European_Commission.svg",
+   "license": "Public domain",
+   "attribution": "European Commission",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:European_Commission.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-06T13:06:03Z"
+  }
+ ]
+}

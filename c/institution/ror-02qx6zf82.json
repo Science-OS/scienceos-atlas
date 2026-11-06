@@ -1,0 +1,21 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02qx6zf82",
+ "ids": {
+  "ror": "02qx6zf82"
+ },
+ "updatedAt": "2026-11-06T13:06:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://trendscenter.org/wp-content/uploads/2019/05/android-chrome-256x256.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://trendscenter.org/",
+   "attributionUrl": "https://trendscenter.org/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-06T13:06:03Z"
+  }
+ ]
+}

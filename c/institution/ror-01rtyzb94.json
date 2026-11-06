@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01rtyzb94",
+ "ids": {
+  "wikidata": "Q49211",
+  "ror": "01rtyzb94"
+ },
+ "updatedAt": "2026-11-06T13:06:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/48/48d03cc6f0c6f258fb5c94660ae9c55984c8f40bd3206d11810c6469f8731c70.webp",
+   "hosted": true,
+   "sha256": "48d03cc6f0c6f258fb5c94660ae9c55984c8f40bd3206d11810c6469f8731c70",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 63,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rensselaer_Polytechnic_Institute_Logo.svg",
+   "license": "Public domain",
+   "attribution": "Rensselaer Polytechnic Institute",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Rensselaer_Polytechnic_Institute_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-06T13:06:03Z"
+  }
+ ]
+}

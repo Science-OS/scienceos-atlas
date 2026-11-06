@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-040af2s02",
+ "ids": {
+  "wikidata": "Q28695",
+  "ror": "040af2s02"
+ },
+ "updatedAt": "2026-11-06T13:06:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/6e/6e4ca44cd1667e3982fc18b0d57d852a8cec4b10faf45ea0a53a1ae6a79f5a3c.webp",
+   "hosted": true,
+   "sha256": "6e4ca44cd1667e3982fc18b0d57d852a8cec4b10faf45ea0a53a1ae6a79f5a3c",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 249,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_University_of_Helsinki_fi.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_University_of_Helsinki_fi.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-06T13:06:03Z"
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q5171546",
+ "ids": {
+  "wikidata": "Q5171546",
+  "ror": "04qscbg47"
+ },
+ "updatedAt": "2026-11-06T13:06:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://tech.cornell.edu/wp-content/themes/cornell-tech/assets/favicons/apple-touch-icon.png?v=20260317",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://tech.cornell.edu",
+   "attributionUrl": "https://tech.cornell.edu",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-06T13:06:03Z"
+  }
+ ]
+}

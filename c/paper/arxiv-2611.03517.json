@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.03517",
+ "ids": {
+  "arxiv": "2611.03517"
+ },
+ "updatedAt": "2026-11-06T13:06:03Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/bb/bb7f02b57dbfcbbabb24beb60cb883d8f1093dd3f36ed24351e554b2ce9a3adc.jpg",
+   "hosted": true,
+   "sha256": "bb7f02b57dbfcbbabb24beb60cb883d8f1093dd3f36ed24351e554b2ce9a3adc",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.03517",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Gabriele Oliaro et al., arXiv:2611.03517",
+   "attributionUrl": "https://arxiv.org/abs/2611.03517",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-06T13:06:03Z"
+  }
+ ]
+}

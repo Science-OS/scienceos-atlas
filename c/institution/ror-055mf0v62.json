@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-055mf0v62",
+ "ids": {
+  "wikidata": "Q849209",
+  "ror": "055mf0v62"
+ },
+ "updatedAt": "2026-11-06T13:06:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/49/498924197c43410869782844a550afb51699d6781fa40ca27b796c1053d73a28.webp",
+   "hosted": true,
+   "sha256": "498924197c43410869782844a550afb51699d6781fa40ca27b796c1053d73a28",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 133,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/KMITL_Sublogo.svg",
+   "license": "Public domain",
+   "attribution": "King Mongkut's Institute of Technology Ladkrabang",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:KMITL_Sublogo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-06T13:06:03Z"
+  }
+ ]
+}

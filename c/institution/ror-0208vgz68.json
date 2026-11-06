@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-0208vgz68",
+ "ids": {
+  "wikidata": "Q1809949",
+  "ror": "0208vgz68"
+ },
+ "updatedAt": "2026-11-06T13:06:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ec/ecba073cfda1dd79f786c65a0be62af4cf16f4154dfae0af88ad99ed2b809373.webp",
+   "hosted": true,
+   "sha256": "ecba073cfda1dd79f786c65a0be62af4cf16f4154dfae0af88ad99ed2b809373",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 113,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/LUT_University_Logo.png",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "LUT University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:LUT_University_Logo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-06T13:06:03Z"
+  }
+ ]
+}

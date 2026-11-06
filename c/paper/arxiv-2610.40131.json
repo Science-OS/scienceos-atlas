@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.40131",
+ "ids": {
+  "arxiv": "2610.40131"
+ },
+ "updatedAt": "2026-11-06T13:06:03Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/68/68ad77c42085133dd9c2d6d4d613724b9d4a96962c4c49d60c3bb9d43715c534.jpg",
+   "hosted": true,
+   "sha256": "68ad77c42085133dd9c2d6d4d613724b9d4a96962c4c49d60c3bb9d43715c534",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.40131",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Zhengdong Hu et al., arXiv:2610.40131",
+   "attributionUrl": "https://arxiv.org/abs/2610.40131",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-06T13:06:03Z"
+  }
+ ]
+}

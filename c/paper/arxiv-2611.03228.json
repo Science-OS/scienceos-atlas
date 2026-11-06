@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.03228",
+ "ids": {
+  "arxiv": "2611.03228"
+ },
+ "updatedAt": "2026-11-06T13:06:03Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/14/142d43dcd453f30da7b6a329a96c4437edb7060dbda56fe87ecc09925d80444e.jpg",
+   "hosted": true,
+   "sha256": "142d43dcd453f30da7b6a329a96c4437edb7060dbda56fe87ecc09925d80444e",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.03228",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Weirong Chen et al., arXiv:2611.03228",
+   "attributionUrl": "https://arxiv.org/abs/2611.03228",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-06T13:06:03Z"
+  }
+ ]
+}

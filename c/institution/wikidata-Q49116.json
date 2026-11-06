@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q49116",
+ "ids": {
+  "wikidata": "Q49116",
+  "ror": "049s0rh22"
+ },
+ "updatedAt": "2026-11-06T13:06:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/fe/feb3376cf3dd1a45b4cda45510fbee36a1a3457a7341cf72c9aa0a62b3ff034f.webp",
+   "hosted": true,
+   "sha256": "feb3376cf3dd1a45b4cda45510fbee36a1a3457a7341cf72c9aa0a62b3ff034f",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 27,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dartmouth_College_logo.svg",
+   "license": "Public domain",
+   "attribution": "Dartmouth College",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Dartmouth_College_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-06T13:06:03Z"
+  }
+ ]
+}

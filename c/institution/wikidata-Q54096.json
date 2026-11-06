@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q54096",
+ "ids": {
+  "wikidata": "Q54096",
+  "ror": "00rcxh774"
+ },
+ "updatedAt": "2026-11-06T13:06:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/63/633545518ce8345a7c42a31c2b1e46a9d7a49b30a9fa07a00f784146873fc00e.webp",
+   "hosted": true,
+   "sha256": "633545518ce8345a7c42a31c2b1e46a9d7a49b30a9fa07a00f784146873fc00e",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Siegel_Uni_K%C3%B6ln_%28grau%29.svg",
+   "license": "Public domain",
+   "attribution": "Universität zu Köln",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Siegel_Uni_K%C3%B6ln_(grau).svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-06T13:06:03Z"
+  }
+ ]
+}

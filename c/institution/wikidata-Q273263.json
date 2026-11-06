@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q273263",
+ "ids": {
+  "wikidata": "Q273263",
+  "ror": "04xfq0f34"
+ },
+ "updatedAt": "2026-11-06T13:06:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/83/834cbc19c05e42bef6c01f779162758db80e61daae66d7b2667a0d6aa6cdc833.webp",
+   "hosted": true,
+   "sha256": "834cbc19c05e42bef6c01f779162758db80e61daae66d7b2667a0d6aa6cdc833",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 70,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/RWTH_Logo_3.svg",
+   "license": "Public domain",
+   "attribution": "The original uploader was Wwbread at Chinese Wikipedia .",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:RWTH_Logo_3.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-06T13:06:03Z"
+  }
+ ]
+}

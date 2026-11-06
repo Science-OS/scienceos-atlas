@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-0433kqc49",
+ "ids": {
+  "wikidata": "Q482730",
+  "ror": "0433kqc49"
+ },
+ "updatedAt": "2026-11-06T13:06:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ec/ec4a6bc7ffea4f0ae03fe9ff4bc3b20e99251a368c82dfd7330df470616ae245.webp",
+   "hosted": true,
+   "sha256": "ec4a6bc7ffea4f0ae03fe9ff4bc3b20e99251a368c82dfd7330df470616ae245",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 57,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pknu_title.jpg",
+   "license": "Public domain",
+   "attribution": "https://www.pknu.ac.kr",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Pknu_title.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-06T13:06:03Z"
+  }
+ ]
+}

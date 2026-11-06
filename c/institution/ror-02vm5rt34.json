@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02vm5rt34",
+ "ids": {
+  "wikidata": "Q29052",
+  "ror": "02vm5rt34"
+ },
+ "updatedAt": "2026-11-06T13:06:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/88/88c5664297499cb42565cf9f57c4e80b97abb5b784e18de2b45fe19818eb1c27.webp",
+   "hosted": true,
+   "sha256": "88c5664297499cb42565cf9f57c4e80b97abb5b784e18de2b45fe19818eb1c27",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 56,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vanderbilt_University_logo.svg",
+   "license": "Public domain",
+   "attribution": "Vanderbilt University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Vanderbilt_University_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-06T13:06:03Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.03743",
+ "ids": {
+  "arxiv": "2611.03743"
+ },
+ "updatedAt": "2026-11-06T13:06:03Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/80/806b18740f6bfb3ce2741cf3054b43fc749a329e57133ed6312a90306d82f926.jpg",
+   "hosted": true,
+   "sha256": "806b18740f6bfb3ce2741cf3054b43fc749a329e57133ed6312a90306d82f926",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.03743",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Zhishang Xiang et al., arXiv:2611.03743",
+   "attributionUrl": "https://arxiv.org/abs/2611.03743",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-06T13:06:03Z"
+  }
+ ]
+}

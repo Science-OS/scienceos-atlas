@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.04527",
+ "ids": {
+  "arxiv": "2611.04527"
+ },
+ "updatedAt": "2026-11-06T13:06:03Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/30/308169110ff3f34aa66e84496c0e0357ad209650cbc73b5ff04eea471d2710e4.jpg",
+   "hosted": true,
+   "sha256": "308169110ff3f34aa66e84496c0e0357ad209650cbc73b5ff04eea471d2710e4",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.04527",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Jaehyeong Jo et al., arXiv:2611.04527",
+   "attributionUrl": "https://arxiv.org/abs/2611.04527",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-06T13:06:03Z"
+  }
+ ]
+}

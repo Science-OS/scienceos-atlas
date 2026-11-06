@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q823917",
+ "ids": {
+  "wikidata": "Q823917",
+  "ror": "05krs5044"
+ },
+ "updatedAt": "2026-11-06T13:06:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/1b/1bf2f58cbd6d839619ab9d9a5d113e00a93b3d1ef4cd93eeed04d9a59f9e9590.webp",
+   "hosted": true,
+   "sha256": "1bf2f58cbd6d839619ab9d9a5d113e00a93b3d1ef4cd93eeed04d9a59f9e9590",
+   "mime": "image/webp",
+   "width": 210,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Shield_of_the_University_of_Sheffield.svg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "This vector image includes elements that have been taken or adapted from this file:",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Shield_of_the_University_of_Sheffield.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-06T13:06:03Z"
+  }
+ ]
+}

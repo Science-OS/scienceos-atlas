@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q30294565",
+ "ids": {
+  "wikidata": "Q30294565",
+  "ror": "00x7vzk16"
+ },
+ "updatedAt": "2026-11-06T13:06:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/28/28df3b09308409014aac1771f8d57b770497c0198b2977d4e6e0a55f37a33aa7.webp",
+   "hosted": true,
+   "sha256": "28df3b09308409014aac1771f8d57b770497c0198b2977d4e6e0a55f37a33aa7",
+   "mime": "image/webp",
+   "width": 199,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_of_Suan_Dusit_University.svg",
+   "license": "Public domain",
+   "attribution": "Suan Dusit University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_of_Suan_Dusit_University.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-06T13:06:03Z"
+  }
+ ]
+}

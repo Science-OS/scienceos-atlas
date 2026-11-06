@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q6883041",
+ "ids": {
+  "wikidata": "Q6883041",
+  "ror": "053jnhe44"
+ },
+ "updatedAt": "2026-11-06T13:06:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/7f/7f228ea580486200fd5b42e14f6dbc61d053002969681a334292e8d38ab4fb26.webp",
+   "hosted": true,
+   "sha256": "7f228ea580486200fd5b42e14f6dbc61d053002969681a334292e8d38ab4fb26",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 78,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mitsubishi_Electric_logo.svg",
+   "license": "Public domain",
+   "attribution": "The original uploader was Cristan at English Wikipedia .",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Mitsubishi_Electric_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-06T13:06:03Z"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-0326knt82",
+ "ids": {
+  "wikidata": "Q611995",
+  "ror": "0326knt82"
+ },
+ "updatedAt": "2026-11-06T13:06:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/7a/7aa1a9ad19019e7c069235bdcaec41ddf411fa3cf910a588a3f50024187ce476.webp",
+   "hosted": true,
+   "sha256": "7aa1a9ad19019e7c069235bdcaec41ddf411fa3cf910a588a3f50024187ce476",
+   "mime": "image/webp",
+   "width": 195,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Escude_de_la_Universidad_Adolfo_Iba%C3%B1ez.png",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "attribution": "wololo",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Escude_de_la_Universidad_Adolfo_Iba%C3%B1ez.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-06T13:06:03Z"
+  }
+ ]
+}

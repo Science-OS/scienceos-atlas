@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q655866",
+ "ids": {
+  "wikidata": "Q655866",
+  "ror": "00ggpsq73"
+ },
+ "updatedAt": "2026-11-06T13:06:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e9/e950a1ad5a4ff09776799a7c19c2901e2e778ee878d6d43bdbd948679fffd0c1.webp",
+   "hosted": true,
+   "sha256": "e950a1ad5a4ff09776799a7c19c2901e2e778ee878d6d43bdbd948679fffd0c1",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 92,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Otto_von_Guericke_Universit%C3%A4t_Magdeburg_logo.svg",
+   "license": "Public domain",
+   "attribution": "http://www.ovgu.de/",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Otto_von_Guericke_Universit%C3%A4t_Magdeburg_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-06T13:06:03Z"
+  }
+ ]
+}

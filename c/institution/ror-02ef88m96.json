@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02ef88m96",
+ "ids": {
+  "wikidata": "Q50035848",
+  "ror": "02ef88m96"
+ },
+ "updatedAt": "2026-11-06T13:06:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://joint-research-centre.ec.europa.eu/themes/contrib/oe_theme/images/favicons/ec/favicon.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://ec.europa.eu/jrc/en",
+   "attributionUrl": "https://ec.europa.eu/jrc/en",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-06T13:06:03Z"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1026925",
+ "ids": {
+  "wikidata": "Q1026925",
+  "ror": "02avqqw26"
+ },
+ "updatedAt": "2026-11-06T13:06:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/5a/5a20274adea6e88a9182157d25e4ccb21a1b4ebee0f0ab215f2b220fcdf4e263.webp",
+   "hosted": true,
+   "sha256": "5a20274adea6e88a9182157d25e4ccb21a1b4ebee0f0ab215f2b220fcdf4e263",
+   "mime": "image/webp",
+   "width": 175,
+   "height": 175,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/CSUFseal.jpg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "California State University, Fullerton",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:CSUFseal.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-06T13:06:03Z"
+  }
+ ]
+}

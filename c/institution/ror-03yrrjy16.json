@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03yrrjy16",
+ "ids": {
+  "wikidata": "Q2166335",
+  "ror": "03yrrjy16"
+ },
+ "updatedAt": "2026-11-06T13:06:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.sdu.dk/resources/images/sdu/icon152.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.sdu.dk",
+   "attributionUrl": "https://www.sdu.dk",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-06T13:06:03Z"
+  }
+ ]
+}

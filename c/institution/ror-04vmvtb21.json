@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04vmvtb21",
+ "ids": {
+  "wikidata": "Q1193547",
+  "ror": "04vmvtb21"
+ },
+ "updatedAt": "2026-11-06T13:06:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/4b/4bca8ea3b7044a1f6f7ac4dedf4f0258eb00d8985d6c332af28a28867d275e9a.webp",
+   "hosted": true,
+   "sha256": "4bca8ea3b7044a1f6f7ac4dedf4f0258eb00d8985d6c332af28a28867d275e9a",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 88,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tulane_University_full_logo.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Tulane_University_full_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-06T13:06:03Z"
+  }
+ ]
+}

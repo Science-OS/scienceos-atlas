@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-031q21x57",
+ "ids": {
+  "wikidata": "Q1755318",
+  "ror": "031q21x57"
+ },
+ "updatedAt": "2026-11-06T13:06:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e9/e9f4cea23ce5fb7a226dc22817fc21d429e6324a5099335cdf855920ef735e58.webp",
+   "hosted": true,
+   "sha256": "e9f4cea23ce5fb7a226dc22817fc21d429e6324a5099335cdf855920ef735e58",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 75,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/UW-Milwaukee.png",
+   "license": "Public domain",
+   "attribution": "The original uploader was Fuzzy510 at English Wikipedia .",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:UW-Milwaukee.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-06T13:06:03Z"
+  }
+ ]
+}

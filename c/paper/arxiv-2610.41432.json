@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.41432",
+ "ids": {
+  "arxiv": "2610.41432"
+ },
+ "updatedAt": "2026-11-06T13:06:03Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/5e/5ed1c09d3c011d87c84ac7d5fcf744e89f586c6258c46765ffd42b68dc333303.jpg",
+   "hosted": true,
+   "sha256": "5ed1c09d3c011d87c84ac7d5fcf744e89f586c6258c46765ffd42b68dc333303",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.41432",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Haoqing Wang et al., arXiv:2610.41432",
+   "attributionUrl": "https://arxiv.org/abs/2610.41432",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-06T13:06:03Z"
+  }
+ ]
+}

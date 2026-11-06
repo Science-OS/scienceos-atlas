@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1509333",
+ "ids": {
+  "wikidata": "Q1509333",
+  "ror": "03qt6ba18"
+ },
+ "updatedAt": "2026-11-06T13:06:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/49/49e1b075305fd2c5339269164cb819cc0f58d18bac6ec78bbc4c358175d0065b.webp",
+   "hosted": true,
+   "sha256": "49e1b075305fd2c5339269164cb819cc0f58d18bac6ec78bbc4c358175d0065b",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 209,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Georgia_State_University_Logo.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Georgia_State_University_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-06T13:06:03Z"
+  }
+ ]
+}

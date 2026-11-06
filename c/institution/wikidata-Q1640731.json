@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1640731",
+ "ids": {
+  "wikidata": "Q1640731",
+  "ror": "03mb6wj31"
+ },
+ "updatedAt": "2026-11-06T13:06:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/24/241f789995b3aaae904145e34f344f260e89251f2da340c17b980bd3b4712a38.webp",
+   "hosted": true,
+   "sha256": "241f789995b3aaae904145e34f344f260e89251f2da340c17b980bd3b4712a38",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_UPC.svg",
+   "license": "Public domain",
+   "attribution": "Oxilium",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_UPC.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-06T13:06:03Z"
+  }
+ ]
+}

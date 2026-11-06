@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q41085",
+ "ids": {
+  "wikidata": "Q41085",
+  "ror": "04q78tk20"
+ },
+ "updatedAt": "2026-11-06T13:06:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/db/db7342d78df97c74f82de9be2083cfc88c1024c4b1753cf6e29dd08ca264e024.webp",
+   "hosted": true,
+   "sha256": "db7342d78df97c74f82de9be2083cfc88c1024c4b1753cf6e29dd08ca264e024",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 57,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sungkyunkwan_University_-_logotype_%28ko%2Ben%29.svg",
+   "license": "Public domain",
+   "attribution": "Sungkyunkwan University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Sungkyunkwan_University_-_logotype_(ko%2Ben).svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-06T13:06:03Z"
+  }
+ ]
+}
