@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1305281",
+ "ids": {
+  "wikidata": "Q1305281",
+  "ror": "04ryqpf83"
+ },
+ "updatedAt": "2026-11-07T11:50:25Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/73/735462cb8d470a7de5fedc0555d228cd27ff3d8efd6ef5d401e05057fea85665.webp",
+   "hosted": true,
+   "sha256": "735462cb8d470a7de5fedc0555d228cd27ff3d8efd6ef5d401e05057fea85665",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 122,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Valeo_Logo.svg",
+   "license": "Public domain",
+   "attribution": "Valeo",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Valeo_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-07T11:50:25Z"
+  }
+ ]
+}

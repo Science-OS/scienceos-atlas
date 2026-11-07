@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.08237",
+ "ids": {
+  "arxiv": "2611.08237"
+ },
+ "updatedAt": "2026-11-07T11:50:25Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/07/07c7aa8087f9a0fa33aea598e73692da365d362524d6dcef8cf36b46ea2aac22.jpg",
+   "hosted": true,
+   "sha256": "07c7aa8087f9a0fa33aea598e73692da365d362524d6dcef8cf36b46ea2aac22",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.08237",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Xiaojun Wu et al., arXiv:2611.08237",
+   "attributionUrl": "https://arxiv.org/abs/2611.08237",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-07T11:50:25Z"
+  }
+ ]
+}

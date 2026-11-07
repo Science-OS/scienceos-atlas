@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.07695",
+ "ids": {
+  "arxiv": "2611.07695"
+ },
+ "updatedAt": "2026-11-07T11:50:25Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/7b/7b6a0c871cb5e9d8ca03c83bd60c8782cec25cbe62df2d85ef229c9773b717aa.jpg",
+   "hosted": true,
+   "sha256": "7b6a0c871cb5e9d8ca03c83bd60c8782cec25cbe62df2d85ef229c9773b717aa",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.07695",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Shi Yin et al., arXiv:2611.07695",
+   "attributionUrl": "https://arxiv.org/abs/2611.07695",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-07T11:50:25Z"
+  }
+ ]
+}

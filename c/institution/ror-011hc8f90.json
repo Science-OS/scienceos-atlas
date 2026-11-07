@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-011hc8f90",
+ "ids": {
+  "wikidata": "Q7889516",
+  "ror": "011hc8f90"
+ },
+ "updatedAt": "2026-11-07T11:50:25Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/11/114cecc4efaf992ecd702b8202b3e77ab64f2e07105599887046fe88f1c4a87a.webp",
+   "hosted": true,
+   "sha256": "114cecc4efaf992ecd702b8202b3e77ab64f2e07105599887046fe88f1c4a87a",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 90,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/DEVCOM_ARL_LOGO.png",
+   "license": "Public domain",
+   "attribution": "DEVCOM Public Affairs and Army Research Laboratory Strategic Communicaitons",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:DEVCOM_ARL_LOGO.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-07T11:50:25Z"
+  }
+ ]
+}

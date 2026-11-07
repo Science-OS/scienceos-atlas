@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q2808676",
+ "ids": {
+  "wikidata": "Q2808676",
+  "ror": "01j4v3x97"
+ },
+ "updatedAt": "2026-11-07T11:50:25Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fiith.ac.in&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "https://iith.ac.in",
+   "confidence": 0.5,
+   "fetchedAt": "2026-11-07T11:50:25Z"
+  }
+ ]
+}

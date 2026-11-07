@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02rdkx920",
+ "ids": {
+  "wikidata": "Q7889514",
+  "ror": "02rdkx920"
+ },
+ "updatedAt": "2026-11-07T11:50:25Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/7c/7cbd10a8d026802f7675f3395df2f677d6029a8fbac6e218155b1e3e8eeaa6fc.webp",
+   "hosted": true,
+   "sha256": "7cbd10a8d026802f7675f3395df2f677d6029a8fbac6e218155b1e3e8eeaa6fc",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 71,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_image_300.jpg",
+   "license": "Public domain",
+   "attribution": "United States Army",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_image_300.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-07T11:50:25Z"
+  }
+ ]
+}

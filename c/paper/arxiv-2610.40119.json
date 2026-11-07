@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.40119",
+ "ids": {
+  "arxiv": "2610.40119"
+ },
+ "updatedAt": "2026-11-07T11:50:25Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ff/ff4dcdedabb6216b57cf8296fd12c8c574c243cac024829235c408123214ae1e.jpg",
+   "hosted": true,
+   "sha256": "ff4dcdedabb6216b57cf8296fd12c8c574c243cac024829235c408123214ae1e",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 908,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.40119",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Sergey Karpukhin et al., arXiv:2610.40119",
+   "attributionUrl": "https://arxiv.org/abs/2610.40119",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-07T11:50:25Z"
+  }
+ ]
+}

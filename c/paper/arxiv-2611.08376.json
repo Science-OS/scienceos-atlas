@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.08376",
+ "ids": {
+  "arxiv": "2611.08376"
+ },
+ "updatedAt": "2026-11-07T11:50:25Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/47/4721d626c740e04667afe3d772d8bf168857db92dacf7d108ce906fce2554fdd.jpg",
+   "hosted": true,
+   "sha256": "4721d626c740e04667afe3d772d8bf168857db92dacf7d108ce906fce2554fdd",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.08376",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Tushaar Gangavarapu et al., arXiv:2611.08376",
+   "attributionUrl": "https://arxiv.org/abs/2611.08376",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-07T11:50:25Z"
+  }
+ ]
+}

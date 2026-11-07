@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.08369",
+ "ids": {
+  "arxiv": "2611.08369"
+ },
+ "updatedAt": "2026-11-07T11:50:25Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/df/dfc208af7d7ee6e462cb8c0d8189c5ecd3a2219049a5ff58a40e3db96a96ab8f.jpg",
+   "hosted": true,
+   "sha256": "dfc208af7d7ee6e462cb8c0d8189c5ecd3a2219049a5ff58a40e3db96a96ab8f",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.08369",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Pengkai Wang et al., arXiv:2611.08369",
+   "attributionUrl": "https://arxiv.org/abs/2611.08369",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-07T11:50:25Z"
+  }
+ ]
+}

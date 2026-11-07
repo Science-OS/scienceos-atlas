@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.07403",
+ "ids": {
+  "arxiv": "2611.07403"
+ },
+ "updatedAt": "2026-11-07T11:50:25Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/12/12d57a49960a830d1304005aad4df7681691c7ff4c49e49acb40704bf7a93d50.jpg",
+   "hosted": true,
+   "sha256": "12d57a49960a830d1304005aad4df7681691c7ff4c49e49acb40704bf7a93d50",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.07403",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Aditya Parameshwaran et al., arXiv:2611.07403",
+   "attributionUrl": "https://arxiv.org/abs/2611.07403",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-07T11:50:25Z"
+  }
+ ]
+}

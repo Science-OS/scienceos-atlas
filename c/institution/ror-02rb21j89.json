@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02rb21j89",
+ "ids": {
+  "wikidata": "Q6020697",
+  "ror": "02rb21j89"
+ },
+ "updatedAt": "2026-11-07T11:50:25Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.iiserb.ac.in/apple-touch-icon.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.iiserb.ac.in",
+   "attributionUrl": "https://www.iiserb.ac.in",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-07T11:50:25Z"
+  }
+ ]
+}

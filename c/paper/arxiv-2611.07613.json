@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.07613",
+ "ids": {
+  "arxiv": "2611.07613"
+ },
+ "updatedAt": "2026-11-07T11:50:25Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/0a/0a5a6ecaa9fa78ea09b055a120c0cc1595f635806f9eb0de85c95567b53215a9.jpg",
+   "hosted": true,
+   "sha256": "0a5a6ecaa9fa78ea09b055a120c0cc1595f635806f9eb0de85c95567b53215a9",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.07613",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Kotaro Oishi et al., arXiv:2611.07613",
+   "attributionUrl": "https://arxiv.org/abs/2611.07613",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-07T11:50:25Z"
+  }
+ ]
+}

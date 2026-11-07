@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.08143",
+ "ids": {
+  "arxiv": "2611.08143"
+ },
+ "updatedAt": "2026-11-07T11:50:25Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d3/d304edaa571c830487a6338e795ef3efb992761edb8c1dd1e0de99921e88a9d1.jpg",
+   "hosted": true,
+   "sha256": "d304edaa571c830487a6338e795ef3efb992761edb8c1dd1e0de99921e88a9d1",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.08143",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Jan Dreier et al., arXiv:2611.08143",
+   "attributionUrl": "https://arxiv.org/abs/2611.08143",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-07T11:50:25Z"
+  }
+ ]
+}

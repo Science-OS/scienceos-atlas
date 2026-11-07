@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.08372",
+ "ids": {
+  "arxiv": "2611.08372"
+ },
+ "updatedAt": "2026-11-07T11:50:25Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/97/97d149f80850a12f2c7fc8c159c1453cd25401212d63a79108a48ce44560e952.jpg",
+   "hosted": true,
+   "sha256": "97d149f80850a12f2c7fc8c159c1453cd25401212d63a79108a48ce44560e952",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.08372",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Sateesh Kumar et al., arXiv:2611.08372",
+   "attributionUrl": "https://arxiv.org/abs/2611.08372",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-07T11:50:25Z"
+  }
+ ]
+}

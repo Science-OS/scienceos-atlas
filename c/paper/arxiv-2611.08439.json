@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.08439",
+ "ids": {
+  "arxiv": "2611.08439"
+ },
+ "updatedAt": "2026-11-07T11:50:25Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/44/44828a2802a5796e5bb2993d3a48f68c52a8b7c72291e5432c8aba154104f83d.jpg",
+   "hosted": true,
+   "sha256": "44828a2802a5796e5bb2993d3a48f68c52a8b7c72291e5432c8aba154104f83d",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.08439",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Vladimir Beskorovainyi, arXiv:2611.08439",
+   "attributionUrl": "https://arxiv.org/abs/2611.08439",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-07T11:50:25Z"
+  }
+ ]
+}

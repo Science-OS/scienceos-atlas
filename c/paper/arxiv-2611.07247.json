@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.07247",
+ "ids": {
+  "arxiv": "2611.07247"
+ },
+ "updatedAt": "2026-11-07T11:50:25Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/8d/8d76327acae731b0867405411f46b60a7a122e075172d63f975e0cdccc7ac328.jpg",
+   "hosted": true,
+   "sha256": "8d76327acae731b0867405411f46b60a7a122e075172d63f975e0cdccc7ac328",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.07247",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Jaime Ruiz-Serra et al., arXiv:2611.07247",
+   "attributionUrl": "https://arxiv.org/abs/2611.07247",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-07T11:50:25Z"
+  }
+ ]
+}

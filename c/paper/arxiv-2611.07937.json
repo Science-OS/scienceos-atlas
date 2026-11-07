@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.07937",
+ "ids": {
+  "arxiv": "2611.07937"
+ },
+ "updatedAt": "2026-11-07T11:50:25Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b2/b245027e0bd833734675827317a9eb54e65cb08dfe01ea4fb5dba80143fdc263.jpg",
+   "hosted": true,
+   "sha256": "b245027e0bd833734675827317a9eb54e65cb08dfe01ea4fb5dba80143fdc263",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.07937",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Yang Xiao et al., arXiv:2611.07937",
+   "attributionUrl": "https://arxiv.org/abs/2611.07937",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-07T11:50:25Z"
+  }
+ ]
+}

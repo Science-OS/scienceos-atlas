@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q9212",
+ "ids": {
+  "wikidata": "Q9212",
+  "ror": "00afsp483"
+ },
+ "updatedAt": "2026-11-07T11:50:25Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/67/6766f9e46575426574f858fbbbd525dd55ab261dec7db4357e9e30ce98ee53ee.webp",
+   "hosted": true,
+   "sha256": "6766f9e46575426574f858fbbbd525dd55ab261dec7db4357e9e30ce98ee53ee",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 61,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_of_the_United_States_Army_2023.svg",
+   "license": "Public domain",
+   "attribution": "United States Army",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_of_the_United_States_Army_2023.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-07T11:50:25Z"
+  }
+ ]
+}

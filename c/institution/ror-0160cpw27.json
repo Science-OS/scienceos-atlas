@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-0160cpw27",
+ "ids": {
+  "wikidata": "Q640694",
+  "ror": "0160cpw27"
+ },
+ "updatedAt": "2026-11-07T11:50:25Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.ualberta.ca&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "https://www.ualberta.ca",
+   "confidence": 0.5,
+   "fetchedAt": "2026-11-07T11:50:25Z"
+  }
+ ]
+}

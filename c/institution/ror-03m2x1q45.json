@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03m2x1q45",
+ "ids": {
+  "wikidata": "Q503419",
+  "ror": "03m2x1q45"
+ },
+ "updatedAt": "2026-11-07T11:50:25Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/eb/eb96ee6ccb590372082d54b2ca812c5dff6271dac84be8d2e8ec3036e6eb62dd.webp",
+   "hosted": true,
+   "sha256": "eb96ee6ccb590372082d54b2ca812c5dff6271dac84be8d2e8ec3036e6eb62dd",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 63,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Arizona_logo.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Arizona_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-07T11:50:25Z"
+  }
+ ]
+}

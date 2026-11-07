@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.07298",
+ "ids": {
+  "arxiv": "2611.07298"
+ },
+ "updatedAt": "2026-11-07T11:50:25Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/61/618a2a8ef4597b136bd58ae1174012515b719868641999fb4d7c686c28e7bccc.jpg",
+   "hosted": true,
+   "sha256": "618a2a8ef4597b136bd58ae1174012515b719868641999fb4d7c686c28e7bccc",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.07298",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Seongtae Hong et al., arXiv:2611.07298",
+   "attributionUrl": "https://arxiv.org/abs/2611.07298",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-07T11:50:25Z"
+  }
+ ]
+}

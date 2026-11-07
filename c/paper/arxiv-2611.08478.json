@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.08478",
+ "ids": {
+  "arxiv": "2611.08478"
+ },
+ "updatedAt": "2026-11-07T11:50:25Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/19/19b9f2bb4fca106cad662af4ca4bdbdbfc2a17befdca934933cbc6c7fd896d6c.jpg",
+   "hosted": true,
+   "sha256": "19b9f2bb4fca106cad662af4ca4bdbdbfc2a17befdca934933cbc6c7fd896d6c",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.08478",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Taiming Lu et al., arXiv:2611.08478",
+   "attributionUrl": "https://arxiv.org/abs/2611.08478",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-07T11:50:25Z"
+  }
+ ]
+}

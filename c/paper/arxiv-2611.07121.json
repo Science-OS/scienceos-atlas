@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.07121",
+ "ids": {
+  "arxiv": "2611.07121"
+ },
+ "updatedAt": "2026-11-07T11:50:25Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/cf/cf4b2f00c9256a86a67b89a9736dc7545a88fc4686b64529f72a23ff43ed042f.jpg",
+   "hosted": true,
+   "sha256": "cf4b2f00c9256a86a67b89a9736dc7545a88fc4686b64529f72a23ff43ed042f",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.07121",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Raul Jimenez et al., arXiv:2611.07121",
+   "attributionUrl": "https://arxiv.org/abs/2611.07121",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-07T11:50:25Z"
+  }
+ ]
+}
