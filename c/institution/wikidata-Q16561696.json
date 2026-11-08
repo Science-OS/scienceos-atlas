@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q16561696",
+ "ids": {
+  "wikidata": "Q16561696",
+  "ror": "043qcb444"
+ },
+ "updatedAt": "2026-11-08T12:02:42Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/50/50f459a390a28af94a2096c6c3273a8a386b82e1818e557c5dcd6fefa6d2b779.webp",
+   "hosted": true,
+   "sha256": "50f459a390a28af94a2096c6c3273a8a386b82e1818e557c5dcd6fefa6d2b779",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gran_Sasso_Science_Institute.svg",
+   "license": "Public domain",
+   "attribution": "Ameschini",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Gran_Sasso_Science_Institute.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-08T12:02:42Z"
+  }
+ ]
+}

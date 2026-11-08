@@ -1,0 +1,30 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "wikidata-Q29259579",
+ "ids": {
+  "orcid": "0000-0003-0820-3390",
+  "wikidata": "Q29259579",
+  "openalex": "A5039328157"
+ },
+ "updatedAt": "2026-11-08T12:02:42Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ae/aec823fd15df0c2a6b4cae00c2601b15733adff7aff9a48220a39cf2e2477fb1.webp",
+   "hosted": true,
+   "sha256": "aec823fd15df0c2a6b4cae00c2601b15733adff7aff9a48220a39cf2e2477fb1",
+   "mime": "image/webp",
+   "width": 192,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Yener-Aylin.jpg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Mfrox",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Yener-Aylin.jpg",
+   "confidence": 0.95,
+   "fetchedAt": "2026-11-08T12:02:42Z"
+  }
+ ]
+}

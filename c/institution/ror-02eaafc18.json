@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02eaafc18",
+ "ids": {
+  "wikidata": "Q1297001",
+  "ror": "02eaafc18"
+ },
+ "updatedAt": "2026-11-08T12:02:42Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/19/1985e2052050aa97ab1213f5147d0c58362c932168fe018848e45d641aca35a3.webp",
+   "hosted": true,
+   "sha256": "1985e2052050aa97ab1213f5147d0c58362c932168fe018848e45d641aca35a3",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ege_University_logo.svg",
+   "license": "Public domain",
+   "attribution": "Ege University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Ege_University_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-08T12:02:42Z"
+  }
+ ]
+}

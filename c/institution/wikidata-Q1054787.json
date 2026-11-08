@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1054787",
+ "ids": {
+  "wikidata": "Q1054787",
+  "ror": "00berct97"
+ },
+ "updatedAt": "2026-11-08T12:02:42Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/63/63b13af9fee8810489034eb8df4d75188d7b89f2f144e72be85426c53d050609.webp",
+   "hosted": true,
+   "sha256": "63b13af9fee8810489034eb8df4d75188d7b89f2f144e72be85426c53d050609",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 94,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/NTT_2025.svg",
+   "license": "Public domain",
+   "attribution": "日本電信電話株式会社",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:NTT_2025.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-08T12:02:42Z"
+  }
+ ]
+}

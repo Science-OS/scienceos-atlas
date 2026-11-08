@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q3393183",
+ "ids": {
+  "wikidata": "Q3393183",
+  "ror": "0591s4t67"
+ },
+ "updatedAt": "2026-11-08T12:02:42Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/dd/dd2a48a55594a5272c45e643e62d957a0a6425677b3901821b83a75b5bbf4a3e.webp",
+   "hosted": true,
+   "sha256": "dd2a48a55594a5272c45e643e62d957a0a6425677b3901821b83a75b5bbf4a3e",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 104,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_SERGAS.png",
+   "license": "Public domain",
+   "attribution": "Xunta de Galicia",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_SERGAS.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-08T12:02:42Z"
+  }
+ ]
+}

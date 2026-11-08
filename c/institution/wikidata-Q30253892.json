@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q30253892",
+ "ids": {
+  "wikidata": "Q30253892",
+  "ror": "00mpdg388"
+ },
+ "updatedAt": "2026-11-08T12:02:42Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http%3A%2F%2Fwww.usc.es%2Fen%2Fservizos%2Fchus%2Findex.html&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "http://www.usc.es/en/servizos/chus/index.html",
+   "confidence": 0.5,
+   "fetchedAt": "2026-11-08T12:02:42Z"
+  }
+ ]
+}

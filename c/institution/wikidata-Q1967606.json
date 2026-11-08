@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1967606",
+ "ids": {
+  "wikidata": "Q1967606",
+  "ror": "015w2mp89"
+ },
+ "updatedAt": "2026-11-08T12:02:42Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/8e/8ece4f1c0ffe247ed211dd55f02c35f8d57ad67f8f6d47c226366dc643beef19.webp",
+   "hosted": true,
+   "sha256": "8ece4f1c0ffe247ed211dd55f02c35f8d57ad67f8f6d47c226366dc643beef19",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 64,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/NPL_logo.svg",
+   "license": "Public domain",
+   "attribution": "Department for Science, Innovation and Technology",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:NPL_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-08T12:02:42Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q678982",
+ "ids": {
+  "wikidata": "Q678982",
+  "ror": "0304hq317"
+ },
+ "updatedAt": "2026-11-08T12:02:42Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ad/adba01e04fa32624eba31707b3b400e2f9aabf923a3fc49b3ce080dbe7ab3eee.webp",
+   "hosted": true,
+   "sha256": "adba01e04fa32624eba31707b3b400e2f9aabf923a3fc49b3ce080dbe7ab3eee",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 85,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Leibniz-Universit%C3%A4t_Hannover.png",
+   "license": "Public domain",
+   "attribution": "Gottfried Wilhelm Leibniz Universität Hannover",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Leibniz-Universit%C3%A4t_Hannover.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-08T12:02:42Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q540672",
+ "ids": {
+  "wikidata": "Q540672",
+  "ror": "02v80fc35"
+ },
+ "updatedAt": "2026-11-08T12:02:42Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/2e/2eaaae70e9a3e6188851075db3412010fc2a0f6af8bf190677eb37e73cdbab55.webp",
+   "hosted": true,
+   "sha256": "2eaaae70e9a3e6188851075db3412010fc2a0f6af8bf190677eb37e73cdbab55",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 71,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Auburn_University_primary_logo.svg",
+   "license": "Public domain",
+   "attribution": "Auburn University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Auburn_University_primary_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-08T12:02:42Z"
+  }
+ ]
+}

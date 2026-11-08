@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-014weej12",
+ "ids": {
+  "wikidata": "Q756126",
+  "ror": "014weej12"
+ },
+ "updatedAt": "2026-11-08T12:02:42Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/88/88a97bb45fd7a1fe73aed20eb3fc5c29d61fe7b5f3712b63920698f64e201655.webp",
+   "hosted": true,
+   "sha256": "88a97bb45fd7a1fe73aed20eb3fc5c29d61fe7b5f3712b63920698f64e201655",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 213,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_ODT%C3%9C.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_ODT%C3%9C.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-08T12:02:42Z"
+  }
+ ]
+}

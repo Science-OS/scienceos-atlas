@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-00dvg7y05",
+ "ids": {
+  "wikidata": "Q1000479",
+  "ror": "00dvg7y05"
+ },
+ "updatedAt": "2026-11-08T12:02:42Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.childrenshospital.org&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "https://www.childrenshospital.org",
+   "confidence": 0.5,
+   "fetchedAt": "2026-11-08T12:02:42Z"
+  }
+ ]
+}

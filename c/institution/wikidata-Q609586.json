@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q609586",
+ "ids": {
+  "wikidata": "Q609586",
+  "ror": "0091vmj44"
+ },
+ "updatedAt": "2026-11-08T12:02:42Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ce/ce8276398a74a10ae89c552914c20bce10d9bb902efdf1940169ad36407259b1.webp",
+   "hosted": true,
+   "sha256": "ce8276398a74a10ae89c552914c20bce10d9bb902efdf1940169ad36407259b1",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sbu-logo.svg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "سیدمحمد شبیری",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Sbu-logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-08T12:02:42Z"
+  }
+ ]
+}

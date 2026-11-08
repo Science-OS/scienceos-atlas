@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-017xnm587",
+ "ids": {
+  "wikidata": "Q489331",
+  "ror": "017xnm587"
+ },
+ "updatedAt": "2026-11-08T12:02:42Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/cd/cddbc41168f2bdef12c6467230bfc88bfb2e808f49408478002aea9017b048f2.webp",
+   "hosted": true,
+   "sha256": "cddbc41168f2bdef12c6467230bfc88bfb2e808f49408478002aea9017b048f2",
+   "mime": "image/webp",
+   "width": 143,
+   "height": 147,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_of_soongsil_university.png",
+   "license": "Public domain",
+   "attribution": "숭실대학교",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_of_soongsil_university.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-08T12:02:42Z"
+  }
+ ]
+}

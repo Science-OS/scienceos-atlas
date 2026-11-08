@@ -1,0 +1,24 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "wikidata-Q107742361",
+ "ids": {
+  "orcid": "0000-0002-0190-6459",
+  "wikidata": "Q107742361",
+  "openalex": "A5078850040",
+  "github": "sarahooker"
+ },
+ "updatedAt": "2026-11-08T12:02:42Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://github.com/sarahooker.png?size=256",
+   "hosted": false,
+   "source": "github",
+   "attribution": "GitHub profile @sarahooker",
+   "attributionUrl": "https://github.com/sarahooker",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-08T12:02:42Z"
+  }
+ ]
+}

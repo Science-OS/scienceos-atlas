@@ -1,0 +1,30 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "wikidata-Q15238469",
+ "ids": {
+  "orcid": "0000-0002-4089-7129",
+  "wikidata": "Q15238469",
+  "openalex": "A5082837579"
+ },
+ "updatedAt": "2026-11-08T12:02:42Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/68/681a711cb5364e9bdd50b1fe618d55af1c5b00be3583e2dd19560e9c24b26a83.webp",
+   "hosted": true,
+   "sha256": "681a711cb5364e9bdd50b1fe618d55af1c5b00be3583e2dd19560e9c24b26a83",
+   "mime": "image/webp",
+   "width": 203,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Camillo_De_Lellis.jpg",
+   "license": "CC BY-SA 2.0 de",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+   "attribution": "MFO",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Camillo_De_Lellis.jpg",
+   "confidence": 0.95,
+   "fetchedAt": "2026-11-08T12:02:42Z"
+  }
+ ]
+}

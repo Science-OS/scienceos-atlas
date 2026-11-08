@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-021018s57",
+ "ids": {
+  "wikidata": "Q219615",
+  "ror": "021018s57"
+ },
+ "updatedAt": "2026-11-08T12:02:42Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b7/b77c01f73d0f881642a138ae8e40a439724ede4ad3d43a86e488493e5fbb018e.webp",
+   "hosted": true,
+   "sha256": "b77c01f73d0f881642a138ae8e40a439724ede4ad3d43a86e488493e5fbb018e",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 123,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Universit%C3%A4t_Barcelona.svg",
+   "license": "Public domain",
+   "attribution": "Universität Barcelona",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Universit%C3%A4t_Barcelona.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-08T12:02:42Z"
+  }
+ ]
+}

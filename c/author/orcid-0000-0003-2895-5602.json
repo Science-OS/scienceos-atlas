@@ -1,0 +1,30 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "orcid-0000-0003-2895-5602",
+ "ids": {
+  "orcid": "0000-0003-2895-5602",
+  "wikidata": "Q21642769",
+  "openalex": "A5085165654"
+ },
+ "updatedAt": "2026-11-08T12:02:42Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/6f/6ff3ac398720c967981d5186164b8beca467bef32cbfd0b6294973f86bbd3130.webp",
+   "hosted": true,
+   "sha256": "6ff3ac398720c967981d5186164b8beca467bef32cbfd0b6294973f86bbd3130",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 171,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/ETH-BIB-Mayboroda%2C_Svitlana_%281981-%29-Portr_20316.jpg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Alessandro Della Bella",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:ETH-BIB-Mayboroda,_Svitlana_(1981-)-Portr_20316.jpg",
+   "confidence": 0.95,
+   "fetchedAt": "2026-11-08T12:02:42Z"
+  }
+ ]
+}

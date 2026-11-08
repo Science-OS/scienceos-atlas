@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1476484",
+ "ids": {
+  "wikidata": "Q1476484",
+  "ror": "02aze4h65"
+ },
+ "updatedAt": "2026-11-08T12:02:42Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e8/e86b2ec0d10cf0a24923151073d2343f8c9fafa2fb370fd6e2b79366c01e1449.webp",
+   "hosted": true,
+   "sha256": "e86b2ec0d10cf0a24923151073d2343f8c9fafa2fb370fd6e2b79366c01e1449",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 57,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/North_Carolina_A%26T_State_University_wordmark.svg",
+   "license": "Public domain",
+   "attribution": "North Carolina A&T State University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:North_Carolina_A%26T_State_University_wordmark.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-08T12:02:42Z"
+  }
+ ]
+}

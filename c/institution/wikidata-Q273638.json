@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q273638",
+ "ids": {
+  "wikidata": "Q273638",
+  "ror": "03zx86w41"
+ },
+ "updatedAt": "2026-11-08T12:02:42Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/4a/4a481a505c7548c59f6fbc3589c322282fb2943a5c030c619bb0361fe0e3ec2b.webp",
+   "hosted": true,
+   "sha256": "4a481a505c7548c59f6fbc3589c322282fb2943a5c030c619bb0361fe0e3ec2b",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 34,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/ESPCI-PSL.png",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "DanielE",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:ESPCI-PSL.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-08T12:02:42Z"
+  }
+ ]
+}

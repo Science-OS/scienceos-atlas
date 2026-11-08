@@ -1,0 +1,21 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-05n7xcf53",
+ "ids": {
+  "ror": "05n7xcf53"
+ },
+ "updatedAt": "2026-11-08T12:02:42Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.idisantiago.es/wp-content/uploads/2018/07/cropped-fidis-favicon@2x-8-192x192.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.idisantiago.es/",
+   "attributionUrl": "https://www.idisantiago.es/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-08T12:02:42Z"
+  }
+ ]
+}

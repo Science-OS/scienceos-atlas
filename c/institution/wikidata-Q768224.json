@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q768224",
+ "ids": {
+  "wikidata": "Q768224",
+  "ror": "01fvbaw18"
+ },
+ "updatedAt": "2026-11-08T12:02:42Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c4/c42e1a71b17091197787a5bc5ad4c42b59702e4fe61a4cc35fa50112745cdc5d.webp",
+   "hosted": true,
+   "sha256": "c42e1a71b17091197787a5bc5ad4c42b59702e4fe61a4cc35fa50112745cdc5d",
+   "mime": "image/webp",
+   "width": 254,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logotipo_de_la_Universidad_de_Valladolid.svg",
+   "license": "Public domain",
+   "attribution": "Universidad de Valladolid, dibujado por Rastrojo ( D • ES )",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logotipo_de_la_Universidad_de_Valladolid.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-08T12:02:42Z"
+  }
+ ]
+}

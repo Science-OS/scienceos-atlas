@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1563050",
+ "ids": {
+  "wikidata": "Q1563050",
+  "ror": "01r4q9n85"
+ },
+ "updatedAt": "2026-11-08T12:02:42Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/1f/1f533acb6a7fb3ac5f9ed140a2f00d3c96497db9175fd5219c50724f05a50a45.webp",
+   "hosted": true,
+   "sha256": "1f533acb6a7fb3ac5f9ed140a2f00d3c96497db9175fd5219c50724f05a50a45",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Macau_logo.svg",
+   "license": "Public domain",
+   "attribution": "澳門特別行政區政府",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Macau_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-08T12:02:42Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q62621",
+ "ids": {
+  "wikidata": "Q62621",
+  "ror": "05gg0gh87"
+ },
+ "updatedAt": "2026-11-08T12:02:42Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c8/c8d76defaf3711aab05d94e9adde629da1fce622dd51ee42c410a3e17b46fe35.webp",
+   "hosted": true,
+   "sha256": "c8d76defaf3711aab05d94e9adde629da1fce622dd51ee42c410a3e17b46fe35",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 54,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Canon_wordmark.svg",
+   "license": "Public domain",
+   "attribution": "Wikimedia Commons",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Canon_wordmark.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-08T12:02:42Z"
+  }
+ ]
+}

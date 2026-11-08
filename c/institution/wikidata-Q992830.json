@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q992830",
+ "ids": {
+  "wikidata": "Q992830",
+  "ror": "03ypqe447"
+ },
+ "updatedAt": "2026-11-08T12:02:42Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.scu.edu/assets/images/favicons/android-chrome-192x192.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.scu.edu",
+   "attributionUrl": "https://www.scu.edu",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-08T12:02:42Z"
+  }
+ ]
+}
