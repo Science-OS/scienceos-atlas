@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.09778",
+ "ids": {
+  "arxiv": "2611.09778"
+ },
+ "updatedAt": "2026-11-09T14:08:31Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/dc/dca0ca5f6562f1a34354799f42fa62eca8fb5293b4ff2378e15d6ab7b7a20658.jpg",
+   "hosted": true,
+   "sha256": "dca0ca5f6562f1a34354799f42fa62eca8fb5293b4ff2378e15d6ab7b7a20658",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.09778",
+   "license": "CC0 1.0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0",
+   "attribution": "Oliver Dobson et al., arXiv:2611.09778",
+   "attributionUrl": "https://arxiv.org/abs/2611.09778",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-09T14:08:31Z"
+  }
+ ]
+}

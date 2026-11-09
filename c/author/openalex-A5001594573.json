@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "openalex-A5001594573",
+ "ids": {
+  "orcid": "0000-0003-3695-1580",
+  "wikidata": "Q6203258",
+  "openalex": "A5001594573"
+ },
+ "updatedAt": "2026-11-09T14:08:31Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/6d/6dfdf5583ffefc4fb3750bce57b6b296a91a9648ebd390e1e114453f8d3ec1bf.webp",
+   "hosted": true,
+   "sha256": "6dfdf5583ffefc4fb3750bce57b6b296a91a9648ebd390e1e114453f8d3ec1bf",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 170,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/180906-N-PO203-0045_%2843874899564%29.jpg",
+   "license": "Public domain",
+   "attribution": "Office of Naval Research from Arlington, United States",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:180906-N-PO203-0045_(43874899564).jpg",
+   "confidence": 0.95,
+   "fetchedAt": "2026-11-09T14:08:31Z"
+  }
+ ]
+}

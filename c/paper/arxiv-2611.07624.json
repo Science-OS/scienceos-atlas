@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.07624",
+ "ids": {
+  "arxiv": "2611.07624"
+ },
+ "updatedAt": "2026-11-09T14:08:31Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/45/45bb8a5885f7a1b24448ce17c8da3780a45beb96af3132929a3e5b3655e91ad9.jpg",
+   "hosted": true,
+   "sha256": "45bb8a5885f7a1b24448ce17c8da3780a45beb96af3132929a3e5b3655e91ad9",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.07624",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Xiaobo Wang et al., arXiv:2611.07624",
+   "attributionUrl": "https://arxiv.org/abs/2611.07624",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-09T14:08:31Z"
+  }
+ ]
+}

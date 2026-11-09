@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q881298",
+ "ids": {
+  "wikidata": "Q881298",
+  "ror": "03taest98"
+ },
+ "updatedAt": "2026-11-09T14:08:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.ipp.mpg.de/assets/touch-icon-180x180-a3e396f9294afe6618861344bef35fc0075f9631fe80702eb259befcd682a42c.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.ipp.mpg.de",
+   "attributionUrl": "https://www.ipp.mpg.de",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-09T14:08:31Z"
+  }
+ ]
+}

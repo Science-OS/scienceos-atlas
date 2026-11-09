@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.08290",
+ "ids": {
+  "arxiv": "2611.08290"
+ },
+ "updatedAt": "2026-11-09T14:08:31Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/0b/0bc5c0edf399a6dc86c59260282842b14e1e89be25669397910433952621bd3a.jpg",
+   "hosted": true,
+   "sha256": "0bc5c0edf399a6dc86c59260282842b14e1e89be25669397910433952621bd3a",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.08290",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Sheldon Liang et al., arXiv:2611.08290",
+   "attributionUrl": "https://arxiv.org/abs/2611.08290",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-09T14:08:31Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.09295",
+ "ids": {
+  "arxiv": "2611.09295"
+ },
+ "updatedAt": "2026-11-09T14:08:31Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b6/b65d585d82665eda9631565c8a932194fe62f183852c97a4c84a6f294c687598.jpg",
+   "hosted": true,
+   "sha256": "b65d585d82665eda9631565c8a932194fe62f183852c97a4c84a6f294c687598",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.09295",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Maryam Soltani et al., arXiv:2611.09295",
+   "attributionUrl": "https://arxiv.org/abs/2611.09295",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-09T14:08:31Z"
+  }
+ ]
+}

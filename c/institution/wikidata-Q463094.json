@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q463094",
+ "ids": {
+  "wikidata": "Q463094",
+  "ror": "01v3aym70"
+ },
+ "updatedAt": "2026-11-09T14:08:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/a6/a64759782fcfa9d2b2aefe417a2ec05b986fb42bf1d89aaa348d2a94474c0cb5.webp",
+   "hosted": true,
+   "sha256": "a64759782fcfa9d2b2aefe417a2ec05b986fb42bf1d89aaa348d2a94474c0cb5",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 30,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Foxconn_Logo.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Foxconn_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-09T14:08:31Z"
+  }
+ ]
+}

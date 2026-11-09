@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02dgjyy92",
+ "ids": {
+  "wikidata": "Q738258",
+  "ror": "02dgjyy92"
+ },
+ "updatedAt": "2026-11-09T14:08:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/0a/0a99a1a7798c3ec6520617d384b46eec1cae7ac984aacf37d0753254a7c1805f.webp",
+   "hosted": true,
+   "sha256": "0a99a1a7798c3ec6520617d384b46eec1cae7ac984aacf37d0753254a7c1805f",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 123,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Miami_logo.svg",
+   "license": "Public domain",
+   "attribution": "University of Miami",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Miami_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-09T14:08:31Z"
+  }
+ ]
+}

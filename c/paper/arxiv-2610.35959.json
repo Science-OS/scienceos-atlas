@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.35959",
+ "ids": {
+  "arxiv": "2610.35959"
+ },
+ "updatedAt": "2026-11-09T14:08:31Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b4/b463b4d9f44a774273434b6dad3dfb9a99660a43f040be6bc90a5ed08164087e.jpg",
+   "hosted": true,
+   "sha256": "b463b4d9f44a774273434b6dad3dfb9a99660a43f040be6bc90a5ed08164087e",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.35959",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Junlong Li et al., arXiv:2610.35959",
+   "attributionUrl": "https://arxiv.org/abs/2610.35959",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-09T14:08:31Z"
+  }
+ ]
+}

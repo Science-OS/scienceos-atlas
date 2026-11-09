@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.09265",
+ "ids": {
+  "arxiv": "2611.09265"
+ },
+ "updatedAt": "2026-11-09T14:08:31Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c5/c5f9af7bcc8c5bf8b66bedf407e81ac6003b882dfaa126a46281d631b5f75990.jpg",
+   "hosted": true,
+   "sha256": "c5f9af7bcc8c5bf8b66bedf407e81ac6003b882dfaa126a46281d631b5f75990",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.09265",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Matthias Pirlet et al., arXiv:2611.09265",
+   "attributionUrl": "https://arxiv.org/abs/2611.09265",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-09T14:08:31Z"
+  }
+ ]
+}

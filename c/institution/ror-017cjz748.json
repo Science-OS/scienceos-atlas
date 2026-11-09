@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-017cjz748",
+ "ids": {
+  "wikidata": "Q484108",
+  "ror": "017cjz748"
+ },
+ "updatedAt": "2026-11-09T14:08:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/fa/faf2dab36e32b47a5eb1f6b57bdc59765942565de9f1fb5c527e6dc5d9c2725f.webp",
+   "hosted": true,
+   "sha256": "faf2dab36e32b47a5eb1f6b57bdc59765942565de9f1fb5c527e6dc5d9c2725f",
+   "mime": "image/webp",
+   "width": 205,
+   "height": 205,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Unist_logo.png",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Saldagacello",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Unist_logo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-09T14:08:31Z"
+  }
+ ]
+}

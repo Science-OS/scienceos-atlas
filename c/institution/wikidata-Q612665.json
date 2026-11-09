@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q612665",
+ "ids": {
+  "wikidata": "Q612665",
+  "ror": "006e5kg04"
+ },
+ "updatedAt": "2026-11-09T14:08:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/20/20324dfaf240d199ed10b83102f712b5a570dc6429ae18844ff06c6c8ecbd7ca.webp",
+   "hosted": true,
+   "sha256": "20324dfaf240d199ed10b83102f712b5a570dc6429ae18844ff06c6c8ecbd7ca",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 114,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vrije_Universiteit_Brussel_logo.svg",
+   "license": "Public domain",
+   "attribution": "Vrije Universiteit Brussel",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Vrije_Universiteit_Brussel_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-09T14:08:31Z"
+  }
+ ]
+}

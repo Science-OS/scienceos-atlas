@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1446181",
+ "ids": {
+  "wikidata": "Q1446181",
+  "ror": "00g2xk477"
+ },
+ "updatedAt": "2026-11-09T14:08:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/0d/0da5f4e15e5f04a42dd2b3060db96863c096fa791353057cdb873fab347a88f6.webp",
+   "hosted": true,
+   "sha256": "0da5f4e15e5f04a42dd2b3060db96863c096fa791353057cdb873fab347a88f6",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 71,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/HUNTER-LOGO.jpg",
+   "license": "Public domain",
+   "attribution": "Office of Communications",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:HUNTER-LOGO.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-09T14:08:31Z"
+  }
+ ]
+}

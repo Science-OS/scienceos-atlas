@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q503424",
+ "ids": {
+  "wikidata": "Q503424",
+  "ror": "024mrxd33"
+ },
+ "updatedAt": "2026-11-09T14:08:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://jaducdn.leeds.ac.uk/uol-ds/1.0.22/favicons/apple-touch-icon.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.leeds.ac.uk",
+   "attributionUrl": "https://www.leeds.ac.uk",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-09T14:08:31Z"
+  }
+ ]
+}

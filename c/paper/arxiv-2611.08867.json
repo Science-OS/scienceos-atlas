@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.08867",
+ "ids": {
+  "arxiv": "2611.08867"
+ },
+ "updatedAt": "2026-11-09T14:08:31Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c3/c33e8925cfcd3ba637bb1920c19b782e98ae5e47472e4a6e27971b9c6c3d1867.jpg",
+   "hosted": true,
+   "sha256": "c33e8925cfcd3ba637bb1920c19b782e98ae5e47472e4a6e27971b9c6c3d1867",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.08867",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Boyang Zhao et al., arXiv:2611.08867",
+   "attributionUrl": "https://arxiv.org/abs/2611.08867",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-09T14:08:31Z"
+  }
+ ]
+}

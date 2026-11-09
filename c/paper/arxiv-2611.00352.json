@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.00352",
+ "ids": {
+  "arxiv": "2611.00352"
+ },
+ "updatedAt": "2026-11-09T14:08:31Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/36/3658b3a16a99a3151cef7360170763feda56b17f6564cac6dd8bbc331e9a5015.jpg",
+   "hosted": true,
+   "sha256": "3658b3a16a99a3151cef7360170763feda56b17f6564cac6dd8bbc331e9a5015",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.00352",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Jinkun Chen et al., arXiv:2611.00352",
+   "attributionUrl": "https://arxiv.org/abs/2611.00352",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-09T14:08:31Z"
+  }
+ ]
+}

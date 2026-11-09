@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-041akq887",
+ "ids": {
+  "wikidata": "Q1851075",
+  "ror": "041akq887"
+ },
+ "updatedAt": "2026-11-09T14:08:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/0c/0c94af9f387495f77ecceada94d9e51474da910cae30cbabc96adc7a9da5366d.webp",
+   "hosted": true,
+   "sha256": "0c94af9f387495f77ecceada94d9e51474da910cae30cbabc96adc7a9da5366d",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 253,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Brasao_UFSC_vertical_extenso.svg",
+   "license": "Public domain",
+   "attribution": "Universidade Federal de Santa Catarina",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Brasao_UFSC_vertical_extenso.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-09T14:08:31Z"
+  }
+ ]
+}

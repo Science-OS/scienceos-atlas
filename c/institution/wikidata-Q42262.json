@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q42262",
+ "ids": {
+  "wikidata": "Q42262",
+  "ror": "03wd9za21"
+ },
+ "updatedAt": "2026-11-09T14:08:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/28/28a9ff3482ac784c75c55571f22b4730fd0cc5997aa0f5097594ef5960921d16.webp",
+   "hosted": true,
+   "sha256": "28a9ff3482ac784c75c55571f22b4730fd0cc5997aa0f5097594ef5960921d16",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 100,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/European_Space_Agency_logo.svg",
+   "license": "Public domain",
+   "attribution": "European Space Agency",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:European_Space_Agency_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-09T14:08:31Z"
+  }
+ ]
+}

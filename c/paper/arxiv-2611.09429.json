@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.09429",
+ "ids": {
+  "arxiv": "2611.09429"
+ },
+ "updatedAt": "2026-11-09T14:08:31Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c4/c41888b537a208ba9a8df5f00e2dff53552eb4120f40f9243a4965c2e5ebbaa4.jpg",
+   "hosted": true,
+   "sha256": "c41888b537a208ba9a8df5f00e2dff53552eb4120f40f9243a4965c2e5ebbaa4",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.09429",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Ciarrah-Jane S Barry et al., arXiv:2611.09429",
+   "attributionUrl": "https://arxiv.org/abs/2611.09429",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-09T14:08:31Z"
+  }
+ ]
+}

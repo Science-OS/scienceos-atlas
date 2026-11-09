@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q30280718",
+ "ids": {
+  "wikidata": "Q30280718",
+  "ror": "00fv61j67"
+ },
+ "updatedAt": "2026-11-09T14:08:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://cdn.ucl.ac.uk/favicons/android-chrome-192x192.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of http://www.ucl.ac.uk/lmcb/",
+   "attributionUrl": "http://www.ucl.ac.uk/lmcb/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-09T14:08:31Z"
+  }
+ ]
+}

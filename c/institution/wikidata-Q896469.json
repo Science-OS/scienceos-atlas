@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q896469",
+ "ids": {
+  "wikidata": "Q896469",
+  "ror": "01ayc5b57"
+ },
+ "updatedAt": "2026-11-09T14:08:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/3d/3dd40d5d8e5cf6ba5305ac4f7e8e1cba9dd9c7f79b7fe41a2583725b798fc39e.webp",
+   "hosted": true,
+   "sha256": "3dd40d5d8e5cf6ba5305ac4f7e8e1cba9dd9c7f79b7fe41a2583725b798fc39e",
+   "mime": "image/webp",
+   "width": 247,
+   "height": 204,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/DFKI_logo_since_2023.png",
+   "license": "Public domain",
+   "attribution": "Deutsches Forschungszentrum für Künstliche Intelligenz GmbH (DFKI)",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:DFKI_logo_since_2023.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-09T14:08:31Z"
+  }
+ ]
+}

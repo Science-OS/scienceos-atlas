@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.09331",
+ "ids": {
+  "arxiv": "2611.09331"
+ },
+ "updatedAt": "2026-11-09T14:08:31Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/87/87f7e43e9bd760a3b04ccec1846cbf1d96e4a3218a00630c381d7f47828b6429.jpg",
+   "hosted": true,
+   "sha256": "87f7e43e9bd760a3b04ccec1846cbf1d96e4a3218a00630c381d7f47828b6429",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.09331",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Gregory Provan et al., arXiv:2611.09331",
+   "attributionUrl": "https://arxiv.org/abs/2611.09331",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-09T14:08:31Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.09060",
+ "ids": {
+  "arxiv": "2611.09060"
+ },
+ "updatedAt": "2026-11-09T14:08:31Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/84/8470a9849f7ea21c1ea67cbbdebc2c06ef9eec59b8b4953bfc01cc63963bba3d.jpg",
+   "hosted": true,
+   "sha256": "8470a9849f7ea21c1ea67cbbdebc2c06ef9eec59b8b4953bfc01cc63963bba3d",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.09060",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Sophie Hall et al., arXiv:2611.09060",
+   "attributionUrl": "https://arxiv.org/abs/2611.09060",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-09T14:08:31Z"
+  }
+ ]
+}

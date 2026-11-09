@@ -1,0 +1,24 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "wikidata-Q63659480",
+ "ids": {
+  "orcid": "0000-0003-1007-6474",
+  "wikidata": "Q63659480",
+  "openalex": "A5053227067",
+  "bluesky": "neural-reckoning.org"
+ },
+ "updatedAt": "2026-11-09T14:08:31Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://cdn.bsky.app/img/avatar/plain/did:plc:niqde7rkzo7ua3scet2rzyt7/bafkreieaubbhdf467qapmy453knawznmtvhw2mjjpzrhsvnimkqfwaog5q",
+   "hosted": false,
+   "source": "bluesky",
+   "attribution": "Bluesky profile @neural-reckoning.org",
+   "attributionUrl": "https://bsky.app/profile/neural-reckoning.org",
+   "confidence": 0.85,
+   "fetchedAt": "2026-11-09T14:08:31Z"
+  }
+ ]
+}

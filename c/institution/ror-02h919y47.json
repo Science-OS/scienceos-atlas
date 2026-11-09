@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02h919y47",
+ "ids": {
+  "wikidata": "Q692163",
+  "ror": "02h919y47"
+ },
+ "updatedAt": "2026-11-09T14:08:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/6d/6db734e00aec5468d7cd7e783bf3ac8f837e588b4c895201ea4d3843cd6ed712.webp",
+   "hosted": true,
+   "sha256": "6db734e00aec5468d7cd7e783bf3ac8f837e588b4c895201ea4d3843cd6ed712",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 47,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/EUMETSAT_logo_2020.svg",
+   "license": "Public domain",
+   "attribution": "European Organisation for the Exploitation of Meteorological Satellites",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:EUMETSAT_logo_2020.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-09T14:08:31Z"
+  }
+ ]
+}

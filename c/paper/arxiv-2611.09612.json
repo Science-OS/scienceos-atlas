@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.09612",
+ "ids": {
+  "arxiv": "2611.09612"
+ },
+ "updatedAt": "2026-11-09T14:08:31Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b8/b8e015412393aa85e8cf10b506ab12fd7532095813d920569c81ef71b75a2b1e.jpg",
+   "hosted": true,
+   "sha256": "b8e015412393aa85e8cf10b506ab12fd7532095813d920569c81ef71b75a2b1e",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.09612",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Giovanni S. Alberti et al., arXiv:2611.09612",
+   "attributionUrl": "https://arxiv.org/abs/2611.09612",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-09T14:08:31Z"
+  }
+ ]
+}

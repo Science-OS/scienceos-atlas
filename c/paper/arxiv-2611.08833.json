@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.08833",
+ "ids": {
+  "arxiv": "2611.08833"
+ },
+ "updatedAt": "2026-11-09T14:08:31Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b3/b3eb6675bb16ee242d0ef63a6a1ffe49c8133d597ad5e10242423b7387c07c44.jpg",
+   "hosted": true,
+   "sha256": "b3eb6675bb16ee242d0ef63a6a1ffe49c8133d597ad5e10242423b7387c07c44",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.08833",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Innocent Abaa et al., arXiv:2611.08833",
+   "attributionUrl": "https://arxiv.org/abs/2611.08833",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-09T14:08:31Z"
+  }
+ ]
+}

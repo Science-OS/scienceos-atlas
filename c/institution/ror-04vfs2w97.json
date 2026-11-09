@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04vfs2w97",
+ "ids": {
+  "wikidata": "Q4173330",
+  "ror": "04vfs2w97"
+ },
+ "updatedAt": "2026-11-09T14:08:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d7/d76a774d2439578349296d88cdd88cd4348ed0e4057696b9055a6c2167eedc9b.webp",
+   "hosted": true,
+   "sha256": "d76a774d2439578349296d88cdd88cd4348ed0e4057696b9055a6c2167eedc9b",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 91,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo-universite-de-lorraine.svg",
+   "license": "Public domain",
+   "attribution": "Université de Lorraine",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo-universite-de-lorraine.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-09T14:08:31Z"
+  }
+ ]
+}

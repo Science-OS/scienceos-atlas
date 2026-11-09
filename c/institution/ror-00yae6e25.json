@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-00yae6e25",
+ "ids": {
+  "wikidata": "Q315658",
+  "ror": "00yae6e25"
+ },
+ "updatedAt": "2026-11-09T14:08:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/2d/2dee035e0f7b4bc64e01377206a57fd1c9abf8b57e437c0101f5135c504bf66e.webp",
+   "hosted": true,
+   "sha256": "2dee035e0f7b4bc64e01377206a57fd1c9abf8b57e437c0101f5135c504bf66e",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Siegel_der_Universit%C3%A4t_Breslau.jpg",
+   "license": "Public domain",
+   "attribution": "Universität Breslau",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Siegel_der_Universit%C3%A4t_Breslau.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-09T14:08:31Z"
+  }
+ ]
+}

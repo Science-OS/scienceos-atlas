@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.09792",
+ "ids": {
+  "arxiv": "2611.09792"
+ },
+ "updatedAt": "2026-11-09T14:08:31Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/0d/0d932e6e0bc80cfd75244917422e3a3b38ebf2d25f324717acb74ef9cb896e84.jpg",
+   "hosted": true,
+   "sha256": "0d932e6e0bc80cfd75244917422e3a3b38ebf2d25f324717acb74ef9cb896e84",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.09792",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Ayush Sawarni et al., arXiv:2611.09792",
+   "attributionUrl": "https://arxiv.org/abs/2611.09792",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-09T14:08:31Z"
+  }
+ ]
+}

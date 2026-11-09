@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q2211570",
+ "ids": {
+  "wikidata": "Q2211570",
+  "ror": "04zyzzh22"
+ },
+ "updatedAt": "2026-11-09T14:08:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e6/e6f193566aa13d61563db0247f326dd63ee22c881920921ad089f77e411e3817.webp",
+   "hosted": true,
+   "sha256": "e6f193566aa13d61563db0247f326dd63ee22c881920921ad089f77e411e3817",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 171,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Saft.svg",
+   "license": "Public domain",
+   "attribution": "Saft, a company of TotalEnergies",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_Saft.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-09T14:08:31Z"
+  }
+ ]
+}

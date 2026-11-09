@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q3152049",
+ "ids": {
+  "wikidata": "Q3152049",
+  "ror": "03fk87k11"
+ },
+ "updatedAt": "2026-11-09T14:08:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.imj-prg.fr/wp-content/uploads/2025/09/cropped-Logo-IMJ-PRG_vertical_noir-RVB-1-192x192.jpg",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.imj-prg.fr",
+   "attributionUrl": "https://www.imj-prg.fr",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-09T14:08:31Z"
+  }
+ ]
+}

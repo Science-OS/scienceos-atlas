@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q2605554",
+ "ids": {
+  "wikidata": "Q2605554",
+  "ror": "05pmsvm27"
+ },
+ "updatedAt": "2026-11-09T14:08:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/35/35bb82c1d038ea52b1d0be66af5159c789903b36f36ceaa704062661515824de.webp",
+   "hosted": true,
+   "sha256": "35bb82c1d038ea52b1d0be66af5159c789903b36f36ceaa704062661515824de",
+   "mime": "image/webp",
+   "width": 219,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/ZHAW_Logo.svg",
+   "license": "Public domain",
+   "attribution": "Zürcher Hochschule für Angewandte Wissenschaften",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:ZHAW_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-09T14:08:31Z"
+  }
+ ]
+}

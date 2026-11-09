@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-042xxdh20",
+ "ids": {
+  "wikidata": "Q1622125",
+  "ror": "042xxdh20"
+ },
+ "updatedAt": "2026-11-09T14:08:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/89/897b895857f41b67f8558cff18fdf2de5b5ea900cb8bac4334469c9cab9f1632.webp",
+   "hosted": true,
+   "sha256": "897b895857f41b67f8558cff18fdf2de5b5ea900cb8bac4334469c9cab9f1632",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 74,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/HSLU_logo_digital_2011.jpg",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "attribution": "Hochschule für Wirtschaft und Gesellschaft Ludwigshafen",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:HSLU_logo_digital_2011.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-09T14:08:31Z"
+  }
+ ]
+}

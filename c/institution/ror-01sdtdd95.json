@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01sdtdd95",
+ "ids": {
+  "wikidata": "Q5030174",
+  "ror": "01sdtdd95"
+ },
+ "updatedAt": "2026-11-09T14:08:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://cifar.ca/apple-touch-icon.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://cifar.ca",
+   "attributionUrl": "https://cifar.ca",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-09T14:08:31Z"
+  }
+ ]
+}

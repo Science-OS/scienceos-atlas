@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.08689",
+ "ids": {
+  "arxiv": "2611.08689"
+ },
+ "updatedAt": "2026-11-09T14:08:31Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/30/3053d7d70ef3100d8fa1d72b294ee4951ff93297fe2976e40eb4121ad62f5acb.jpg",
+   "hosted": true,
+   "sha256": "3053d7d70ef3100d8fa1d72b294ee4951ff93297fe2976e40eb4121ad62f5acb",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.08689",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Fernando D. Almeida García et al., arXiv:2611.08689",
+   "attributionUrl": "https://arxiv.org/abs/2611.08689",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-09T14:08:31Z"
+  }
+ ]
+}

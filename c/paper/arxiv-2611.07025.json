@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.07025",
+ "ids": {
+  "arxiv": "2611.07025"
+ },
+ "updatedAt": "2026-11-09T14:08:31Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/cc/cc09c7a4011efd1e12c614efa9bec39fcefa2a476d9f0603da3c9b355a745635.jpg",
+   "hosted": true,
+   "sha256": "cc09c7a4011efd1e12c614efa9bec39fcefa2a476d9f0603da3c9b355a745635",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.07025",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Teresa Delgado et al., arXiv:2611.07025",
+   "attributionUrl": "https://arxiv.org/abs/2611.07025",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-09T14:08:31Z"
+  }
+ ]
+}

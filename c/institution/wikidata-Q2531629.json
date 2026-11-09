@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q2531629",
+ "ids": {
+  "wikidata": "Q2531629",
+  "ror": "039bp8j42"
+ },
+ "updatedAt": "2026-11-09T14:08:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/0c/0c5817773a4cbdd3633603de52a9c55c39a50546bf9186449a388f86caeece61.webp",
+   "hosted": true,
+   "sha256": "0c5817773a4cbdd3633603de52a9c55c39a50546bf9186449a388f86caeece61",
+   "mime": "image/webp",
+   "width": 252,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Universit%C3%A0Verona.svg",
+   "license": "Public domain",
+   "attribution": "Università degli Studi di Verona",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Universit%C3%A0Verona.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-09T14:08:31Z"
+  }
+ ]
+}

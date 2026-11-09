@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.09141",
+ "ids": {
+  "arxiv": "2611.09141"
+ },
+ "updatedAt": "2026-11-09T14:08:31Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/42/4219858bc73e5eea0cbb403fc66ce987dcb3d437a4284f0463594e1a07db771e.jpg",
+   "hosted": true,
+   "sha256": "4219858bc73e5eea0cbb403fc66ce987dcb3d437a4284f0463594e1a07db771e",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.09141",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Yubo Song et al., arXiv:2611.09141",
+   "attributionUrl": "https://arxiv.org/abs/2611.09141",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-09T14:08:31Z"
+  }
+ ]
+}

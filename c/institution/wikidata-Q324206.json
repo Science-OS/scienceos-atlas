@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q324206",
+ "ids": {
+  "wikidata": "Q324206",
+  "ror": "013czdx64"
+ },
+ "updatedAt": "2026-11-09T14:08:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/83/83022d63b6ad9e149ee498fa7e332626ae636646e7e930d56464682b809c2b4e.webp",
+   "hosted": true,
+   "sha256": "83022d63b6ad9e149ee498fa7e332626ae636646e7e930d56464682b809c2b4e",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Universit%C3%A4tsklinikum_Heidelberg_logo.svg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Universit%C3%A4tsklinikum_Heidelberg_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-09T14:08:31Z"
+  }
+ ]
+}

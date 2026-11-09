@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.08775",
+ "ids": {
+  "arxiv": "2611.08775"
+ },
+ "updatedAt": "2026-11-09T14:08:31Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c1/c173e6e4c98f888a05057a8f3bc12bdae75e438edbfc352b2b77c21d3204b921.jpg",
+   "hosted": true,
+   "sha256": "c173e6e4c98f888a05057a8f3bc12bdae75e438edbfc352b2b77c21d3204b921",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.08775",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Ashkan Soleymani et al., arXiv:2611.08775",
+   "attributionUrl": "https://arxiv.org/abs/2611.08775",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-09T14:08:31Z"
+  }
+ ]
+}

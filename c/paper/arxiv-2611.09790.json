@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.09790",
+ "ids": {
+  "arxiv": "2611.09790"
+ },
+ "updatedAt": "2026-11-09T14:08:31Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/94/94654d8c6aa821aba9231cd3be31f22918a965169b3b16d47d830650cf6552b3.jpg",
+   "hosted": true,
+   "sha256": "94654d8c6aa821aba9231cd3be31f22918a965169b3b16d47d830650cf6552b3",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.09790",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Ilya Archakov et al., arXiv:2611.09790",
+   "attributionUrl": "https://arxiv.org/abs/2611.09790",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-09T14:08:31Z"
+  }
+ ]
+}

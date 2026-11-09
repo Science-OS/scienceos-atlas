@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-00453a208",
+ "ids": {
+  "wikidata": "Q762266",
+  "ror": "00453a208"
+ },
+ "updatedAt": "2026-11-09T14:08:31Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b3/b3ac1ffc95aac5847472ee98b88d06275dc7d1a9eebf955779312ce39416e461.webp",
+   "hosted": true,
+   "sha256": "b3ac1ffc95aac5847472ee98b88d06275dc7d1a9eebf955779312ce39416e461",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 106,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/City_University_of_New_York_wordmark.svg",
+   "license": "Public domain",
+   "attribution": "City University of New York",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:City_University_of_New_York_wordmark.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-09T14:08:31Z"
+  }
+ ]
+}

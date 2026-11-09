@@ -1,0 +1,30 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "openalex-A5086198262",
+ "ids": {
+  "orcid": "0000-0002-9322-3515",
+  "wikidata": "Q3572699",
+  "openalex": "A5086198262"
+ },
+ "updatedAt": "2026-11-09T14:08:31Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/dd/dde70c34f3e8f20163b37caf246114d94fa66f7114840f2fa922d98c76cb4ea2.webp",
+   "hosted": true,
+   "sha256": "dde70c34f3e8f20163b37caf246114d94fa66f7114840f2fa922d98c76cb4ea2",
+   "mime": "image/webp",
+   "width": 193,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Yoshua_Bengio_2019_cropped.jpg",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Maryse Boyce",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Yoshua_Bengio_2019_cropped.jpg",
+   "confidence": 0.95,
+   "fetchedAt": "2026-11-09T14:08:31Z"
+  }
+ ]
+}
