@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.08240",
+ "ids": {
+  "arxiv": "2611.08240"
+ },
+ "updatedAt": "2026-11-10T13:39:38Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/84/84026575000902bd237fc3470d7cde88610050af10f8eb16ed7434eda8dd25f7.jpg",
+   "hosted": true,
+   "sha256": "84026575000902bd237fc3470d7cde88610050af10f8eb16ed7434eda8dd25f7",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.08240",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Haitao Lin et al., arXiv:2611.08240",
+   "attributionUrl": "https://arxiv.org/abs/2611.08240",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-10T13:39:38Z"
+  }
+ ]
+}

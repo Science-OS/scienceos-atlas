@@ -1,0 +1,21 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04tavf782",
+ "ids": {
+  "ror": "04tavf782"
+ },
+ "updatedAt": "2026-11-10T13:39:38Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http%3A%2F%2Fwww.csrc.ac.cn%2Fen%2F&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "http://www.csrc.ac.cn/en/",
+   "confidence": 0.5,
+   "fetchedAt": "2026-11-10T13:39:38Z"
+  }
+ ]
+}

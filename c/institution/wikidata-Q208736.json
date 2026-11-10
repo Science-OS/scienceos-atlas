@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q208736",
+ "ids": {
+  "wikidata": "Q208736",
+  "ror": "051q2m369"
+ },
+ "updatedAt": "2026-11-10T13:39:38Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/26/261b3e037e605554207eb55e6920a21d6025c2e490a1345f0537f029db88af43.webp",
+   "hosted": true,
+   "sha256": "261b3e037e605554207eb55e6920a21d6025c2e490a1345f0537f029db88af43",
+   "mime": "image/webp",
+   "width": 250,
+   "height": 170,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/HUFS.png",
+   "license": "Public domain",
+   "attribution": "Hankuk University of Foreign Studies",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:HUFS.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-10T13:39:38Z"
+  }
+ ]
+}

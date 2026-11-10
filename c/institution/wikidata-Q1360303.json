@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1360303",
+ "ids": {
+  "wikidata": "Q1360303",
+  "ror": "02k3smh20"
+ },
+ "updatedAt": "2026-11-10T13:39:38Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/67/67b5fe84c8068dc3c529dd4c57da5e23de35f54d351f124e7d18686caf5fa10a.webp",
+   "hosted": true,
+   "sha256": "67b5fe84c8068dc3c529dd4c57da5e23de35f54d351f124e7d18686caf5fa10a",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 69,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Kentucky_logo.svg",
+   "license": "Public domain",
+   "attribution": "University of Kentucky",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Kentucky_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-10T13:39:38Z"
+  }
+ ]
+}

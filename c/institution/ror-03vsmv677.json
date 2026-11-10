@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03vsmv677",
+ "ids": {
+  "wikidata": "Q193412",
+  "ror": "03vsmv677"
+ },
+ "updatedAt": "2026-11-10T13:39:38Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/51/51a20dddb16dec33fd929ad8abe93a1b137c5cd4d0098e6fb2baa6f1e2cf6bbc.webp",
+   "hosted": true,
+   "sha256": "51a20dddb16dec33fd929ad8abe93a1b137c5cd4d0098e6fb2baa6f1e2cf6bbc",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 95,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/TexasInstruments-Logo.svg",
+   "license": "Public domain",
+   "attribution": "Texas Instruments",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:TexasInstruments-Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-10T13:39:38Z"
+  }
+ ]
+}

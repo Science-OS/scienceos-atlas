@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.02775",
+ "ids": {
+  "arxiv": "2611.02775"
+ },
+ "updatedAt": "2026-11-10T13:39:38Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c9/c9fed3658157c71d763eae90fc7c501c978807a8afc3b921fdbfb04519c66720.jpg",
+   "hosted": true,
+   "sha256": "c9fed3658157c71d763eae90fc7c501c978807a8afc3b921fdbfb04519c66720",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.02775",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Subodh Lonkar, arXiv:2611.02775",
+   "attributionUrl": "https://arxiv.org/abs/2611.02775",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-10T13:39:38Z"
+  }
+ ]
+}
