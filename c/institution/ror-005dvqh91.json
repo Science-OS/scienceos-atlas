@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-005dvqh91",
+ "ids": {
+  "wikidata": "Q6956114",
+  "ror": "005dvqh91"
+ },
+ "updatedAt": "2026-11-11T12:51:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ef/ef956e3d9d0cde5ff7c0f1057b69f41ad441e993892f59a68544ce0d756dd9cb.webp",
+   "hosted": true,
+   "sha256": "ef956e3d9d0cde5ff7c0f1057b69f41ad441e993892f59a68544ce0d756dd9cb",
+   "mime": "image/webp",
+   "width": 181,
+   "height": 95,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/NYU_Langone.jpg",
+   "license": "Public domain",
+   "attribution": "NYU Langone Medical Center",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:NYU_Langone.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-11T12:51:52Z"
+  }
+ ]
+}

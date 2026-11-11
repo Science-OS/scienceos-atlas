@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1320232",
+ "ids": {
+  "wikidata": "Q1320232",
+  "ror": "0037qsh65"
+ },
+ "updatedAt": "2026-11-11T12:51:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ef/eff6228f10e45ac48ca3c9a37e5881a63db0cdba146c3f4ec12819325f56b536.webp",
+   "hosted": true,
+   "sha256": "eff6228f10e45ac48ca3c9a37e5881a63db0cdba146c3f4ec12819325f56b536",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 105,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Detroit_Mercy_new_logo.svg",
+   "license": "Public domain",
+   "attribution": "University of Detroit Mercy",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Detroit_Mercy_new_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-11T12:51:52Z"
+  }
+ ]
+}

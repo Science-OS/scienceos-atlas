@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1232180",
+ "ids": {
+  "wikidata": "Q1232180",
+  "ror": "04njjy449"
+ },
+ "updatedAt": "2026-11-11T12:51:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.ugr.es/themes/custom/ugr/icon/apple-touch-icon.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.ugr.es",
+   "attributionUrl": "https://www.ugr.es",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-11T12:51:52Z"
+  }
+ ]
+}

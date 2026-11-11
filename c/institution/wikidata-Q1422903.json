@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1422903",
+ "ids": {
+  "wikidata": "Q1422903",
+  "ror": "043pwc612"
+ },
+ "updatedAt": "2026-11-11T12:51:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/45/45d2ae075ed49eda07e26a3b4591157ae148b73e672399fe233c3451dc6bf4c1.webp",
+   "hosted": true,
+   "sha256": "45d2ae075ed49eda07e26a3b4591157ae148b73e672399fe233c3451dc6bf4c1",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 56,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logoup.jpg",
+   "license": "Public domain",
+   "attribution": "U.Porto",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logoup.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-11T12:51:52Z"
+  }
+ ]
+}

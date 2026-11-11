@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-048tbm396",
+ "ids": {
+  "wikidata": "Q499911",
+  "ror": "048tbm396"
+ },
+ "updatedAt": "2026-11-11T12:51:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/a9/a93bd09e3621772b55019f83028fa5edfb5a646123ae9d5cbf3dde15040fae57.webp",
+   "hosted": true,
+   "sha256": "a93bd09e3621772b55019f83028fa5edfb5a646123ae9d5cbf3dde15040fae57",
+   "mime": "image/webp",
+   "width": 255,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Turin_Sigil.svg",
+   "license": "Public domain",
+   "attribution": "University of Turin",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Turin_Sigil.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-11T12:51:52Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q2725999",
+ "ids": {
+  "wikidata": "Q2725999",
+  "ror": "05byvp690"
+ },
+ "updatedAt": "2026-11-11T12:51:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e7/e77ff28905cb7acc964836b1be0e4e8f58716e4afde1d51f4cff0ac3f412a7c8.webp",
+   "hosted": true,
+   "sha256": "e77ff28905cb7acc964836b1be0e4e8f58716e4afde1d51f4cff0ac3f412a7c8",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 52,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/UT_Southwestern_Medical_Center_logo.svg",
+   "license": "Public domain",
+   "attribution": "University of Texas Southwestern Medical Center",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:UT_Southwestern_Medical_Center_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-11T12:51:52Z"
+  }
+ ]
+}

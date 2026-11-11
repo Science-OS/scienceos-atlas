@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03j7sze86",
+ "ids": {
+  "wikidata": "Q8047359",
+  "ror": "03j7sze86"
+ },
+ "updatedAt": "2026-11-11T12:51:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://cdn1.medicine.yale.edu/icons/ysm/apple-touch-icon.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.yalecancercenter.org",
+   "attributionUrl": "https://www.yalecancercenter.org",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-11T12:51:52Z"
+  }
+ ]
+}

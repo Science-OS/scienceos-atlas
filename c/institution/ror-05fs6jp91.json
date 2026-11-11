@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-05fs6jp91",
+ "ids": {
+  "wikidata": "Q1190812",
+  "ror": "05fs6jp91"
+ },
+ "updatedAt": "2026-11-11T12:51:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/23/23bb8216b9a6e7dd7976ff46c47fd8c838bf66e0000e4823279810218afb6d51.webp",
+   "hosted": true,
+   "sha256": "23bb8216b9a6e7dd7976ff46c47fd8c838bf66e0000e4823279810218afb6d51",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 54,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_New_Mexico_logo.svg",
+   "license": "Public domain",
+   "attribution": "University of New Mexico",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_New_Mexico_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-11T12:51:52Z"
+  }
+ ]
+}

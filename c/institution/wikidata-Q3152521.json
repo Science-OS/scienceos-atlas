@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q3152521",
+ "ids": {
+  "wikidata": "Q3152521",
+  "ror": "002n09z45"
+ },
+ "updatedAt": "2026-11-11T12:51:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/18/18a47f3ce94492b6924589c4a2ebc0a4f888a8e6dc6e5eda81334afc2d91f33a.webp",
+   "hosted": true,
+   "sha256": "18a47f3ce94492b6924589c4a2ebc0a4f888a8e6dc6e5eda81334afc2d91f33a",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 139,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/SIB_logo.jpg",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "attribution": "Unknown; rights belong to the Swiss Institute of Bioinformatics",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:SIB_logo.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-11T12:51:52Z"
+  }
+ ]
+}

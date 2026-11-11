@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-019whta54",
+ "ids": {
+  "wikidata": "Q658975",
+  "ror": "019whta54"
+ },
+ "updatedAt": "2026-11-11T12:51:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/44/44dfda527b02174c9e0a63adc9c7849eea77592f63c97d4edac0ea8a21046da2.webp",
+   "hosted": true,
+   "sha256": "44dfda527b02174c9e0a63adc9c7849eea77592f63c97d4edac0ea8a21046da2",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 192,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo-universit%C3%A9-lausanne-2025.jpg",
+   "license": "Public domain",
+   "attribution": "Agence Base Design Geneva",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo-universit%C3%A9-lausanne-2025.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-11T12:51:52Z"
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04jxnn214",
+ "ids": {
+  "ror": "04jxnn214"
+ },
+ "updatedAt": "2026-11-11T12:51:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.adaptcentre.ie/wp-content/uploads/2022/07/cropped-adapt-favicon-192x192.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.adaptcentre.ie",
+   "attributionUrl": "https://www.adaptcentre.ie",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-11T12:51:52Z"
+  }
+ ]
+}

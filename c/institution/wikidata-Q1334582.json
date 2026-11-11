@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1334582",
+ "ids": {
+  "wikidata": "Q1334582",
+  "ror": "00afp2z80"
+ },
+ "updatedAt": "2026-11-11T12:51:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/26/26338c42b12f39d6127a4e800774d2f223f3d6f5a4c53cf53b95ff61ee53521b.webp",
+   "hosted": true,
+   "sha256": "26338c42b12f39d6127a4e800774d2f223f3d6f5a4c53cf53b95ff61ee53521b",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 112,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Li%C3%A8ge_logo.svg",
+   "license": "Public domain",
+   "attribution": "Université de Liège",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Li%C3%A8ge_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-11T12:51:52Z"
+  }
+ ]
+}

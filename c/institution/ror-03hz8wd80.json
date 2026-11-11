@@ -1,0 +1,21 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03hz8wd80",
+ "ids": {
+  "ror": "03hz8wd80"
+ },
+ "updatedAt": "2026-11-11T12:51:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://lundbeckfonden.com/sites/lundbeckfonden.com/themes/octo/img/icons/apple-touch-icon.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of http://www.lundbeckfoundation.com/",
+   "attributionUrl": "http://www.lundbeckfoundation.com/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-11T12:51:52Z"
+  }
+ ]
+}

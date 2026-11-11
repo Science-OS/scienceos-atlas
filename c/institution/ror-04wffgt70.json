@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04wffgt70",
+ "ids": {
+  "wikidata": "Q2060678",
+  "ror": "04wffgt70"
+ },
+ "updatedAt": "2026-11-11T12:51:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.unicamp.br/wp-content/uploads/sites/33/2024/03/cropped-logo_unicamp_512-192x192.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.unicamp.br",
+   "attributionUrl": "https://www.unicamp.br",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-11T12:51:52Z"
+  }
+ ]
+}

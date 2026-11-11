@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-016zre027",
+ "ids": {
+  "wikidata": "Q2495899",
+  "ror": "016zre027"
+ },
+ "updatedAt": "2026-11-11T12:51:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/16/16f3789cb6d4a54cfc63d568df2c0577cf3a5b5b593758f34abba0d6b3d49b17.webp",
+   "hosted": true,
+   "sha256": "16f3789cb6d4a54cfc63d568df2c0577cf3a5b5b593758f34abba0d6b3d49b17",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 92,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/OntarioTech_primary_2019.svg",
+   "license": "Public domain",
+   "attribution": "Ontario Tech University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:OntarioTech_primary_2019.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-11T12:51:52Z"
+  }
+ ]
+}

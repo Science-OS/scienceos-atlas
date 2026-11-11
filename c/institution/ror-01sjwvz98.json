@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01sjwvz98",
+ "ids": {
+  "wikidata": "Q1153275",
+  "ror": "01sjwvz98"
+ },
+ "updatedAt": "2026-11-11T12:51:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/a9/a925a3bd3bd401e6e1dd26bad97f164560c825c64a0a6d9ffc1f029daf27437a.webp",
+   "hosted": true,
+   "sha256": "a925a3bd3bd401e6e1dd26bad97f164560c825c64a0a6d9ffc1f029daf27437a",
+   "mime": "image/webp",
+   "width": 147,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%E7%90%86%E5%8C%96%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%89%80.svg",
+   "license": "Public domain",
+   "attribution": "勝井三雄",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:%E7%90%86%E5%8C%96%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%89%80.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-11T12:51:52Z"
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02wrme198",
+ "ids": {
+  "ror": "02wrme198"
+ },
+ "updatedAt": "2026-11-11T12:51:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.gipsa-lab.grenoble-inp.fr/wp-content/uploads/2025/11/cropped-icone-web2-192x192.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.gipsa-lab.grenoble-inp.fr",
+   "attributionUrl": "https://www.gipsa-lab.grenoble-inp.fr",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-11T12:51:52Z"
+  }
+ ]
+}

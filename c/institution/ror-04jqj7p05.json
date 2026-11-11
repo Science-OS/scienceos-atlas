@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04jqj7p05",
+ "ids": {
+  "wikidata": "Q204626",
+  "ror": "04jqj7p05"
+ },
+ "updatedAt": "2026-11-11T12:51:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c0/c0834c6c6b0f95f2efd510fe1e3dbb5242f76a2d80b14a1369c2edf9eb2dee08.webp",
+   "hosted": true,
+   "sha256": "c0834c6c6b0f95f2efd510fe1e3dbb5242f76a2d80b14a1369c2edf9eb2dee08",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 60,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hitotsubashi_University_logo%2C_6.svg",
+   "license": "Public domain",
+   "attribution": "一橋大学",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Hitotsubashi_University_logo,_6.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-11T12:51:52Z"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1229996",
+ "ids": {
+  "wikidata": "Q1229996",
+  "ror": "03yxnpp24"
+ },
+ "updatedAt": "2026-11-11T12:51:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e6/e62895b8d8b59fa7ba6fc11675356d21ab84bdccd7fd171abb9281623ce6b323.webp",
+   "hosted": true,
+   "sha256": "e62895b8d8b59fa7ba6fc11675356d21ab84bdccd7fd171abb9281623ce6b323",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 150,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sello_Universidad_de_Sevilla_byn.png",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Universidad de Sevilla",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Sello_Universidad_de_Sevilla_byn.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-11T12:51:52Z"
+  }
+ ]
+}

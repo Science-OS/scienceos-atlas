@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q703620",
+ "ids": {
+  "wikidata": "Q703620",
+  "ror": "04sppb023"
+ },
+ "updatedAt": "2026-11-11T12:51:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/4a/4a6aeb340649d5341b5834ce66d04af0498214f81ce7cf332b5975b6ac1a80d3.webp",
+   "hosted": true,
+   "sha256": "4a6aeb340649d5341b5834ce66d04af0498214f81ce7cf332b5975b6ac1a80d3",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 141,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_CopenhagenBusinessSchool.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_CopenhagenBusinessSchool.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-11T12:51:52Z"
+  }
+ ]
+}

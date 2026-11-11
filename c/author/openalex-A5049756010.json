@@ -1,0 +1,24 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "openalex-A5049756010",
+ "ids": {
+  "orcid": "0000-0002-8156-5526",
+  "wikidata": "Q102427670",
+  "openalex": "A5049756010",
+  "github": "dprn"
+ },
+ "updatedAt": "2026-11-11T12:51:52Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://github.com/dprn.png?size=256",
+   "hosted": false,
+   "source": "github",
+   "attribution": "GitHub profile @dprn",
+   "attributionUrl": "https://github.com/dprn",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-11T12:51:52Z"
+  }
+ ]
+}

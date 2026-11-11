@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-05m7pjf47",
+ "ids": {
+  "wikidata": "Q1068258",
+  "ror": "05m7pjf47"
+ },
+ "updatedAt": "2026-11-11T12:51:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.ucd.ie&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "https://www.ucd.ie",
+   "confidence": 0.5,
+   "fetchedAt": "2026-11-11T12:51:52Z"
+  }
+ ]
+}

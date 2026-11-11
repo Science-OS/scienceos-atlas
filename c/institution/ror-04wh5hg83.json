@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04wh5hg83",
+ "ids": {
+  "wikidata": "Q50039478",
+  "ror": "04wh5hg83"
+ },
+ "updatedAt": "2026-11-11T12:51:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.carislifesciences.com/wp-content/uploads/2025/02/cropped-caris_ls_shield_fav_1@4x.png?w=192",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.carislifesciences.com/",
+   "attributionUrl": "https://www.carislifesciences.com/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-11T12:51:52Z"
+  }
+ ]
+}

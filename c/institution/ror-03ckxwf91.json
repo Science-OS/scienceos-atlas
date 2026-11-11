@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03ckxwf91",
+ "ids": {
+  "wikidata": "Q50295658",
+  "ror": "03ckxwf91"
+ },
+ "updatedAt": "2026-11-11T12:51:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.riken.jp/apple-touch-icon.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.riken.jp/en/research/labs/aip/",
+   "attributionUrl": "https://www.riken.jp/en/research/labs/aip/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-11T12:51:52Z"
+  }
+ ]
+}

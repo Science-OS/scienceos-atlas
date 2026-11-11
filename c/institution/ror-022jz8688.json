@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-022jz8688",
+ "ids": {
+  "wikidata": "Q8055402",
+  "ror": "022jz8688"
+ },
+ "updatedAt": "2026-11-11T12:51:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/4e/4e2d6f5c3a95e8aa6d3adc2b76a33be02b8094034468298c65032e49afaabb3d.webp",
+   "hosted": true,
+   "sha256": "4e2d6f5c3a95e8aa6d3adc2b76a33be02b8094034468298c65032e49afaabb3d",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 108,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/York_univ_nebraska_logo.png",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:York_univ_nebraska_logo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-11T12:51:52Z"
+  }
+ ]
+}

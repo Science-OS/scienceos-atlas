@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1950740",
+ "ids": {
+  "wikidata": "Q1950740",
+  "ror": "04a9tmd77"
+ },
+ "updatedAt": "2026-11-11T12:51:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/bb/bb6b1823b143e34a35384297974d60fe7bb42031958bbcde66787c12ddd1e42f.webp",
+   "hosted": true,
+   "sha256": "bb6b1823b143e34a35384297974d60fe7bb42031958bbcde66787c12ddd1e42f",
+   "mime": "image/webp",
+   "width": 185,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/MSMC_Icahn.jpg",
+   "license": "Public domain",
+   "attribution": "Icahn School of Medicine at Mount Sinai",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:MSMC_Icahn.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-11T12:51:52Z"
+  }
+ ]
+}

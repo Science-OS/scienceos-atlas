@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-0397knh37",
+ "ids": {
+  "wikidata": "Q3682946",
+  "ror": "0397knh37"
+ },
+ "updatedAt": "2026-11-11T12:51:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.carloalberto.org/wp-content/uploads/2021/04/cropped-cca-ico-240x240.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.carloalberto.org/",
+   "attributionUrl": "https://www.carloalberto.org/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-11T12:51:52Z"
+  }
+ ]
+}

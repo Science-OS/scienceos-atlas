@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-00zdnkx70",
+ "ids": {
+  "wikidata": "Q43406",
+  "ror": "00zdnkx70"
+ },
+ "updatedAt": "2026-11-11T12:51:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/3e/3e6f6a2830994704b48a2df60ba5715605b837432e548fd7fceb13d9292b79ca.webp",
+   "hosted": true,
+   "sha256": "3e6f6a2830994704b48a2df60ba5715605b837432e548fd7fceb13d9292b79ca",
+   "mime": "image/webp",
+   "width": 255,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/NTHU_Round_Seal.svg",
+   "license": "Public domain",
+   "attribution": "National Tsinghua University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:NTHU_Round_Seal.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-11T12:51:52Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-019kgqr73",
+ "ids": {
+  "wikidata": "Q1230739",
+  "ror": "019kgqr73"
+ },
+ "updatedAt": "2026-11-11T12:51:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b7/b746546efeefedc5e42954a7d234ec444d50a4930b125cc32af36364440456ce.webp",
+   "hosted": true,
+   "sha256": "b746546efeefedc5e42954a7d234ec444d50a4930b125cc32af36364440456ce",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 82,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Texas_at_Arlington_logo.svg",
+   "license": "Public domain",
+   "attribution": "University of Texas at Arlington",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Texas_at_Arlington_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-11T12:51:52Z"
+  }
+ ]
+}

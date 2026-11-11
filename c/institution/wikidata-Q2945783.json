@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q2945783",
+ "ids": {
+  "wikidata": "Q2945783",
+  "ror": "05a353079"
+ },
+ "updatedAt": "2026-11-11T12:51:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/10/10e331861ea82d8e04d2e0bbdd8d9ee18e4efd18f7d0898b2792c75a85937304.webp",
+   "hosted": true,
+   "sha256": "10e331861ea82d8e04d2e0bbdd8d9ee18e4efd18f7d0898b2792c75a85937304",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 133,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Universit%C3%A4tsspital_Lausanne_CHUV_logo.svg",
+   "license": "Public domain",
+   "attribution": "CHUV, vectorized by Duke Q",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Universit%C3%A4tsspital_Lausanne_CHUV_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-11T12:51:52Z"
+  }
+ ]
+}

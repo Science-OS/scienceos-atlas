@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-019tgvf94",
+ "ids": {
+  "wikidata": "Q19370961",
+  "ror": "019tgvf94"
+ },
+ "updatedAt": "2026-11-11T12:51:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/56/5656f3263c9830c9a7162a8637f0b652fde27acaa020f590585a8828c80ace02.webp",
+   "hosted": true,
+   "sha256": "5656f3263c9830c9a7162a8637f0b652fde27acaa020f590585a8828c80ace02",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 65,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_universit%C3%A9_c%C3%B4te_azur.png",
+   "license": "CC BY 2.5",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+   "attribution": "Université Côte d'Azur",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_universit%C3%A9_c%C3%B4te_azur.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-11T12:51:52Z"
+  }
+ ]
+}

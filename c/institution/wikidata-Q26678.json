@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q26678",
+ "ids": {
+  "wikidata": "Q26678",
+  "ror": "05vs9tj88"
+ },
+ "updatedAt": "2026-11-11T12:51:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/45/45afdafa04b306b415612668bc1705708d76104501f80aa82e9e5c598f2ba956.webp",
+   "hosted": true,
+   "sha256": "45afdafa04b306b415612668bc1705708d76104501f80aa82e9e5c598f2ba956",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 134,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_BMW_Group_2021.svg",
+   "license": "Public domain",
+   "attribution": "BMW Group",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_BMW_Group_2021.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-11T12:51:52Z"
+  }
+ ]
+}

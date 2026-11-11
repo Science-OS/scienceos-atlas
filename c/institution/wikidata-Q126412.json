@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q126412",
+ "ids": {
+  "wikidata": "Q126412",
+  "ror": "002pd6e78"
+ },
+ "updatedAt": "2026-11-11T12:51:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/2d/2d85b14bf0d38ff4eb1fac1a65550edf077a8c07cdeae097c5317f2a7960c02b.webp",
+   "hosted": true,
+   "sha256": "2d85b14bf0d38ff4eb1fac1a65550edf077a8c07cdeae097c5317f2a7960c02b",
+   "mime": "image/webp",
+   "width": 219,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Massachusetts_General_Hospital_logo.svg",
+   "license": "Public domain",
+   "attribution": "Massachusetts General Hospital",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Massachusetts_General_Hospital_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-11T12:51:52Z"
+  }
+ ]
+}

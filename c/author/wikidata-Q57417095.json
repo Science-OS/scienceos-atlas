@@ -1,0 +1,24 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "wikidata-Q57417095",
+ "ids": {
+  "orcid": "0000-0002-2082-3106",
+  "wikidata": "Q57417095",
+  "openalex": "A5017670779",
+  "github": "glouppe"
+ },
+ "updatedAt": "2026-11-11T12:51:52Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://github.com/glouppe.png?size=256",
+   "hosted": false,
+   "source": "github",
+   "attribution": "GitHub profile @glouppe",
+   "attributionUrl": "https://github.com/glouppe",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-11T12:51:52Z"
+  }
+ ]
+}

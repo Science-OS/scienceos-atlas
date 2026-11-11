@@ -1,0 +1,21 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-042f4ww95",
+ "ids": {
+  "ror": "042f4ww95"
+ },
+ "updatedAt": "2026-11-11T12:51:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://team.inria.fr/mctao/files/2017/07/cropped-McTAOcarre-copie-192x192.jpg",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://team.inria.fr/mctao",
+   "attributionUrl": "https://team.inria.fr/mctao",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-11T12:51:52Z"
+  }
+ ]
+}

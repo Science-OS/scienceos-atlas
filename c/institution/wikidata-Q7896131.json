@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q7896131",
+ "ids": {
+  "wikidata": "Q7896131",
+  "ror": "04ehecz88"
+ },
+ "updatedAt": "2026-11-11T12:51:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/1a/1a0a888fdccae7633e5540a7dff17404a2292fd7c4103cafe59509003f347c3f.webp",
+   "hosted": true,
+   "sha256": "1a0a888fdccae7633e5540a7dff17404a2292fd7c4103cafe59509003f347c3f",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 72,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/UPMC_Logo_NEW.jpg",
+   "license": "Public domain",
+   "attribution": "UPMC",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:UPMC_Logo_NEW.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-11T12:51:52Z"
+  }
+ ]
+}

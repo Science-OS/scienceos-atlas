@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02qp3tb03",
+ "ids": {
+  "wikidata": "Q1130172",
+  "ror": "02qp3tb03"
+ },
+ "updatedAt": "2026-11-11T12:51:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/47/47bba07ea526d59903532fac1c029653d684942a3fbdc9033a51e69ea6898555.webp",
+   "hosted": true,
+   "sha256": "47bba07ea526d59903532fac1c029653d684942a3fbdc9033a51e69ea6898555",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mayo_Clinic_2023_logo.svg",
+   "license": "Public domain",
+   "attribution": "Mayo Clinic",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Mayo_Clinic_2023_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-11T12:51:52Z"
+  }
+ ]
+}
