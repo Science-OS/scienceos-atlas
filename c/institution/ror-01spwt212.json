@@ -1,0 +1,21 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01spwt212",
+ "ids": {
+  "ror": "01spwt212"
+ },
+ "updatedAt": "2026-11-12T13:54:32Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.paraplegie.ch/img/favicons/spz/android-chrome-192x192.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of http://www.paraplegie.ch/en/pub/spz.htm",
+   "attributionUrl": "http://www.paraplegie.ch/en/pub/spz.htm",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-12T13:54:32Z"
+  }
+ ]
+}

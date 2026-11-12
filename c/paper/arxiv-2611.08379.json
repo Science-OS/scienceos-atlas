@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.08379",
+ "ids": {
+  "arxiv": "2611.08379"
+ },
+ "updatedAt": "2026-11-12T13:54:32Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/a9/a94f49781c8c7c533c4945c3ffb9129c72380ef723d6140d1695319712e891ff.jpg",
+   "hosted": true,
+   "sha256": "a94f49781c8c7c533c4945c3ffb9129c72380ef723d6140d1695319712e891ff",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.08379",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Guy Hadad et al., arXiv:2611.08379",
+   "attributionUrl": "https://arxiv.org/abs/2611.08379",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-12T13:54:32Z"
+  }
+ ]
+}

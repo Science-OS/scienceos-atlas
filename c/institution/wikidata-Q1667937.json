@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1667937",
+ "ids": {
+  "wikidata": "Q1667937",
+  "ror": "02kcbn207"
+ },
+ "updatedAt": "2026-11-12T13:54:32Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/09/09a777ad3e33d5683be64c74898b3d8adade49f60c6f0fed96d7c076505c0fa4.webp",
+   "hosted": true,
+   "sha256": "09a777ad3e33d5683be64c74898b3d8adade49f60c6f0fed96d7c076505c0fa4",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 129,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/LOGO-IMEC_black.svg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Butterslides",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:LOGO-IMEC_black.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-12T13:54:32Z"
+  }
+ ]
+}

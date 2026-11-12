@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q610220",
+ "ids": {
+  "wikidata": "Q610220",
+  "ror": "03esj4g97"
+ },
+ "updatedAt": "2026-11-12T13:54:32Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/68/6883109f7eaf3076e59a8708a38b1b8c95d6cf1172eece15496b752c06c0321f.webp",
+   "hosted": true,
+   "sha256": "6883109f7eaf3076e59a8708a38b1b8c95d6cf1172eece15496b752c06c0321f",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 215,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_fpt_university.jpg",
+   "license": "Public domain",
+   "attribution": "Fptresedu",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_fpt_university.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-12T13:54:32Z"
+  }
+ ]
+}

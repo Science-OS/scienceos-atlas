@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q59536537",
+ "ids": {
+  "wikidata": "Q59536537",
+  "ror": "0378v2g76"
+ },
+ "updatedAt": "2026-11-12T13:54:32Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/3b/3bdeb8f8989d8dc741c8c5a4314083309ec3f6e76d93b81f292065d7022f9d35.webp",
+   "hosted": true,
+   "sha256": "3bdeb8f8989d8dc741c8c5a4314083309ec3f6e76d93b81f292065d7022f9d35",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 63,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/DE_Logo_of_ATHENE.png",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:DE_Logo_of_ATHENE.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-12T13:54:32Z"
+  }
+ ]
+}

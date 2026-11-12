@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03acb7p04",
+ "ids": {
+  "wikidata": "Q5254620",
+  "ror": "03acb7p04"
+ },
+ "updatedAt": "2026-11-12T13:54:32Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/9a/9aa5906eb72b76d1cb8d80a7ad500ff0ed352739395cbffc11da86bab6ebf14b.webp",
+   "hosted": true,
+   "sha256": "9aa5906eb72b76d1cb8d80a7ad500ff0ed352739395cbffc11da86bab6ebf14b",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 79,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/DELTA_Electronics_Logo.png",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:DELTA_Electronics_Logo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-12T13:54:32Z"
+  }
+ ]
+}

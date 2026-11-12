@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03d1zwe41",
+ "ids": {
+  "wikidata": "Q30296124",
+  "ror": "03d1zwe41"
+ },
+ "updatedAt": "2026-11-12T13:54:32Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http%3A%2F%2Fwww.cbbs.eu&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "http://www.cbbs.eu",
+   "confidence": 0.5,
+   "fetchedAt": "2026-11-12T13:54:32Z"
+  }
+ ]
+}

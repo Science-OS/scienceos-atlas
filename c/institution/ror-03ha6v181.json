@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03ha6v181",
+ "ids": {
+  "wikidata": "Q707653",
+  "ror": "03ha6v181"
+ },
+ "updatedAt": "2026-11-12T13:54:32Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.ncnu.edu.tw/var/file/0/1000/msys_1000_6268907_13242.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.ncnu.edu.tw",
+   "attributionUrl": "https://www.ncnu.edu.tw",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-12T13:54:32Z"
+  }
+ ]
+}

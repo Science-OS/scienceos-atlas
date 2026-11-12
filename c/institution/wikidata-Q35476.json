@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q35476",
+ "ids": {
+  "wikidata": "Q35476",
+  "ror": "02bbd5539"
+ },
+ "updatedAt": "2026-11-12T13:54:32Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/5d/5d7d084a8f0818a7cfc19f249464cab33d7b246e12f7fadd71bd4e7feb94bf91.webp",
+   "hosted": true,
+   "sha256": "5d7d084a8f0818a7cfc19f249464cab33d7b246e12f7fadd71bd4e7feb94bf91",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 106,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/AT%26T_logo_2016.svg",
+   "license": "Public domain",
+   "attribution": "AT&T",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:AT%26T_logo_2016.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-12T13:54:32Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04vjzg452",
+ "ids": {
+  "wikidata": "Q1878364",
+  "ror": "04vjzg452"
+ },
+ "updatedAt": "2026-11-12T13:54:32Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/74/74a5ad469d6566a3c52f0eca981505c5479fee07d3d1805bed24e0c15795489d.webp",
+   "hosted": true,
+   "sha256": "74a5ad469d6566a3c52f0eca981505c5479fee07d3d1805bed24e0c15795489d",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 64,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Luxottica_logo.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Luxottica_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-12T13:54:32Z"
+  }
+ ]
+}

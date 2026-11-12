@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q24191489",
+ "ids": {
+  "wikidata": "Q24191489",
+  "ror": "03cpe7c52"
+ },
+ "updatedAt": "2026-11-12T13:54:32Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/67/676ac8147e0f8f45311bb6172fd1b17beeec53aed9498495c4adedf30277e1e0.webp",
+   "hosted": true,
+   "sha256": "676ac8147e0f8f45311bb6172fd1b17beeec53aed9498495c4adedf30277e1e0",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 112,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Allen_Institute_logo.jpg",
+   "license": "Public domain",
+   "attribution": "Nick.hawley",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Allen_Institute_logo.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-12T13:54:32Z"
+  }
+ ]
+}

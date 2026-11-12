@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-05q3vnk25",
+ "ids": {
+  "wikidata": "Q2910510",
+  "ror": "05q3vnk25"
+ },
+ "updatedAt": "2026-11-12T13:54:32Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d3/d3418cda9d5e018082e58a8ee08778b59d648c6f92fb040fd674a5708f904f39.webp",
+   "hosted": true,
+   "sha256": "d3418cda9d5e018082e58a8ee08778b59d648c6f92fb040fd674a5708f904f39",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 211,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_IRD_2016_BLOC_FR_COUL.png",
+   "license": "Public domain",
+   "attribution": "IRD",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_IRD_2016_BLOC_FR_COUL.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-12T13:54:32Z"
+  }
+ ]
+}

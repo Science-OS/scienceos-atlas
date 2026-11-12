@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-002t25c44",
+ "ids": {
+  "wikidata": "Q999763",
+  "ror": "002t25c44"
+ },
+ "updatedAt": "2026-11-12T13:54:32Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/1e/1eff24b2e5e3b3ffb124a3b2b7231e72d179d7bc2afdbb054b56f05e050f01fc.webp",
+   "hosted": true,
+   "sha256": "1eff24b2e5e3b3ffb124a3b2b7231e72d179d7bc2afdbb054b56f05e050f01fc",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 116,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Universit%C3%A9_Paris_1_Panth%C3%A9on-Sorbonne_2024.svg",
+   "license": "Public domain",
+   "attribution": "Graphéine",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_Universit%C3%A9_Paris_1_Panth%C3%A9on-Sorbonne_2024.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-12T13:54:32Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02kzqn938",
+ "ids": {
+  "wikidata": "Q3551621",
+  "ror": "02kzqn938"
+ },
+ "updatedAt": "2026-11-12T13:54:32Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/03/032ad4e85f61cc1bb63e7a3e839bfbf2718d1cc8456b7769146527b6e085efe8.webp",
+   "hosted": true,
+   "sha256": "032ad4e85f61cc1bb63e7a3e839bfbf2718d1cc8456b7769146527b6e085efe8",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 68,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logotype_Universit%C3%A9_de_Lille_2022.svg",
+   "license": "Public domain",
+   "attribution": "Graphéine",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logotype_Universit%C3%A9_de_Lille_2022.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-12T13:54:32Z"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q678369",
+ "ids": {
+  "wikidata": "Q678369",
+  "ror": "01q9sj412"
+ },
+ "updatedAt": "2026-11-12T13:54:32Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b2/b27e80197682164dd54fb15ac9ee6aca9b4a0355dec06372b614200617035888.webp",
+   "hosted": true,
+   "sha256": "b27e80197682164dd54fb15ac9ee6aca9b4a0355dec06372b614200617035888",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 116,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/2015_Inselspital_rgb.png",
+   "license": "CC BY-SA 3.0 de",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+   "attribution": "Inselgruppe ( Diskussion )",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:2015_Inselspital_rgb.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-12T13:54:32Z"
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04jk2jb97",
+ "ids": {
+  "ror": "04jk2jb97"
+ },
+ "updatedAt": "2026-11-12T13:54:32Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.paraplegie.ch/img/favicons/spf/android-chrome-192x192.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of http://www.paraplegie.ch/en/pub/spf.htm",
+   "attributionUrl": "http://www.paraplegie.ch/en/pub/spf.htm",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-12T13:54:32Z"
+  }
+ ]
+}

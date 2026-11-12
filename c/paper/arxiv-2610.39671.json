@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2610.39671",
+ "ids": {
+  "arxiv": "2610.39671"
+ },
+ "updatedAt": "2026-11-12T13:54:32Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/07/07cd967c9905e646402df2f499823497bd5ed89d1e4a83af9b7dea097a5d451b.jpg",
+   "hosted": true,
+   "sha256": "07cd967c9905e646402df2f499823497bd5ed89d1e4a83af9b7dea097a5d451b",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2610.39671",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Lingkai Kong et al., arXiv:2610.39671",
+   "attributionUrl": "https://arxiv.org/abs/2610.39671",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-12T13:54:32Z"
+  }
+ ]
+}

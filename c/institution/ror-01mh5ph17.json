@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01mh5ph17",
+ "ids": {
+  "wikidata": "Q497259",
+  "ror": "01mh5ph17"
+ },
+ "updatedAt": "2026-11-12T13:54:32Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/2d/2daf5720e7e94b836405b5127bd45f632851fa9c8b1992e42af884e44373943f.webp",
+   "hosted": true,
+   "sha256": "2daf5720e7e94b836405b5127bd45f632851fa9c8b1992e42af884e44373943f",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 175,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/KNU-VerticalSignature.gif",
+   "license": "Public domain",
+   "attribution": "Kangwon National University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:KNU-VerticalSignature.gif",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-12T13:54:32Z"
+  }
+ ]
+}

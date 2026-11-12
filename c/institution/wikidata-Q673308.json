@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q673308",
+ "ids": {
+  "wikidata": "Q673308",
+  "ror": "00kgrkn83"
+ },
+ "updatedAt": "2026-11-12T13:54:32Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/a3/a38ad07e127051d5d2a81f4206494741ef89f4750ad82badbfd03af0978979d4.webp",
+   "hosted": true,
+   "sha256": "a38ad07e127051d5d2a81f4206494741ef89f4750ad82badbfd03af0978979d4",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 66,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Lucerne_wordmark.svg",
+   "license": "Public domain",
+   "attribution": "University of Lucerne",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Lucerne_wordmark.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-12T13:54:32Z"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q5061051",
+ "ids": {
+  "wikidata": "Q5061051",
+  "ror": "01p7k1986"
+ },
+ "updatedAt": "2026-11-12T13:54:32Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b6/b60da1a93f0bb8d6883a69e3da04ee11b5fe932e8979ba449023a601469c6301.webp",
+   "hosted": true,
+   "sha256": "b60da1a93f0bb8d6883a69e3da04ee11b5fe932e8979ba449023a601469c6301",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 93,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/CEITEC_logo.jpg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Central European Institute of Technology",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:CEITEC_logo.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-12T13:54:32Z"
+  }
+ ]
+}

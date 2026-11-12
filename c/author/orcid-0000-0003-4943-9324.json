@@ -1,0 +1,30 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "orcid-0000-0003-4943-9324",
+ "ids": {
+  "orcid": "0000-0003-4943-9324",
+  "wikidata": "Q17505352",
+  "openalex": "A5086920790"
+ },
+ "updatedAt": "2026-11-12T13:54:32Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c4/c4b6b54790aa279fada0d39b94441442c8f071b965724ad71eb8f91032187eba.webp",
+   "hosted": true,
+   "sha256": "c4b6b54790aa279fada0d39b94441442c8f071b965724ad71eb8f91032187eba",
+   "mime": "image/webp",
+   "width": 171,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bracha1.jpg",
+   "license": "CC0",
+   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "attribution": "Prof. Bracha Shapira",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Bracha1.jpg",
+   "confidence": 0.95,
+   "fetchedAt": "2026-11-12T13:54:32Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q101579967",
+ "ids": {
+  "wikidata": "Q101579967",
+  "ror": "01hvx5h04"
+ },
+ "updatedAt": "2026-11-12T13:54:32Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/44/4452558f2b9daa6277e06e7da109108995dc9ac822c4af32a90949e988dfba6c.webp",
+   "hosted": true,
+   "sha256": "4452558f2b9daa6277e06e7da109108995dc9ac822c4af32a90949e988dfba6c",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 30,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Osaka_Metropolitan_University_logotype.png",
+   "license": "Public domain",
+   "attribution": "大阪公立大学",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Osaka_Metropolitan_University_logotype.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-12T13:54:32Z"
+  }
+ ]
+}
