@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q103813517",
+ "ids": {
+  "wikidata": "Q103813517",
+  "ror": "001kv2y39"
+ },
+ "updatedAt": "2026-11-13T13:18:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/cc/ccbb216499866756b16bac2ec30cd619d241afa6ad42a5c8fd7bdf5e265ca5ce.webp",
+   "hosted": true,
+   "sha256": "ccbb216499866756b16bac2ec30cd619d241afa6ad42a5c8fd7bdf5e265ca5ce",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 141,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Technology_Innovation_Institute_Logo.jpg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Technology Innovation Institute",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Technology_Innovation_Institute_Logo.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-13T13:18:03Z"
+  }
+ ]
+}

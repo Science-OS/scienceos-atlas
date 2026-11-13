@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.13566",
+ "ids": {
+  "arxiv": "2611.13566"
+ },
+ "updatedAt": "2026-11-13T13:18:03Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/65/652ba16e0b31968ad450a1dbb798c921790c4d86c8403ce39ab477a2de0d6684.jpg",
+   "hosted": true,
+   "sha256": "652ba16e0b31968ad450a1dbb798c921790c4d86c8403ce39ab477a2de0d6684",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.13566",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Stephen Peng et al., arXiv:2611.13566",
+   "attributionUrl": "https://arxiv.org/abs/2611.13566",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-13T13:18:03Z"
+  }
+ ]
+}

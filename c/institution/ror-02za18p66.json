@@ -1,0 +1,21 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02za18p66",
+ "ids": {
+  "ror": "02za18p66"
+ },
+ "updatedAt": "2026-11-13T13:18:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.ipcms.fr/uploads/2021/10/cropped-favicon_IPCMS_300dpi-192x192.jpg",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of http://www.ipcms.unistra.fr/?lang=en#",
+   "attributionUrl": "http://www.ipcms.unistra.fr/?lang=en#",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-13T13:18:03Z"
+  }
+ ]
+}

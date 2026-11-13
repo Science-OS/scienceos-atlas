@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.14516",
+ "ids": {
+  "arxiv": "2611.14516"
+ },
+ "updatedAt": "2026-11-13T13:18:03Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c8/c8dd314a167cdff116c3b44a757b6a613807dfc94d0747a2dfc893ab2a562c36.jpg",
+   "hosted": true,
+   "sha256": "c8dd314a167cdff116c3b44a757b6a613807dfc94d0747a2dfc893ab2a562c36",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.14516",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Alex Shtoff, arXiv:2611.14516",
+   "attributionUrl": "https://arxiv.org/abs/2611.14516",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-13T13:18:03Z"
+  }
+ ]
+}

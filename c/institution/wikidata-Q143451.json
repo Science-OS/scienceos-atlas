@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q143451",
+ "ids": {
+  "wikidata": "Q143451",
+  "ror": "036nfer12"
+ },
+ "updatedAt": "2026-11-13T13:18:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.ucf.edu/wp-content/blogs.dir/16/files/2026/11/cropped-bold-gold-favicon-300x300.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.ucf.edu",
+   "attributionUrl": "https://www.ucf.edu",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-13T13:18:03Z"
+  }
+ ]
+}

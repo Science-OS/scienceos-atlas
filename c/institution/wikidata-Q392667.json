@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q392667",
+ "ids": {
+  "wikidata": "Q392667",
+  "ror": "0207ad724"
+ },
+ "updatedAt": "2026-11-13T13:18:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://prod.wp.cdn.aws.wfu.edu/wfu-gutenberg-quarantheme/assets/images/icon-512.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.wfu.edu",
+   "attributionUrl": "https://www.wfu.edu",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-13T13:18:03Z"
+  }
+ ]
+}

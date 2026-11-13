@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.14413",
+ "ids": {
+  "arxiv": "2611.14413"
+ },
+ "updatedAt": "2026-11-13T13:18:03Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/30/30e8cdb1fb3361dda85cf0af48af9a90e42aaff2d9bbe196748330ad7eef0a7e.jpg",
+   "hosted": true,
+   "sha256": "30e8cdb1fb3361dda85cf0af48af9a90e42aaff2d9bbe196748330ad7eef0a7e",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 850,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.14413",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Mohammed Nayeem Khan et al., arXiv:2611.14413",
+   "attributionUrl": "https://arxiv.org/abs/2611.14413",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-13T13:18:03Z"
+  }
+ ]
+}

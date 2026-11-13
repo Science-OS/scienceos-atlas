@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.14432",
+ "ids": {
+  "arxiv": "2611.14432"
+ },
+ "updatedAt": "2026-11-13T13:18:03Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d5/d5a073239b65d3188c7a0d5baaf56f9d6a03904272e503b1b14c9903fe8a8f86.jpg",
+   "hosted": true,
+   "sha256": "d5a073239b65d3188c7a0d5baaf56f9d6a03904272e503b1b14c9903fe8a8f86",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.14432",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Ilia Larchenko et al., arXiv:2611.14432",
+   "attributionUrl": "https://arxiv.org/abs/2611.14432",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-13T13:18:03Z"
+  }
+ ]
+}

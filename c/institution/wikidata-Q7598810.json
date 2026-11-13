@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q7598810",
+ "ids": {
+  "wikidata": "Q7598810",
+  "ror": "03mtd9a03"
+ },
+ "updatedAt": "2026-11-13T13:18:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://med.stanford.edu/etc/clientlibs/sm/images/SM-Shield-180x180.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://med.stanford.edu",
+   "attributionUrl": "https://med.stanford.edu",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-13T13:18:03Z"
+  }
+ ]
+}

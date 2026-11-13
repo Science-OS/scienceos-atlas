@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.11306",
+ "ids": {
+  "arxiv": "2611.11306"
+ },
+ "updatedAt": "2026-11-13T13:18:03Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/77/77c4fe38171a98f03ea8f5b0c0a37dc14e4eb4f343cfcfffffca898cbdf2ea32.jpg",
+   "hosted": true,
+   "sha256": "77c4fe38171a98f03ea8f5b0c0a37dc14e4eb4f343cfcfffffca898cbdf2ea32",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.11306",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Joseph Marvin Imperial et al., arXiv:2611.11306",
+   "attributionUrl": "https://arxiv.org/abs/2611.11306",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-13T13:18:03Z"
+  }
+ ]
+}

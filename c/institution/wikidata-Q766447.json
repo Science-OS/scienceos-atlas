@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q766447",
+ "ids": {
+  "wikidata": "Q766447",
+  "ror": "041yk2d64"
+ },
+ "updatedAt": "2026-11-13T13:18:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/69/6931ee7f67590562fbd53a0875d746153687952243a69d66ee9d5e23c617e5eb.webp",
+   "hosted": true,
+   "sha256": "6931ee7f67590562fbd53a0875d746153687952243a69d66ee9d5e23c617e5eb",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 205,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ufrgs.svg",
+   "license": "Public domain",
+   "attribution": "Azuizo",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Ufrgs.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-13T13:18:03Z"
+  }
+ ]
+}

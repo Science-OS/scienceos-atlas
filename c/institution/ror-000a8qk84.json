@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-000a8qk84",
+ "ids": {
+  "wikidata": "Q3547601",
+  "ror": "000a8qk84"
+ },
+ "updatedAt": "2026-11-13T13:18:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b3/b39177fa796a3fa267d3684e66554393a9ac0b4549da7ef533e5e33db8c15dae.webp",
+   "hosted": true,
+   "sha256": "b39177fa796a3fa267d3684e66554393a9ac0b4549da7ef533e5e33db8c15dae",
+   "mime": "image/webp",
+   "width": 211,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/NU_shield.svg",
+   "license": "Public domain",
+   "attribution": "National University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:NU_shield.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-13T13:18:03Z"
+  }
+ ]
+}

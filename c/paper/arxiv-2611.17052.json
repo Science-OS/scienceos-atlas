@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.17052",
+ "ids": {
+  "arxiv": "2611.17052"
+ },
+ "updatedAt": "2026-11-13T13:18:03Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/46/46ee7b8360e9fa3f68f55bf5dedb9ee06511bc28cde75bab908e8c052a948ffd.jpg",
+   "hosted": true,
+   "sha256": "46ee7b8360e9fa3f68f55bf5dedb9ee06511bc28cde75bab908e8c052a948ffd",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.17052",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Íñigo Zubeldia et al., arXiv:2611.17052",
+   "attributionUrl": "https://arxiv.org/abs/2611.17052",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-13T13:18:03Z"
+  }
+ ]
+}

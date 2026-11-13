@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.14083",
+ "ids": {
+  "arxiv": "2611.14083"
+ },
+ "updatedAt": "2026-11-13T13:18:03Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/5e/5ef7a586a0ad9686e1366d50fbdcdedfe9b2a12b0e6fcc807babcea159915b1f.jpg",
+   "hosted": true,
+   "sha256": "5ef7a586a0ad9686e1366d50fbdcdedfe9b2a12b0e6fcc807babcea159915b1f",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.14083",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Tomer Solberg, arXiv:2611.14083",
+   "attributionUrl": "https://arxiv.org/abs/2611.14083",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-13T13:18:03Z"
+  }
+ ]
+}

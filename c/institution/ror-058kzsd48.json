@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-058kzsd48",
+ "ids": {
+  "wikidata": "Q679134",
+  "ror": "058kzsd48"
+ },
+ "updatedAt": "2026-11-13T13:18:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/74/7418bfe4b9444e4e20656c9709d3560177df2bc2d905d59cf6190d92f5ab1f5c.webp",
+   "hosted": true,
+   "sha256": "7418bfe4b9444e4e20656c9709d3560177df2bc2d905d59cf6190d92f5ab1f5c",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 67,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Paderborn_Logo.jpg",
+   "license": "Public domain",
+   "attribution": "luck",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Paderborn_Logo.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-13T13:18:03Z"
+  }
+ ]
+}

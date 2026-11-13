@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.13410",
+ "ids": {
+  "arxiv": "2611.13410"
+ },
+ "updatedAt": "2026-11-13T13:18:03Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/cd/cdd7f4286456de2a00c0a42e3e72a669c9e4f320e24fcd41d505050594451de2.jpg",
+   "hosted": true,
+   "sha256": "cdd7f4286456de2a00c0a42e3e72a669c9e4f320e24fcd41d505050594451de2",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.13410",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Genming Cui et al., arXiv:2611.13410",
+   "attributionUrl": "https://arxiv.org/abs/2611.13410",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-13T13:18:03Z"
+  }
+ ]
+}

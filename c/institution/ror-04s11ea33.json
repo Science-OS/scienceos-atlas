@@ -1,0 +1,21 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04s11ea33",
+ "ids": {
+  "ror": "04s11ea33"
+ },
+ "updatedAt": "2026-11-13T13:18:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://lamarr-institute.org/wp-content/uploads/cropped-lamarr-favicon-2023-192x192.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://lamarr-institute.org",
+   "attributionUrl": "https://lamarr-institute.org",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-13T13:18:03Z"
+  }
+ ]
+}

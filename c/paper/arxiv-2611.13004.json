@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.13004",
+ "ids": {
+  "arxiv": "2611.13004"
+ },
+ "updatedAt": "2026-11-13T13:18:03Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/16/164a47025c6536a2d73d41e81ded3dabfcdc1daa951062083b8a26e7b77450f0.jpg",
+   "hosted": true,
+   "sha256": "164a47025c6536a2d73d41e81ded3dabfcdc1daa951062083b8a26e7b77450f0",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.13004",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Xu Huang et al., arXiv:2611.13004",
+   "attributionUrl": "https://arxiv.org/abs/2611.13004",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-13T13:18:03Z"
+  }
+ ]
+}

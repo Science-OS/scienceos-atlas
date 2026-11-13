@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.16534",
+ "ids": {
+  "arxiv": "2611.16534"
+ },
+ "updatedAt": "2026-11-13T13:18:03Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/9a/9aa45a8ec7ae94f161de37c77e52fbf74ab77f21b24ef4f3e40b4f26eb9938b1.jpg",
+   "hosted": true,
+   "sha256": "9aa45a8ec7ae94f161de37c77e52fbf74ab77f21b24ef4f3e40b4f26eb9938b1",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.16534",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Aminu Yusuf et al., arXiv:2611.16534",
+   "attributionUrl": "https://arxiv.org/abs/2611.16534",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-13T13:18:03Z"
+  }
+ ]
+}

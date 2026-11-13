@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.17286",
+ "ids": {
+  "arxiv": "2611.17286"
+ },
+ "updatedAt": "2026-11-13T13:18:03Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/70/707203731ef14af00600a77ef1dac80ed9da9bc9a08ee019fc8d37c666e1c5a6.jpg",
+   "hosted": true,
+   "sha256": "707203731ef14af00600a77ef1dac80ed9da9bc9a08ee019fc8d37c666e1c5a6",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.17286",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Hao Liang et al., arXiv:2611.17286",
+   "attributionUrl": "https://arxiv.org/abs/2611.17286",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-13T13:18:03Z"
+  }
+ ]
+}

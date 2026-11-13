@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.13295",
+ "ids": {
+  "arxiv": "2611.13295"
+ },
+ "updatedAt": "2026-11-13T13:18:03Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/aa/aaebcceefa5e829f9d212b6d1b2711df3208111fb0c62cd8a741fe9b5d29b1d9.jpg",
+   "hosted": true,
+   "sha256": "aaebcceefa5e829f9d212b6d1b2711df3208111fb0c62cd8a741fe9b5d29b1d9",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.13295",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Olga Isupova et al., arXiv:2611.13295",
+   "attributionUrl": "https://arxiv.org/abs/2611.13295",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-13T13:18:03Z"
+  }
+ ]
+}

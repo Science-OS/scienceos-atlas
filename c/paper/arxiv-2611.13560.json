@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.13560",
+ "ids": {
+  "arxiv": "2611.13560"
+ },
+ "updatedAt": "2026-11-13T13:18:03Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/68/68e8b99649638742b79481fb1966236afc7e7e5a227310f96ed012e5414f4da3.jpg",
+   "hosted": true,
+   "sha256": "68e8b99649638742b79481fb1966236afc7e7e5a227310f96ed012e5414f4da3",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.13560",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Vikash Singh et al., arXiv:2611.13560",
+   "attributionUrl": "https://arxiv.org/abs/2611.13560",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-13T13:18:03Z"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "wikidata-Q29265866",
+ "ids": {
+  "orcid": "0000-0001-9536-4947",
+  "wikidata": "Q29265866",
+  "openalex": "A5000910924"
+ },
+ "updatedAt": "2026-11-13T13:18:03Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/32/3257d93037002f296f483805e42822c48713e14046d6e7d529111e78b34acfd7.webp",
+   "hosted": true,
+   "sha256": "3257d93037002f296f483805e42822c48713e14046d6e7d529111e78b34acfd7",
+   "mime": "image/webp",
+   "width": 202,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/DavidAtienza-ESL_EPFL_2021.jpg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Dalgetty",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:DavidAtienza-ESL_EPFL_2021.jpg",
+   "confidence": 0.95,
+   "fetchedAt": "2026-11-13T13:18:03Z"
+  }
+ ]
+}

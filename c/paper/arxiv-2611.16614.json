@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.16614",
+ "ids": {
+  "arxiv": "2611.16614"
+ },
+ "updatedAt": "2026-11-13T13:18:03Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/07/0757158c165d0ca53bf93f10f261df8fae061ec70425f4ec9528671d61667a6b.jpg",
+   "hosted": true,
+   "sha256": "0757158c165d0ca53bf93f10f261df8fae061ec70425f4ec9528671d61667a6b",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.16614",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Liping Zhu et al., arXiv:2611.16614",
+   "attributionUrl": "https://arxiv.org/abs/2611.16614",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-13T13:18:03Z"
+  }
+ ]
+}

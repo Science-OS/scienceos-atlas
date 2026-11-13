@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01eezs655",
+ "ids": {
+  "wikidata": "Q574571",
+  "ror": "01eezs655"
+ },
+ "updatedAt": "2026-11-13T13:18:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/6e/6e6fa547d682def7c0ee24d064a9e59a445986cce05e731158627b6627f0a726.webp",
+   "hosted": true,
+   "sha256": "6e6fa547d682def7c0ee24d064a9e59a445986cce05e731158627b6627f0a726",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 118,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/UR_Logo_Grau_RGB.svg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Universität Regensburg",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:UR_Logo_Grau_RGB.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-13T13:18:03Z"
+  }
+ ]
+}

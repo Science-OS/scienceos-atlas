@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.17108",
+ "ids": {
+  "arxiv": "2611.17108"
+ },
+ "updatedAt": "2026-11-13T13:18:03Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/3f/3f78567d9665e6812e1d71d0ce07e56c7c6b0d13c66115de39b025c6a254fadc.jpg",
+   "hosted": true,
+   "sha256": "3f78567d9665e6812e1d71d0ce07e56c7c6b0d13c66115de39b025c6a254fadc",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.17108",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Arnab Sanyal et al., arXiv:2611.17108",
+   "attributionUrl": "https://arxiv.org/abs/2611.17108",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-13T13:18:03Z"
+  }
+ ]
+}

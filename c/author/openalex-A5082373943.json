@@ -1,0 +1,24 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "openalex-A5082373943",
+ "ids": {
+  "orcid": "0000-0001-5765-8995",
+  "wikidata": "Q59695017",
+  "openalex": "A5082373943",
+  "github": "paul-buerkner"
+ },
+ "updatedAt": "2026-11-13T13:18:03Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://github.com/paul-buerkner.png?size=256",
+   "hosted": false,
+   "source": "github",
+   "attribution": "GitHub profile @paul-buerkner",
+   "attributionUrl": "https://github.com/paul-buerkner",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-13T13:18:03Z"
+  }
+ ]
+}

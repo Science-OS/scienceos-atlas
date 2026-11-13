@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.14033",
+ "ids": {
+  "arxiv": "2611.14033"
+ },
+ "updatedAt": "2026-11-13T13:18:03Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c9/c9ba676608d0d967a2942ead226b6c446df2af0a7a7dfeee13741a0be6022149.jpg",
+   "hosted": true,
+   "sha256": "c9ba676608d0d967a2942ead226b6c446df2af0a7a7dfeee13741a0be6022149",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.14033",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Deyuan Liu et al., arXiv:2611.14033",
+   "attributionUrl": "https://arxiv.org/abs/2611.14033",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-13T13:18:03Z"
+  }
+ ]
+}

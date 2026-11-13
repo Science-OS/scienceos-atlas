@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q8079161",
+ "ids": {
+  "wikidata": "Q8079161",
+  "ror": "01jjhfr75"
+ },
+ "updatedAt": "2026-11-13T13:18:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/55/55f3ba00be878e4e70b843ae8ab075186dd95843fb4e0773166bbd9728191c05.webp",
+   "hosted": true,
+   "sha256": "55f3ba00be878e4e70b843ae8ab075186dd95843fb4e0773166bbd9728191c05",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 76,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%96zye%C4%9Fin_University_logo.svg",
+   "license": "Public domain",
+   "attribution": "Özyeğin University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:%C3%96zye%C4%9Fin_University_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-13T13:18:03Z"
+  }
+ ]
+}

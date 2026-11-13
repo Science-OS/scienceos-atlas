@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q157575",
+ "ids": {
+  "wikidata": "Q157575",
+  "ror": "00pg6eq24"
+ },
+ "updatedAt": "2026-11-13T13:18:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e6/e63485c9f84ac1500d7c57e92f8f88a310f0308d2c4151a2b70cc4d9727e8898.webp",
+   "hosted": true,
+   "sha256": "e63485c9f84ac1500d7c57e92f8f88a310f0308d2c4151a2b70cc4d9727e8898",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 98,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Universit%C3%A9_de_Strasbourg.svg",
+   "license": "Public domain",
+   "attribution": "Université de Strasbourg",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Universit%C3%A9_de_Strasbourg.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-13T13:18:03Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.15777",
+ "ids": {
+  "arxiv": "2611.15777"
+ },
+ "updatedAt": "2026-11-13T13:18:03Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/32/324d18768eb9958ba123265182cb74777793da1dc628c2a91ecb075066fcbb83.jpg",
+   "hosted": true,
+   "sha256": "324d18768eb9958ba123265182cb74777793da1dc628c2a91ecb075066fcbb83",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.15777",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Lichen Li et al., arXiv:2611.15777",
+   "attributionUrl": "https://arxiv.org/abs/2611.15777",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-13T13:18:03Z"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-001g2fj96",
+ "ids": {
+  "wikidata": "Q4115992",
+  "ror": "001g2fj96"
+ },
+ "updatedAt": "2026-11-13T13:18:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c2/c2ac20f6c127240bf45c510e2d0e4b36b1e1e949b01b2de813884e4f4df2a691.webp",
+   "hosted": true,
+   "sha256": "c2ac20f6c127240bf45c510e2d0e4b36b1e1e949b01b2de813884e4f4df2a691",
+   "mime": "image/webp",
+   "width": 190,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Brandmark_of_The_American_University_of_Sharjah_in_United_Arab_Emirates.jpg",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "attribution": "Gureni",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:The_Brandmark_of_The_American_University_of_Sharjah_in_United_Arab_Emirates.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-13T13:18:03Z"
+  }
+ ]
+}

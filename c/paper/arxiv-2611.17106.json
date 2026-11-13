@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.17106",
+ "ids": {
+  "arxiv": "2611.17106"
+ },
+ "updatedAt": "2026-11-13T13:18:03Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c3/c380f5d7ddfd0d7fa5f0dcabc6b49debdb2a293e84a7abdf980730939f777ff4.jpg",
+   "hosted": true,
+   "sha256": "c380f5d7ddfd0d7fa5f0dcabc6b49debdb2a293e84a7abdf980730939f777ff4",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 889,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.17106",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Ohad Kammar et al., arXiv:2611.17106",
+   "attributionUrl": "https://arxiv.org/abs/2611.17106",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-13T13:18:03Z"
+  }
+ ]
+}

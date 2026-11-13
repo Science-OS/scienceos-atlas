@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.17141",
+ "ids": {
+  "arxiv": "2611.17141"
+ },
+ "updatedAt": "2026-11-13T13:18:03Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/9d/9da54a5f6e825d197bef1dcae7cbb6ab14485ad9222ee6090af87ee631f2d8c1.jpg",
+   "hosted": true,
+   "sha256": "9da54a5f6e825d197bef1dcae7cbb6ab14485ad9222ee6090af87ee631f2d8c1",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.17141",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Peter Sharpe, arXiv:2611.17141",
+   "attributionUrl": "https://arxiv.org/abs/2611.17141",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-13T13:18:03Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.14256",
+ "ids": {
+  "arxiv": "2611.14256"
+ },
+ "updatedAt": "2026-11-13T13:18:03Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/67/676afeeea345422d57c8543d6b139bddb962cd1feab53d79b3af5082ee37b3d7.jpg",
+   "hosted": true,
+   "sha256": "676afeeea345422d57c8543d6b139bddb962cd1feab53d79b3af5082ee37b3d7",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.14256",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Jingjing Jiang, arXiv:2611.14256",
+   "attributionUrl": "https://arxiv.org/abs/2611.14256",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-13T13:18:03Z"
+  }
+ ]
+}

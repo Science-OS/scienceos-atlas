@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.16905",
+ "ids": {
+  "arxiv": "2611.16905"
+ },
+ "updatedAt": "2026-11-13T13:18:03Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b5/b56fcdcb22f001c3d8b7d2136243749a8d98305f17a5a0a2fc10bab0a68b29c8.jpg",
+   "hosted": true,
+   "sha256": "b56fcdcb22f001c3d8b7d2136243749a8d98305f17a5a0a2fc10bab0a68b29c8",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.16905",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Jaemyung Yu et al., arXiv:2611.16905",
+   "attributionUrl": "https://arxiv.org/abs/2611.16905",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-13T13:18:03Z"
+  }
+ ]
+}

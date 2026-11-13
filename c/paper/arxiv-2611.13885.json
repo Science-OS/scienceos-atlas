@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.13885",
+ "ids": {
+  "arxiv": "2611.13885"
+ },
+ "updatedAt": "2026-11-13T13:18:03Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/75/7560f90d61ce8078d01c7f9070adee9bd34ef6201b329a83923b2a8c4cc8445b.jpg",
+   "hosted": true,
+   "sha256": "7560f90d61ce8078d01c7f9070adee9bd34ef6201b329a83923b2a8c4cc8445b",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.13885",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Ömer Tekin Yavuz, arXiv:2611.13885",
+   "attributionUrl": "https://arxiv.org/abs/2611.13885",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-13T13:18:03Z"
+  }
+ ]
+}

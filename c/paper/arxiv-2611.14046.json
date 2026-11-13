@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.14046",
+ "ids": {
+  "arxiv": "2611.14046"
+ },
+ "updatedAt": "2026-11-13T13:18:03Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/0e/0ee35ac065e234c3e7a163cc56e6b74cc1b00f4fa6e72d761e35d0c574fff909.jpg",
+   "hosted": true,
+   "sha256": "0ee35ac065e234c3e7a163cc56e6b74cc1b00f4fa6e72d761e35d0c574fff909",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.14046",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Chenlong Wei et al., arXiv:2611.14046",
+   "attributionUrl": "https://arxiv.org/abs/2611.14046",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-13T13:18:03Z"
+  }
+ ]
+}

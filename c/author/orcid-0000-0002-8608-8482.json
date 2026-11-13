@@ -1,0 +1,30 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "orcid-0000-0002-8608-8482",
+ "ids": {
+  "orcid": "0000-0002-8608-8482",
+  "wikidata": "Q125313089",
+  "openalex": "A5044651577"
+ },
+ "updatedAt": "2026-11-13T13:18:03Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/67/6733de6a74704a8156ba4179c5b98962eeb6a07f79ce094e6110c06c31d16b58.webp",
+   "hosted": true,
+   "sha256": "6733de6a74704a8156ba4179c5b98962eeb6a07f79ce094e6110c06c31d16b58",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 171,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Xing_Xie_-_Computer_scientist_at_Microsoft_Research_Asia.jpg",
+   "license": "CC0",
+   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "attribution": "Rickinasia",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Xing_Xie_-_Computer_scientist_at_Microsoft_Research_Asia.jpg",
+   "confidence": 0.95,
+   "fetchedAt": "2026-11-13T13:18:03Z"
+  }
+ ]
+}

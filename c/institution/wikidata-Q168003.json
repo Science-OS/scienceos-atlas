@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q168003",
+ "ids": {
+  "wikidata": "Q168003",
+  "ror": "01xkakk17"
+ },
+ "updatedAt": "2026-11-13T13:18:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/3d/3dace4d4fcfc45a087e80eee87ab77e4c12900ff6fc0b537ed4b6a906be156db.webp",
+   "hosted": true,
+   "sha256": "3dace4d4fcfc45a087e80eee87ab77e4c12900ff6fc0b537ed4b6a906be156db",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 137,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_HES-SO_couleur_trilingue.jpg",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "attribution": "Siège HES-SO",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_HES-SO_couleur_trilingue.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-13T13:18:03Z"
+  }
+ ]
+}

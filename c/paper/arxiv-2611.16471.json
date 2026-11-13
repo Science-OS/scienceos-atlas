@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.16471",
+ "ids": {
+  "arxiv": "2611.16471"
+ },
+ "updatedAt": "2026-11-13T13:18:03Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/2a/2a92ae9513a96dc90b4969ec4c71578f21d8ced8c10eb1eb92bcf6e8b7456371.jpg",
+   "hosted": true,
+   "sha256": "2a92ae9513a96dc90b4969ec4c71578f21d8ced8c10eb1eb92bcf6e8b7456371",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.16471",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Ning Jiaqu, arXiv:2611.16471",
+   "attributionUrl": "https://arxiv.org/abs/2611.16471",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-13T13:18:03Z"
+  }
+ ]
+}

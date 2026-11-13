@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03r5zec51",
+ "ids": {
+  "wikidata": "Q3128597",
+  "ror": "03r5zec51"
+ },
+ "updatedAt": "2026-11-13T13:18:03Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d8/d8221e5c0ea60e884581f3ca3060b1e481314467422236d5f57dd399d6c10ba1.webp",
+   "hosted": true,
+   "sha256": "d8221e5c0ea60e884581f3ca3060b1e481314467422236d5f57dd399d6c10ba1",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 70,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/HES-SO_Valais-Wallis.png",
+   "license": "Public domain",
+   "attribution": "Infodegestion",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:HES-SO_Valais-Wallis.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-13T13:18:03Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.16028",
+ "ids": {
+  "arxiv": "2611.16028"
+ },
+ "updatedAt": "2026-11-13T13:18:03Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/58/58fb0ecf177d5be4df0786b58efe458942a6b7ad49522abaa1b674d6058d8b9e.jpg",
+   "hosted": true,
+   "sha256": "58fb0ecf177d5be4df0786b58efe458942a6b7ad49522abaa1b674d6058d8b9e",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.16028",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Jacy Reese Anthis et al., arXiv:2611.16028",
+   "attributionUrl": "https://arxiv.org/abs/2611.16028",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-13T13:18:03Z"
+  }
+ ]
+}
