@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03gnh5541",
+ "ids": {
+  "wikidata": "Q1665176",
+  "ror": "03gnh5541"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/09/09962151841e1807cb659984d15be5df4ae791ce3f8bc567ab2c748325b245af.webp",
+   "hosted": true,
+   "sha256": "09962151841e1807cb659984d15be5df4ae791ce3f8bc567ab2c748325b245af",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 91,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/ISTA_Logo_4c_rgb.svg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "ThomasZaunerISTA",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:ISTA_Logo_4c_rgb.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

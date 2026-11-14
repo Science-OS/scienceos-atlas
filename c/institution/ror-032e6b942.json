@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-032e6b942",
+ "ids": {
+  "wikidata": "Q536656",
+  "ror": "032e6b942"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/59/59ab5f08cbc61c3890d734fa042d035f15327e5cf298ac240367e984a52531c2.webp",
+   "hosted": true,
+   "sha256": "59ab5f08cbc61c3890d734fa042d035f15327e5cf298ac240367e984a52531c2",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 108,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/AWI_Logo_2017.svg",
+   "license": "Public domain",
+   "attribution": "Alfred-Wegener-Institut Helmholtz-Zentrum für Polar-und Meeresforschung",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:AWI_Logo_2017.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

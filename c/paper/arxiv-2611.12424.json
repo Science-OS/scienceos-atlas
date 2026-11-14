@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.12424",
+ "ids": {
+  "arxiv": "2611.12424"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/a6/a625092a292740ab94add21c84b62d87dd8038feb8985a6bd0c82b0fd55a27ba.jpg",
+   "hosted": true,
+   "sha256": "a625092a292740ab94add21c84b62d87dd8038feb8985a6bd0c82b0fd55a27ba",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.12424",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Kirill Katsuba et al., arXiv:2611.12424",
+   "attributionUrl": "https://arxiv.org/abs/2611.12424",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

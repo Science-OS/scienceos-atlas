@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.08645",
+ "ids": {
+  "arxiv": "2611.08645"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ed/edf69802478efcdb2e03d29321f14591b2b988e6b0240ea766d23b78278f0b7a.jpg",
+   "hosted": true,
+   "sha256": "edf69802478efcdb2e03d29321f14591b2b988e6b0240ea766d23b78278f0b7a",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.08645",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Abdiaziz Muse et al., arXiv:2611.08645",
+   "attributionUrl": "https://arxiv.org/abs/2611.08645",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-05xefg082",
+ "ids": {
+  "wikidata": "Q1378123",
+  "ror": "05xefg082"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/88/8846a05e63c18164ca216f9bddadc010d9766de6d8c8bd6dea45ab0d02f4621b.webp",
+   "hosted": true,
+   "sha256": "8846a05e63c18164ca216f9bddadc010d9766de6d8c8bd6dea45ab0d02f4621b",
+   "mime": "image/webp",
+   "width": 188,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Universit%C3%A4t_Primorska_Logo.svg",
+   "license": "Public domain",
+   "attribution": "Universität Primorska",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Universit%C3%A4t_Primorska_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

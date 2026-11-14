@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.09501",
+ "ids": {
+  "arxiv": "2611.09501"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/fa/fa355415e28dc7fcc87f7b9dab7a4e89bc5ec4294b960472a1bf9fa71dc233cc.jpg",
+   "hosted": true,
+   "sha256": "fa355415e28dc7fcc87f7b9dab7a4e89bc5ec4294b960472a1bf9fa71dc233cc",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.09501",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Swann Bessa et al., arXiv:2611.09501",
+   "attributionUrl": "https://arxiv.org/abs/2611.09501",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

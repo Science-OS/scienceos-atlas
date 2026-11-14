@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03233xn13",
+ "ids": {
+  "wikidata": "Q61993394",
+  "ror": "03233xn13"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://torc.ai/wp-content/uploads/2024/04/torc_circle_icon-2-1.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://torc.ai",
+   "attributionUrl": "https://torc.ai",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

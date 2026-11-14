@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.09567",
+ "ids": {
+  "arxiv": "2611.09567"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/a4/a4105c86db03d8404f036673a589fedd2ecfa11435f11b96558fcd9c7ddbf6e5.jpg",
+   "hosted": true,
+   "sha256": "a4105c86db03d8404f036673a589fedd2ecfa11435f11b96558fcd9c7ddbf6e5",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.09567",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Jarno Platenburg et al., arXiv:2611.09567",
+   "attributionUrl": "https://arxiv.org/abs/2611.09567",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

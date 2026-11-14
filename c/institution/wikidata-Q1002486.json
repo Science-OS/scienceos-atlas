@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1002486",
+ "ids": {
+  "wikidata": "Q1002486",
+  "ror": "038x9td67"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b2/b26b04c47826f26f9bf8774fc0d34f1f4b12dae2de45daf7c6cc8416cb3ba121.webp",
+   "hosted": true,
+   "sha256": "b26b04c47826f26f9bf8774fc0d34f1f4b12dae2de45daf7c6cc8416cb3ba121",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 77,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/AMOLF.jpg",
+   "license": "Public domain",
+   "attribution": "AMOLF",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:AMOLF.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

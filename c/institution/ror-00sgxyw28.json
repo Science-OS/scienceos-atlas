@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-00sgxyw28",
+ "ids": {
+  "wikidata": "Q1113804",
+  "ror": "00sgxyw28"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/24/24c7c94396b6b10dd90f6417b64e0f0a4dc72b6a7c46ac26b3d418cbd6ab0a34.webp",
+   "hosted": true,
+   "sha256": "24c7c94396b6b10dd90f6417b64e0f0a4dc72b6a7c46ac26b3d418cbd6ab0a34",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 103,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Comcast.svg",
+   "license": "Public domain",
+   "attribution": "Comcast Corporation",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Comcast.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

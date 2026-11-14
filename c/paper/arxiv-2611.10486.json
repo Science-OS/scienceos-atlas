@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.10486",
+ "ids": {
+  "arxiv": "2611.10486"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/0c/0c7559b9ec3e6548dda29ff8115364e8664373140a2e6c9767b0e34e43e75e0d.jpg",
+   "hosted": true,
+   "sha256": "0c7559b9ec3e6548dda29ff8115364e8664373140a2e6c9767b0e34e43e75e0d",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.10486",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Bowen Zuo et al., arXiv:2611.10486",
+   "attributionUrl": "https://arxiv.org/abs/2611.10486",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

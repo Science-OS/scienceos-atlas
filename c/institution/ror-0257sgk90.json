@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-0257sgk90",
+ "ids": {
+  "wikidata": "Q16508582",
+  "ror": "0257sgk90"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.lis-lab.fr&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "https://www.lis-lab.fr",
+   "confidence": 0.5,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

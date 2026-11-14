@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.10690",
+ "ids": {
+  "arxiv": "2611.10690"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/22/2246fdb589361ef5905e6af029f3bb0ec421e1c238bd08b3a12274d769021b51.jpg",
+   "hosted": true,
+   "sha256": "2246fdb589361ef5905e6af029f3bb0ec421e1c238bd08b3a12274d769021b51",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.10690",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Xiangjun Tang et al., arXiv:2611.10690",
+   "attributionUrl": "https://arxiv.org/abs/2611.10690",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q4380853",
+ "ids": {
+  "wikidata": "Q4380853",
+  "ror": "00scwqd12"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/0a/0a53a71ecb30d1956516c418e87d32ecf23d9aa2e707e0ebd8d8b51ab7a7fd55.webp",
+   "hosted": true,
+   "sha256": "0a53a71ecb30d1956516c418e87d32ecf23d9aa2e707e0ebd8d8b51ab7a7fd55",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 44,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Missouri_st_logo_horiz.png",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Missouri_st_logo_horiz.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

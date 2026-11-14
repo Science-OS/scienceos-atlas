@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.09053",
+ "ids": {
+  "arxiv": "2611.09053"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/13/1370a425423877bc252c6e5c73cf7184810b4392719cf034b4337f5e98c5a9df.jpg",
+   "hosted": true,
+   "sha256": "1370a425423877bc252c6e5c73cf7184810b4392719cf034b4337f5e98c5a9df",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 889,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.09053",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Tianchi Yu et al., arXiv:2611.09053",
+   "attributionUrl": "https://arxiv.org/abs/2611.09053",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

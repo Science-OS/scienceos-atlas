@@ -1,0 +1,30 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "wikidata-Q95719643",
+ "ids": {
+  "orcid": "0000-0002-6889-7286",
+  "wikidata": "Q95719643",
+  "openalex": "A5082994085"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/fc/fc714cef172b114329d97a8fe784ac74dad8d209ddbf4e4b93ad8d5dca2529ef.webp",
+   "hosted": true,
+   "sha256": "fc714cef172b114329d97a8fe784ac74dad8d209ddbf4e4b93ad8d5dca2529ef",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 171,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Oum_Sang-il_%EC%97%84%EC%83%81%EC%9D%BC_mathematician.jpg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Rickinasia",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Oum_Sang-il_%EC%97%84%EC%83%81%EC%9D%BC_mathematician.jpg",
+   "confidence": 0.95,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

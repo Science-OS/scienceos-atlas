@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q135635",
+ "ids": {
+  "wikidata": "Q135635",
+  "ror": "01526xe10"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/60/6001a285158e3aa6d104e86625390862d5a8e6e7babd99025cb393ad8f8a2e19.webp",
+   "hosted": true,
+   "sha256": "6001a285158e3aa6d104e86625390862d5a8e6e7babd99025cb393ad8f8a2e19",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/BCG_Corporate_Logo.svg",
+   "license": "Public domain",
+   "attribution": "Boston Consulting Group Converted to SVG by me using CloudConvert",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:BCG_Corporate_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

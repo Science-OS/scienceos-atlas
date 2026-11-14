@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q132140",
+ "ids": {
+  "wikidata": "Q132140",
+  "ror": "0176yjw32"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/03/03b25642adc457dbb6bfe2fe2273900e651a0ec470c3b12d1adf7a2882a3ff37.webp",
+   "hosted": true,
+   "sha256": "03b25642adc457dbb6bfe2fe2273900e651a0ec470c3b12d1adf7a2882a3ff37",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 95,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/UFMG.svg",
+   "license": "Public domain",
+   "attribution": "Cedecom - Centro de Comunicação - UFMG",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:UFMG.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

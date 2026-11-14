@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q349055",
+ "ids": {
+  "wikidata": "Q349055",
+  "ror": "01070mq45"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/a6/a67f8a6c587759e1f57c97de67ebbf2b254f45b06cd83920416c38f6b3617c94.webp",
+   "hosted": true,
+   "sha256": "a67f8a6c587759e1f57c97de67ebbf2b254f45b06cd83920416c38f6b3617c94",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 62,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Wayne_State_University_logo.svg",
+   "license": "Public domain",
+   "attribution": "Wayne State University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Wayne_State_University_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

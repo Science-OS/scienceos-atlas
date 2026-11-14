@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.10404",
+ "ids": {
+  "arxiv": "2611.10404"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/1a/1a593863ab4fd05b7bc4ce266221b6cbb9c9199444237af73c6ff6b7f21cc5e4.jpg",
+   "hosted": true,
+   "sha256": "1a593863ab4fd05b7bc4ce266221b6cbb9c9199444237af73c6ff6b7f21cc5e4",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.10404",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Yuntao Gui, arXiv:2611.10404",
+   "attributionUrl": "https://arxiv.org/abs/2611.10404",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

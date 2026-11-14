@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q12586769",
+ "ids": {
+  "wikidata": "Q12586769",
+  "ror": "00y0zf565"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/de/de727672db7fa8ec76efb5b49d0a40a82b414f3bb974fdb504661b4979491e86.webp",
+   "hosted": true,
+   "sha256": "de727672db7fa8ec76efb5b49d0a40a82b414f3bb974fdb504661b4979491e86",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 64,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Institute_for_Basic_Science_logo.svg",
+   "license": "Public domain",
+   "attribution": "Institute for Basic Science",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Institute_for_Basic_Science_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

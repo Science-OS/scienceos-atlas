@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.08969",
+ "ids": {
+  "arxiv": "2611.08969"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/6c/6ca41ed5ffd2e8967cf5318f7524170ddc37c00fd919bf114bf2931e44f2da64.jpg",
+   "hosted": true,
+   "sha256": "6ca41ed5ffd2e8967cf5318f7524170ddc37c00fd919bf114bf2931e44f2da64",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.08969",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Yanlong Chen et al., arXiv:2611.08969",
+   "attributionUrl": "https://arxiv.org/abs/2611.08969",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

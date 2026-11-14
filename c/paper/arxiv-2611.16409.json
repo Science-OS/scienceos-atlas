@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.16409",
+ "ids": {
+  "arxiv": "2611.16409"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/f1/f111dce1174e1a37d605bb7ae4eccba5f2817d680e74136e7c1ccdd41391edb4.jpg",
+   "hosted": true,
+   "sha256": "f111dce1174e1a37d605bb7ae4eccba5f2817d680e74136e7c1ccdd41391edb4",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.16409",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Doyoung Kim et al., arXiv:2611.16409",
+   "attributionUrl": "https://arxiv.org/abs/2611.16409",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

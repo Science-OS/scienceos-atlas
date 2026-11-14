@@ -1,0 +1,24 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "wikidata-Q63100747",
+ "ids": {
+  "orcid": "0000-0002-8506-6871",
+  "wikidata": "Q63100747",
+  "openalex": "A5005023779",
+  "github": "OlgaIsupova"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://github.com/OlgaIsupova.png?size=256",
+   "hosted": false,
+   "source": "github",
+   "attribution": "GitHub profile @OlgaIsupova",
+   "attributionUrl": "https://github.com/OlgaIsupova",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.10193",
+ "ids": {
+  "arxiv": "2611.10193"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d3/d3cb92acff896f9c576f1dcf8e13481e2c29777ba8af8355e0ea4282143ffaac.jpg",
+   "hosted": true,
+   "sha256": "d3cb92acff896f9c576f1dcf8e13481e2c29777ba8af8355e0ea4282143ffaac",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.10193",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Saul Urso et al., arXiv:2611.10193",
+   "attributionUrl": "https://arxiv.org/abs/2611.10193",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

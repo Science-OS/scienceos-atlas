@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-006c77m33",
+ "ids": {
+  "wikidata": "Q19900",
+  "ror": "006c77m33"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/98/9834990325b6eb38d947076305884300a588267c32deace3b1fd55848cd0c2e8.webp",
+   "hosted": true,
+   "sha256": "9834990325b6eb38d947076305884300a588267c32deace3b1fd55848cd0c2e8",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 33,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Oracle_logo.svg",
+   "license": "Public domain",
+   "attribution": "Oracle Corporation",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Oracle_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

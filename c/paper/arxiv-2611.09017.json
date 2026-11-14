@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.09017",
+ "ids": {
+  "arxiv": "2611.09017"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/37/37a972bdab29220650224f6b8377a068a9e5d71b746b14f6366d69a10ae61b8b.jpg",
+   "hosted": true,
+   "sha256": "37a972bdab29220650224f6b8377a068a9e5d71b746b14f6366d69a10ae61b8b",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.09017",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Xinjie Lin et al., arXiv:2611.09017",
+   "attributionUrl": "https://arxiv.org/abs/2611.09017",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

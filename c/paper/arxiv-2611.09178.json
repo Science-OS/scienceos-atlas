@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.09178",
+ "ids": {
+  "arxiv": "2611.09178"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/89/89ac0d9b72c315115aab8efe48eec3d240f8f2a0d306d9c059bdc6f52c047836.jpg",
+   "hosted": true,
+   "sha256": "89ac0d9b72c315115aab8efe48eec3d240f8f2a0d306d9c059bdc6f52c047836",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.09178",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Warren Jouanneau et al., arXiv:2611.09178",
+   "attributionUrl": "https://arxiv.org/abs/2611.09178",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

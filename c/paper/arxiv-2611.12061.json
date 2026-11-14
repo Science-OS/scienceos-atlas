@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.12061",
+ "ids": {
+  "arxiv": "2611.12061"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ab/ab94febf9aae7361eaf820b6fb4b8e6c184b7bcbe141359ee1320211f4ddda42.jpg",
+   "hosted": true,
+   "sha256": "ab94febf9aae7361eaf820b6fb4b8e6c184b7bcbe141359ee1320211f4ddda42",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.12061",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Taemin Cho et al., arXiv:2611.12061",
+   "attributionUrl": "https://arxiv.org/abs/2611.12061",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

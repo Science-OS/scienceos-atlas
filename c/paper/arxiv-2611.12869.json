@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.12869",
+ "ids": {
+  "arxiv": "2611.12869"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/09/09a859cc6458737de481831b20ff3381fba2ea5d0e1ab8a25e2adfef22307dc9.jpg",
+   "hosted": true,
+   "sha256": "09a859cc6458737de481831b20ff3381fba2ea5d0e1ab8a25e2adfef22307dc9",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.12869",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Julia Herbst et al., arXiv:2611.12869",
+   "attributionUrl": "https://arxiv.org/abs/2611.12869",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1411222",
+ "ids": {
+  "wikidata": "Q1411222",
+  "ror": "02jqj7156"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/03/03048af56bd51dfcd8a0e89f8b7634a190f0edd64cc88af98d3fa38d9f0dff28.webp",
+   "hosted": true,
+   "sha256": "03048af56bd51dfcd8a0e89f8b7634a190f0edd64cc88af98d3fa38d9f0dff28",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 167,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/George_Mason_University_logo.svg",
+   "license": "Public domain",
+   "attribution": "George Mason University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:George_Mason_University_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

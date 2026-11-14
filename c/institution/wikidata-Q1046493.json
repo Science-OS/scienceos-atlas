@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1046493",
+ "ids": {
+  "wikidata": "Q1046493",
+  "ror": "0523w7v09"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/9d/9d568dfb801efc3f021b354c684eb28378ea55d108361421e507742cfb8be70e.webp",
+   "hosted": true,
+   "sha256": "9d568dfb801efc3f021b354c684eb28378ea55d108361421e507742cfb8be70e",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 64,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Narxoz_University_logo.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Narxoz_University_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

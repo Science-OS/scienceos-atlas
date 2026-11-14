@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.09610",
+ "ids": {
+  "arxiv": "2611.09610"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/bf/bf71b366e9ce84579de0e94429a340a7f6d0d0b1725628b22c4deac1ee656fad.jpg",
+   "hosted": true,
+   "sha256": "bf71b366e9ce84579de0e94429a340a7f6d0d0b1725628b22c4deac1ee656fad",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.09610",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Joris Kirchner et al., arXiv:2611.09610",
+   "attributionUrl": "https://arxiv.org/abs/2611.09610",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

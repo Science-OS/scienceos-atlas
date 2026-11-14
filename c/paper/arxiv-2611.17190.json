@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.17190",
+ "ids": {
+  "arxiv": "2611.17190"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/0f/0fcbc08e06b803cb4cb54f0fb540126e8cbf43468248f746495652b261770e2f.jpg",
+   "hosted": true,
+   "sha256": "0fcbc08e06b803cb4cb54f0fb540126e8cbf43468248f746495652b261770e2f",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.17190",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Robert Fonod et al., arXiv:2611.17190",
+   "attributionUrl": "https://arxiv.org/abs/2611.17190",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03ztgj037",
+ "ids": {
+  "wikidata": "Q1205784",
+  "ror": "03ztgj037"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.dkrz.de/++theme++dkrztheme/++plone++dkrz.policy/android-icon-192x192.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.dkrz.de/",
+   "attributionUrl": "https://www.dkrz.de/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

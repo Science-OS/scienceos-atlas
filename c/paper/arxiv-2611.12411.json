@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.12411",
+ "ids": {
+  "arxiv": "2611.12411"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/30/305a61a2a708cacb6dc6690d57e96fd0e23fd9808ca72e95e81a29a01e3b8e1f.jpg",
+   "hosted": true,
+   "sha256": "305a61a2a708cacb6dc6690d57e96fd0e23fd9808ca72e95e81a29a01e3b8e1f",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.12411",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Harold Haodong Chen et al., arXiv:2611.12411",
+   "attributionUrl": "https://arxiv.org/abs/2611.12411",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

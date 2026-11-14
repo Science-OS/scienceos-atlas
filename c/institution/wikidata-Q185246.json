@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q185246",
+ "ids": {
+  "wikidata": "Q185246",
+  "ror": "048a87296"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/83/8373c100fcfbf957f4d512c62327d17d88f3222b0c36267a737d829b6e6e395a.webp",
+   "hosted": true,
+   "sha256": "8373c100fcfbf957f4d512c62327d17d88f3222b0c36267a737d829b6e6e395a",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 244,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Uppsala_universitet_logo.jpg",
+   "license": "Public domain",
+   "attribution": "Uppsala university",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Uppsala_universitet_logo.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

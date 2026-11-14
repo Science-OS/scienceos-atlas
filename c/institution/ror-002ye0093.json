@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-002ye0093",
+ "ids": {
+  "wikidata": "Q100324218",
+  "ror": "002ye0093"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/30/301e115b0b5dd4cfa061e216fdbe66d475dbb3a6b6c9ae4847d98a7afe536710.webp",
+   "hosted": true,
+   "sha256": "301e115b0b5dd4cfa061e216fdbe66d475dbb3a6b6c9ae4847d98a7afe536710",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 61,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/ELLIS_Alicante_Unit_Logo_%28light%29.png",
+   "license": "CC0",
+   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "attribution": "Kristof Roomp",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:ELLIS_Alicante_Unit_Logo_(light).png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

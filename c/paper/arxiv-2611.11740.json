@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.11740",
+ "ids": {
+  "arxiv": "2611.11740"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ed/ed1003a986499471c0bfab937d2b2ece758dc36d22c4f3ea6893c03581607858.jpg",
+   "hosted": true,
+   "sha256": "ed1003a986499471c0bfab937d2b2ece758dc36d22c4f3ea6893c03581607858",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.11740",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Alon Albalak et al., arXiv:2611.11740",
+   "attributionUrl": "https://arxiv.org/abs/2611.11740",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

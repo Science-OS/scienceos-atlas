@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.12875",
+ "ids": {
+  "arxiv": "2611.12875"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d6/d654bd6823a40d4b8e11bdc60c0e79d02b65dd440a215dc41d7d36a5323f4e78.jpg",
+   "hosted": true,
+   "sha256": "d654bd6823a40d4b8e11bdc60c0e79d02b65dd440a215dc41d7d36a5323f4e78",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.12875",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Hao Gu et al., arXiv:2611.12875",
+   "attributionUrl": "https://arxiv.org/abs/2611.12875",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

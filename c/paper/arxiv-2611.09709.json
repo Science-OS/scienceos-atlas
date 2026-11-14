@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.09709",
+ "ids": {
+  "arxiv": "2611.09709"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/26/26d32494794a5abd916d88815b5cebe75109ff60dfdd6d1fab9db146566e6982.jpg",
+   "hosted": true,
+   "sha256": "26d32494794a5abd916d88815b5cebe75109ff60dfdd6d1fab9db146566e6982",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.09709",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Dylan Johnston et al., arXiv:2611.09709",
+   "attributionUrl": "https://arxiv.org/abs/2611.09709",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

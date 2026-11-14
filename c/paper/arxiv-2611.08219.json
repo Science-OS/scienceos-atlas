@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.08219",
+ "ids": {
+  "arxiv": "2611.08219"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/2f/2f70f9002d30378f68477921d07375821a30f4c723a5f63589a05dd1651cd990.jpg",
+   "hosted": true,
+   "sha256": "2f70f9002d30378f68477921d07375821a30f4c723a5f63589a05dd1651cd990",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.08219",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Teng Pan et al., arXiv:2611.08219",
+   "attributionUrl": "https://arxiv.org/abs/2611.08219",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

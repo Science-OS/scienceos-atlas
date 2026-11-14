@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q4827416",
+ "ids": {
+  "wikidata": "Q4827416",
+  "ror": "035gt5s03"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/6b/6b7936c73f4dd64b67c9cbde5edd006d19c2d6af2d2cddcae175d6f4b3393b38.webp",
+   "hosted": true,
+   "sha256": "6b7936c73f4dd64b67c9cbde5edd006d19c2d6af2d2cddcae175d6f4b3393b38",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 36,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Broadcom_logo_%282016-present%29.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Broadcom_logo_(2016-present).svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.12458",
+ "ids": {
+  "arxiv": "2611.12458"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d2/d270cc25d65d4954d398e964fdb9690c9078fb2d12a2a05c735a63ca11fd0ccd.jpg",
+   "hosted": true,
+   "sha256": "d270cc25d65d4954d398e964fdb9690c9078fb2d12a2a05c735a63ca11fd0ccd",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.12458",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Roger Guimerà et al., arXiv:2611.12458",
+   "attributionUrl": "https://arxiv.org/abs/2611.12458",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

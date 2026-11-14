@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.09055",
+ "ids": {
+  "arxiv": "2611.09055"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/14/14a6ea1c3c98414d8dfdb26b3a2e44c18785969f46ce60f3b7bf215f3880f5d8.jpg",
+   "hosted": true,
+   "sha256": "14a6ea1c3c98414d8dfdb26b3a2e44c18785969f46ce60f3b7bf215f3880f5d8",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.09055",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Yunhan Yang et al., arXiv:2611.09055",
+   "attributionUrl": "https://arxiv.org/abs/2611.09055",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

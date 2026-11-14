@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q3522398",
+ "ids": {
+  "wikidata": "Q3522398",
+  "ror": "04fw54a43"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/9d/9d9e289379c7ff07ac74e267f40609799ea0665ad23832699fe1a975bbd925be.webp",
+   "hosted": true,
+   "sha256": "9d9e289379c7ff07ac74e267f40609799ea0665ad23832699fe1a975bbd925be",
+   "mime": "image/webp",
+   "width": 205,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_of_the_Indian_Council_of_Agricultural_Research.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_of_the_Indian_Council_of_Agricultural_Research.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

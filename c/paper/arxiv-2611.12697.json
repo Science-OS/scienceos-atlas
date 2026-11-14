@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.12697",
+ "ids": {
+  "arxiv": "2611.12697"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/8c/8cb879b7e8db4f1bdc5c5ecebc3d5254f7d3adb59531e4e1e6c0508c66e02b19.jpg",
+   "hosted": true,
+   "sha256": "8cb879b7e8db4f1bdc5c5ecebc3d5254f7d3adb59531e4e1e6c0508c66e02b19",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.12697",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Coralia Cartis et al., arXiv:2611.12697",
+   "attributionUrl": "https://arxiv.org/abs/2611.12697",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

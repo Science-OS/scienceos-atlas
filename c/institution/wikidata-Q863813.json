@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q863813",
+ "ids": {
+  "wikidata": "Q863813",
+  "ror": "008rmbt77"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/43/43d2d6bc2f94f2a16c749af8870d2526c5911a70a862aaa2e70ed51a27de666a.webp",
+   "hosted": true,
+   "sha256": "43d2d6bc2f94f2a16c749af8870d2526c5911a70a862aaa2e70ed51a27de666a",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 85,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Binghamton_University_logo.svg",
+   "license": "Public domain",
+   "attribution": "State University of New York The SVG code is valid . This vector image was extracted with Inkscape by v.",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Binghamton_University_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

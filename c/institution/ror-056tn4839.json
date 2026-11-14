@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-056tn4839",
+ "ids": {
+  "wikidata": "Q374457",
+  "ror": "056tn4839"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ac/ac34ca513ea64c3412b48bf1fccbde36d435788c118ccb1cf5401e2baf7d08ec.webp",
+   "hosted": true,
+   "sha256": "ac34ca513ea64c3412b48bf1fccbde36d435788c118ccb1cf5401e2baf7d08ec",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 102,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sogang_University_-_logotype_%28en%29.svg",
+   "license": "Public domain",
+   "attribution": "Sogang University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Sogang_University_-_logotype_(en).svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

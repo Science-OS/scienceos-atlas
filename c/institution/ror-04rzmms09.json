@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04rzmms09",
+ "ids": {
+  "wikidata": "Q581684",
+  "ror": "04rzmms09"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/f3/f3bba757118e564d06ef76e5902939f17effee7dd3d78b3781739d2af678ebb9.webp",
+   "hosted": true,
+   "sha256": "f3bba757118e564d06ef76e5902939f17effee7dd3d78b3781739d2af678ebb9",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 71,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/CSCS_Logo.tiff",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "attribution": "CSCS",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:CSCS_Logo.tiff",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

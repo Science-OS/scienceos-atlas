@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.10866",
+ "ids": {
+  "arxiv": "2611.10866"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/8c/8c392f627da544c897133825a6b11041919999f204b95a351a8f0c472f539e1e.jpg",
+   "hosted": true,
+   "sha256": "8c392f627da544c897133825a6b11041919999f204b95a351a8f0c472f539e1e",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.10866",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Jack Lu et al., arXiv:2611.10866",
+   "attributionUrl": "https://arxiv.org/abs/2611.10866",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

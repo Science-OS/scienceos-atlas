@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01sbq1a82",
+ "ids": {
+  "wikidata": "Q1068072",
+  "ror": "01sbq1a82"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/7f/7f9b18fad6e20023f8d93445ab0f5fd1b4d706c8a8e789b866c0b8b9219f6be0.webp",
+   "hosted": true,
+   "sha256": "7f9b18fad6e20023f8d93445ab0f5fd1b4d706c8a8e789b866c0b8b9219f6be0",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 109,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Delaware_wordmark.svg",
+   "license": "Public domain",
+   "attribution": "University of Delaware",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Delaware_wordmark.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

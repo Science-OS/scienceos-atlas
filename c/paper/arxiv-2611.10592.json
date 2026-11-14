@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.10592",
+ "ids": {
+  "arxiv": "2611.10592"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/a0/a01c800880a63421faf6c57a368ccd6639f4a77b727c62bf888a1cedeff837d3.jpg",
+   "hosted": true,
+   "sha256": "a01c800880a63421faf6c57a368ccd6639f4a77b727c62bf888a1cedeff837d3",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.10592",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Jiaju Ma et al., arXiv:2611.10592",
+   "attributionUrl": "https://arxiv.org/abs/2611.10592",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

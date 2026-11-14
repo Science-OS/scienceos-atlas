@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.12686",
+ "ids": {
+  "arxiv": "2611.12686"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/5c/5c77f9a47d4334e9e3ff9e7fdab37e678c323cb30704349d55fc5a6fc1c5dee2.jpg",
+   "hosted": true,
+   "sha256": "5c77f9a47d4334e9e3ff9e7fdab37e678c323cb30704349d55fc5a6fc1c5dee2",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.12686",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Ajay Manicka et al., arXiv:2611.12686",
+   "attributionUrl": "https://arxiv.org/abs/2611.12686",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

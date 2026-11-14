@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.00359",
+ "ids": {
+  "arxiv": "2611.00359"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ca/ca1d42d94d9cd9ab155c7dd16d1a2b24d3f72713f5e5737c5288274a2d11a455.jpg",
+   "hosted": true,
+   "sha256": "ca1d42d94d9cd9ab155c7dd16d1a2b24d3f72713f5e5737c5288274a2d11a455",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.00359",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Ziyuan Wang et al., arXiv:2611.00359",
+   "attributionUrl": "https://arxiv.org/abs/2611.00359",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

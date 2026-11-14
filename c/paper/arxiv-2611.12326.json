@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.12326",
+ "ids": {
+  "arxiv": "2611.12326"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e1/e13ca256a2216ef048ddf8b37ee5518076bdb1b71683bd9b0e7b89694dd0dd1e.jpg",
+   "hosted": true,
+   "sha256": "e13ca256a2216ef048ddf8b37ee5518076bdb1b71683bd9b0e7b89694dd0dd1e",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.12326",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Kim Batselier, arXiv:2611.12326",
+   "attributionUrl": "https://arxiv.org/abs/2611.12326",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}

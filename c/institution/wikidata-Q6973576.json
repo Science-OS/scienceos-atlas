@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q6973576",
+ "ids": {
+  "wikidata": "Q6973576",
+  "ror": "0187kwz08"
+ },
+ "updatedAt": "2026-11-14T12:22:07Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d8/d8976ebc53d98db918778e04d953f79a44fc0fbfb81c36abf11ae606afce333b.webp",
+   "hosted": true,
+   "sha256": "d8976ebc53d98db918778e04d953f79a44fc0fbfb81c36abf11ae606afce333b",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 26,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/NIHR_National_Institute_for_Health_and_Care_Research_logo.png",
+   "license": "Public domain",
+   "attribution": "National Institute for Health and Care Research",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:NIHR_National_Institute_for_Health_and_Care_Research_logo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-14T12:22:07Z"
+  }
+ ]
+}
