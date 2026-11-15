@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04my8ty22",
+ "ids": {
+  "wikidata": "Q28973228",
+  "ror": "04my8ty22"
+ },
+ "updatedAt": "2026-11-15T12:52:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c1/c1b640bebac3ee2ba876dcb644526cd8b720f3c3be2791dc8ec1f9b59e48fa6a.webp",
+   "hosted": true,
+   "sha256": "c1b640bebac3ee2ba876dcb644526cd8b720f3c3be2791dc8ec1f9b59e48fa6a",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 57,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosch-logo.svg",
+   "license": "Public domain",
+   "attribution": "Robert BOSCH GmbH",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Bosch-logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-15T12:52:52Z"
+  }
+ ]
+}

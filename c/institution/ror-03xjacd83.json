@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03xjacd83",
+ "ids": {
+  "wikidata": "Q4117596",
+  "ror": "03xjacd83"
+ },
+ "updatedAt": "2026-11-15T12:52:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e4/e4273aa10ca296d6d95d2bfe9aef87bd357fb05a3a630e04cb978331228fc337.webp",
+   "hosted": true,
+   "sha256": "e4273aa10ca296d6d95d2bfe9aef87bd357fb05a3a630e04cb978331228fc337",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 41,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cleveland_Clinic_logo.svg",
+   "license": "Public domain",
+   "attribution": "Cleveland Clinic",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Cleveland_Clinic_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-15T12:52:52Z"
+  }
+ ]
+}

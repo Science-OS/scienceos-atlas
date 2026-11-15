@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q940690",
+ "ids": {
+  "wikidata": "Q940690",
+  "ror": "01w0d5g70"
+ },
+ "updatedAt": "2026-11-15T12:52:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/76/76b298e5ee055fed324bd3db2fe800d30e6bc8a8984c8b548ca146ab874287e5.webp",
+   "hosted": true,
+   "sha256": "76b298e5ee055fed324bd3db2fe800d30e6bc8a8984c8b548ca146ab874287e5",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 114,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Missouri%E2%80%93Kansas_City_%28old%29_logo.svg",
+   "license": "Public domain",
+   "attribution": "University of Missouri–Kansas City",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Missouri%E2%80%93Kansas_City_(old)_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-15T12:52:52Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q4119816",
+ "ids": {
+  "wikidata": "Q4119816",
+  "ror": "033ztpr93"
+ },
+ "updatedAt": "2026-11-15T12:52:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/94/9438d7bf71544185f6a0493f998783823f170581e000e3069e7b6e2bf9efd000.webp",
+   "hosted": true,
+   "sha256": "9438d7bf71544185f6a0493f998783823f170581e000e3069e7b6e2bf9efd000",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 39,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Texas_Tech_University_Health_Sciences_Center_wordmark.svg",
+   "license": "Public domain",
+   "attribution": "Texas Tech University Health Sciences Center",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Texas_Tech_University_Health_Sciences_Center_wordmark.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-15T12:52:52Z"
+  }
+ ]
+}

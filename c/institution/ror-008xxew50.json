@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-008xxew50",
+ "ids": {
+  "wikidata": "Q1065414",
+  "ror": "008xxew50"
+ },
+ "updatedAt": "2026-11-15T12:52:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/93/9387df256849efed495e4bb8f4633eb2496e35cf512d06fbc34bcaed1f74161b.webp",
+   "hosted": true,
+   "sha256": "9387df256849efed495e4bb8f4633eb2496e35cf512d06fbc34bcaed1f74161b",
+   "mime": "image/webp",
+   "width": 255,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Maagd_in_de_tuin.gif",
+   "license": "Public domain",
+   "attribution": "Abraham Kuyper (1837-1920)",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Maagd_in_de_tuin.gif",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-15T12:52:52Z"
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02phn5242",
+ "ids": {
+  "wikidata": "Q720953",
+  "ror": "02phn5242"
+ },
+ "updatedAt": "2026-11-15T12:52:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://cmb.ac.lk/wp-content/uploads/cropped-favicon-2-192x192.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of http://www.cmb.ac.lk/",
+   "attributionUrl": "http://www.cmb.ac.lk/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-15T12:52:52Z"
+  }
+ ]
+}

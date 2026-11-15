@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q30256445",
+ "ids": {
+  "wikidata": "Q30256445",
+  "ror": "02ndjfz59"
+ },
+ "updatedAt": "2026-11-15T12:52:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.flandersmake.be/static/favicon/android-icon-192x192.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.flandersmake.be",
+   "attributionUrl": "https://www.flandersmake.be",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-15T12:52:52Z"
+  }
+ ]
+}

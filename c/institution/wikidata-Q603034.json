@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q603034",
+ "ids": {
+  "wikidata": "Q603034",
+  "ror": "04bdffz58"
+ },
+ "updatedAt": "2026-11-15T12:52:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/a5/a54c2507320d628967dbed9d65e7906edfc28ad520617f0709585cdad3a217ed.webp",
+   "hosted": true,
+   "sha256": "a54c2507320d628967dbed9d65e7906edfc28ad520617f0709585cdad3a217ed",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 67,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Drexel-logo.png",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Bonechiller11",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Drexel-logo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-15T12:52:52Z"
+  }
+ ]
+}

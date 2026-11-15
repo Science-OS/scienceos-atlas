@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02jmfj006",
+ "ids": {
+  "wikidata": "Q1076729",
+  "ror": "02jmfj006"
+ },
+ "updatedAt": "2026-11-15T12:52:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c7/c7bea6399206d2e64f710ce67ed3069f8f0cd6c80cae78db16c6c88136eaea94.webp",
+   "hosted": true,
+   "sha256": "c7bea6399206d2e64f710ce67ed3069f8f0cd6c80cae78db16c6c88136eaea94",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 83,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vietnam_National_University_Hanoi_logo.svg",
+   "license": "Public domain",
+   "attribution": "Vietnam National University, Hanoi",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Vietnam_National_University_Hanoi_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-15T12:52:52Z"
+  }
+ ]
+}

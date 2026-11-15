@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q5873997",
+ "ids": {
+  "wikidata": "Q5873997",
+  "ror": "05jfbgm49"
+ },
+ "updatedAt": "2026-11-15T12:52:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://hcmus.edu.vn/wp-content/uploads/2022/07/cropped-Alumi-event-02-192x192.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://hcmus.edu.vn",
+   "attributionUrl": "https://hcmus.edu.vn",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-15T12:52:52Z"
+  }
+ ]
+}

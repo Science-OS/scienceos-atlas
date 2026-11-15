@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-052w4zt36",
+ "ids": {
+  "wikidata": "Q168000",
+  "ror": "052w4zt36"
+ },
+ "updatedAt": "2026-11-15T12:52:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/32/3285671e28928bae45b289b385ef2a7b84c3ee56725ab565cd2e5762de66230d.webp",
+   "hosted": true,
+   "sha256": "3285671e28928bae45b289b385ef2a7b84c3ee56725ab565cd2e5762de66230d",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 80,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/American_University_logo.svg",
+   "license": "Public domain",
+   "attribution": "American University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:American_University_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-15T12:52:52Z"
+  }
+ ]
+}

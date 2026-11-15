@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q16826821",
+ "ids": {
+  "wikidata": "Q16826821",
+  "ror": "035dkdb55"
+ },
+ "updatedAt": "2026-11-15T12:52:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/8e/8e9d6bec1b5a51bbd6f08fcc25b6446f299c08b2bf435ce06ff0f397ffb702fd.webp",
+   "hosted": true,
+   "sha256": "8e9d6bec1b5a51bbd6f08fcc25b6446f299c08b2bf435ce06ff0f397ffb702fd",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 109,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Alan_Turing_Institute_logo.svg",
+   "license": "Public domain",
+   "attribution": "Alan Turing Institute",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Alan_Turing_Institute_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-15T12:52:52Z"
+  }
+ ]
+}

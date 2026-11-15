@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02sv65x64",
+ "ids": {
+  "wikidata": "Q56187114",
+  "ror": "02sv65x64"
+ },
+ "updatedAt": "2026-11-15T12:52:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.utn.de/files/2022/07/cropped-UTN-Website-icon-512-192x192.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.utn.de",
+   "attributionUrl": "https://www.utn.de",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-15T12:52:52Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-052g8jq94",
+ "ids": {
+  "wikidata": "Q43452",
+  "ror": "052g8jq94"
+ },
+ "updatedAt": "2026-11-15T12:52:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/3c/3c0b1aac3d1059f6bf100cb124b92f790b233f753b7e6dfe50ff750d7531cd69.webp",
+   "hosted": true,
+   "sha256": "3c0b1aac3d1059f6bf100cb124b92f790b233f753b7e6dfe50ff750d7531cd69",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 96,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Autonome_Universit%C3%A4t_Barcelona_Logo.svg",
+   "license": "Public domain",
+   "attribution": "Universitat Autònoma de Barcelona",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Autonome_Universit%C3%A4t_Barcelona_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-15T12:52:52Z"
+  }
+ ]
+}

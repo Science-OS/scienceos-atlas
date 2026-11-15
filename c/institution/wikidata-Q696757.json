@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q696757",
+ "ids": {
+  "wikidata": "Q696757",
+  "ror": "04mz5ra38"
+ },
+ "updatedAt": "2026-11-15T12:52:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/9d/9d3411ce1297d30ef04004b9b4e59c2689d04b25bf29d005f1964b62638825f0.webp",
+   "hosted": true,
+   "sha256": "9d3411ce1297d30ef04004b9b4e59c2689d04b25bf29d005f1964b62638825f0",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 77,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Uni_Duisburg.png",
+   "license": "Public domain",
+   "attribution": "University of Duisburg-Essen",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Uni_Duisburg.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-15T12:52:52Z"
+  }
+ ]
+}

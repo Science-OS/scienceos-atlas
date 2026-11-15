@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-00waaqh38",
+ "ids": {
+  "wikidata": "Q943759",
+  "ror": "00waaqh38"
+ },
+ "updatedAt": "2026-11-15T12:52:52Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fvnuhcm.edu.vn&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "https://vnuhcm.edu.vn",
+   "confidence": 0.5,
+   "fetchedAt": "2026-11-15T12:52:52Z"
+  }
+ ]
+}

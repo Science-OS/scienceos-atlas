@@ -1,0 +1,24 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "wikidata-Q102843777",
+ "ids": {
+  "orcid": "0000-0001-8504-3410",
+  "wikidata": "Q102843777",
+  "openalex": "A5102883508",
+  "github": "junyanz"
+ },
+ "updatedAt": "2026-11-15T12:52:52Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://github.com/junyanz.png?size=256",
+   "hosted": false,
+   "source": "github",
+   "attribution": "GitHub profile @junyanz",
+   "attributionUrl": "https://github.com/junyanz",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-15T12:52:52Z"
+  }
+ ]
+}
