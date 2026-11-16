@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-012e1xn46",
+ "ids": {
+  "wikidata": "Q16008922",
+  "ror": "012e1xn46"
+ },
+ "updatedAt": "2026-11-16T13:52:17Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http%3A%2F%2Fwww.cmap.polytechnique.fr%2F&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "http://www.cmap.polytechnique.fr/",
+   "confidence": 0.5,
+   "fetchedAt": "2026-11-16T13:52:17Z"
+  }
+ ]
+}

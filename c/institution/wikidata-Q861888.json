@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q861888",
+ "ids": {
+  "wikidata": "Q861888",
+  "ror": "00ysfqy60"
+ },
+ "updatedAt": "2026-11-16T13:52:17Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c0/c07b68a530eadaba79fa5ececca01265932eeebc8567c53d1342c90ea2a1dd12.webp",
+   "hosted": true,
+   "sha256": "c07b68a530eadaba79fa5ececca01265932eeebc8567c53d1342c90ea2a1dd12",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Oregon_State_University_wordmark.svg",
+   "license": "Public domain",
+   "attribution": "Oregon State University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Oregon_State_University_wordmark.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-16T13:52:17Z"
+  }
+ ]
+}

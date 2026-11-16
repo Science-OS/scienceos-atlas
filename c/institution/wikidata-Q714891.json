@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q714891",
+ "ids": {
+  "wikidata": "Q714891",
+  "ror": "00944ve71"
+ },
+ "updatedAt": "2026-11-16T13:52:17Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/7a/7a90c6a035b7954efef5e19065a8437b79c6a0be6e2b15d28c9c4868210bf349.webp",
+   "hosted": true,
+   "sha256": "7a90c6a035b7954efef5e19065a8437b79c6a0be6e2b15d28c9c4868210bf349",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 220,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/NCULogo.svg",
+   "license": "Public domain",
+   "attribution": "陳之佛 (Chen Tze-Fu)",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:NCULogo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-16T13:52:17Z"
+  }
+ ]
+}

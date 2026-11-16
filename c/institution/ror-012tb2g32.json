@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-012tb2g32",
+ "ids": {
+  "wikidata": "Q2031560",
+  "ror": "012tb2g32"
+ },
+ "updatedAt": "2026-11-16T13:52:17Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.tju.edu.cn%2F&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "https://www.tju.edu.cn/",
+   "confidence": 0.5,
+   "fetchedAt": "2026-11-16T13:52:17Z"
+  }
+ ]
+}

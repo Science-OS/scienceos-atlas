@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.13509",
+ "ids": {
+  "arxiv": "2611.13509"
+ },
+ "updatedAt": "2026-11-16T13:52:17Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/86/86d1cd9eb8ce5cfe31c3aca2fdbe2c9842a4113caf8a05b2695d3d916df15aa6.jpg",
+   "hosted": true,
+   "sha256": "86d1cd9eb8ce5cfe31c3aca2fdbe2c9842a4113caf8a05b2695d3d916df15aa6",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.13509",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Evan Li et al., arXiv:2611.13509",
+   "attributionUrl": "https://arxiv.org/abs/2611.13509",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-16T13:52:17Z"
+  }
+ ]
+}

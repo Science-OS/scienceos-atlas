@@ -1,0 +1,30 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "wikidata-Q1797780",
+ "ids": {
+  "orcid": "0000-0002-5114-0519",
+  "wikidata": "Q1797780",
+  "openalex": "A5063432831"
+ },
+ "updatedAt": "2026-11-16T13:52:17Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/64/64952958f68a1c2a93b3a6a3befd1fad18c284176757599763be55ed0c712bb8.webp",
+   "hosted": true,
+   "sha256": "64952958f68a1c2a93b3a6a3befd1fad18c284176757599763be55ed0c712bb8",
+   "mime": "image/webp",
+   "width": 171,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Professor_Lakshminarayanan_Mahadevan_FRS.jpg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Duncan.Hull",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Professor_Lakshminarayanan_Mahadevan_FRS.jpg",
+   "confidence": 0.95,
+   "fetchedAt": "2026-11-16T13:52:17Z"
+  }
+ ]
+}

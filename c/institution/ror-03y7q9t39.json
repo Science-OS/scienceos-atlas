@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03y7q9t39",
+ "ids": {
+  "wikidata": "Q432475",
+  "ror": "03y7q9t39"
+ },
+ "updatedAt": "2026-11-16T13:52:17Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/4f/4f983a87adb69524e395c792b5f1ebfd0a7b70203e1cb5ad187f0a9321a8d237.webp",
+   "hosted": true,
+   "sha256": "4f983a87adb69524e395c792b5f1ebfd0a7b70203e1cb5ad187f0a9321a8d237",
+   "mime": "image/webp",
+   "width": 233,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_the_University_of_Canterbury.svg",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "TheLoyalOrder",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_University_of_Canterbury.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-16T13:52:17Z"
+  }
+ ]
+}

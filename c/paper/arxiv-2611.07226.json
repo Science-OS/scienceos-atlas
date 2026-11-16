@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.07226",
+ "ids": {
+  "arxiv": "2611.07226"
+ },
+ "updatedAt": "2026-11-16T13:52:17Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/f5/f59e748409488ee229e9f0eabde8ec600c60232b7ba5dcde3b448290e8fa541f.jpg",
+   "hosted": true,
+   "sha256": "f59e748409488ee229e9f0eabde8ec600c60232b7ba5dcde3b448290e8fa541f",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.07226",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Xuan Ouyang et al., arXiv:2611.07226",
+   "attributionUrl": "https://arxiv.org/abs/2611.07226",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-16T13:52:17Z"
+  }
+ ]
+}

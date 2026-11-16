@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1537759",
+ "ids": {
+  "wikidata": "Q1537759",
+  "ror": "04b6x2g63"
+ },
+ "updatedAt": "2026-11-16T13:52:17Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/df/dfba617a24bb560b0971a5da29e41012544d63676d449a4d91acd8a709a96650.webp",
+   "hosted": true,
+   "sha256": "dfba617a24bb560b0971a5da29e41012544d63676d449a4d91acd8a709a96650",
+   "mime": "image/webp",
+   "width": 236,
+   "height": 66,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Loyolauniversitylogo.png",
+   "license": "Public domain",
+   "attribution": "The original uploader was Meganfoxx at English Wikipedia .",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Loyolauniversitylogo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-16T13:52:17Z"
+  }
+ ]
+}

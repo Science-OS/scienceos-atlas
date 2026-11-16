@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04dwy1130",
+ "ids": {
+  "wikidata": "Q188771",
+  "ror": "04dwy1130"
+ },
+ "updatedAt": "2026-11-16T13:52:17Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.academie-sciences.fr/themes/custom/academie_sciences/assets/favicon/apple-touch-icon.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.academie-sciences.fr",
+   "attributionUrl": "https://www.academie-sciences.fr",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-16T13:52:17Z"
+  }
+ ]
+}

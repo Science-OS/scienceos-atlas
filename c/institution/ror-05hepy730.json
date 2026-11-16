@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-05hepy730",
+ "ids": {
+  "wikidata": "Q349770",
+  "ror": "05hepy730"
+ },
+ "updatedAt": "2026-11-16T13:52:17Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http%3A%2F%2Fwww.nrcan.gc.ca%2Fhome&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "http://www.nrcan.gc.ca/home",
+   "confidence": 0.5,
+   "fetchedAt": "2026-11-16T13:52:17Z"
+  }
+ ]
+}

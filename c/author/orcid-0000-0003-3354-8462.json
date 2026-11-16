@@ -1,0 +1,30 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "orcid-0000-0003-3354-8462",
+ "ids": {
+  "orcid": "0000-0003-3354-8462",
+  "wikidata": "Q18619548",
+  "openalex": "A5016384155"
+ },
+ "updatedAt": "2026-11-16T13:52:17Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/88/88d53f0947296ad2d15b274b0a2953183c753517345d18717e91afcac6302c86.webp",
+   "hosted": true,
+   "sha256": "88d53f0947296ad2d15b274b0a2953183c753517345d18717e91afcac6302c86",
+   "mime": "image/webp",
+   "width": 135,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexander_Tuzhilin.JPG",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Jayanta Sen",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Alexander_Tuzhilin.JPG",
+   "confidence": 0.95,
+   "fetchedAt": "2026-11-16T13:52:17Z"
+  }
+ ]
+}

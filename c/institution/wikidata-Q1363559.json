@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1363559",
+ "ids": {
+  "wikidata": "Q1363559",
+  "ror": "03awzbc87"
+ },
+ "updatedAt": "2026-11-16T13:52:17Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/75/750612f58f055ddc727061dc5fddc215bf35b6c2aa856a3c400873c894f7da34.webp",
+   "hosted": true,
+   "sha256": "750612f58f055ddc727061dc5fddc215bf35b6c2aa856a3c400873c894f7da34",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 213,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/NEU_China%2C_old_logo_designed_by_Lin_Hui-Yin.jpg",
+   "license": "Public domain",
+   "attribution": "林徽因 (1904－1955)",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:NEU_China,_old_logo_designed_by_Lin_Hui-Yin.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-16T13:52:17Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1150105",
+ "ids": {
+  "wikidata": "Q1150105",
+  "ror": "020f3ap87"
+ },
+ "updatedAt": "2026-11-16T13:52:17Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d2/d2a5037a3b922a6e286f68c78bfaf4835bdb7e7803267115a7fd908b3ba8e4d1.webp",
+   "hosted": true,
+   "sha256": "d2a5037a3b922a6e286f68c78bfaf4835bdb7e7803267115a7fd908b3ba8e4d1",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 171,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/UT_Knoxville_logo_center.svg",
+   "license": "Public domain",
+   "attribution": "University of Tennessee at Knoxville",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:UT_Knoxville_logo_center.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-16T13:52:17Z"
+  }
+ ]
+}

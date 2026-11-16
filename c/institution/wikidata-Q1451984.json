@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1451984",
+ "ids": {
+  "wikidata": "Q1451984",
+  "ror": "01ak24c12"
+ },
+ "updatedAt": "2026-11-16T13:52:17Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.fit.fraunhofer.de/static/css/fraunhofer/resources/img/favicons/favicon.svg",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.fit.fraunhofer.de/en/",
+   "attributionUrl": "https://www.fit.fraunhofer.de/en/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-16T13:52:17Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q6079807",
+ "ids": {
+  "wikidata": "Q6079807",
+  "ror": "00af3sa43"
+ },
+ "updatedAt": "2026-11-16T13:52:17Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/bc/bc51eb08c4d43e6fc783cb541e26133b202576ee19771ed4bda66dab066114cb.webp",
+   "hosted": true,
+   "sha256": "bc51eb08c4d43e6fc783cb541e26133b202576ee19771ed4bda66dab066114cb",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Isfahan_University_of_Technology_%28seal%29.svg",
+   "license": "Public domain",
+   "attribution": "MrInfo2012 This W3C-unspecified vector image was created with Inkscape .",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Isfahan_University_of_Technology_(seal).svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-16T13:52:17Z"
+  }
+ ]
+}

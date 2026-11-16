@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q537526",
+ "ids": {
+  "wikidata": "Q537526",
+  "ror": "000hdh770"
+ },
+ "updatedAt": "2026-11-16T13:52:17Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.du.se/Static/images/icons-sv/apple-touch-icon-200x200.png?v=sv-v2",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.du.se",
+   "attributionUrl": "https://www.du.se",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-16T13:52:17Z"
+  }
+ ]
+}

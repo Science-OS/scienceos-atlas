@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02arnxw97",
+ "ids": {
+  "wikidata": "Q286744",
+  "ror": "02arnxw97"
+ },
+ "updatedAt": "2026-11-16T13:52:17Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/5c/5c740229ccbebc2d4fbde17876e7861739177ed7fb1a00f95e7b76e03af0f51c.webp",
+   "hosted": true,
+   "sha256": "5c740229ccbebc2d4fbde17876e7861739177ed7fb1a00f95e7b76e03af0f51c",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 128,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Universidad_de_Monterrey_%28logotipo%29.png",
+   "license": "Public domain",
+   "attribution": "R2 Jiménez",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Universidad_de_Monterrey_(logotipo).png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-16T13:52:17Z"
+  }
+ ]
+}

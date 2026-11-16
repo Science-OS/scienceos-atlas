@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04ybnj478",
+ "ids": {
+  "wikidata": "Q12719866",
+  "ror": "04ybnj478"
+ },
+ "updatedAt": "2026-11-16T13:52:17Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e8/e8d78042161d73c3ded8a5c80c3c4e50611e803a92a82eae19ff5bbb96b4ecec.webp",
+   "hosted": true,
+   "sha256": "e8d78042161d73c3ded8a5c80c3c4e50611e803a92a82eae19ff5bbb96b4ecec",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 252,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_of_the_Romanian_Academy_of_Sciences.jpg",
+   "license": "Public domain",
+   "attribution": "logo author unknown",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_of_the_Romanian_Academy_of_Sciences.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-16T13:52:17Z"
+  }
+ ]
+}

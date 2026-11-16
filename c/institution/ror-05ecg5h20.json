@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-05ecg5h20",
+ "ids": {
+  "wikidata": "Q20112014",
+  "ror": "05ecg5h20"
+ },
+ "updatedAt": "2026-11-16T13:52:17Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/6b/6b1c621f0765815df28ed410081e55876fbfd0b12ed159f280f2d6fee31d2aee.webp",
+   "hosted": true,
+   "sha256": "6b1c621f0765815df28ed410081e55876fbfd0b12ed159f280f2d6fee31d2aee",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 171,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_of_USN.svg",
+   "license": "Public domain",
+   "attribution": "University of South-Eastern Norway",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_of_USN.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-16T13:52:17Z"
+  }
+ ]
+}

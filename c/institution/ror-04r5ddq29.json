@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04r5ddq29",
+ "ids": {
+  "wikidata": "Q1702850",
+  "ror": "04r5ddq29"
+ },
+ "updatedAt": "2026-11-16T13:52:17Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.epita.fr/wp-content/uploads/2026/07/favicon-300x300.webp",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of http://www.epita.fr/international/",
+   "attributionUrl": "http://www.epita.fr/international/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-16T13:52:17Z"
+  }
+ ]
+}

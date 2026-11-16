@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q2494398",
+ "ids": {
+  "wikidata": "Q2494398",
+  "ror": "05mxhda18"
+ },
+ "updatedAt": "2026-11-16T13:52:17Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.uk-koeln.de/_assets/f44580bd4e41956b76fbcd89cd0a4dc1/Images/favicon/android-chrome-192x192.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.uk-koeln.de/",
+   "attributionUrl": "https://www.uk-koeln.de/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-16T13:52:17Z"
+  }
+ ]
+}

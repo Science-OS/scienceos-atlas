@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.16439",
+ "ids": {
+  "arxiv": "2611.16439"
+ },
+ "updatedAt": "2026-11-16T13:52:17Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/79/794917fb38dbd2740639d6d6aba128b7837ca7c4a8f3ae413c0672f62ad25d5d.jpg",
+   "hosted": true,
+   "sha256": "794917fb38dbd2740639d6d6aba128b7837ca7c4a8f3ae413c0672f62ad25d5d",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.16439",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Shuai Yang et al., arXiv:2611.16439",
+   "attributionUrl": "https://arxiv.org/abs/2611.16439",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-16T13:52:17Z"
+  }
+ ]
+}

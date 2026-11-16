@@ -1,0 +1,30 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "wikidata-Q65131635",
+ "ids": {
+  "orcid": "0000-0002-2058-0693",
+  "wikidata": "Q65131635",
+  "openalex": "A5101398712"
+ },
+ "updatedAt": "2026-11-16T13:52:17Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/4e/4ecbe4e869554295c5fa39f8644cf00834de27d7a6ec9f6637122c681d0a154e.webp",
+   "hosted": true,
+   "sha256": "4ecbe4e869554295c5fa39f8644cf00834de27d7a6ec9f6637122c681d0a154e",
+   "mime": "image/webp",
+   "width": 167,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%89ric_Moulines_-_2019_%28cropped%29.jpg",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "attribution": "Jérémy Barande",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:%C3%89ric_Moulines_-_2019_(cropped).jpg",
+   "confidence": 0.95,
+   "fetchedAt": "2026-11-16T13:52:17Z"
+  }
+ ]
+}

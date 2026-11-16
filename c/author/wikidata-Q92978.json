@@ -1,0 +1,30 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "wikidata-Q92978",
+ "ids": {
+  "orcid": "0000-0002-1929-2512",
+  "wikidata": "Q92978",
+  "openalex": "A5055710645"
+ },
+ "updatedAt": "2026-11-16T13:52:17Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/a8/a8d3214c8cc9cf434cd858154a6b3f9f11f1c6fc2dce721f90b7cde07669ceb8.webp",
+   "hosted": true,
+   "sha256": "a8d3214c8cc9cf434cd858154a6b3f9f11f1c6fc2dce721f90b7cde07669ceb8",
+   "mime": "image/webp",
+   "width": 239,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jon_Kleinberg.jpg",
+   "license": "CC BY-SA 2.0 de",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+   "attribution": "Gert-Martin Greuel, Copyright is MFO",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Jon_Kleinberg.jpg",
+   "confidence": 0.95,
+   "fetchedAt": "2026-11-16T13:52:17Z"
+  }
+ ]
+}
