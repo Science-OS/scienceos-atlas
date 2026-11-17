@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.18511",
+ "ids": {
+  "arxiv": "2611.18511"
+ },
+ "updatedAt": "2026-11-17T14:44:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/22/2272342e252fa8d781802e4dfd586ab4d6ccf53a33436312c367cc5b877caa93.jpg",
+   "hosted": true,
+   "sha256": "2272342e252fa8d781802e4dfd586ab4d6ccf53a33436312c367cc5b877caa93",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.18511",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Brandon Amos, arXiv:2611.18511",
+   "attributionUrl": "https://arxiv.org/abs/2611.18511",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-17T14:44:29Z"
+  }
+ ]
+}

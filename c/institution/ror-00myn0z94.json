@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-00myn0z94",
+ "ids": {
+  "wikidata": "Q3152091",
+  "ror": "00myn0z94"
+ },
+ "updatedAt": "2026-11-17T14:44:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.irisa.fr&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "https://www.irisa.fr",
+   "confidence": 0.5,
+   "fetchedAt": "2026-11-17T14:44:29Z"
+  }
+ ]
+}

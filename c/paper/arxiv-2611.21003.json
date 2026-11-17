@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.21003",
+ "ids": {
+  "arxiv": "2611.21003"
+ },
+ "updatedAt": "2026-11-17T14:44:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/68/686ad51eed1031547bb33be81fdd703bbdf187a131506c2f43152003f19b5ff4.jpg",
+   "hosted": true,
+   "sha256": "686ad51eed1031547bb33be81fdd703bbdf187a131506c2f43152003f19b5ff4",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.21003",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "K2 Team et al., arXiv:2611.21003",
+   "attributionUrl": "https://arxiv.org/abs/2611.21003",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-17T14:44:29Z"
+  }
+ ]
+}

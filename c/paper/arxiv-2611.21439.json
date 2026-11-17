@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.21439",
+ "ids": {
+  "arxiv": "2611.21439"
+ },
+ "updatedAt": "2026-11-17T14:44:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/4e/4e20a9e85437fb00d55fd77651934129fd4be1b1ed37231b182b15018caa2c7c.jpg",
+   "hosted": true,
+   "sha256": "4e20a9e85437fb00d55fd77651934129fd4be1b1ed37231b182b15018caa2c7c",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.21439",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Jacky Kumar, arXiv:2611.21439",
+   "attributionUrl": "https://arxiv.org/abs/2611.21439",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-17T14:44:29Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.18476",
+ "ids": {
+  "arxiv": "2611.18476"
+ },
+ "updatedAt": "2026-11-17T14:44:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/11/11d7562ad3de892fedb285f0f0bf7f01528254cc686400cc671fd012ced80898.jpg",
+   "hosted": true,
+   "sha256": "11d7562ad3de892fedb285f0f0bf7f01528254cc686400cc671fd012ced80898",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.18476",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Jiayu Fu et al., arXiv:2611.18476",
+   "attributionUrl": "https://arxiv.org/abs/2611.18476",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-17T14:44:29Z"
+  }
+ ]
+}

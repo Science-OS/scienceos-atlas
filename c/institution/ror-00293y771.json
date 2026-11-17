@@ -1,0 +1,21 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-00293y771",
+ "ids": {
+  "ror": "00293y771"
+ },
+ "updatedAt": "2026-11-17T14:44:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.sendai-nct.ac.jp/wp/wp-content/uploads/2024/02/cropped-favicon-192x192.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of http://www.sendai-nct.ac.jp/english/",
+   "attributionUrl": "http://www.sendai-nct.ac.jp/english/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-17T14:44:29Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.17780",
+ "ids": {
+  "arxiv": "2611.17780"
+ },
+ "updatedAt": "2026-11-17T14:44:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/44/440ef989088f0c7bdc349dcd5a45134771a4d4d9b59b37cf8440a469eaceb711.jpg",
+   "hosted": true,
+   "sha256": "440ef989088f0c7bdc349dcd5a45134771a4d4d9b59b37cf8440a469eaceb711",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.17780",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Ibrahim Memon et al., arXiv:2611.17780",
+   "attributionUrl": "https://arxiv.org/abs/2611.17780",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-17T14:44:29Z"
+  }
+ ]
+}

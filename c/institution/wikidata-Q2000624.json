@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q2000624",
+ "ids": {
+  "wikidata": "Q2000624",
+  "ror": "05h1bnb22"
+ },
+ "updatedAt": "2026-11-17T14:44:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/52/5294d62ae705c1e75c7d8126005e78b5864182662f302917d6131fcdc5b57add.webp",
+   "hosted": true,
+   "sha256": "5294d62ae705c1e75c7d8126005e78b5864182662f302917d6131fcdc5b57add",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 29,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/North_Dakota_State_University_wordmark.svg",
+   "license": "Public domain",
+   "attribution": "North Dakota State University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:North_Dakota_State_University_wordmark.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-17T14:44:29Z"
+  }
+ ]
+}

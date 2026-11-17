@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.17768",
+ "ids": {
+  "arxiv": "2611.17768"
+ },
+ "updatedAt": "2026-11-17T14:44:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/7a/7a4a07f9c7bd4005038ea065ed6c67020738601856f8cc90f0355b8aa85efa2c.jpg",
+   "hosted": true,
+   "sha256": "7a4a07f9c7bd4005038ea065ed6c67020738601856f8cc90f0355b8aa85efa2c",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.17768",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Megan Wei et al., arXiv:2611.17768",
+   "attributionUrl": "https://arxiv.org/abs/2611.17768",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-17T14:44:29Z"
+  }
+ ]
+}

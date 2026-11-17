@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q157332",
+ "ids": {
+  "wikidata": "Q157332",
+  "ror": "04bwf3e34"
+ },
+ "updatedAt": "2026-11-17T14:44:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/60/60e0d75bf3577ee311af2919967e5794aa0a5284fb980400c05900ce7dae0e95.webp",
+   "hosted": true,
+   "sha256": "60e0d75bf3577ee311af2919967e5794aa0a5284fb980400c05900ce7dae0e95",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 77,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/German_Aerospace_Center_%28DLR%29_logo.svg",
+   "license": "Public domain",
+   "attribution": "German Aerospace Center",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:German_Aerospace_Center_(DLR)_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-17T14:44:29Z"
+  }
+ ]
+}

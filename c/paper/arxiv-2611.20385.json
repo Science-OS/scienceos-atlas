@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.20385",
+ "ids": {
+  "arxiv": "2611.20385"
+ },
+ "updatedAt": "2026-11-17T14:44:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/a1/a1ad61739bfb02920e14fe3f61fc863c076e2ff8e161e5ffe936c5ec2bf38d10.jpg",
+   "hosted": true,
+   "sha256": "a1ad61739bfb02920e14fe3f61fc863c076e2ff8e161e5ffe936c5ec2bf38d10",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.20385",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Emilio Ferrara, arXiv:2611.20385",
+   "attributionUrl": "https://arxiv.org/abs/2611.20385",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-17T14:44:29Z"
+  }
+ ]
+}

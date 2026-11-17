@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q621429",
+ "ids": {
+  "wikidata": "Q621429",
+  "ror": "00a4npp83"
+ },
+ "updatedAt": "2026-11-17T14:44:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ae/ae504691df673ab11e08136c7278bd1df6a05ac171467654db4ca4741a14741c.webp",
+   "hosted": true,
+   "sha256": "ae504691df673ab11e08136c7278bd1df6a05ac171467654db4ca4741a14741c",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 98,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dyson_logo.svg",
+   "license": "Public domain",
+   "attribution": "Dyson , Vectorized by Kyle the hacker",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Dyson_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-17T14:44:29Z"
+  }
+ ]
+}

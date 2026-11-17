@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.21486",
+ "ids": {
+  "arxiv": "2611.21486"
+ },
+ "updatedAt": "2026-11-17T14:44:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b0/b02b1534f686ea4af90bc2e05e7a905813a0bcb01142b99ecb2669323fa59366.jpg",
+   "hosted": true,
+   "sha256": "b02b1534f686ea4af90bc2e05e7a905813a0bcb01142b99ecb2669323fa59366",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.21486",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Hristo Papazov et al., arXiv:2611.21486",
+   "attributionUrl": "https://arxiv.org/abs/2611.21486",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-17T14:44:29Z"
+  }
+ ]
+}

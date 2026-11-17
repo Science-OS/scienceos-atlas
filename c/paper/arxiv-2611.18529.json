@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.18529",
+ "ids": {
+  "arxiv": "2611.18529"
+ },
+ "updatedAt": "2026-11-17T14:44:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/04/04b2071b2e32aeb5cbbb4b660633cec631950f9f8ff4ddd0e434c1b5ca43c7a1.jpg",
+   "hosted": true,
+   "sha256": "04b2071b2e32aeb5cbbb4b660633cec631950f9f8ff4ddd0e434c1b5ca43c7a1",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.18529",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Kyudan Jung et al., arXiv:2611.18529",
+   "attributionUrl": "https://arxiv.org/abs/2611.18529",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-17T14:44:29Z"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q51783269",
+ "ids": {
+  "wikidata": "Q51783269",
+  "ror": "02krdtz55"
+ },
+ "updatedAt": "2026-11-17T14:44:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/2b/2b3a0fbe2461468be8347685acc3b568ab09136c86255e0ff597e2c05c63d307.webp",
+   "hosted": true,
+   "sha256": "2b3a0fbe2461468be8347685acc3b568ab09136c86255e0ff597e2c05c63d307",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 182,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo-irif.png",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "IRIF",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo-irif.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-17T14:44:29Z"
+  }
+ ]
+}

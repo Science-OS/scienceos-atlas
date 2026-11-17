@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.17820",
+ "ids": {
+  "arxiv": "2611.17820"
+ },
+ "updatedAt": "2026-11-17T14:44:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c1/c14f5e85b7a5895169af3b6f86973daf8030ffe33aafa3693f95676aeb664ec1.jpg",
+   "hosted": true,
+   "sha256": "c14f5e85b7a5895169af3b6f86973daf8030ffe33aafa3693f95676aeb664ec1",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.17820",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Siddarth Srinivasan et al., arXiv:2611.17820",
+   "attributionUrl": "https://arxiv.org/abs/2611.17820",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-17T14:44:29Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.18358",
+ "ids": {
+  "arxiv": "2611.18358"
+ },
+ "updatedAt": "2026-11-17T14:44:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/3f/3f4455e7cd1cfb4ff01ae7ac39bb8e9a1289545ddf74b52f47a431c436b06ff2.jpg",
+   "hosted": true,
+   "sha256": "3f4455e7cd1cfb4ff01ae7ac39bb8e9a1289545ddf74b52f47a431c436b06ff2",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.18358",
+   "license": "CC0 1.0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0",
+   "attribution": "Emanuele Bellini, arXiv:2611.18358",
+   "attributionUrl": "https://arxiv.org/abs/2611.18358",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-17T14:44:29Z"
+  }
+ ]
+}

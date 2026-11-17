@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.21256",
+ "ids": {
+  "arxiv": "2611.21256"
+ },
+ "updatedAt": "2026-11-17T14:44:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c5/c59962fabe705e12a93bfe0e14df1f03f0b44ea1ab9830d4e487697d4b0f3c02.jpg",
+   "hosted": true,
+   "sha256": "c59962fabe705e12a93bfe0e14df1f03f0b44ea1ab9830d4e487697d4b0f3c02",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.21256",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Samuel Fiorini et al., arXiv:2611.21256",
+   "attributionUrl": "https://arxiv.org/abs/2611.21256",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-17T14:44:29Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04t2ss102",
+ "ids": {
+  "wikidata": "Q1637997",
+  "ror": "04t2ss102"
+ },
+ "updatedAt": "2026-11-17T14:44:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/7b/7b5128e6fb78444cb10b68692afab859c2b8063cbbe29dbb79399eb1d00f1b67.webp",
+   "hosted": true,
+   "sha256": "7b5128e6fb78444cb10b68692afab859c2b8063cbbe29dbb79399eb1d00f1b67",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 96,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Novosibirsk_State_University_Logo.svg",
+   "license": "Public domain",
+   "attribution": "Cookieman1.1.1",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Novosibirsk_State_University_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-17T14:44:29Z"
+  }
+ ]
+}

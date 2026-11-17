@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.18482",
+ "ids": {
+  "arxiv": "2611.18482"
+ },
+ "updatedAt": "2026-11-17T14:44:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/67/670701362119db3d815039b831640009687b6d364541a1105b68c0244af9c66d.jpg",
+   "hosted": true,
+   "sha256": "670701362119db3d815039b831640009687b6d364541a1105b68c0244af9c66d",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.18482",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Sicheng Feng et al., arXiv:2611.18482",
+   "attributionUrl": "https://arxiv.org/abs/2611.18482",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-17T14:44:29Z"
+  }
+ ]
+}

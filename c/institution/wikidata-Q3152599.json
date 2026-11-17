@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q3152599",
+ "ids": {
+  "wikidata": "Q3152599",
+  "ror": "01s3fs709"
+ },
+ "updatedAt": "2026-11-17T14:44:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.institut-agro-rennes-angers.fr/sites/www.institut-agro-rennes-angers.fr/files/favicons/apple-touch-icon.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.institut-agro-rennes-angers.fr",
+   "attributionUrl": "https://www.institut-agro-rennes-angers.fr",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-17T14:44:29Z"
+  }
+ ]
+}

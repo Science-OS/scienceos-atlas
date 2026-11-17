@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q651233",
+ "ids": {
+  "wikidata": "Q651233",
+  "ror": "035t8zc32"
+ },
+ "updatedAt": "2026-11-17T14:44:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/22/225556dfe8f5b9e37c5cbeec7560ea0125e4272931f265074f633559ca3a20bf.webp",
+   "hosted": true,
+   "sha256": "225556dfe8f5b9e37c5cbeec7560ea0125e4272931f265074f633559ca3a20bf",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 64,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Osaka_logo%2C_A.svg",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "attribution": "大阪大学企画部広報課 大阪大学広報・ブランド戦略本部",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Osaka_logo,_A.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-17T14:44:29Z"
+  }
+ ]
+}

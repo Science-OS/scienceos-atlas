@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02fz07e24",
+ "ids": {
+  "wikidata": "Q11073798",
+  "ror": "02fz07e24"
+ },
+ "updatedAt": "2026-11-17T14:44:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/77/77401b642d1ac9c6e1dc515c83d286d7bb41c0b5fa48536809048a25f08514b4.webp",
+   "hosted": true,
+   "sha256": "77401b642d1ac9c6e1dc515c83d286d7bb41c0b5fa48536809048a25f08514b4",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Aier_Eye_Hospital.png",
+   "license": "Public domain",
+   "attribution": "Aier Eye Hospital",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Aier_Eye_Hospital.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-17T14:44:29Z"
+  }
+ ]
+}

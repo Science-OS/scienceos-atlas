@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03qjp1d79",
+ "ids": {
+  "wikidata": "Q1290544",
+  "ror": "03qjp1d79"
+ },
+ "updatedAt": "2026-11-17T14:44:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.hereon.de/favicon-196x196.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.hereon.de/",
+   "attributionUrl": "https://www.hereon.de/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-17T14:44:29Z"
+  }
+ ]
+}

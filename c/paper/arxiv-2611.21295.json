@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.21295",
+ "ids": {
+  "arxiv": "2611.21295"
+ },
+ "updatedAt": "2026-11-17T14:44:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ff/fff0ddd2790db5eb3e4a12c6f8afc71ebeb0dffd4118e840b6d924b1c6ff3dc0.jpg",
+   "hosted": true,
+   "sha256": "fff0ddd2790db5eb3e4a12c6f8afc71ebeb0dffd4118e840b6d924b1c6ff3dc0",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.21295",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Masanori Hanada, arXiv:2611.21295",
+   "attributionUrl": "https://arxiv.org/abs/2611.21295",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-17T14:44:29Z"
+  }
+ ]
+}

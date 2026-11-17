@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.21254",
+ "ids": {
+  "arxiv": "2611.21254"
+ },
+ "updatedAt": "2026-11-17T14:44:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c4/c4c22896491b632d93a1ad13287c74d65da72024e796742c585738c8e1bb221a.jpg",
+   "hosted": true,
+   "sha256": "c4c22896491b632d93a1ad13287c74d65da72024e796742c585738c8e1bb221a",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.21254",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Chen Cheng, arXiv:2611.21254",
+   "attributionUrl": "https://arxiv.org/abs/2611.21254",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-17T14:44:29Z"
+  }
+ ]
+}

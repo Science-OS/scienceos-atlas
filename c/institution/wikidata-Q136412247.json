@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q136412247",
+ "ids": {
+  "wikidata": "Q136412247",
+  "ror": "041vevk40"
+ },
+ "updatedAt": "2026-11-17T14:44:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b2/b22bedbe32183d9d71584959bb4e4dd8fc061202bca8d3c8b89887c65a98a627.webp",
+   "hosted": true,
+   "sha256": "b22bedbe32183d9d71584959bb4e4dd8fc061202bca8d3c8b89887c65a98a627",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 32,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Aumovio_Logo_2025.svg",
+   "license": "Public domain",
+   "attribution": "Aumovio SE",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Aumovio_Logo_2025.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-17T14:44:29Z"
+  }
+ ]
+}

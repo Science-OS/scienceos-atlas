@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.21175",
+ "ids": {
+  "arxiv": "2611.21175"
+ },
+ "updatedAt": "2026-11-17T14:44:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ae/ae71e5755ae43bd58cad71771e11bb463797ddf2b7d4844e4e5395da52955dce.jpg",
+   "hosted": true,
+   "sha256": "ae71e5755ae43bd58cad71771e11bb463797ddf2b7d4844e4e5395da52955dce",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.21175",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Berkay Günes et al., arXiv:2611.21175",
+   "attributionUrl": "https://arxiv.org/abs/2611.21175",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-17T14:44:29Z"
+  }
+ ]
+}

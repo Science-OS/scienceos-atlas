@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q130965",
+ "ids": {
+  "wikidata": "Q130965",
+  "ror": "03qnxaf80"
+ },
+ "updatedAt": "2026-11-17T14:44:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/9a/9a05f3c268608c41fe4858b826f6fc6c4aecb676eda25e47592caaac99a50e46.webp",
+   "hosted": true,
+   "sha256": "9a05f3c268608c41fe4858b826f6fc6c4aecb676eda25e47592caaac99a50e46",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 68,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Fordham_University_logo_2025.png",
+   "license": "Public domain",
+   "attribution": "Fordham University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Fordham_University_logo_2025.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-17T14:44:29Z"
+  }
+ ]
+}

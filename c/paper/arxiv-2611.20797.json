@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.20797",
+ "ids": {
+  "arxiv": "2611.20797"
+ },
+ "updatedAt": "2026-11-17T14:44:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/34/34b9ccf2901fed531f2f49092e2d59ec77782402722089cb236b0270a278bb24.jpg",
+   "hosted": true,
+   "sha256": "34b9ccf2901fed531f2f49092e2d59ec77782402722089cb236b0270a278bb24",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.20797",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Subhransu S. Bhattacharjee et al., arXiv:2611.20797",
+   "attributionUrl": "https://arxiv.org/abs/2611.20797",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-17T14:44:29Z"
+  }
+ ]
+}

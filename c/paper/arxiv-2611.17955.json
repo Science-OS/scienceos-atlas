@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.17955",
+ "ids": {
+  "arxiv": "2611.17955"
+ },
+ "updatedAt": "2026-11-17T14:44:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c6/c61675323be23eb1dddd65689a7f88dc29e749c7f8a8811c5144b2897d0b58f9.jpg",
+   "hosted": true,
+   "sha256": "c61675323be23eb1dddd65689a7f88dc29e749c7f8a8811c5144b2897d0b58f9",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.17955",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Imene Kerboua et al., arXiv:2611.17955",
+   "attributionUrl": "https://arxiv.org/abs/2611.17955",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-17T14:44:29Z"
+  }
+ ]
+}

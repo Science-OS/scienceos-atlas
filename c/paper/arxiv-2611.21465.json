@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.21465",
+ "ids": {
+  "arxiv": "2611.21465"
+ },
+ "updatedAt": "2026-11-17T14:44:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ba/ba2fa93cb8dfdff0e71645eedb76fdb65e58482308e6f508e0542b5f06d507f8.jpg",
+   "hosted": true,
+   "sha256": "ba2fa93cb8dfdff0e71645eedb76fdb65e58482308e6f508e0542b5f06d507f8",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.21465",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Maxime Rochkoulets et al., arXiv:2611.21465",
+   "attributionUrl": "https://arxiv.org/abs/2611.21465",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-17T14:44:29Z"
+  }
+ ]
+}

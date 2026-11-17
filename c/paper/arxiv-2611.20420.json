@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.20420",
+ "ids": {
+  "arxiv": "2611.20420"
+ },
+ "updatedAt": "2026-11-17T14:44:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/0d/0d7831ed1a600ec2f3e37b6edbbb1ee3af96feec17f32cedd17f7061934582b0.jpg",
+   "hosted": true,
+   "sha256": "0d7831ed1a600ec2f3e37b6edbbb1ee3af96feec17f32cedd17f7061934582b0",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.20420",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Mahdi Nouraie et al., arXiv:2611.20420",
+   "attributionUrl": "https://arxiv.org/abs/2611.20420",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-17T14:44:29Z"
+  }
+ ]
+}

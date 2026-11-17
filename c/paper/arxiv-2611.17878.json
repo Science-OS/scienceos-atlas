@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.17878",
+ "ids": {
+  "arxiv": "2611.17878"
+ },
+ "updatedAt": "2026-11-17T14:44:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c8/c881110d4bf59d4c65ec3af498ddff475e671ae92d801b5444dd5d1ea9f648ad.jpg",
+   "hosted": true,
+   "sha256": "c881110d4bf59d4c65ec3af498ddff475e671ae92d801b5444dd5d1ea9f648ad",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.17878",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Kailai Sun et al., arXiv:2611.17878",
+   "attributionUrl": "https://arxiv.org/abs/2611.17878",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-17T14:44:29Z"
+  }
+ ]
+}

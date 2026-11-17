@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.13685",
+ "ids": {
+  "arxiv": "2611.13685"
+ },
+ "updatedAt": "2026-11-17T14:44:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ab/ab8d551dff325f0bc6533afbced750ca62e9f47bb4c46aae20ea18aaa476eb1d.jpg",
+   "hosted": true,
+   "sha256": "ab8d551dff325f0bc6533afbced750ca62e9f47bb4c46aae20ea18aaa476eb1d",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.13685",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Lin Long et al., arXiv:2611.13685",
+   "attributionUrl": "https://arxiv.org/abs/2611.13685",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-17T14:44:29Z"
+  }
+ ]
+}

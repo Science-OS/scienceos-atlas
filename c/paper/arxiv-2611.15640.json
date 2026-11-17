@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.15640",
+ "ids": {
+  "arxiv": "2611.15640"
+ },
+ "updatedAt": "2026-11-17T14:44:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/58/58e0fe9dc0e245b685095c1ea100749d6b0e1139a03eced22d22028915aed0ea.jpg",
+   "hosted": true,
+   "sha256": "58e0fe9dc0e245b685095c1ea100749d6b0e1139a03eced22d22028915aed0ea",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.15640",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Zhenqi He et al., arXiv:2611.15640",
+   "attributionUrl": "https://arxiv.org/abs/2611.15640",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-17T14:44:29Z"
+  }
+ ]
+}

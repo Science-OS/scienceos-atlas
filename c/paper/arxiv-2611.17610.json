@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.17610",
+ "ids": {
+  "arxiv": "2611.17610"
+ },
+ "updatedAt": "2026-11-17T14:44:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/97/9722551365fb22eacfb37ba74cd0e8d1955e7a5176aeb7be470b9d7eabc3b15b.jpg",
+   "hosted": true,
+   "sha256": "9722551365fb22eacfb37ba74cd0e8d1955e7a5176aeb7be470b9d7eabc3b15b",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.17610",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Seyed Mahmoud Sajjadi Mohammadabadi, arXiv:2611.17610",
+   "attributionUrl": "https://arxiv.org/abs/2611.17610",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-17T14:44:29Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q28840043",
+ "ids": {
+  "wikidata": "Q28840043",
+  "ror": "03ac4tk02"
+ },
+ "updatedAt": "2026-11-17T14:44:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/82/8281683eedcfe01196abbd24018243b84811314959b92d800376fa719fa15012.webp",
+   "hosted": true,
+   "sha256": "8281683eedcfe01196abbd24018243b84811314959b92d800376fa719fa15012",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 50,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kioxia.svg",
+   "license": "Public domain",
+   "attribution": "Kioxia",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Kioxia.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-17T14:44:29Z"
+  }
+ ]
+}

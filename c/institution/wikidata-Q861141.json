@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q861141",
+ "ids": {
+  "wikidata": "Q861141",
+  "ror": "00f2z7n96"
+ },
+ "updatedAt": "2026-11-17T14:44:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/1e/1ea447d0e6cdea97f348784be6dd5e9a69e852853845f29549170c70801855d2.webp",
+   "hosted": true,
+   "sha256": "1ea447d0e6cdea97f348784be6dd5e9a69e852853845f29549170c70801855d2",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rand_Corporation_logo.svg",
+   "license": "Public domain",
+   "attribution": "RAND Corporation",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Rand_Corporation_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-17T14:44:29Z"
+  }
+ ]
+}

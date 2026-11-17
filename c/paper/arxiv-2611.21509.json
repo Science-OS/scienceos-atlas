@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.21509",
+ "ids": {
+  "arxiv": "2611.21509"
+ },
+ "updatedAt": "2026-11-17T14:44:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/bb/bba34b940695ec5ee657f299bb4e82ab78b4ad54b4efc857e0761a03d894ab8f.jpg",
+   "hosted": true,
+   "sha256": "bba34b940695ec5ee657f299bb4e82ab78b4ad54b4efc857e0761a03d894ab8f",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.21509",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Ryan Lim, arXiv:2611.21509",
+   "attributionUrl": "https://arxiv.org/abs/2611.21509",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-17T14:44:29Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.18148",
+ "ids": {
+  "arxiv": "2611.18148"
+ },
+ "updatedAt": "2026-11-17T14:44:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/0d/0d74e08b6342ccd8c2e928e3c3e3ba5e879db0f95874590c5f64e62c3ddfb060.jpg",
+   "hosted": true,
+   "sha256": "0d74e08b6342ccd8c2e928e3c3e3ba5e879db0f95874590c5f64e62c3ddfb060",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.18148",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Konstantinos Dovelos, arXiv:2611.18148",
+   "attributionUrl": "https://arxiv.org/abs/2611.18148",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-17T14:44:29Z"
+  }
+ ]
+}
