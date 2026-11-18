@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q30274350",
+ "ids": {
+  "wikidata": "Q30274350",
+  "ror": "009frb846"
+ },
+ "updatedAt": "2026-11-18T14:23:17Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Feric.msh-lse.fr&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "https://eric.msh-lse.fr",
+   "confidence": 0.5,
+   "fetchedAt": "2026-11-18T14:23:17Z"
+  }
+ ]
+}

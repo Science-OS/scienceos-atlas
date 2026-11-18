@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.23149",
+ "ids": {
+  "arxiv": "2611.23149"
+ },
+ "updatedAt": "2026-11-18T14:23:17Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/4b/4b241cb6e911060146de5d599a94090efc29ca8945d07ea9959dfd796b3ff91f.jpg",
+   "hosted": true,
+   "sha256": "4b241cb6e911060146de5d599a94090efc29ca8945d07ea9959dfd796b3ff91f",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.23149",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Diana Laura Morales et al., arXiv:2611.23149",
+   "attributionUrl": "https://arxiv.org/abs/2611.23149",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-18T14:23:17Z"
+  }
+ ]
+}

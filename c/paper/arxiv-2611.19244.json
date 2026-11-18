@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.19244",
+ "ids": {
+  "arxiv": "2611.19244"
+ },
+ "updatedAt": "2026-11-18T14:23:17Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/3e/3e30ed6826a67122b663e92e15567e48ef117df54e0347ab6f67a7855934e264.jpg",
+   "hosted": true,
+   "sha256": "3e30ed6826a67122b663e92e15567e48ef117df54e0347ab6f67a7855934e264",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.19244",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Deyang Kong et al., arXiv:2611.19244",
+   "attributionUrl": "https://arxiv.org/abs/2611.19244",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-18T14:23:17Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.08977",
+ "ids": {
+  "arxiv": "2611.08977"
+ },
+ "updatedAt": "2026-11-18T14:23:17Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/98/98ca82d71638afa6b300faca5d2d436d955664c5be2ead2685474b30289a196f.jpg",
+   "hosted": true,
+   "sha256": "98ca82d71638afa6b300faca5d2d436d955664c5be2ead2685474b30289a196f",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.08977",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "William Xingxu Chen et al., arXiv:2611.08977",
+   "attributionUrl": "https://arxiv.org/abs/2611.08977",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-18T14:23:17Z"
+  }
+ ]
+}

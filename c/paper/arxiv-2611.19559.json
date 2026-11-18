@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.19559",
+ "ids": {
+  "arxiv": "2611.19559"
+ },
+ "updatedAt": "2026-11-18T14:23:17Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/40/40e93b78504c398be931dea2f636171008a2f4e922a12a98df8af058d23d3750.jpg",
+   "hosted": true,
+   "sha256": "40e93b78504c398be931dea2f636171008a2f4e922a12a98df8af058d23d3750",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.19559",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Chongyu Fan et al., arXiv:2611.19559",
+   "attributionUrl": "https://arxiv.org/abs/2611.19559",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-18T14:23:17Z"
+  }
+ ]
+}

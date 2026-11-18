@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q4041",
+ "ids": {
+  "wikidata": "Q4041",
+  "ror": "03rth4p18"
+ },
+ "updatedAt": "2026-11-18T14:23:17Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c9/c98b8560451bf8a5c9345a4608ab4ac3f8feadd200983fce8528372052ee8fa5.webp",
+   "hosted": true,
+   "sha256": "c98b8560451bf8a5c9345a4608ab4ac3f8feadd200983fce8528372052ee8fa5",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 136,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Universit%C3%A9_Lumi%C3%A8re_Lyon_2.svg",
+   "license": "Public domain",
+   "attribution": "Lumière University Lyon 2",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_Universit%C3%A9_Lumi%C3%A8re_Lyon_2.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-18T14:23:17Z"
+  }
+ ]
+}

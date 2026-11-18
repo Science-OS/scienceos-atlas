@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02j61yw88",
+ "ids": {
+  "wikidata": "Q667568",
+  "ror": "02j61yw88"
+ },
+ "updatedAt": "2026-11-18T14:23:17Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/88/88f6acfed6d177321c7e31174fc68cc4bb1e3d14bd0a851b2a6ac478644f5664.webp",
+   "hosted": true,
+   "sha256": "88f6acfed6d177321c7e31174fc68cc4bb1e3d14bd0a851b2a6ac478644f5664",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Aristotle_University_of_Thessaloniki_logo.svg",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "attribution": "Aristotle University of Thessaloniki",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Aristotle_University_of_Thessaloniki_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-18T14:23:17Z"
+  }
+ ]
+}

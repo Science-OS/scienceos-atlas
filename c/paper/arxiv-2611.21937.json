@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.21937",
+ "ids": {
+  "arxiv": "2611.21937"
+ },
+ "updatedAt": "2026-11-18T14:23:17Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/5a/5add4cfc5f5129532b2cd07dd2150d16428b111923f2723317dcccaf587a799c.jpg",
+   "hosted": true,
+   "sha256": "5add4cfc5f5129532b2cd07dd2150d16428b111923f2723317dcccaf587a799c",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.21937",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Alan Subedi et al., arXiv:2611.21937",
+   "attributionUrl": "https://arxiv.org/abs/2611.21937",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-18T14:23:17Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.23034",
+ "ids": {
+  "arxiv": "2611.23034"
+ },
+ "updatedAt": "2026-11-18T14:23:17Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/0f/0faf79c2a238a903b450bdf415d03ede2db06c3df0ae08a9e928c41c87cd8aea.jpg",
+   "hosted": true,
+   "sha256": "0faf79c2a238a903b450bdf415d03ede2db06c3df0ae08a9e928c41c87cd8aea",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.23034",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Nguyen Quang Trung et al., arXiv:2611.23034",
+   "attributionUrl": "https://arxiv.org/abs/2611.23034",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-18T14:23:17Z"
+  }
+ ]
+}

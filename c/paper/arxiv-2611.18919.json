@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.18919",
+ "ids": {
+  "arxiv": "2611.18919"
+ },
+ "updatedAt": "2026-11-18T14:23:17Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/db/dbe8b10da926e886fa18bddce293a889dbca5d69facbeb6c61ba45246c8a9b35.jpg",
+   "hosted": true,
+   "sha256": "dbe8b10da926e886fa18bddce293a889dbca5d69facbeb6c61ba45246c8a9b35",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.18919",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Achyuthan Unni Krishnan et al., arXiv:2611.18919",
+   "attributionUrl": "https://arxiv.org/abs/2611.18919",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-18T14:23:17Z"
+  }
+ ]
+}

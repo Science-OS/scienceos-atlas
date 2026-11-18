@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.20595",
+ "ids": {
+  "arxiv": "2611.20595"
+ },
+ "updatedAt": "2026-11-18T14:23:17Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/79/79253143ab7cda9361f0ef8eb45ce0cb6cd44684ec767e550bcf99cfc1027abb.jpg",
+   "hosted": true,
+   "sha256": "79253143ab7cda9361f0ef8eb45ce0cb6cd44684ec767e550bcf99cfc1027abb",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.20595",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Sajib Acharjee Dip et al., arXiv:2611.20595",
+   "attributionUrl": "https://arxiv.org/abs/2611.20595",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-18T14:23:17Z"
+  }
+ ]
+}

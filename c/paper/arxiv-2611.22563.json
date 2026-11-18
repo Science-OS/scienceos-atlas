@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.22563",
+ "ids": {
+  "arxiv": "2611.22563"
+ },
+ "updatedAt": "2026-11-18T14:23:17Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d6/d64a94033afae217cb8e813a73bd8f8253dc6d3033818bc7e280f79f6440d0fd.jpg",
+   "hosted": true,
+   "sha256": "d64a94033afae217cb8e813a73bd8f8253dc6d3033818bc7e280f79f6440d0fd",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.22563",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Oleg Pavlov et al., arXiv:2611.22563",
+   "attributionUrl": "https://arxiv.org/abs/2611.22563",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-18T14:23:17Z"
+  }
+ ]
+}

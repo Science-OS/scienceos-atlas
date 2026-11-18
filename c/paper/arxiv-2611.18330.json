@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.18330",
+ "ids": {
+  "arxiv": "2611.18330"
+ },
+ "updatedAt": "2026-11-18T14:23:17Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/6f/6f5e5fafcbcf3942f12cc44d78e23bf5221724d1587e4a3e356f37a2772490e1.jpg",
+   "hosted": true,
+   "sha256": "6f5e5fafcbcf3942f12cc44d78e23bf5221724d1587e4a3e356f37a2772490e1",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.18330",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Solano Amadori, arXiv:2611.18330",
+   "attributionUrl": "https://arxiv.org/abs/2611.18330",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-18T14:23:17Z"
+  }
+ ]
+}

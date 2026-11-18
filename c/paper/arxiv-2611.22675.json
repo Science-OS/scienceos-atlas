@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.22675",
+ "ids": {
+  "arxiv": "2611.22675"
+ },
+ "updatedAt": "2026-11-18T14:23:17Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/40/4031fddb8d6989136057a18c0c3264c00d45f5c7732bc507b3cda0acee04c7de.jpg",
+   "hosted": true,
+   "sha256": "4031fddb8d6989136057a18c0c3264c00d45f5c7732bc507b3cda0acee04c7de",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.22675",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Duy Nguyen, arXiv:2611.22675",
+   "attributionUrl": "https://arxiv.org/abs/2611.22675",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-18T14:23:17Z"
+  }
+ ]
+}

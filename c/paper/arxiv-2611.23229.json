@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.23229",
+ "ids": {
+  "arxiv": "2611.23229"
+ },
+ "updatedAt": "2026-11-18T14:23:17Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/a4/a4b604272cef225c1142e637ceffdd002d796b184cd16d5d7ac96486368830f7.jpg",
+   "hosted": true,
+   "sha256": "a4b604272cef225c1142e637ceffdd002d796b184cd16d5d7ac96486368830f7",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.23229",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Giannis Daras et al., arXiv:2611.23229",
+   "attributionUrl": "https://arxiv.org/abs/2611.23229",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-18T14:23:17Z"
+  }
+ ]
+}

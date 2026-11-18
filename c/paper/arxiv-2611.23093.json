@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.23093",
+ "ids": {
+  "arxiv": "2611.23093"
+ },
+ "updatedAt": "2026-11-18T14:23:17Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/f5/f5a331d25659950bf00016296c245998300bfc208be15c19c10ba89b2848b1fb.jpg",
+   "hosted": true,
+   "sha256": "f5a331d25659950bf00016296c245998300bfc208be15c19c10ba89b2848b1fb",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.23093",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Aritra Das et al., arXiv:2611.23093",
+   "attributionUrl": "https://arxiv.org/abs/2611.23093",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-18T14:23:17Z"
+  }
+ ]
+}

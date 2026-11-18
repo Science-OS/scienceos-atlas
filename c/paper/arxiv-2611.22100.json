@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.22100",
+ "ids": {
+  "arxiv": "2611.22100"
+ },
+ "updatedAt": "2026-11-18T14:23:17Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/16/1649f2f0807d1908e44530ab66bbdbb6adf2a0041bb0184314e83be42d64ddcb.jpg",
+   "hosted": true,
+   "sha256": "1649f2f0807d1908e44530ab66bbdbb6adf2a0041bb0184314e83be42d64ddcb",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.22100",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Christo Kurisummoottil Thomas, arXiv:2611.22100",
+   "attributionUrl": "https://arxiv.org/abs/2611.22100",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-18T14:23:17Z"
+  }
+ ]
+}

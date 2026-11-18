@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.22019",
+ "ids": {
+  "arxiv": "2611.22019"
+ },
+ "updatedAt": "2026-11-18T14:23:17Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/33/33586df503e877621927b223601cfaeba92a13f7b9d16f16d92f0b3cacc8a5ba.jpg",
+   "hosted": true,
+   "sha256": "33586df503e877621927b223601cfaeba92a13f7b9d16f16d92f0b3cacc8a5ba",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.22019",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Muhammed Fatih Balın, arXiv:2611.22019",
+   "attributionUrl": "https://arxiv.org/abs/2611.22019",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-18T14:23:17Z"
+  }
+ ]
+}

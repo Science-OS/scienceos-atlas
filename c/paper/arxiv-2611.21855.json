@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.21855",
+ "ids": {
+  "arxiv": "2611.21855"
+ },
+ "updatedAt": "2026-11-18T14:23:17Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/33/3307726084c661a4e4c0f0c55191e5b21e5519a928edeac8f333c0fdae8da083.jpg",
+   "hosted": true,
+   "sha256": "3307726084c661a4e4c0f0c55191e5b21e5519a928edeac8f333c0fdae8da083",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.21855",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Victor H. F. Francheto et al., arXiv:2611.21855",
+   "attributionUrl": "https://arxiv.org/abs/2611.21855",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-18T14:23:17Z"
+  }
+ ]
+}

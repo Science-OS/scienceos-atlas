@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.23208",
+ "ids": {
+  "arxiv": "2611.23208"
+ },
+ "updatedAt": "2026-11-18T14:23:17Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/98/98c8a5b802804ed9eeeda44a725d294914560c45a57e91f45f4362be4bd4dd6d.jpg",
+   "hosted": true,
+   "sha256": "98c8a5b802804ed9eeeda44a725d294914560c45a57e91f45f4362be4bd4dd6d",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.23208",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Aviv Yossef et al., arXiv:2611.23208",
+   "attributionUrl": "https://arxiv.org/abs/2611.23208",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-18T14:23:17Z"
+  }
+ ]
+}

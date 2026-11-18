@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1633859",
+ "ids": {
+  "wikidata": "Q1633859",
+  "ror": "050jn9y42"
+ },
+ "updatedAt": "2026-11-18T14:23:17Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/0e/0efd1d2a186d6076774ebf0cb617261a23356de4aee1942e58c24c92d8d3adcd.webp",
+   "hosted": true,
+   "sha256": "0efd1d2a186d6076774ebf0cb617261a23356de4aee1942e58c24c92d8d3adcd",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 74,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_INSA_Lyon_%282014%29.svg",
+   "license": "Public domain",
+   "attribution": "INSA",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_INSA_Lyon_(2014).svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-18T14:23:17Z"
+  }
+ ]
+}

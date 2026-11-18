@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01j903a45",
+ "ids": {
+  "wikidata": "Q1473796",
+  "ror": "01j903a45"
+ },
+ "updatedAt": "2026-11-18T14:23:17Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/42/420155a51bb8c1ac6d46a5e446570d0d3a79c5f469fdb6bfd212ea555ab474a2.webp",
+   "hosted": true,
+   "sha256": "420155a51bb8c1ac6d46a5e446570d0d3a79c5f469fdb6bfd212ea555ab474a2",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 183,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/UNF_Osprey_Statue.JPG",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "attribution": "The222",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:UNF_Osprey_Statue.JPG",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-18T14:23:17Z"
+  }
+ ]
+}

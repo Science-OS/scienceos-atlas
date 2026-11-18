@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02rmd1t30",
+ "ids": {
+  "wikidata": "Q538452",
+  "ror": "02rmd1t30"
+ },
+ "updatedAt": "2026-11-18T14:23:17Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/24/24e259c36af6735f2d9603656d9824f1a8afde17cf5f8a77d1e031de63236b1b.webp",
+   "hosted": true,
+   "sha256": "24e259c36af6735f2d9603656d9824f1a8afde17cf5f8a77d1e031de63236b1b",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 130,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Universitatea_Babes-Bolyai_UBB_2021.svg",
+   "license": "Public domain",
+   "attribution": "Universitatea Babeș-Bolyai",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_Universitatea_Babes-Bolyai_UBB_2021.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-18T14:23:17Z"
+  }
+ ]
+}

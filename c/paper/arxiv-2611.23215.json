@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.23215",
+ "ids": {
+  "arxiv": "2611.23215"
+ },
+ "updatedAt": "2026-11-18T14:23:17Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/a6/a683a1b07133c1d9a13b34f2231a6a1113f188151acc396746b03138a7c0166e.jpg",
+   "hosted": true,
+   "sha256": "a683a1b07133c1d9a13b34f2231a6a1113f188151acc396746b03138a7c0166e",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.23215",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Pranav Gupta et al., arXiv:2611.23215",
+   "attributionUrl": "https://arxiv.org/abs/2611.23215",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-18T14:23:17Z"
+  }
+ ]
+}

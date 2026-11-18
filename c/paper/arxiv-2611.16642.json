@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.16642",
+ "ids": {
+  "arxiv": "2611.16642"
+ },
+ "updatedAt": "2026-11-18T14:23:17Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/27/27fe7ff805fb0e06b9d7ec88bdadd927a17e75076d7b5d380c0b3c5ae9602c56.jpg",
+   "hosted": true,
+   "sha256": "27fe7ff805fb0e06b9d7ec88bdadd927a17e75076d7b5d380c0b3c5ae9602c56",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.16642",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "George Cazenavette et al., arXiv:2611.16642",
+   "attributionUrl": "https://arxiv.org/abs/2611.16642",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-18T14:23:17Z"
+  }
+ ]
+}

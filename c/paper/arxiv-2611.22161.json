@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.22161",
+ "ids": {
+  "arxiv": "2611.22161"
+ },
+ "updatedAt": "2026-11-18T14:23:17Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c7/c744dee3dd75d654469440043d371cb97dda2e1ac27f9f2f15403eeab0436c1f.jpg",
+   "hosted": true,
+   "sha256": "c744dee3dd75d654469440043d371cb97dda2e1ac27f9f2f15403eeab0436c1f",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.22161",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Sushant Mehta et al., arXiv:2611.22161",
+   "attributionUrl": "https://arxiv.org/abs/2611.22161",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-18T14:23:17Z"
+  }
+ ]
+}

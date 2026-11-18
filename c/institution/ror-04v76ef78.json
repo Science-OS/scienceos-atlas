@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04v76ef78",
+ "ids": {
+  "wikidata": "Q156737",
+  "ror": "04v76ef78"
+ },
+ "updatedAt": "2026-11-18T14:23:17Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.uni-kiel.de/_assets/301b85a34578de69188331f40130a52f/Images/Icons/cau-favicon.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.uni-kiel.de",
+   "attributionUrl": "https://www.uni-kiel.de",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-18T14:23:17Z"
+  }
+ ]
+}

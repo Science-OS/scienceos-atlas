@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.15671",
+ "ids": {
+  "arxiv": "2611.15671"
+ },
+ "updatedAt": "2026-11-18T14:23:17Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/35/358434d811a4a2d05eeb7ecf2d6c20684edc15bf016e99cb352b69e475d53930.jpg",
+   "hosted": true,
+   "sha256": "358434d811a4a2d05eeb7ecf2d6c20684edc15bf016e99cb352b69e475d53930",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.15671",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Aleks Blagojevich et al., arXiv:2611.15671",
+   "attributionUrl": "https://arxiv.org/abs/2611.15671",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-18T14:23:17Z"
+  }
+ ]
+}

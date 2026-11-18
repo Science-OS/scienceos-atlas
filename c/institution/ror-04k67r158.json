@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04k67r158",
+ "ids": {
+  "wikidata": "Q358594",
+  "ror": "04k67r158"
+ },
+ "updatedAt": "2026-11-18T14:23:17Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b5/b5ecacf140b01c7ead699d8fcba06e514e417b264e42a7fa45ee6464a22bc2d2.webp",
+   "hosted": true,
+   "sha256": "b5ecacf140b01c7ead699d8fcba06e514e417b264e42a7fa45ee6464a22bc2d2",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 64,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Collins_Aerospace_Logo.svg",
+   "license": "Public domain",
+   "attribution": "Great Brightstar",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Collins_Aerospace_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-18T14:23:17Z"
+  }
+ ]
+}

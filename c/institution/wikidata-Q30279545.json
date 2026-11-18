@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q30279545",
+ "ids": {
+  "wikidata": "Q30279545",
+  "ror": "03v8v5y65"
+ },
+ "updatedAt": "2026-11-18T14:23:17Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http%3A%2F%2Fwww.consorzio-cini.it%2Findex.php%2Fen%2F&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "http://www.consorzio-cini.it/index.php/en/",
+   "confidence": 0.5,
+   "fetchedAt": "2026-11-18T14:23:17Z"
+  }
+ ]
+}

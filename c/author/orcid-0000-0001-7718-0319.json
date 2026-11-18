@@ -1,0 +1,24 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "orcid-0000-0001-7718-0319",
+ "ids": {
+  "orcid": "0000-0001-7718-0319",
+  "wikidata": "Q56437436",
+  "openalex": "A5028239106",
+  "github": "aldro61"
+ },
+ "updatedAt": "2026-11-18T14:23:17Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://github.com/aldro61.png?size=256",
+   "hosted": false,
+   "source": "github",
+   "attribution": "GitHub profile @aldro61",
+   "attributionUrl": "https://github.com/aldro61",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-18T14:23:17Z"
+  }
+ ]
+}

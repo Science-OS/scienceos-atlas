@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-00pwgnh47",
+ "ids": {
+  "wikidata": "Q1912082",
+  "ror": "00pwgnh47"
+ },
+ "updatedAt": "2026-11-18T14:23:17Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http%3A%2F%2Fwww.mpikg.mpg.de%2Fen&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "http://www.mpikg.mpg.de/en",
+   "confidence": 0.5,
+   "fetchedAt": "2026-11-18T14:23:17Z"
+  }
+ ]
+}

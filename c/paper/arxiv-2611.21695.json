@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.21695",
+ "ids": {
+  "arxiv": "2611.21695"
+ },
+ "updatedAt": "2026-11-18T14:23:17Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/02/0258178d504a4c5e3cccd487f98e93a935bdcc799dafa96d5c3a49b0100110c5.jpg",
+   "hosted": true,
+   "sha256": "0258178d504a4c5e3cccd487f98e93a935bdcc799dafa96d5c3a49b0100110c5",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.21695",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "S M Zia Ur Rashid et al., arXiv:2611.21695",
+   "attributionUrl": "https://arxiv.org/abs/2611.21695",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-18T14:23:17Z"
+  }
+ ]
+}

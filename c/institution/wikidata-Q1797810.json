@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1797810",
+ "ids": {
+  "wikidata": "Q1797810",
+  "ror": "039t4wk02"
+ },
+ "updatedAt": "2026-11-18T14:23:17Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b0/b077e08b4e860250b5206a9984b5a2fe6b145e4bc30a428263b000d226949cfe.webp",
+   "hosted": true,
+   "sha256": "b077e08b4e860250b5206a9984b5a2fe6b145e4bc30a428263b000d226949cfe",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 157,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/L3S_neues_Logo.jpg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "ScienceMonitorEU",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:L3S_neues_Logo.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-18T14:23:17Z"
+  }
+ ]
+}

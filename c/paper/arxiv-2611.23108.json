@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.23108",
+ "ids": {
+  "arxiv": "2611.23108"
+ },
+ "updatedAt": "2026-11-18T14:23:17Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/42/428bcab3d80a0e4d97a360bcb2008a387ff641f70c1cf739162590d7573b9bf1.jpg",
+   "hosted": true,
+   "sha256": "428bcab3d80a0e4d97a360bcb2008a387ff641f70c1cf739162590d7573b9bf1",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.23108",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Ammar Ali, arXiv:2611.23108",
+   "attributionUrl": "https://arxiv.org/abs/2611.23108",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-18T14:23:17Z"
+  }
+ ]
+}

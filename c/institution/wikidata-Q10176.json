@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q10176",
+ "ids": {
+  "wikidata": "Q10176",
+  "ror": "01rk35k63"
+ },
+ "updatedAt": "2026-11-18T14:23:17Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.universite-lyon.fr/jsp_ifactory/images/favicon-196.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.universite-lyon.fr",
+   "attributionUrl": "https://www.universite-lyon.fr",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-18T14:23:17Z"
+  }
+ ]
+}

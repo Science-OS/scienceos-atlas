@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1193155",
+ "ids": {
+  "wikidata": "Q1193155",
+  "ror": "00jzwgz36"
+ },
+ "updatedAt": "2026-11-18T14:23:17Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/94/94a64fd5de7f543215a865daccf233bc61a31b1ebc7a96ec585ead58aec49211.webp",
+   "hosted": true,
+   "sha256": "94a64fd5de7f543215a865daccf233bc61a31b1ebc7a96ec585ead58aec49211",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 55,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ko%C3%A7_University_logo.svg",
+   "license": "Public domain",
+   "attribution": "Koç University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Ko%C3%A7_University_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-18T14:23:17Z"
+  }
+ ]
+}

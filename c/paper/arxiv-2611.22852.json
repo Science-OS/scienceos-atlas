@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.22852",
+ "ids": {
+  "arxiv": "2611.22852"
+ },
+ "updatedAt": "2026-11-18T14:23:17Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ae/ae9736d244a862b3ebf196a02441d5017534eedb51bcc931290264860ebc2514.jpg",
+   "hosted": true,
+   "sha256": "ae9736d244a862b3ebf196a02441d5017534eedb51bcc931290264860ebc2514",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.22852",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Aria Dadnavi et al., arXiv:2611.22852",
+   "attributionUrl": "https://arxiv.org/abs/2611.22852",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-18T14:23:17Z"
+  }
+ ]
+}

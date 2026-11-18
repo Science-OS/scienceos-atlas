@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.15348",
+ "ids": {
+  "arxiv": "2611.15348"
+ },
+ "updatedAt": "2026-11-18T14:23:17Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/0e/0e6555ff95bef3e991d38ebdd7630e5858f21d38f14c33f9925906f09a34ae91.jpg",
+   "hosted": true,
+   "sha256": "0e6555ff95bef3e991d38ebdd7630e5858f21d38f14c33f9925906f09a34ae91",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.15348",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Ivan Poddiakov et al., arXiv:2611.15348",
+   "attributionUrl": "https://arxiv.org/abs/2611.15348",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-18T14:23:17Z"
+  }
+ ]
+}

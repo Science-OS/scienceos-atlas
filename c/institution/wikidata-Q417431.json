@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q417431",
+ "ids": {
+  "wikidata": "Q417431",
+  "ror": "03471h083"
+ },
+ "updatedAt": "2026-11-18T14:23:17Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b2/b2956c355bf5d4da7fa23c3b658a277b3aba608f9b61e3131c2fc3df5d654e28.webp",
+   "hosted": true,
+   "sha256": "b2956c355bf5d4da7fa23c3b658a277b3aba608f9b61e3131c2fc3df5d654e28",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 73,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Aker_Solutions_Logo_2024.svg",
+   "license": "Public domain",
+   "attribution": "Aker Solutions ASA",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Aker_Solutions_Logo_2024.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-18T14:23:17Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.23216",
+ "ids": {
+  "arxiv": "2611.23216"
+ },
+ "updatedAt": "2026-11-18T14:23:17Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c4/c48cccb1323d2b9918414eea063b481d3570df20dab2b3f6caf7d456fbad2edd.jpg",
+   "hosted": true,
+   "sha256": "c48cccb1323d2b9918414eea063b481d3570df20dab2b3f6caf7d456fbad2edd",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.23216",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Yining Hua, arXiv:2611.23216",
+   "attributionUrl": "https://arxiv.org/abs/2611.23216",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-18T14:23:17Z"
+  }
+ ]
+}
