@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q2140778",
+ "ids": {
+  "wikidata": "Q2140778",
+  "ror": "00v4yb702"
+ },
+ "updatedAt": "2026-11-19T14:34:59Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/64/64b1958c209755929bebdfd9e0652d4812298ce209711e657055ba10e04da95a.webp",
+   "hosted": true,
+   "sha256": "64b1958c209755929bebdfd9e0652d4812298ce209711e657055ba10e04da95a",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 99,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/RIT_2018_logo_short_orange.svg",
+   "license": "Public domain",
+   "attribution": "Rochester Institute of Technology",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:RIT_2018_logo_short_orange.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-19T14:34:59Z"
+  }
+ ]
+}

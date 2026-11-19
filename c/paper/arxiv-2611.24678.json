@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.24678",
+ "ids": {
+  "arxiv": "2611.24678"
+ },
+ "updatedAt": "2026-11-19T14:34:59Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b8/b823ba14bd2c595ac6e3392463def9bafd63608bdabee33214d4d5f26bc450c9.jpg",
+   "hosted": true,
+   "sha256": "b823ba14bd2c595ac6e3392463def9bafd63608bdabee33214d4d5f26bc450c9",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.24678",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Eliane Briand et al., arXiv:2611.24678",
+   "attributionUrl": "https://arxiv.org/abs/2611.24678",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-19T14:34:59Z"
+  }
+ ]
+}

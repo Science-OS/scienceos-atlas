@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02thp0973",
+ "ids": {
+  "wikidata": "Q117720866",
+  "ror": "02thp0973"
+ },
+ "updatedAt": "2026-11-19T14:34:59Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://mitibm.mit.edu/wp-content/themes/ibm-mit/assets/favicon/apple-touch-icon-152x152.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://mitibm.mit.edu",
+   "attributionUrl": "https://mitibm.mit.edu",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-19T14:34:59Z"
+  }
+ ]
+}

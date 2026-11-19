@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04gndp242",
+ "ids": {
+  "wikidata": "Q899140",
+  "ror": "04gndp242"
+ },
+ "updatedAt": "2026-11-19T14:34:59Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/2c/2c4ecc69346bf72355f1360882547523b88c1ee0d06b619b6561c7d4af3eb2ab.webp",
+   "hosted": true,
+   "sha256": "2c4ecc69346bf72355f1360882547523b88c1ee0d06b619b6561c7d4af3eb2ab",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 37,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Genentech.svg",
+   "license": "Public domain",
+   "attribution": "Genentech",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Genentech.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-19T14:34:59Z"
+  }
+ ]
+}

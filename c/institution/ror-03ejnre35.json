@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03ejnre35",
+ "ids": {
+  "wikidata": "Q7042323",
+  "ror": "03ejnre35"
+ },
+ "updatedAt": "2026-11-19T14:34:59Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/56/5627778e1014d7a883468e9b76ba74bf727cd99a0538d6c0ebba6d3dbe71b135.webp",
+   "hosted": true,
+   "sha256": "5627778e1014d7a883468e9b76ba74bf727cd99a0538d6c0ebba6d3dbe71b135",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 238,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ni%C4%9Fde_%C3%96mer_Halisdemir_University_logo.svg",
+   "license": "Public domain",
+   "attribution": "Niğde Ömer Halisdemir University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Ni%C4%9Fde_%C3%96mer_Halisdemir_University_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-19T14:34:59Z"
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01akgs808",
+ "ids": {
+  "wikidata": "Q4315120",
+  "ror": "01akgs808"
+ },
+ "updatedAt": "2026-11-19T14:34:59Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http%3A%2F%2Fwww.ntu.edu.ua&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "http://www.ntu.edu.ua",
+   "confidence": 0.5,
+   "fetchedAt": "2026-11-19T14:34:59Z"
+  }
+ ]
+}

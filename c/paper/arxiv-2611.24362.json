@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.24362",
+ "ids": {
+  "arxiv": "2611.24362"
+ },
+ "updatedAt": "2026-11-19T14:34:59Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/3b/3b8e0b609241c9ebc9e42d93890fc0409774a29dd5317434d018fec2b9454eb5.jpg",
+   "hosted": true,
+   "sha256": "3b8e0b609241c9ebc9e42d93890fc0409774a29dd5317434d018fec2b9454eb5",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.24362",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Lipeng He et al., arXiv:2611.24362",
+   "attributionUrl": "https://arxiv.org/abs/2611.24362",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-19T14:34:59Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q200106",
+ "ids": {
+  "wikidata": "Q200106",
+  "ror": "05tf9r976"
+ },
+ "updatedAt": "2026-11-19T14:34:59Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/30/3096441e5b0a463f576c8377038ae81059dff5cc433b90c93d0b0d937bb8a14d.webp",
+   "hosted": true,
+   "sha256": "3096441e5b0a463f576c8377038ae81059dff5cc433b90c93d0b0d937bb8a14d",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 244,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/China_Emblem_PLA.svg",
+   "license": "Public domain",
+   "attribution": "Original uploader was Nicolau at zh.wikipedia",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:China_Emblem_PLA.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-19T14:34:59Z"
+  }
+ ]
+}

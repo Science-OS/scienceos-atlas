@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-05e9bn444",
+ "ids": {
+  "wikidata": "Q14426107",
+  "ror": "05e9bn444"
+ },
+ "updatedAt": "2026-11-19T14:34:59Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e1/e1106b00422f6e0db3044755ef8081c9200c95f0792f5e2a00c5561e090c7698.webp",
+   "hosted": true,
+   "sha256": "e1106b00422f6e0db3044755ef8081c9200c95f0792f5e2a00c5561e090c7698",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 95,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/ICMAT._InstitutoCienciasMatem%C3%A1ticas.svg",
+   "license": "Public domain",
+   "attribution": "Instituto de Ciencias Matemáticas",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:ICMAT._InstitutoCienciasMatem%C3%A1ticas.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-19T14:34:59Z"
+  }
+ ]
+}

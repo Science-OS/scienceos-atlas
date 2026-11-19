@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-00yjd3n13",
+ "ids": {
+  "wikidata": "Q471732",
+  "ror": "00yjd3n13"
+ },
+ "updatedAt": "2026-11-19T14:34:59Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/02/02295ae17a70dee7e7869079a8a4d831a33402e0a6573f23dbbc5df18c5239ca.webp",
+   "hosted": true,
+   "sha256": "02295ae17a70dee7e7869079a8a4d831a33402e0a6573f23dbbc5df18c5239ca",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 58,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/SNF_logo_Swiss_National_Science_Foundation.png",
+   "license": "Public domain",
+   "attribution": "Swiss National Science Foundation",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:SNF_logo_Swiss_National_Science_Foundation.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-19T14:34:59Z"
+  }
+ ]
+}

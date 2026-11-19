@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01wntqw50",
+ "ids": {
+  "wikidata": "Q1060621",
+  "ror": "01wntqw50"
+ },
+ "updatedAt": "2026-11-19T14:34:59Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/a9/a9148a9df287f2a07e9f8848f7ac8a0cafe586e8f44a2bdbcf654e3cb2563665.webp",
+   "hosted": true,
+   "sha256": "a9148a9df287f2a07e9f8848f7ac8a0cafe586e8f44a2bdbcf654e3cb2563665",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ankara_universitesi.png",
+   "license": "Public domain",
+   "attribution": "Ankara University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Ankara_universitesi.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-19T14:34:59Z"
+  }
+ ]
+}

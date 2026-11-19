@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02qz8b764",
+ "ids": {
+  "wikidata": "Q609768",
+  "ror": "02qz8b764"
+ },
+ "updatedAt": "2026-11-19T14:34:59Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.cshl.edu/nitropack_static/PIZqeXISbpCcnYALLoaLxzuciMmyBMGe/assets/images/optimized/rev-64246b0/www.cshl.edu/wp-content/themes/cshl-coresite/favicons/apple-touch-icon.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.cshl.edu",
+   "attributionUrl": "https://www.cshl.edu",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-19T14:34:59Z"
+  }
+ ]
+}

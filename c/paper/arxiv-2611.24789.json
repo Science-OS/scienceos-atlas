@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.24789",
+ "ids": {
+  "arxiv": "2611.24789"
+ },
+ "updatedAt": "2026-11-19T14:34:59Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/62/62b3390999db116539db43a34cdab368bbbe8d61b940a87eaa90b6bf33fd8166.jpg",
+   "hosted": true,
+   "sha256": "62b3390999db116539db43a34cdab368bbbe8d61b940a87eaa90b6bf33fd8166",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.24789",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Phuong Tuan Dat et al., arXiv:2611.24789",
+   "attributionUrl": "https://arxiv.org/abs/2611.24789",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-19T14:34:59Z"
+  }
+ ]
+}

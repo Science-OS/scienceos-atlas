@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.23753",
+ "ids": {
+  "arxiv": "2611.23753"
+ },
+ "updatedAt": "2026-11-19T14:34:59Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e6/e6e77b719d6d0302f5ca73e8e41e0df169cfc1c4edc67f8cb9ede174d3c7b36f.jpg",
+   "hosted": true,
+   "sha256": "e6e77b719d6d0302f5ca73e8e41e0df169cfc1c4edc67f8cb9ede174d3c7b36f",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.23753",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Ilia Karpov et al., arXiv:2611.23753",
+   "attributionUrl": "https://arxiv.org/abs/2611.23753",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-19T14:34:59Z"
+  }
+ ]
+}

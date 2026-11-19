@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.24869",
+ "ids": {
+  "arxiv": "2611.24869"
+ },
+ "updatedAt": "2026-11-19T14:34:59Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/98/98776a7e2399b9d7fc88fa96bb65a161468477cf24f088ad14b1ee4ca528d9fb.jpg",
+   "hosted": true,
+   "sha256": "98776a7e2399b9d7fc88fa96bb65a161468477cf24f088ad14b1ee4ca528d9fb",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.24869",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Mingliang Zhai et al., arXiv:2611.24869",
+   "attributionUrl": "https://arxiv.org/abs/2611.24869",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-19T14:34:59Z"
+  }
+ ]
+}

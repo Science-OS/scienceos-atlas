@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q868550",
+ "ids": {
+  "wikidata": "Q868550",
+  "ror": "00jjx8s55"
+ },
+ "updatedAt": "2026-11-19T14:34:59Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/6f/6f3a12c6c09ad82d5f60d4fde57f9cbb094f8146e3b86499ae50b074b21ba560.webp",
+   "hosted": true,
+   "sha256": "6f3a12c6c09ad82d5f60d4fde57f9cbb094f8146e3b86499ae50b074b21ba560",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/LOGO_CEA_ORIGINAL_2022.svg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Webmaster CEA",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:LOGO_CEA_ORIGINAL_2022.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-19T14:34:59Z"
+  }
+ ]
+}

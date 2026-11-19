@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01fv25t22",
+ "ids": {
+  "wikidata": "Q4393524",
+  "ror": "01fv25t22"
+ },
+ "updatedAt": "2026-11-19T14:34:59Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.cea.fr%2FPages%2Fle-cea%2Fles-centres-cea%2Fparis-saclay.aspx&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "https://www.cea.fr/Pages/le-cea/les-centres-cea/paris-saclay.aspx",
+   "confidence": 0.5,
+   "fetchedAt": "2026-11-19T14:34:59Z"
+  }
+ ]
+}

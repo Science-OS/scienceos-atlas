@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.24198",
+ "ids": {
+  "arxiv": "2611.24198"
+ },
+ "updatedAt": "2026-11-19T14:34:59Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ed/ed7a6a7493d247a0ee475b4379a76f7bf03f051647bf22e31b16c884b8e4809d.jpg",
+   "hosted": true,
+   "sha256": "ed7a6a7493d247a0ee475b4379a76f7bf03f051647bf22e31b16c884b8e4809d",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.24198",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Sergey S. Kuzin, arXiv:2611.24198",
+   "attributionUrl": "https://arxiv.org/abs/2611.24198",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-19T14:34:59Z"
+  }
+ ]
+}

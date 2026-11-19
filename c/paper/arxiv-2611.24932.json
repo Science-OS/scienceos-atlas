@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.24932",
+ "ids": {
+  "arxiv": "2611.24932"
+ },
+ "updatedAt": "2026-11-19T14:34:59Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/06/06f3394a073943390cff6c117d4d03363e6bf6f050e3289b1ff9ccc580afbfb0.jpg",
+   "hosted": true,
+   "sha256": "06f3394a073943390cff6c117d4d03363e6bf6f050e3289b1ff9ccc580afbfb0",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.24932",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Priyanka Sinha et al., arXiv:2611.24932",
+   "attributionUrl": "https://arxiv.org/abs/2611.24932",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-19T14:34:59Z"
+  }
+ ]
+}

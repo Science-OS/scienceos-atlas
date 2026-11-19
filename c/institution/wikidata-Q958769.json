@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q958769",
+ "ids": {
+  "wikidata": "Q958769",
+  "ror": "00je4t102"
+ },
+ "updatedAt": "2026-11-19T14:34:59Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/3f/3f734e629543efcf5fd269bb8c8db7fc5c492df3823d4b698939168b7f20c0e9.webp",
+   "hosted": true,
+   "sha256": "3f734e629543efcf5fd269bb8c8db7fc5c492df3823d4b698939168b7f20c0e9",
+   "mime": "image/webp",
+   "width": 214,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/National_Academy_of_Sciences_of_Ukraine.png",
+   "license": "Public domain",
+   "attribution": "https://uk.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:NAS_Ukraine_logo.png",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:National_Academy_of_Sciences_of_Ukraine.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-19T14:34:59Z"
+  }
+ ]
+}

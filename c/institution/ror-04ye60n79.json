@@ -1,0 +1,21 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04ye60n79",
+ "ids": {
+  "ror": "04ye60n79"
+ },
+ "updatedAt": "2026-11-19T14:34:59Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http%3A%2F%2Fwww.aau.edu.et%2Fchs%2Ftikur-anbessa-specialized-hospital%2Fbackground-of-tikur-anbessa-hospital%2F&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "http://www.aau.edu.et/chs/tikur-anbessa-specialized-hospital/background-of-tikur-anbessa-hospital/",
+   "confidence": 0.5,
+   "fetchedAt": "2026-11-19T14:34:59Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.19200",
+ "ids": {
+  "arxiv": "2611.19200"
+ },
+ "updatedAt": "2026-11-19T14:34:59Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/dc/dc518e0b1b73091423233296e4ab2f0664eec264ef9fbc94c38b8c980a66af99.jpg",
+   "hosted": true,
+   "sha256": "dc518e0b1b73091423233296e4ab2f0664eec264ef9fbc94c38b8c980a66af99",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.19200",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Yanjun Fu et al., arXiv:2611.19200",
+   "attributionUrl": "https://arxiv.org/abs/2611.19200",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-19T14:34:59Z"
+  }
+ ]
+}

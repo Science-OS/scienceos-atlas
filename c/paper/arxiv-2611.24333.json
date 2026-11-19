@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.24333",
+ "ids": {
+  "arxiv": "2611.24333"
+ },
+ "updatedAt": "2026-11-19T14:34:59Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/fc/fc4d263e7263923f54955dbf2c258be860ecc5ca7509cfd1ab41b0b3de509798.jpg",
+   "hosted": true,
+   "sha256": "fc4d263e7263923f54955dbf2c258be860ecc5ca7509cfd1ab41b0b3de509798",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.24333",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Rommel Rabongue Real et al., arXiv:2611.24333",
+   "attributionUrl": "https://arxiv.org/abs/2611.24333",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-19T14:34:59Z"
+  }
+ ]
+}

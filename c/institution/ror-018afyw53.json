@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-018afyw53",
+ "ids": {
+  "wikidata": "Q1485220",
+  "ror": "018afyw53"
+ },
+ "updatedAt": "2026-11-19T14:34:59Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/80/80a3537872b21c7d5d41104558b9388fac3618b054e7b706e09e25b13f445f03.webp",
+   "hosted": true,
+   "sha256": "80a3537872b21c7d5d41104558b9388fac3618b054e7b706e09e25b13f445f03",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 96,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/GESIS-Logo_2024.svg",
+   "license": "CC0",
+   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "attribution": "Propeller im Auftrag von GESIS",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:GESIS-Logo_2024.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-19T14:34:59Z"
+  }
+ ]
+}

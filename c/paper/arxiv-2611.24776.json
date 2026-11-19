@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.24776",
+ "ids": {
+  "arxiv": "2611.24776"
+ },
+ "updatedAt": "2026-11-19T14:34:59Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d7/d7d1fabe51bd5a8f53924d2755841f326a14d4e545b2d3c206f00c967da69d4e.jpg",
+   "hosted": true,
+   "sha256": "d7d1fabe51bd5a8f53924d2755841f326a14d4e545b2d3c206f00c967da69d4e",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.24776",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Ramani Duraiswami et al., arXiv:2611.24776",
+   "attributionUrl": "https://arxiv.org/abs/2611.24776",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-19T14:34:59Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02e16g702",
+ "ids": {
+  "wikidata": "Q1057199",
+  "ror": "02e16g702"
+ },
+ "updatedAt": "2026-11-19T14:34:59Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/28/28ede38503e0afe18a5228396f4cb8d7bed5ce5ca86c9d119883f6e0462a98aa.webp",
+   "hosted": true,
+   "sha256": "28ede38503e0afe18a5228396f4cb8d7bed5ce5ca86c9d119883f6e0462a98aa",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 71,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hokkaido_University_logo%2C_2.svg",
+   "license": "Public domain",
+   "attribution": "北海道大学",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Hokkaido_University_logo,_2.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-19T14:34:59Z"
+  }
+ ]
+}

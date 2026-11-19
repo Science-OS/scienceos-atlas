@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01ee25k38",
+ "ids": {
+  "wikidata": "Q130263208",
+  "ror": "01ee25k38"
+ },
+ "updatedAt": "2026-11-19T14:34:59Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/35/35bfb74c37bf6957c8d8da7a2c7f1e6759d2afd946fd46a129e4a84423f71ec3.webp",
+   "hosted": true,
+   "sha256": "35bfb74c37bf6957c8d8da7a2c7f1e6759d2afd946fd46a129e4a84423f71ec3",
+   "mime": "image/webp",
+   "width": 238,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/MiniMax.png",
+   "license": "Public domain",
+   "attribution": "MiniMax",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:MiniMax.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-19T14:34:59Z"
+  }
+ ]
+}

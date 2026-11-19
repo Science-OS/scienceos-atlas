@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.22673",
+ "ids": {
+  "arxiv": "2611.22673"
+ },
+ "updatedAt": "2026-11-19T14:34:59Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ea/ea456058fcefd3f0df0bd82850fb2a66ccc445f1d597280e86babdbbbe8663cd.jpg",
+   "hosted": true,
+   "sha256": "ea456058fcefd3f0df0bd82850fb2a66ccc445f1d597280e86babdbbbe8663cd",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.22673",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Do Xuan Long et al., arXiv:2611.22673",
+   "attributionUrl": "https://arxiv.org/abs/2611.22673",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-19T14:34:59Z"
+  }
+ ]
+}

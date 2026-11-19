@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.24857",
+ "ids": {
+  "arxiv": "2611.24857"
+ },
+ "updatedAt": "2026-11-19T14:34:59Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/64/6487edd00c34b5fb5bf08f11747ac4ac3f006f6001833adcfe6b703f24ea79d1.jpg",
+   "hosted": true,
+   "sha256": "6487edd00c34b5fb5bf08f11747ac4ac3f006f6001833adcfe6b703f24ea79d1",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.24857",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Robert Koprinkov et al., arXiv:2611.24857",
+   "attributionUrl": "https://arxiv.org/abs/2611.24857",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-19T14:34:59Z"
+  }
+ ]
+}

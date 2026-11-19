@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.24347",
+ "ids": {
+  "arxiv": "2611.24347"
+ },
+ "updatedAt": "2026-11-19T14:34:59Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/9b/9b4425844fe7afcd32a200c7e68109d8a60956df425043b1ba3878bb71c3b8a1.jpg",
+   "hosted": true,
+   "sha256": "9b4425844fe7afcd32a200c7e68109d8a60956df425043b1ba3878bb71c3b8a1",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.24347",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Marco Virgolin et al., arXiv:2611.24347",
+   "attributionUrl": "https://arxiv.org/abs/2611.24347",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-19T14:34:59Z"
+  }
+ ]
+}

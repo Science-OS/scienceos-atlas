@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.24408",
+ "ids": {
+  "arxiv": "2611.24408"
+ },
+ "updatedAt": "2026-11-19T14:34:59Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/19/19e76f9acb3d48fea2ab68c296e2733817ac7263062950619f7b56b6ab6e6d29.jpg",
+   "hosted": true,
+   "sha256": "19e76f9acb3d48fea2ab68c296e2733817ac7263062950619f7b56b6ab6e6d29",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.24408",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Chuang Wang et al., arXiv:2611.24408",
+   "attributionUrl": "https://arxiv.org/abs/2611.24408",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-19T14:34:59Z"
+  }
+ ]
+}

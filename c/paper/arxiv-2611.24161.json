@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.24161",
+ "ids": {
+  "arxiv": "2611.24161"
+ },
+ "updatedAt": "2026-11-19T14:34:59Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/7b/7b4d5563c32ea231355a7cb8159cdf901debc7558d920fdbea6b371e984624f9.jpg",
+   "hosted": true,
+   "sha256": "7b4d5563c32ea231355a7cb8159cdf901debc7558d920fdbea6b371e984624f9",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.24161",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Xiaoqian Shen et al., arXiv:2611.24161",
+   "attributionUrl": "https://arxiv.org/abs/2611.24161",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-19T14:34:59Z"
+  }
+ ]
+}

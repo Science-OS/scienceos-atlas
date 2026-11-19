@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.23825",
+ "ids": {
+  "arxiv": "2611.23825"
+ },
+ "updatedAt": "2026-11-19T14:34:59Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/35/35c9d0e5ed65435e2263ee101a1176965cd8768077f83620b144b77e251675ae.jpg",
+   "hosted": true,
+   "sha256": "35c9d0e5ed65435e2263ee101a1176965cd8768077f83620b144b77e251675ae",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.23825",
+   "license": "CC0 1.0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0",
+   "attribution": "Jiqing Wen et al., arXiv:2611.23825",
+   "attributionUrl": "https://arxiv.org/abs/2611.23825",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-19T14:34:59Z"
+  }
+ ]
+}

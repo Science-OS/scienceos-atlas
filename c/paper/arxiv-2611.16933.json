@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.16933",
+ "ids": {
+  "arxiv": "2611.16933"
+ },
+ "updatedAt": "2026-11-19T14:34:59Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/94/94a16b83c493811caff9c2d3609f36c99e2d264a071c9620fd916afcd358ce7f.jpg",
+   "hosted": true,
+   "sha256": "94a16b83c493811caff9c2d3609f36c99e2d264a071c9620fd916afcd358ce7f",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.16933",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Bagzhan Karl et al., arXiv:2611.16933",
+   "attributionUrl": "https://arxiv.org/abs/2611.16933",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-19T14:34:59Z"
+  }
+ ]
+}

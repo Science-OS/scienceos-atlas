@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.24778",
+ "ids": {
+  "arxiv": "2611.24778"
+ },
+ "updatedAt": "2026-11-19T14:34:59Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/fa/fabe8eaf26d3fb2520d287e0007c9d8fd86d0d3a0f84977bd28e5f1ddaccb1ec.jpg",
+   "hosted": true,
+   "sha256": "fabe8eaf26d3fb2520d287e0007c9d8fd86d0d3a0f84977bd28e5f1ddaccb1ec",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.24778",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Randall Balestriero et al., arXiv:2611.24778",
+   "attributionUrl": "https://arxiv.org/abs/2611.24778",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-19T14:34:59Z"
+  }
+ ]
+}

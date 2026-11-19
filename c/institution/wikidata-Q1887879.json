@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1887879",
+ "ids": {
+  "wikidata": "Q1887879",
+  "ror": "029m7xn54"
+ },
+ "updatedAt": "2026-11-19T14:34:59Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c7/c7d29581ba1da9a3cae72d15089c3f9bd9238e0c7785f88394f0e80b0cfe0870.webp",
+   "hosted": true,
+   "sha256": "c7d29581ba1da9a3cae72d15089c3f9bd9238e0c7785f88394f0e80b0cfe0870",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 57,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_San_Francisco_logo.svg",
+   "license": "Public domain",
+   "attribution": "University of San Francisco",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_San_Francisco_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-19T14:34:59Z"
+  }
+ ]
+}

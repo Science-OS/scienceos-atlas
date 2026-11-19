@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.23751",
+ "ids": {
+  "arxiv": "2611.23751"
+ },
+ "updatedAt": "2026-11-19T14:34:59Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/04/04a9c9a95c56b10ff9e9bb20c8829e2fb5a9aba01047590ccdd42d55003d28e7.jpg",
+   "hosted": true,
+   "sha256": "04a9c9a95c56b10ff9e9bb20c8829e2fb5a9aba01047590ccdd42d55003d28e7",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.23751",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Rui Li et al., arXiv:2611.23751",
+   "attributionUrl": "https://arxiv.org/abs/2611.23751",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-19T14:34:59Z"
+  }
+ ]
+}

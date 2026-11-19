@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q6973410",
+ "ids": {
+  "wikidata": "Q6973410",
+  "ror": "014j33z40"
+ },
+ "updatedAt": "2026-11-19T14:34:59Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http%3A%2F%2Fwww.nationalhospitalabuja.net%2F&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "http://www.nationalhospitalabuja.net/",
+   "confidence": 0.5,
+   "fetchedAt": "2026-11-19T14:34:59Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q3152227",
+ "ids": {
+  "wikidata": "Q3152227",
+  "ror": "05ghs6f64"
+ },
+ "updatedAt": "2026-11-19T14:34:59Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/76/76d5059b77fc2385f7ea443b4319d775f383d35a8db3810cf5f464bac88b6f89.webp",
+   "hosted": true,
+   "sha256": "76d5059b77fc2385f7ea443b4319d775f383d35a8db3810cf5f464bac88b6f89",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 59,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Montreal_Neurological_Institute_and_Hospital_logo.png",
+   "license": "Public domain",
+   "attribution": "Montreal Neurological Institute and Hospital",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Montreal_Neurological_Institute_and_Hospital_logo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-19T14:34:59Z"
+  }
+ ]
+}
