@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.22382",
+ "ids": {
+  "arxiv": "2611.22382"
+ },
+ "updatedAt": "2026-11-20T14:12:43Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/fe/fef2b4dbd15be29da4563e34ca983dd1e931441b00814f663740adec33ba106a.jpg",
+   "hosted": true,
+   "sha256": "fef2b4dbd15be29da4563e34ca983dd1e931441b00814f663740adec33ba106a",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.22382",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Prashant Khatri et al., arXiv:2611.22382",
+   "attributionUrl": "https://arxiv.org/abs/2611.22382",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-20T14:12:43Z"
+  }
+ ]
+}

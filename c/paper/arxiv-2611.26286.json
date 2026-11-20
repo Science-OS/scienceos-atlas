@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.26286",
+ "ids": {
+  "arxiv": "2611.26286"
+ },
+ "updatedAt": "2026-11-20T14:12:43Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ad/ada0fe43c7a3cb11d8d499a89458e5180ae1dafb0ea1be941b394816357c9ec4.jpg",
+   "hosted": true,
+   "sha256": "ada0fe43c7a3cb11d8d499a89458e5180ae1dafb0ea1be941b394816357c9ec4",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.26286",
+   "license": "CC0 1.0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0",
+   "attribution": "Ilya Gusev, arXiv:2611.26286",
+   "attributionUrl": "https://arxiv.org/abs/2611.26286",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-20T14:12:43Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-056tb7j80",
+ "ids": {
+  "wikidata": "Q1570489",
+  "ror": "056tb7j80"
+ },
+ "updatedAt": "2026-11-20T14:12:43Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/48/48a7f1b52a84280b039221984cad9d7c30a467ab073823e10df2b0d7a1746188.webp",
+   "hosted": true,
+   "sha256": "48a7f1b52a84280b039221984cad9d7c30a467ab073823e10df2b0d7a1746188",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 90,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Unc_univ_nac_cordoba_textlogo.png",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Unc_univ_nac_cordoba_textlogo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-20T14:12:43Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.26291",
+ "ids": {
+  "arxiv": "2611.26291"
+ },
+ "updatedAt": "2026-11-20T14:12:43Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/20/2010d6b804ce9af09dd52e13e8f0cbf799112157898a4aa87923f765501c69a3.jpg",
+   "hosted": true,
+   "sha256": "2010d6b804ce9af09dd52e13e8f0cbf799112157898a4aa87923f765501c69a3",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.26291",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Kevin Alberto Urquía Calderón et al., arXiv:2611.26291",
+   "attributionUrl": "https://arxiv.org/abs/2611.26291",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-20T14:12:43Z"
+  }
+ ]
+}

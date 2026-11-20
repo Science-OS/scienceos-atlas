@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q3152189",
+ "ids": {
+  "wikidata": "Q3152189",
+  "ror": "05neq8668"
+ },
+ "updatedAt": "2026-11-20T14:12:43Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/89/8961ffc1e1236c3a6b25cc5c2ccd10f74d79412691dcdf954da00d4157773ddf.webp",
+   "hosted": true,
+   "sha256": "8961ffc1e1236c3a6b25cc5c2ccd10f74d79412691dcdf954da00d4157773ddf",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_ISIR.png",
+   "license": "Public domain",
+   "attribution": "ISIR",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_ISIR.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-20T14:12:43Z"
+  }
+ ]
+}

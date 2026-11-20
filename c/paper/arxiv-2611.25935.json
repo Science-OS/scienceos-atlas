@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.25935",
+ "ids": {
+  "arxiv": "2611.25935"
+ },
+ "updatedAt": "2026-11-20T14:12:43Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/7d/7dca0d6bf5e8b0b43514ac1cba6854f0e2a3972aed6285255c394995d14aed51.jpg",
+   "hosted": true,
+   "sha256": "7dca0d6bf5e8b0b43514ac1cba6854f0e2a3972aed6285255c394995d14aed51",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.25935",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Andrii Yermakov et al., arXiv:2611.25935",
+   "attributionUrl": "https://arxiv.org/abs/2611.25935",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-20T14:12:43Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q3272013",
+ "ids": {
+  "wikidata": "Q3272013",
+  "ror": "05e74xb87"
+ },
+ "updatedAt": "2026-11-20T14:12:43Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/62/62054209828b55bc455053ca2cc5dd0e794d6c41f4a88328fc4eb780e139a16f.webp",
+   "hosted": true,
+   "sha256": "62054209828b55bc455053ca2cc5dd0e794d6c41f4a88328fc4eb780e139a16f",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 106,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/New_Jersey_IT_logo.svg",
+   "license": "Public domain",
+   "attribution": "New Jersey Institute of Technology",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:New_Jersey_IT_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-20T14:12:43Z"
+  }
+ ]
+}

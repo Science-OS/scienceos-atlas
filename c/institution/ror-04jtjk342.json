@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04jtjk342",
+ "ids": {
+  "wikidata": "Q5531916",
+  "ror": "04jtjk342"
+ },
+ "updatedAt": "2026-11-20T14:12:43Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e9/e948a0a02938b1d612ec8332164a7f191cf539fb7d5e7e1d22e6e7f7cf9a89d7.webp",
+   "hosted": true,
+   "sha256": "e948a0a02938b1d612ec8332164a7f191cf539fb7d5e7e1d22e6e7f7cf9a89d7",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 59,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/General_Fusion_Logo.svg",
+   "license": "Public domain",
+   "attribution": "General Fusion Inc.",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:General_Fusion_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-20T14:12:43Z"
+  }
+ ]
+}

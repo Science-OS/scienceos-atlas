@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.23779",
+ "ids": {
+  "arxiv": "2611.23779"
+ },
+ "updatedAt": "2026-11-20T14:12:43Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/58/58d1570d0b298f7760adf55b82b3598ea4252b341dc3cba875ae257108120881.jpg",
+   "hosted": true,
+   "sha256": "58d1570d0b298f7760adf55b82b3598ea4252b341dc3cba875ae257108120881",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.23779",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Pau Mateo-Bernadó et al., arXiv:2611.23779",
+   "attributionUrl": "https://arxiv.org/abs/2611.23779",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-20T14:12:43Z"
+  }
+ ]
+}

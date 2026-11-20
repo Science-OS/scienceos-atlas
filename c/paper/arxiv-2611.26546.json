@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.26546",
+ "ids": {
+  "arxiv": "2611.26546"
+ },
+ "updatedAt": "2026-11-20T14:12:43Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/7d/7d49db1094fcacd7a9efc7d65c91f0820761d43f977ef2e001e6cf383562e7b7.jpg",
+   "hosted": true,
+   "sha256": "7d49db1094fcacd7a9efc7d65c91f0820761d43f977ef2e001e6cf383562e7b7",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.26546",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Timothy Carlson et al., arXiv:2611.26546",
+   "attributionUrl": "https://arxiv.org/abs/2611.26546",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-20T14:12:43Z"
+  }
+ ]
+}

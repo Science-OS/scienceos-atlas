@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02hpadn98",
+ "ids": {
+  "wikidata": "Q24382",
+  "ror": "02hpadn98"
+ },
+ "updatedAt": "2026-11-20T14:12:43Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/97/97eb14d6e6b0b0863d2f69a7863814cde67d2b046a92476041a0f644ab0f3e87.webp",
+   "hosted": true,
+   "sha256": "97eb14d6e6b0b0863d2f69a7863814cde67d2b046a92476041a0f644ab0f3e87",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 61,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Universit%C3%A4t_Bielefeld_Logo.svg",
+   "license": "Public domain",
+   "attribution": "Universität Bielefeld",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Universit%C3%A4t_Bielefeld_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-20T14:12:43Z"
+  }
+ ]
+}

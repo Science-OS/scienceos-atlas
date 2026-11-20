@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.23835",
+ "ids": {
+  "arxiv": "2611.23835"
+ },
+ "updatedAt": "2026-11-20T14:12:43Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/8f/8f9107103bd0a8ff36e751740e5ccc366122644853e468a51865aed197a3ac94.jpg",
+   "hosted": true,
+   "sha256": "8f9107103bd0a8ff36e751740e5ccc366122644853e468a51865aed197a3ac94",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.23835",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Alagappan Valliappan et al., arXiv:2611.23835",
+   "attributionUrl": "https://arxiv.org/abs/2611.23835",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-20T14:12:43Z"
+  }
+ ]
+}

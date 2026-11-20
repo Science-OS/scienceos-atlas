@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04wx3x242",
+ "ids": {
+  "wikidata": "Q6765664",
+  "ror": "04wx3x242"
+ },
+ "updatedAt": "2026-11-20T14:12:43Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/82/82a6ec1c4bebc0703ff87f50a71aaacddf4dcf25423b1de5fa104272361012d4.webp",
+   "hosted": true,
+   "sha256": "82a6ec1c4bebc0703ff87f50a71aaacddf4dcf25423b1de5fa104272361012d4",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 50,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Marist_College_wordmark.svg",
+   "license": "Public domain",
+   "attribution": "Marist College",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Marist_College_wordmark.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-20T14:12:43Z"
+  }
+ ]
+}

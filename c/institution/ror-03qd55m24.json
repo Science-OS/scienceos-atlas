@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03qd55m24",
+ "ids": {
+  "wikidata": "Q30257160",
+  "ror": "03qd55m24"
+ },
+ "updatedAt": "2026-11-20T14:12:43Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fhvtc.edu.vn&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "https://hvtc.edu.vn",
+   "confidence": 0.5,
+   "fetchedAt": "2026-11-20T14:12:43Z"
+  }
+ ]
+}

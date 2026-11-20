@@ -1,0 +1,24 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "orcid-0000-0001-7741-7275",
+ "ids": {
+  "orcid": "0000-0001-7741-7275",
+  "wikidata": "Q111705680",
+  "openalex": "A5038723822",
+  "github": "joonson"
+ },
+ "updatedAt": "2026-11-20T14:12:43Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://github.com/joonson.png?size=256",
+   "hosted": false,
+   "source": "github",
+   "attribution": "GitHub profile @joonson",
+   "attributionUrl": "https://github.com/joonson",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-20T14:12:43Z"
+  }
+ ]
+}

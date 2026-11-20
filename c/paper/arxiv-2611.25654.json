@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.25654",
+ "ids": {
+  "arxiv": "2611.25654"
+ },
+ "updatedAt": "2026-11-20T14:12:43Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/8d/8da0bba67fb0117ee00fc8b58aea6214afb06fabdf107b1aba63e1a1482592e5.jpg",
+   "hosted": true,
+   "sha256": "8da0bba67fb0117ee00fc8b58aea6214afb06fabdf107b1aba63e1a1482592e5",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.25654",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Thom Badings et al., arXiv:2611.25654",
+   "attributionUrl": "https://arxiv.org/abs/2611.25654",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-20T14:12:43Z"
+  }
+ ]
+}

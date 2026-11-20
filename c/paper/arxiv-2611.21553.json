@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.21553",
+ "ids": {
+  "arxiv": "2611.21553"
+ },
+ "updatedAt": "2026-11-20T14:12:43Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ae/aeb6b5b6af2aa2108d5f13e98d82a63e0635061591485b2f4c5d3617c9c16d55.jpg",
+   "hosted": true,
+   "sha256": "aeb6b5b6af2aa2108d5f13e98d82a63e0635061591485b2f4c5d3617c9c16d55",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.21553",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Kanchana Ranasinghe et al., arXiv:2611.21553",
+   "attributionUrl": "https://arxiv.org/abs/2611.21553",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-20T14:12:43Z"
+  }
+ ]
+}

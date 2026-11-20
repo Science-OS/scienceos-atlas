@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q485908",
+ "ids": {
+  "wikidata": "Q485908",
+  "ror": "043n4tt17"
+ },
+ "updatedAt": "2026-11-20T14:12:43Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c0/c0861bd9488ad576bb845b26f1531468a52dd64a4fa04c096ada2c6a14a96aa3.webp",
+   "hosted": true,
+   "sha256": "c0861bd9488ad576bb845b26f1531468a52dd64a4fa04c096ada2c6a14a96aa3",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 209,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/KT_Corp_2D_logo.svg",
+   "license": "Public domain",
+   "attribution": "KT Corporation",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:KT_Corp_2D_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-20T14:12:43Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.26136",
+ "ids": {
+  "arxiv": "2611.26136"
+ },
+ "updatedAt": "2026-11-20T14:12:43Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/30/3003b7b48928fc14949c3ec5dd814104c61c2b505933ecb14fdde745c84b8722.jpg",
+   "hosted": true,
+   "sha256": "3003b7b48928fc14949c3ec5dd814104c61c2b505933ecb14fdde745c84b8722",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.26136",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "David Gulua et al., arXiv:2611.26136",
+   "attributionUrl": "https://arxiv.org/abs/2611.26136",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-20T14:12:43Z"
+  }
+ ]
+}

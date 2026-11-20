@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q106472973",
+ "ids": {
+  "wikidata": "Q106472973",
+  "ror": "046npx426"
+ },
+ "updatedAt": "2026-11-20T14:12:43Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://ntcup.ru/ntcup/wp-content/themes/ntcup_3_65_age/favicons/apple-touch-icon.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://ntcup.ru/en/home/",
+   "attributionUrl": "https://ntcup.ru/en/home/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-20T14:12:43Z"
+  }
+ ]
+}

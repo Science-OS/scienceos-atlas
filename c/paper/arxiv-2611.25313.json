@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.25313",
+ "ids": {
+  "arxiv": "2611.25313"
+ },
+ "updatedAt": "2026-11-20T14:12:43Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/85/854d20a418d05ba2753f063acdf43aa86cf5a4018ad9a3a44d1a2cc5f685727c.jpg",
+   "hosted": true,
+   "sha256": "854d20a418d05ba2753f063acdf43aa86cf5a4018ad9a3a44d1a2cc5f685727c",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.25313",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Leonardo Colombo et al., arXiv:2611.25313",
+   "attributionUrl": "https://arxiv.org/abs/2611.25313",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-20T14:12:43Z"
+  }
+ ]
+}

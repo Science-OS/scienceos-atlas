@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.21373",
+ "ids": {
+  "arxiv": "2611.21373"
+ },
+ "updatedAt": "2026-11-20T14:12:43Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/2c/2ced52c9af4eba13c368f8d61ad49d4b3a7d2ee4f507bb587402a98b2790441e.jpg",
+   "hosted": true,
+   "sha256": "2ced52c9af4eba13c368f8d61ad49d4b3a7d2ee4f507bb587402a98b2790441e",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.21373",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Yipeng Du et al., arXiv:2611.21373",
+   "attributionUrl": "https://arxiv.org/abs/2611.21373",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-20T14:12:43Z"
+  }
+ ]
+}

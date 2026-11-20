@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01hy4qx27",
+ "ids": {
+  "wikidata": "Q2495874",
+  "ror": "01hy4qx27"
+ },
+ "updatedAt": "2026-11-20T14:12:43Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/2c/2cd5dae34263f18946a5f6ee3b12024754cd25407627ab16eb00c2494b0fe5e2.webp",
+   "hosted": true,
+   "sha256": "2cd5dae34263f18946a5f6ee3b12024754cd25407627ab16eb00c2494b0fe5e2",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 29,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Minn_duluth_logo_motto.png",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Minn_duluth_logo_motto.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-20T14:12:43Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.26532",
+ "ids": {
+  "arxiv": "2611.26532"
+ },
+ "updatedAt": "2026-11-20T14:12:43Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/5c/5cfc890000fdbad482027857b639e334bc365977a7c8680ebf6bc0e1593a4a71.jpg",
+   "hosted": true,
+   "sha256": "5cfc890000fdbad482027857b639e334bc365977a7c8680ebf6bc0e1593a4a71",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.26532",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Roi Yozevitch et al., arXiv:2611.26532",
+   "attributionUrl": "https://arxiv.org/abs/2611.26532",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-20T14:12:43Z"
+  }
+ ]
+}

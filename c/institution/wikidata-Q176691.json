@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q176691",
+ "ids": {
+  "wikidata": "Q176691",
+  "ror": "05xpvk416"
+ },
+ "updatedAt": "2026-11-20T14:12:43Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e5/e56ed571b1b7a43bc46370f0a0f0c1e59ab8f657968305fafeeb0a154760a0dd.webp",
+   "hosted": true,
+   "sha256": "e56ed571b1b7a43bc46370f0a0f0c1e59ab8f657968305fafeeb0a154760a0dd",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 67,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/NIST_logo.svg",
+   "license": "Public domain",
+   "attribution": "Vectorization: Eyrian~commonswiki",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:NIST_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-20T14:12:43Z"
+  }
+ ]
+}

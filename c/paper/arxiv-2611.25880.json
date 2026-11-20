@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.25880",
+ "ids": {
+  "arxiv": "2611.25880"
+ },
+ "updatedAt": "2026-11-20T14:12:43Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/27/278ef73bf293479c82677070817cfad10897cfa8543599983750a2400e86cd6f.jpg",
+   "hosted": true,
+   "sha256": "278ef73bf293479c82677070817cfad10897cfa8543599983750a2400e86cd6f",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.25880",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Eduardo Dueñez et al., arXiv:2611.25880",
+   "attributionUrl": "https://arxiv.org/abs/2611.25880",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-20T14:12:43Z"
+  }
+ ]
+}

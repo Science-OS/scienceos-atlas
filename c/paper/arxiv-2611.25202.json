@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.25202",
+ "ids": {
+  "arxiv": "2611.25202"
+ },
+ "updatedAt": "2026-11-20T14:12:43Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/7c/7cf32df43490e256b05616d8024f2618c5b2dec93ad14d38a05eb2840dc1169a.jpg",
+   "hosted": true,
+   "sha256": "7cf32df43490e256b05616d8024f2618c5b2dec93ad14d38a05eb2840dc1169a",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.25202",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Anthony Longo, arXiv:2611.25202",
+   "attributionUrl": "https://arxiv.org/abs/2611.25202",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-20T14:12:43Z"
+  }
+ ]
+}
