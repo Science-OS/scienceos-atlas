@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q784171",
+ "ids": {
+  "wikidata": "Q784171",
+  "ror": "01tjs6929"
+ },
+ "updatedAt": "2026-11-21T13:37:22Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/51/51b3a1b83c0122e115191f0d5cdddd905c8cf0d5b69d6acfa9c49020c21a41f6.webp",
+   "hosted": true,
+   "sha256": "51b3a1b83c0122e115191f0d5cdddd905c8cf0d5b69d6acfa9c49020c21a41f6",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 120,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Unlp_marca_escudo.png",
+   "license": "CC BY 2.5",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Unlp_marca_escudo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-21T13:37:22Z"
+  }
+ ]
+}

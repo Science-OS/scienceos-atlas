@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q2867205",
+ "ids": {
+  "wikidata": "Q2867205",
+  "ror": "00pg5jh14"
+ },
+ "updatedAt": "2026-11-21T13:37:22Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d1/d1ecdb5400e7e4a4e291a26f0f46e734b0cd0b9ca5741ef3ab034da7aa080410.webp",
+   "hosted": true,
+   "sha256": "d1ecdb5400e7e4a4e291a26f0f46e734b0cd0b9ca5741ef3ab034da7aa080410",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 64,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/AP-HP_Logo.svg",
+   "license": "Public domain",
+   "attribution": "Assistance publique - Hôpitaux de Paris",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:AP-HP_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-21T13:37:22Z"
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q5665307",
+ "ids": {
+  "wikidata": "Q5665307",
+  "ror": "02g0s4z48"
+ },
+ "updatedAt": "2026-11-21T13:37:22Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.harrisburgu.edu/wp-content/uploads/favicon.svg",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.harrisburgu.edu",
+   "attributionUrl": "https://www.harrisburgu.edu",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-21T13:37:22Z"
+  }
+ ]
+}

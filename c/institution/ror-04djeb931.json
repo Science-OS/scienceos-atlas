@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04djeb931",
+ "ids": {
+  "wikidata": "Q107456840",
+  "ror": "04djeb931"
+ },
+ "updatedAt": "2026-11-21T13:37:22Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://tuwaiq.edu.sa/icon-192.png?v=MZ3cNPCLS5UUmVOIGRoD8IJAVHUKa1hxr61j3_WxJSM",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://tuwaiq.edu.sa",
+   "attributionUrl": "https://tuwaiq.edu.sa",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-21T13:37:22Z"
+  }
+ ]
+}

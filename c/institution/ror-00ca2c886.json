@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-00ca2c886",
+ "ids": {
+  "wikidata": "Q5918335",
+  "ror": "00ca2c886"
+ },
+ "updatedAt": "2026-11-21T13:37:22Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b4/b4e0f9a5a9970c923e69a7f883e322ff49a4c85cb028c17f14ffad6741d4d629.webp",
+   "hosted": true,
+   "sha256": "b4e0f9a5a9970c923e69a7f883e322ff49a4c85cb028c17f14ffad6741d4d629",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 89,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_ISCIII.svg",
+   "license": "CC0",
+   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "attribution": "Stoni",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_ISCIII.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-21T13:37:22Z"
+  }
+ ]
+}

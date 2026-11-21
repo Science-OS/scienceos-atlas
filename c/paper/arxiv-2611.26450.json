@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.26450",
+ "ids": {
+  "arxiv": "2611.26450"
+ },
+ "updatedAt": "2026-11-21T13:37:22Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ff/ff3fd3f82e491213a614605c2b48f77ecdfbe7cd2eb8639fd7a91042626e2520.jpg",
+   "hosted": true,
+   "sha256": "ff3fd3f82e491213a614605c2b48f77ecdfbe7cd2eb8639fd7a91042626e2520",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.26450",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Tanmay Sah, arXiv:2611.26450",
+   "attributionUrl": "https://arxiv.org/abs/2611.26450",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-21T13:37:22Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02grspc61",
+ "ids": {
+  "wikidata": "Q108943604",
+  "ror": "02grspc61"
+ },
+ "updatedAt": "2026-11-21T13:37:22Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/bf/bf995a825fe09f50b9a51f5d4727acd32b6b744a6dd95f0b998b7077125556ff.webp",
+   "hosted": true,
+   "sha256": "bf995a825fe09f50b9a51f5d4727acd32b6b744a6dd95f0b998b7077125556ff",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 68,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hf-logo-with-title.svg",
+   "license": "Public domain",
+   "attribution": "Victor (Hugging Face Staff)",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Hf-logo-with-title.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-21T13:37:22Z"
+  }
+ ]
+}

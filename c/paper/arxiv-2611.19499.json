@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.19499",
+ "ids": {
+  "arxiv": "2611.19499"
+ },
+ "updatedAt": "2026-11-21T13:37:22Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/07/0773cb1f7138d984393723feddb7fdf1f3283511a1062a81c5f652d62583538c.jpg",
+   "hosted": true,
+   "sha256": "0773cb1f7138d984393723feddb7fdf1f3283511a1062a81c5f652d62583538c",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.19499",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Afshin Sadeghi et al., arXiv:2611.19499",
+   "attributionUrl": "https://arxiv.org/abs/2611.19499",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-21T13:37:22Z"
+  }
+ ]
+}

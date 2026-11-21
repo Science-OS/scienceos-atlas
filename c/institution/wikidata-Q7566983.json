@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q7566983",
+ "ids": {
+  "wikidata": "Q7566983",
+  "ror": "00ch7yk27"
+ },
+ "updatedAt": "2026-11-21T13:37:22Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/0e/0e308799c18357a46ee3bea7ad6551f6442371b5729a53d55b16e1d1dfb179e2.webp",
+   "hosted": true,
+   "sha256": "0e308799c18357a46ee3bea7ad6551f6442371b5729a53d55b16e1d1dfb179e2",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 33,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Southdakota_mines_logo.png",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Southdakota_mines_logo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-21T13:37:22Z"
+  }
+ ]
+}

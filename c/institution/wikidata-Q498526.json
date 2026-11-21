@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q498526",
+ "ids": {
+  "wikidata": "Q498526",
+  "ror": "04qyvz380"
+ },
+ "updatedAt": "2026-11-21T13:37:22Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/90/9036955d1d919a0faa454162f59cfdacebde01ac927d8656901721e0d8a1f842.webp",
+   "hosted": true,
+   "sha256": "9036955d1d919a0faa454162f59cfdacebde01ac927d8656901721e0d8a1f842",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 50,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/San_Jose_State_University_logo.svg",
+   "license": "Public domain",
+   "attribution": "San José State University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:San_Jose_State_University_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-21T13:37:22Z"
+  }
+ ]
+}

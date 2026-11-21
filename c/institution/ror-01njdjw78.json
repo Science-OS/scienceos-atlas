@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01njdjw78",
+ "ids": {
+  "wikidata": "Q103804007",
+  "ror": "01njdjw78"
+ },
+ "updatedAt": "2026-11-21T13:37:22Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://cdn.prod.website-files.com/643b94c382e84463a9e52264/68be68f9bca07cd38e068428_Webclip.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.quera-computing.com/",
+   "attributionUrl": "https://www.quera-computing.com/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-21T13:37:22Z"
+  }
+ ]
+}

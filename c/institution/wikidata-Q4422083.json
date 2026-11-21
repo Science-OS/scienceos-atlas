@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q4422083",
+ "ids": {
+  "wikidata": "Q4422083",
+  "ror": "03f9nc143"
+ },
+ "updatedAt": "2026-11-21T13:37:22Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/8f/8f5e3c6b6a65f630b773c6d0663896bb2933c30fb323ca20bc4bcbb56187459c.webp",
+   "hosted": true,
+   "sha256": "8f5e3c6b6a65f630b773c6d0663896bb2933c30fb323ca20bc4bcbb56187459c",
+   "mime": "image/webp",
+   "width": 198,
+   "height": 73,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Skoltech-logo.png",
+   "license": "Public domain",
+   "attribution": "Jvarilek24",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Skoltech-logo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-21T13:37:22Z"
+  }
+ ]
+}

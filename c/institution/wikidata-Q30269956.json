@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q30269956",
+ "ids": {
+  "wikidata": "Q30269956",
+  "ror": "050c3pq49"
+ },
+ "updatedAt": "2026-11-21T13:37:22Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://ihuican.org/wp-content/uploads/2021/11/cropped-android-chrome-512x512-1-192x192.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://ihuican.org",
+   "attributionUrl": "https://ihuican.org",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-21T13:37:22Z"
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q881238",
+ "ids": {
+  "wikidata": "Q881238",
+  "ror": "02pe2kf23"
+ },
+ "updatedAt": "2026-11-21T13:37:22Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.mpi-sws.org%2Findex.php&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "https://www.mpi-sws.org/index.php",
+   "confidence": 0.5,
+   "fetchedAt": "2026-11-21T13:37:22Z"
+  }
+ ]
+}

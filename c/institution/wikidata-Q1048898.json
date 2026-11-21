@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1048898",
+ "ids": {
+  "wikidata": "Q1048898",
+  "ror": "0155zta11"
+ },
+ "updatedAt": "2026-11-21T13:37:22Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.uvm.edu/themes/custom/uvm_theme/images/icons/icon-512x512.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.uvm.edu",
+   "attributionUrl": "https://www.uvm.edu",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-21T13:37:22Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02mhbdp94",
+ "ids": {
+  "wikidata": "Q1569421",
+  "ror": "02mhbdp94"
+ },
+ "updatedAt": "2026-11-21T13:37:22Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/29/29a361db9dbd6b1a44c929b38937e8e6baf1f2ba233123c256ea7a8cf1a996a6.webp",
+   "hosted": true,
+   "sha256": "29a361db9dbd6b1a44c929b38937e8e6baf1f2ba233123c256ea7a8cf1a996a6",
+   "mime": "image/webp",
+   "width": 216,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Los_Andes_logo.svg",
+   "license": "Public domain",
+   "attribution": "University of Los Andes (Colombia)",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Los_Andes_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-21T13:37:22Z"
+  }
+ ]
+}

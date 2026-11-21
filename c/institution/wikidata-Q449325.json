@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q449325",
+ "ids": {
+  "wikidata": "Q449325",
+  "ror": "04cdgtt98"
+ },
+ "updatedAt": "2026-11-21T13:37:22Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/7c/7cba218680ef79e75ecd74fa455cc22cd588a2a1d02cb84c85deeb39ed14de0d.webp",
+   "hosted": true,
+   "sha256": "7cba218680ef79e75ecd74fa455cc22cd588a2a1d02cb84c85deeb39ed14de0d",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 31,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Deutsches_Krebsforschungszentrum_Logo.svg",
+   "license": "Public domain",
+   "attribution": "Deutsches Krebsforschungszentrum",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Deutsches_Krebsforschungszentrum_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-21T13:37:22Z"
+  }
+ ]
+}

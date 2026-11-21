@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.26627",
+ "ids": {
+  "arxiv": "2611.26627"
+ },
+ "updatedAt": "2026-11-21T13:37:22Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/06/063243d67dfc5dfaa2f23b7bc48c67f7a698701f1179d15ffbe0934008dd67c8.jpg",
+   "hosted": true,
+   "sha256": "063243d67dfc5dfaa2f23b7bc48c67f7a698701f1179d15ffbe0934008dd67c8",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.26627",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Tuna Han Salih Meral et al., arXiv:2611.26627",
+   "attributionUrl": "https://arxiv.org/abs/2611.26627",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-21T13:37:22Z"
+  }
+ ]
+}

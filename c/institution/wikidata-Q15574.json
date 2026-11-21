@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q15574",
+ "ids": {
+  "wikidata": "Q15574",
+  "ror": "00892tw58"
+ },
+ "updatedAt": "2026-11-21T13:37:22Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/42/42c7a56b5e9668dd93511ebf3f192e3b30209965cf455bbd35a941da6547c820.webp",
+   "hosted": true,
+   "sha256": "42c7a56b5e9668dd93511ebf3f192e3b30209965cf455bbd35a941da6547c820",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 239,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Arms_of_the_University_of_Adelaide.svg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "GarterKingOfArms",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Arms_of_the_University_of_Adelaide.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-21T13:37:22Z"
+  }
+ ]
+}

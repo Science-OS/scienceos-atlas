@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-0561a3s31",
+ "ids": {
+  "wikidata": "Q673354",
+  "ror": "0561a3s31"
+ },
+ "updatedAt": "2026-11-21T13:37:22Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/65/655b4381b50285f5eb60f44a82c5ab6b5363a1ae36519c5e1229b1225f29ac7a.webp",
+   "hosted": true,
+   "sha256": "655b4381b50285f5eb60f44a82c5ab6b5363a1ae36519c5e1229b1225f29ac7a",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 55,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/HSG_Logo_DE_RGB.svg",
+   "license": "Public domain",
+   "attribution": "Universität St. Gallen",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:HSG_Logo_DE_RGB.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-21T13:37:22Z"
+  }
+ ]
+}

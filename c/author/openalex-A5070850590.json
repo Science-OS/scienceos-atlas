@@ -1,0 +1,24 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "openalex-A5070850590",
+ "ids": {
+  "orcid": "0000-0002-4464-2692",
+  "wikidata": "Q56942050",
+  "openalex": "A5070850590",
+  "github": "jg-you"
+ },
+ "updatedAt": "2026-11-21T13:37:22Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://github.com/jg-you.png?size=256",
+   "hosted": false,
+   "source": "github",
+   "attribution": "GitHub profile @jg-you",
+   "attributionUrl": "https://github.com/jg-you",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-21T13:37:22Z"
+  }
+ ]
+}

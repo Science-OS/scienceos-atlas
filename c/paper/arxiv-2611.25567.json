@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.25567",
+ "ids": {
+  "arxiv": "2611.25567"
+ },
+ "updatedAt": "2026-11-21T13:37:22Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/65/65da1bcf9bcdd8a62fd408780f2d5e7e7b83c21cf9166c5a14feaa4fb9aaeacf.jpg",
+   "hosted": true,
+   "sha256": "65da1bcf9bcdd8a62fd408780f2d5e7e7b83c21cf9166c5a14feaa4fb9aaeacf",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.25567",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Amit Feldman et al., arXiv:2611.25567",
+   "attributionUrl": "https://arxiv.org/abs/2611.25567",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-21T13:37:22Z"
+  }
+ ]
+}

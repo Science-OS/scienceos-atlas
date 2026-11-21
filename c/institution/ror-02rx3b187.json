@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02rx3b187",
+ "ids": {
+  "wikidata": "Q945876",
+  "ror": "02rx3b187"
+ },
+ "updatedAt": "2026-11-21T13:37:22Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/cb/cb7b603a8924a19c33db1997507c5d451077a4335104df7d9ebec516057fe1fc.webp",
+   "hosted": true,
+   "sha256": "cb7b603a8924a19c33db1997507c5d451077a4335104df7d9ebec516057fe1fc",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 157,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Universit%C3%A9_Grenoble-Alpes_%282020%29.jpg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Dragibus123",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_Universit%C3%A9_Grenoble-Alpes_(2020).jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-21T13:37:22Z"
+  }
+ ]
+}

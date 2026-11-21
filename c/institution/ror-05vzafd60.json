@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-05vzafd60",
+ "ids": {
+  "wikidata": "Q333886",
+  "ror": "05vzafd60"
+ },
+ "updatedAt": "2026-11-21T13:37:22Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/03/03b2a2fbb72cb5700c89c1d867cb6c49c7bd5d14695f4338b1090ff58e28963e.webp",
+   "hosted": true,
+   "sha256": "03b2a2fbb72cb5700c89c1d867cb6c49c7bd5d14695f4338b1090ff58e28963e",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 54,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Georgetown_University_Logotype.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Georgetown_University_Logotype.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-21T13:37:22Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03nz8qe97",
+ "ids": {
+  "wikidata": "Q201325",
+  "ror": "03nz8qe97"
+ },
+ "updatedAt": "2026-11-21T13:37:22Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/3c/3cdd667cc23e045575e41a42deb4337388a2190f87bcc836044eb68377f72ce1.webp",
+   "hosted": true,
+   "sha256": "3cdd667cc23e045575e41a42deb4337388a2190f87bcc836044eb68377f72ce1",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 109,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ariel_university.logo.jpg",
+   "license": "Public domain",
+   "attribution": "Ariela1982",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Ariel_university.logo.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-21T13:37:22Z"
+  }
+ ]
+}

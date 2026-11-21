@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q59243",
+ "ids": {
+  "wikidata": "Q59243",
+  "ror": "05kxbz959"
+ },
+ "updatedAt": "2026-11-21T13:37:22Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/f7/f73233922a93e5af6a28aba91b8cf6b6f7a6dcd42c152f98fba1a2dd1da99062.webp",
+   "hosted": true,
+   "sha256": "f73233922a93e5af6a28aba91b8cf6b6f7a6dcd42c152f98fba1a2dd1da99062",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 82,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hyundai_Motor_Group_CI.svg",
+   "license": "Public domain",
+   "attribution": "Hyundai Motor Group",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Hyundai_Motor_Group_CI.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-21T13:37:22Z"
+  }
+ ]
+}

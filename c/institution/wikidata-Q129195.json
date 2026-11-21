@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q129195",
+ "ids": {
+  "wikidata": "Q129195",
+  "ror": "01weqhp73"
+ },
+ "updatedAt": "2026-11-21T13:37:22Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c3/c38bb0b130d299d2da5f443a0c2ca75d4e56089392bfbbb324498481cfade38b.webp",
+   "hosted": true,
+   "sha256": "c38bb0b130d299d2da5f443a0c2ca75d4e56089392bfbbb324498481cfade38b",
+   "mime": "image/webp",
+   "width": 160,
+   "height": 53,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ilmenaulogo.gif",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "attribution": "Sabaris",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Ilmenaulogo.gif",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-21T13:37:22Z"
+  }
+ ]
+}

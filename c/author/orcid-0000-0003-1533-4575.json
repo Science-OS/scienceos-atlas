@@ -1,0 +1,30 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "orcid-0000-0003-1533-4575",
+ "ids": {
+  "orcid": "0000-0003-1533-4575",
+  "wikidata": "Q92714",
+  "openalex": "A5090849321"
+ },
+ "updatedAt": "2026-11-21T13:37:22Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c1/c109fb1728072edb97ad45f0dfa910dcdb43c59ff1cf94ddc5438d656475b7e7.webp",
+   "hosted": true,
+   "sha256": "c109fb1728072edb97ad45f0dfa910dcdb43c59ff1cf94ddc5438d656475b7e7",
+   "mime": "image/webp",
+   "width": 170,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/David_Haussler_1.jpg",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "attribution": "University of California, Santa Cruz",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:David_Haussler_1.jpg",
+   "confidence": 0.95,
+   "fetchedAt": "2026-11-21T13:37:22Z"
+  }
+ ]
+}

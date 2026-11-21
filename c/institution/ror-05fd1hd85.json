@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-05fd1hd85",
+ "ids": {
+  "wikidata": "Q37008",
+  "ror": "05fd1hd85"
+ },
+ "updatedAt": "2026-11-21T13:37:22Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/95/95c235ae287e5256272a647f87f42004e82e45434d8422aca20653661ff86743.webp",
+   "hosted": true,
+   "sha256": "95c235ae287e5256272a647f87f42004e82e45434d8422aca20653661ff86743",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_Arms_of_Tbilisi_State_University.svg",
+   "license": "Public domain",
+   "attribution": "Dimitri Shevardnadze (Vector version: Giorgi Balakhadze )",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_Tbilisi_State_University.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-21T13:37:22Z"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q595668",
+ "ids": {
+  "wikidata": "Q595668",
+  "ror": "04b8v1s79"
+ },
+ "updatedAt": "2026-11-21T13:37:22Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b2/b2d88b1e3468eee24904b9506863716db25514f59a3cde45e548566133a59afe.webp",
+   "hosted": true,
+   "sha256": "b2d88b1e3468eee24904b9506863716db25514f59a3cde45e548566133a59afe",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 127,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tiu.logo.jpg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Roamer589",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Tiu.logo.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-21T13:37:22Z"
+  }
+ ]
+}
