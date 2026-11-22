@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-05j0ve876",
+ "ids": {
+  "wikidata": "Q750066",
+  "ror": "05j0ve876"
+ },
+ "updatedAt": "2026-11-22T13:29:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/7e/7e4091e2627f2c63cc6e5e0b4546c88bdc63335b4144411d8d5e605fede99615.webp",
+   "hosted": true,
+   "sha256": "7e4091e2627f2c63cc6e5e0b4546c88bdc63335b4144411d8d5e605fede99615",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 152,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Aston_University_Logo.png",
+   "license": "Public domain",
+   "attribution": "Copyrighted official logo for Aston University, UK.",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Aston_University_Logo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-22T13:29:29Z"
+  }
+ ]
+}

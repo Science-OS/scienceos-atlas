@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-019xwzn44",
+ "ids": {
+  "wikidata": "Q1117001",
+  "ror": "019xwzn44"
+ },
+ "updatedAt": "2026-11-22T13:29:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ea/ea01bbd71af59b75cb1531c2907812e76e89cfdf4e1843c69566cca8c5dcdab2.webp",
+   "hosted": true,
+   "sha256": "ea01bbd71af59b75cb1531c2907812e76e89cfdf4e1843c69566cca8c5dcdab2",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 47,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/GWM_2025_logo.svg",
+   "license": "Public domain",
+   "attribution": "Great Wall Motor Company Limited",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:GWM_2025_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-22T13:29:29Z"
+  }
+ ]
+}

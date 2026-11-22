@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1861687",
+ "ids": {
+  "wikidata": "Q1861687",
+  "ror": "02w0trx84"
+ },
+ "updatedAt": "2026-11-22T13:29:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/f4/f4c43a1283aaa976d36054d62051b282b82c743677e526f8be93bc0744f147f8.webp",
+   "hosted": true,
+   "sha256": "f4c43a1283aaa976d36054d62051b282b82c743677e526f8be93bc0744f147f8",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 66,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Montana_State_University_Logo.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Montana_State_University_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-22T13:29:29Z"
+  }
+ ]
+}

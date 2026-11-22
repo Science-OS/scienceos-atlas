@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q932411",
+ "ids": {
+  "wikidata": "Q932411",
+  "ror": "00dn4t376"
+ },
+ "updatedAt": "2026-11-22T13:29:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/7b/7b252d5e4b82e6d0e80fa32ea5015b42189a912c5c17da0cf193e473d71a199b.webp",
+   "hosted": true,
+   "sha256": "7b252d5e4b82e6d0e80fa32ea5015b42189a912c5c17da0cf193e473d71a199b",
+   "mime": "image/webp",
+   "width": 189,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/New_Logo_1.jpg",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "attribution": "BenSalem1",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:New_Logo_1.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-22T13:29:29Z"
+  }
+ ]
+}

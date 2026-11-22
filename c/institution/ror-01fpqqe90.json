@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01fpqqe90",
+ "ids": {
+  "wikidata": "Q3578208",
+  "ror": "01fpqqe90"
+ },
+ "updatedAt": "2026-11-22T13:29:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e1/e153479f06830cf9a9e989c661da42c9f4441adf28db32e113580274a4cb2132.webp",
+   "hosted": true,
+   "sha256": "e153479f06830cf9a9e989c661da42c9f4441adf28db32e113580274a4cb2132",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 160,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ensicaen-logo-2008.jpg",
+   "license": "Public domain",
+   "attribution": "Ensicaen",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Ensicaen-logo-2008.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-22T13:29:29Z"
+  }
+ ]
+}

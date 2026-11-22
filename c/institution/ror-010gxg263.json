@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-010gxg263",
+ "ids": {
+  "wikidata": "Q326282",
+  "ror": "010gxg263"
+ },
+ "updatedAt": "2026-11-22T13:29:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/0f/0f62be4bc9db458d8c330cfe15f47e124b3142409b478dd1c8d578e408135291.webp",
+   "hosted": true,
+   "sha256": "0f62be4bc9db458d8c330cfe15f47e124b3142409b478dd1c8d578e408135291",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 96,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Universit%C3%A9_du_Qu%C3%A9bec_Logo.svg",
+   "license": "Public domain",
+   "attribution": "www.uquebec.ca",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Universit%C3%A9_du_Qu%C3%A9bec_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-22T13:29:29Z"
+  }
+ ]
+}

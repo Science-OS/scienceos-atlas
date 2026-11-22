@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01dex6p39",
+ "ids": {
+  "wikidata": "Q1492273",
+  "ror": "01dex6p39"
+ },
+ "updatedAt": "2026-11-22T13:29:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/50/508ceb02e63df71becfa25e837342fa5d47ff02fcaf8680d1a2b9ed894c8d226.webp",
+   "hosted": true,
+   "sha256": "508ceb02e63df71becfa25e837342fa5d47ff02fcaf8680d1a2b9ed894c8d226",
+   "mime": "image/webp",
+   "width": 192,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Garching_Walther-Meissner-Strasse_8_WMI_b.jpg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "JiriMatejicek",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Garching_Walther-Meissner-Strasse_8_WMI_b.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-22T13:29:29Z"
+  }
+ ]
+}

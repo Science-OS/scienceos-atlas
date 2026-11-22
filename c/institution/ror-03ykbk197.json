@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03ykbk197",
+ "ids": {
+  "wikidata": "Q2744209",
+  "ror": "03ykbk197"
+ },
+ "updatedAt": "2026-11-22T13:29:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/93/93738e54d94ef6e73c2fa4bca2b21deeba8c08327f3bb6370792cfa30c2572ce.webp",
+   "hosted": true,
+   "sha256": "93738e54d94ef6e73c2fa4bca2b21deeba8c08327f3bb6370792cfa30c2572ce",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 116,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Portsmouth_Logo.png",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Critical Hippo",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Portsmouth_Logo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-22T13:29:29Z"
+  }
+ ]
+}

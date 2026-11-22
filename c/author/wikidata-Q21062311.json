@@ -1,0 +1,30 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "wikidata-Q21062311",
+ "ids": {
+  "orcid": "0000-0001-7142-7640",
+  "wikidata": "Q21062311",
+  "openalex": "A5064437234"
+ },
+ "updatedAt": "2026-11-22T13:29:29Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/8e/8e493dcaebd4fe5dda955489a5b6f009b3db3c741c45ecc0826df773e33e4b02.webp",
+   "hosted": true,
+   "sha256": "8e493dcaebd4fe5dda955489a5b6f009b3db3c741c45ecc0826df773e33e4b02",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 204,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dimitris_Metaxas.jpg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Kostmic",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Dimitris_Metaxas.jpg",
+   "confidence": 0.95,
+   "fetchedAt": "2026-11-22T13:29:29Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-050tqnp89",
+ "ids": {
+  "wikidata": "Q10996045",
+  "ror": "050tqnp89"
+ },
+ "updatedAt": "2026-11-22T13:29:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/07/07c92287bac1b5883ef31f90ddc06188b9ed7d0ba242e82192a041580f00ad2f.webp",
+   "hosted": true,
+   "sha256": "07c92287bac1b5883ef31f90ddc06188b9ed7d0ba242e82192a041580f00ad2f",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 80,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kaggle_Logo_2026.svg",
+   "license": "Public domain",
+   "attribution": "Kaggle",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Kaggle_Logo_2026.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-22T13:29:29Z"
+  }
+ ]
+}

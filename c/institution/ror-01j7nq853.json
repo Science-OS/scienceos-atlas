@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01j7nq853",
+ "ids": {
+  "wikidata": "Q1285262",
+  "ror": "01j7nq853"
+ },
+ "updatedAt": "2026-11-22T13:29:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/84/84c17313227b83b18d757591b117db2c22f1bf8334f78afa02ddf12df7806216.webp",
+   "hosted": true,
+   "sha256": "84c17313227b83b18d757591b117db2c22f1bf8334f78afa02ddf12df7806216",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 97,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Univ_alaska_fairbanks_textlogo.png",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Univ_alaska_fairbanks_textlogo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-22T13:29:29Z"
+  }
+ ]
+}

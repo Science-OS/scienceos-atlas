@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q174335",
+ "ids": {
+  "wikidata": "Q174335",
+  "ror": "022zdgq74"
+ },
+ "updatedAt": "2026-11-22T13:29:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http%3A%2F%2Fwww.enac.fr%2F&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "http://www.enac.fr/",
+   "confidence": 0.5,
+   "fetchedAt": "2026-11-22T13:29:29Z"
+  }
+ ]
+}

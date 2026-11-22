@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01apwpt12",
+ "ids": {
+  "wikidata": "Q1736748",
+  "ror": "01apwpt12"
+ },
+ "updatedAt": "2026-11-22T13:29:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/4c/4c4b22de91443e9415ae449ce9b39d07968053c78c7fa10d3a4f9c7948b6a838.webp",
+   "hosted": true,
+   "sha256": "4c4b22de91443e9415ae449ce9b39d07968053c78c7fa10d3a4f9c7948b6a838",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 102,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sandia_National_Laboratories_logo.svg",
+   "license": "Public domain",
+   "attribution": "U.S. Federal Government Employee",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Sandia_National_Laboratories_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-22T13:29:29Z"
+  }
+ ]
+}

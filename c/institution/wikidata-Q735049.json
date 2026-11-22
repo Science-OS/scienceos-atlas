@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q735049",
+ "ids": {
+  "wikidata": "Q735049",
+  "ror": "02qskvh78"
+ },
+ "updatedAt": "2026-11-22T13:29:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ab/ab0fa50960484db8602964c63a21f6bff7b77c158fbd21b8b466794303bbb2c1.webp",
+   "hosted": true,
+   "sha256": "ab0fa50960484db8602964c63a21f6bff7b77c158fbd21b8b466794303bbb2c1",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 59,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Maryland%2C_Baltimore_County_logo.svg",
+   "license": "Public domain",
+   "attribution": "University of Maryland, Baltimore County",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Maryland,_Baltimore_County_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-22T13:29:29Z"
+  }
+ ]
+}

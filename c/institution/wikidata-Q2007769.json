@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q2007769",
+ "ids": {
+  "wikidata": "Q2007769",
+  "ror": "005y2ap84"
+ },
+ "updatedAt": "2026-11-22T13:29:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/25/255e2300827bf82e065823fa085ac538f27c1d851257dcc047e95706a06de8ca.webp",
+   "hosted": true,
+   "sha256": "255e2300827bf82e065823fa085ac538f27c1d851257dcc047e95706a06de8ca",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 60,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/ONERA_logo.svg",
+   "license": "Public domain",
+   "attribution": "ONERA",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:ONERA_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-22T13:29:29Z"
+  }
+ ]
+}

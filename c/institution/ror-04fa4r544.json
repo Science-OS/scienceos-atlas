@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04fa4r544",
+ "ids": {
+  "wikidata": "Q19861084",
+  "ror": "04fa4r544"
+ },
+ "updatedAt": "2026-11-22T13:29:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/28/28d098e18f425069a2015cf14043cf767778e2a49cbeaa403b34c04ee0006067.webp",
+   "hosted": true,
+   "sha256": "28d098e18f425069a2015cf14043cf767778e2a49cbeaa403b34c04ee0006067",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 92,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/ORCID_logo_with_tagline.svg",
+   "license": "Public domain",
+   "attribution": "ORCID",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:ORCID_logo_with_tagline.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-22T13:29:29Z"
+  }
+ ]
+}

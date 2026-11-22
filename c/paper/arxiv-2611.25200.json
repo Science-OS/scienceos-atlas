@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.25200",
+ "ids": {
+  "arxiv": "2611.25200"
+ },
+ "updatedAt": "2026-11-22T13:29:29Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/05/052df1626a45c491c21e512d8883517762dbc53da3de988fa5b596339272b65a.jpg",
+   "hosted": true,
+   "sha256": "052df1626a45c491c21e512d8883517762dbc53da3de988fa5b596339272b65a",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.25200",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Rohith Pasula et al., arXiv:2611.25200",
+   "attributionUrl": "https://arxiv.org/abs/2611.25200",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-22T13:29:29Z"
+  }
+ ]
+}

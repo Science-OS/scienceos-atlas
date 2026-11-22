@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1156553",
+ "ids": {
+  "wikidata": "Q1156553",
+  "ror": "05d5m2r55"
+ },
+ "updatedAt": "2026-11-22T13:29:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.ihes.fr/apple-touch-icon.png?v=dLBOl3NO60",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.ihes.fr",
+   "attributionUrl": "https://www.ihes.fr",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-22T13:29:29Z"
+  }
+ ]
+}

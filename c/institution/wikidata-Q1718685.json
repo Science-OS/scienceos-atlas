@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1718685",
+ "ids": {
+  "wikidata": "Q1718685",
+  "ror": "04ttnw109"
+ },
+ "updatedAt": "2026-11-22T13:29:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/aa/aa3940e1c0f48594128f493452da2d8a9a0afc72373bb08203c3723cfb347b3e.webp",
+   "hosted": true,
+   "sha256": "aa3940e1c0f48594128f493452da2d8a9a0afc72373bb08203c3723cfb347b3e",
+   "mime": "image/webp",
+   "width": 189,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sakarya_University_logo.svg",
+   "license": "Public domain",
+   "attribution": "Sakarya University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Sakarya_University_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-22T13:29:29Z"
+  }
+ ]
+}

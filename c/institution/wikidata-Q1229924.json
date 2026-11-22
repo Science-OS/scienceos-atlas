@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1229924",
+ "ids": {
+  "wikidata": "Q1229924",
+  "ror": "01qg3j183"
+ },
+ "updatedAt": "2026-11-22T13:29:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://uoi.gr/wp-content/uploads/2023/11/cropped-favicon1-192x192.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://uoi.gr",
+   "attributionUrl": "https://uoi.gr",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-22T13:29:29Z"
+  }
+ ]
+}

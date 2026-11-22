@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1665127",
+ "ids": {
+  "wikidata": "Q1665127",
+  "ror": "055khg266"
+ },
+ "updatedAt": "2026-11-22T13:29:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/05/05c11f7b736cd29375a3bf8cd9d2834f893a647afc189eaa0e45efb21ca74da5.webp",
+   "hosted": true,
+   "sha256": "05c11f7b736cd29375a3bf8cd9d2834f893a647afc189eaa0e45efb21ca74da5",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 181,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_IUF.png",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Institut Universitaire de France",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_IUF.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-22T13:29:29Z"
+  }
+ ]
+}

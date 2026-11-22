@@ -1,0 +1,21 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-054vayn55",
+ "ids": {
+  "ror": "054vayn55"
+ },
+ "updatedAt": "2026-11-22T13:29:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.clinicbarcelona.org/build/img/favicon/favicon-196x196.4c934ae8a5f97837aba9b8c5d807aa4b.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of http://www.idibaps.org/",
+   "attributionUrl": "http://www.idibaps.org/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-22T13:29:29Z"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "wikidata-Q1294258",
+ "ids": {
+  "orcid": "0000-0002-4108-3282",
+  "wikidata": "Q1294258",
+  "openalex": "A5019891335"
+ },
+ "updatedAt": "2026-11-22T13:29:29Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/86/86a4004357b8e07ce78d676a36e5c253611c371f296a1f9cb612097e0c412b15.webp",
+   "hosted": true,
+   "sha256": "86a4004357b8e07ce78d676a36e5c253611c371f296a1f9cb612097e0c412b15",
+   "mime": "image/webp",
+   "width": 156,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Alex_Szalay.jpg",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "attribution": "Johns Hopkins",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Alex_Szalay.jpg",
+   "confidence": 0.95,
+   "fetchedAt": "2026-11-22T13:29:29Z"
+  }
+ ]
+}

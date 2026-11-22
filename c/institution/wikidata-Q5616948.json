@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q5616948",
+ "ids": {
+  "wikidata": "Q5616948",
+  "ror": "02x1pa065"
+ },
+ "updatedAt": "2026-11-22T13:29:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/fb/fb14eea733e24d7479d64e3c419b793f5323c4ff7f4ee81622a0ef8ce3fb345f.webp",
+   "hosted": true,
+   "sha256": "fb14eea733e24d7479d64e3c419b793f5323c4ff7f4ee81622a0ef8ce3fb345f",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 74,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Guizhou_Normal_University_Motto.png",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "ChiyuZongzi",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Guizhou_Normal_University_Motto.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-22T13:29:29Z"
+  }
+ ]
+}

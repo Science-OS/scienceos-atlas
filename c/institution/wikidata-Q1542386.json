@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1542386",
+ "ids": {
+  "wikidata": "Q1542386",
+  "ror": "014axpa37"
+ },
+ "updatedAt": "2026-11-22T13:29:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d6/d6de9b9af2102832d6eeb7e452bf34d412fc1afc326e5c4d9ca27eb5e1123276.webp",
+   "hosted": true,
+   "sha256": "d6de9b9af2102832d6eeb7e452bf34d412fc1afc326e5c4d9ca27eb5e1123276",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 108,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/RUC_logo_white_on_black.svg",
+   "license": "Public domain",
+   "attribution": "Roskilde Universitet",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:RUC_logo_white_on_black.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-22T13:29:29Z"
+  }
+ ]
+}

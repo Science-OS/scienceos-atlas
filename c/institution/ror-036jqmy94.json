@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-036jqmy94",
+ "ids": {
+  "wikidata": "Q182973",
+  "ror": "036jqmy94"
+ },
+ "updatedAt": "2026-11-22T13:29:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://uiowa.edu/profiles/custom/sitenow/assets/android-chrome-192x192.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://uiowa.edu",
+   "attributionUrl": "https://uiowa.edu",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-22T13:29:29Z"
+  }
+ ]
+}

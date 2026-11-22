@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-051kpcy16",
+ "ids": {
+  "wikidata": "Q568554",
+  "ror": "051kpcy16"
+ },
+ "updatedAt": "2026-11-22T13:29:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/eb/eb1d64d6d0ad8c48a9d77ad28438ca2a6874b12ed60752fcdf44b657c5b70326.webp",
+   "hosted": true,
+   "sha256": "eb1d64d6d0ad8c48a9d77ad28438ca2a6874b12ed60752fcdf44b657c5b70326",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 136,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Universit%C3%A9_de_Caen_Normandie_2018.svg",
+   "license": "Public domain",
+   "attribution": "University of Caen Normandy",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_Universit%C3%A9_de_Caen_Normandie_2018.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-22T13:29:29Z"
+  }
+ ]
+}

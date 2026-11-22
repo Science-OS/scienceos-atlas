@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-0264fdx42",
+ "ids": {
+  "wikidata": "Q913861",
+  "ror": "0264fdx42"
+ },
+ "updatedAt": "2026-11-22T13:29:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/02/02120dacaff00f45d22973638005db1b12ffb901ea055c5496eed5af76b00f3b.webp",
+   "hosted": true,
+   "sha256": "02120dacaff00f45d22973638005db1b12ffb901ea055c5496eed5af76b00f3b",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 81,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/San_Diego_State_Logotype.png",
+   "license": "Public domain",
+   "attribution": "Dabackgammonator at en.wikipedia",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:San_Diego_State_Logotype.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-22T13:29:29Z"
+  }
+ ]
+}

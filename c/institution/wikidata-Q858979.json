@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q858979",
+ "ids": {
+  "wikidata": "Q858979",
+  "ror": "01h8pf755"
+ },
+ "updatedAt": "2026-11-22T13:29:29Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/62/623bd2788fe5895900bc641fb687388d2282a333416a5d41db492e82ec510e86.webp",
+   "hosted": true,
+   "sha256": "623bd2788fe5895900bc641fb687388d2282a333416a5d41db492e82ec510e86",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 56,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_INSAToulouse-RVB.jpg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Servicecom-insat",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_INSAToulouse-RVB.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-22T13:29:29Z"
+  }
+ ]
+}

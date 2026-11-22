@@ -1,0 +1,30 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "openalex-A5025529136",
+ "ids": {
+  "orcid": "0000-0002-7331-7557",
+  "wikidata": "Q102437847",
+  "openalex": "A5025529136"
+ },
+ "updatedAt": "2026-11-22T13:29:29Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ef/ef67c997a96048d9610d9d7a112d7ae8b3257e6f3477ea3893325dd9a20f6ebe.webp",
+   "hosted": true,
+   "sha256": "ef67c997a96048d9610d9d7a112d7ae8b3257e6f3477ea3893325dd9a20f6ebe",
+   "mime": "image/webp",
+   "width": 192,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/ETH-BIB-Bandeira%2C_Afonso-Portr_19841.jpg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Giulia Marthaler",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:ETH-BIB-Bandeira,_Afonso-Portr_19841.jpg",
+   "confidence": 0.95,
+   "fetchedAt": "2026-11-22T13:29:29Z"
+  }
+ ]
+}
