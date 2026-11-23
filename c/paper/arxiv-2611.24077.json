@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.24077",
+ "ids": {
+  "arxiv": "2611.24077"
+ },
+ "updatedAt": "2026-11-23T16:16:46Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/4c/4c432e635decbd2c04d78e4a3a80ca7bfdeaf274a5a52b27085bcb7be567e2a4.jpg",
+   "hosted": true,
+   "sha256": "4c432e635decbd2c04d78e4a3a80ca7bfdeaf274a5a52b27085bcb7be567e2a4",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.24077",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Shiwei Wu et al., arXiv:2611.24077",
+   "attributionUrl": "https://arxiv.org/abs/2611.24077",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-23T16:16:46Z"
+  }
+ ]
+}

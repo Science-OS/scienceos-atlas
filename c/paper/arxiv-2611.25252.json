@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.25252",
+ "ids": {
+  "arxiv": "2611.25252"
+ },
+ "updatedAt": "2026-11-23T16:16:46Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/7c/7c6235ff11c878ff531d5e67fbe798c90d9cddf13ac63f63d477afd20fe1e8b4.jpg",
+   "hosted": true,
+   "sha256": "7c6235ff11c878ff531d5e67fbe798c90d9cddf13ac63f63d477afd20fe1e8b4",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.25252",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Zhenling Chen et al., arXiv:2611.25252",
+   "attributionUrl": "https://arxiv.org/abs/2611.25252",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-23T16:16:46Z"
+  }
+ ]
+}
