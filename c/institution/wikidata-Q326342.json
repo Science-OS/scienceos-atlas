@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q326342",
+ "ids": {
+  "wikidata": "Q326342",
+  "ror": "0420zvk78"
+ },
+ "updatedAt": "2026-11-24T16:04:09Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/25/25d2d1c0f8bcf52f882ce315673f287367859619af86849e72397f322cd3bb66.webp",
+   "hosted": true,
+   "sha256": "25d2d1c0f8bcf52f882ce315673f287367859619af86849e72397f322cd3bb66",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 73,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Concordia_univ_montreal_textlogo.png",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Concordia_univ_montreal_textlogo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-24T16:04:09Z"
+  }
+ ]
+}

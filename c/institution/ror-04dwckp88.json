@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04dwckp88",
+ "ids": {
+  "wikidata": "Q5158999",
+  "ror": "04dwckp88"
+ },
+ "updatedAt": "2026-11-24T16:04:09Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e1/e1ad03096d1eca8cfa45706d5c701b8fb99d66d66c6b331b62db72741bd19b27.webp",
+   "hosted": true,
+   "sha256": "e1ad03096d1eca8cfa45706d5c701b8fb99d66d66c6b331b62db72741bd19b27",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 62,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Concordia_University_%28Oregon%29_logo.svg",
+   "license": "Public domain",
+   "attribution": "Concordia University (Oregon) logo",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Concordia_University_(Oregon)_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-24T16:04:09Z"
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02ab2j218",
+ "ids": {
+  "wikidata": "Q45136600",
+  "ror": "02ab2j218"
+ },
+ "updatedAt": "2026-11-24T16:04:09Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.camh.ca/apple-touch-icon.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.camh.ca/en/science-and-research/institutes-and-centres/campbell-family-mental-health-research-institute",
+   "attributionUrl": "https://www.camh.ca/en/science-and-research/institutes-and-centres/campbell-family-mental-health-research-institute",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-24T16:04:09Z"
+  }
+ ]
+}

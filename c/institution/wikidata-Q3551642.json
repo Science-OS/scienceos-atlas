@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q3551642",
+ "ids": {
+  "wikidata": "Q3551642",
+  "ror": "022xw8j65"
+ },
+ "updatedAt": "2026-11-24T16:04:09Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/fd/fdcae3d03c76002808429c871a8ad692de5ec5e825df3d861ebb0aa211b2d584.webp",
+   "hosted": true,
+   "sha256": "fdcae3d03c76002808429c871a8ad692de5ec5e825df3d861ebb0aa211b2d584",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 130,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mount_union_univ_textlogo.png",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Mount_union_univ_textlogo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-24T16:04:09Z"
+  }
+ ]
+}

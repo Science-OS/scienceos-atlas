@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-00j4h9q86",
+ "ids": {
+  "wikidata": "Q873059",
+  "ror": "00j4h9q86"
+ },
+ "updatedAt": "2026-11-24T16:04:09Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d4/d4cdb07b16b58617d905f787880fccb983a2d4d7173a4c2c5bcecf8e3dc714d0.webp",
+   "hosted": true,
+   "sha256": "d4cdb07b16b58617d905f787880fccb983a2d4d7173a4c2c5bcecf8e3dc714d0",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 71,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/IAV_claim-CO_rgb.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:IAV_claim-CO_rgb.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-24T16:04:09Z"
+  }
+ ]
+}

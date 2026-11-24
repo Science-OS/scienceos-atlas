@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q154804",
+ "ids": {
+  "wikidata": "Q154804",
+  "ror": "03s7gtk40"
+ },
+ "updatedAt": "2026-11-24T16:04:09Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e7/e730ab09c629db640913909cdb950035a8786940dfcf00fcaca9ab5b132ce7e2.webp",
+   "hosted": true,
+   "sha256": "e730ab09c629db640913909cdb950035a8786940dfcf00fcaca9ab5b132ce7e2",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 108,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Universit%C3%A4t_Leipzig_logo.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Universit%C3%A4t_Leipzig_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-24T16:04:09Z"
+  }
+ ]
+}

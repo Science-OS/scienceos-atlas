@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1353679",
+ "ids": {
+  "wikidata": "Q1353679",
+  "ror": "043mer456"
+ },
+ "updatedAt": "2026-11-24T16:04:09Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/37/374f6cbbc98f3c772f449ffc6fcd58af6734c05f9dab90bd645ed7eb0803f100.webp",
+   "hosted": true,
+   "sha256": "374f6cbbc98f3c772f449ffc6fcd58af6734c05f9dab90bd645ed7eb0803f100",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 105,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Nebraska%E2%80%93Lincoln_logo.svg",
+   "license": "Public domain",
+   "attribution": "University of Nebraska system",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Nebraska%E2%80%93Lincoln_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-24T16:04:09Z"
+  }
+ ]
+}

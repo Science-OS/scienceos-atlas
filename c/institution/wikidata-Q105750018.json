@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q105750018",
+ "ids": {
+  "wikidata": "Q105750018",
+  "ror": "014ybqb54"
+ },
+ "updatedAt": "2026-11-24T16:04:09Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/20/2094f31ec9b85b3224d5443ce680c6f6a9794ae34689d7063eb1ee700bf211b8.webp",
+   "hosted": true,
+   "sha256": "2094f31ec9b85b3224d5443ce680c6f6a9794ae34689d7063eb1ee700bf211b8",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 53,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Horizontal_Full_Color.jpg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Lulu the dog",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Horizontal_Full_Color.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-24T16:04:09Z"
+  }
+ ]
+}

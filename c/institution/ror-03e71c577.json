@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03e71c577",
+ "ids": {
+  "wikidata": "Q2945513",
+  "ror": "03e71c577"
+ },
+ "updatedAt": "2026-11-24T16:04:09Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/9d/9d004f9a799905dafd4514e5cf26821e172da26ae5f193f9b322eba1e1589a79.webp",
+   "hosted": true,
+   "sha256": "9d004f9a799905dafd4514e5cf26821e172da26ae5f193f9b322eba1e1589a79",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 103,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Centre_for_Addiction_and_Mental_Health.svg",
+   "license": "Public domain",
+   "attribution": "Centre for Addiction and Mental Health",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Centre_for_Addiction_and_Mental_Health.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-24T16:04:09Z"
+  }
+ ]
+}

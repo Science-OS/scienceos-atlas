@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04zrbnc33",
+ "ids": {
+  "wikidata": "Q1421182",
+  "ror": "04zrbnc33"
+ },
+ "updatedAt": "2026-11-24T16:04:09Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/3a/3af9ede0cd781292e17f15cea3cc60039a38a76d28b8327602d2236f653412f8.webp",
+   "hosted": true,
+   "sha256": "3af9ede0cd781292e17f15cea3cc60039a38a76d28b8327602d2236f653412f8",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 80,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Multimedia_University_secondary_logo_2020.png",
+   "license": "Public domain",
+   "attribution": "https://image-handler.ehost-live.eislz.com/123b82d6-e980-4094-a414-ea316df80dc2_1717652159.png ( archived )",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Multimedia_University_secondary_logo_2020.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-24T16:04:09Z"
+  }
+ ]
+}

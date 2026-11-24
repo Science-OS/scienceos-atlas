@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q333025",
+ "ids": {
+  "wikidata": "Q333025",
+  "ror": "00526y629"
+ },
+ "updatedAt": "2026-11-24T16:04:09Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/7d/7d26b8eba615930b3e7e856f3bb1107f0d2bc9e90deeb22f46647278cd1de5d6.webp",
+   "hosted": true,
+   "sha256": "7d26b8eba615930b3e7e856f3bb1107f0d2bc9e90deeb22f46647278cd1de5d6",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 82,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/SES_S.A._2025.svg",
+   "license": "Public domain",
+   "attribution": "SES S.A.",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:SES_S.A._2025.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-24T16:04:09Z"
+  }
+ ]
+}

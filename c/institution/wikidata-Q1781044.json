@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1781044",
+ "ids": {
+  "wikidata": "Q1781044",
+  "ror": "0034eay46"
+ },
+ "updatedAt": "2026-11-24T16:04:09Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/3f/3fc42873d48c43a0b68948481a33cd9d99bd58c864f572f41f0386fdac370b71.webp",
+   "hosted": true,
+   "sha256": "3fc42873d48c43a0b68948481a33cd9d99bd58c864f572f41f0386fdac370b71",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 48,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Texas_A%26M_University_System_wordmark.svg",
+   "license": "Public domain",
+   "attribution": "Texas A&M University System",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Texas_A%26M_University_System_wordmark.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-24T16:04:09Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.25476",
+ "ids": {
+  "arxiv": "2611.25476"
+ },
+ "updatedAt": "2026-11-24T16:04:09Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e4/e467138ba78805cbd56246ac5d261e959505bb9435ab8c3c6c8debb60cdd1948.jpg",
+   "hosted": true,
+   "sha256": "e467138ba78805cbd56246ac5d261e959505bb9435ab8c3c6c8debb60cdd1948",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.25476",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Bo Li et al., arXiv:2611.25476",
+   "attributionUrl": "https://arxiv.org/abs/2611.25476",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-24T16:04:09Z"
+  }
+ ]
+}

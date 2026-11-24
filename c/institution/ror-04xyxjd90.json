@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04xyxjd90",
+ "ids": {
+  "wikidata": "Q2002619",
+  "ror": "04xyxjd90"
+ },
+ "updatedAt": "2026-11-24T16:04:09Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/0b/0b0fd60a40420628918f4951767ec53fb9b52da0f11df70563b9aaa5f92e7f6f.webp",
+   "hosted": true,
+   "sha256": "0b0fd60a40420628918f4951767ec53fb9b52da0f11df70563b9aaa5f92e7f6f",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 60,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Nottingham_Trent_University.svg",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_Nottingham_Trent_University.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-24T16:04:09Z"
+  }
+ ]
+}
