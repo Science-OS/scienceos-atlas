@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.32439",
+ "ids": {
+  "arxiv": "2611.32439"
+ },
+ "updatedAt": "2026-11-25T15:52:09Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/8e/8e5c07bab019e90876f07c0c376bb2f517a2c4f3c0b6c03b0990bab7f5fb839f.jpg",
+   "hosted": true,
+   "sha256": "8e5c07bab019e90876f07c0c376bb2f517a2c4f3c0b6c03b0990bab7f5fb839f",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.32439",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Yoonki Cho et al., arXiv:2611.32439",
+   "attributionUrl": "https://arxiv.org/abs/2611.32439",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-25T15:52:09Z"
+  }
+ ]
+}

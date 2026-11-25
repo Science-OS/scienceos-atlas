@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.32968",
+ "ids": {
+  "arxiv": "2611.32968"
+ },
+ "updatedAt": "2026-11-25T15:52:09Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/a4/a4a841cf7d73ae29973d8ea38af48b4061092d6b1e3349a129c6d9bd427d24f7.jpg",
+   "hosted": true,
+   "sha256": "a4a841cf7d73ae29973d8ea38af48b4061092d6b1e3349a129c6d9bd427d24f7",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 800,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.32968",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Sascha H. Hauck et al., arXiv:2611.32968",
+   "attributionUrl": "https://arxiv.org/abs/2611.32968",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-25T15:52:09Z"
+  }
+ ]
+}

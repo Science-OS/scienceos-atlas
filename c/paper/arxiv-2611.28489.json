@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.28489",
+ "ids": {
+  "arxiv": "2611.28489"
+ },
+ "updatedAt": "2026-11-25T15:52:09Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/5d/5d5e418bfbc1ded85d98e1e837a4626c61925023062122e062a41eba30a37954.jpg",
+   "hosted": true,
+   "sha256": "5d5e418bfbc1ded85d98e1e837a4626c61925023062122e062a41eba30a37954",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.28489",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Xu Lin et al., arXiv:2611.28489",
+   "attributionUrl": "https://arxiv.org/abs/2611.28489",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-25T15:52:09Z"
+  }
+ ]
+}

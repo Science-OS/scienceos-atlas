@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.32762",
+ "ids": {
+  "arxiv": "2611.32762"
+ },
+ "updatedAt": "2026-11-25T15:52:09Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/8b/8b3839a309697a3f3720bef218150a171ab54944b3f51c85db717f55b96026df.jpg",
+   "hosted": true,
+   "sha256": "8b3839a309697a3f3720bef218150a171ab54944b3f51c85db717f55b96026df",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.32762",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Konstantinos Emmanouilidis et al., arXiv:2611.32762",
+   "attributionUrl": "https://arxiv.org/abs/2611.32762",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-25T15:52:09Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.30813",
+ "ids": {
+  "arxiv": "2611.30813"
+ },
+ "updatedAt": "2026-11-25T15:52:09Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/23/23c188e4b4cc74b2c375f96d4a402f3d84ccf38123719c7157db7a210c77222a.jpg",
+   "hosted": true,
+   "sha256": "23c188e4b4cc74b2c375f96d4a402f3d84ccf38123719c7157db7a210c77222a",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.30813",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Qiwei Liang et al., arXiv:2611.30813",
+   "attributionUrl": "https://arxiv.org/abs/2611.30813",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-25T15:52:09Z"
+  }
+ ]
+}

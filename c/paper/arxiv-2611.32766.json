@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.32766",
+ "ids": {
+  "arxiv": "2611.32766"
+ },
+ "updatedAt": "2026-11-25T15:52:09Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/9a/9ad774819e3c7e295d9d1059bc927a43183587d8e0fe99259e0a09163ff272c4.jpg",
+   "hosted": true,
+   "sha256": "9ad774819e3c7e295d9d1059bc927a43183587d8e0fe99259e0a09163ff272c4",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.32766",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Eunghyun Lee, arXiv:2611.32766",
+   "attributionUrl": "https://arxiv.org/abs/2611.32766",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-25T15:52:09Z"
+  }
+ ]
+}

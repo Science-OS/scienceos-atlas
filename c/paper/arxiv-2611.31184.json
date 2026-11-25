@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.31184",
+ "ids": {
+  "arxiv": "2611.31184"
+ },
+ "updatedAt": "2026-11-25T15:52:09Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/28/28bbf5748c5b5f6247d577bfa593978f4491335c755e05b7a620d0e5a62c41fb.jpg",
+   "hosted": true,
+   "sha256": "28bbf5748c5b5f6247d577bfa593978f4491335c755e05b7a620d0e5a62c41fb",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.31184",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Boyang Wang et al., arXiv:2611.31184",
+   "attributionUrl": "https://arxiv.org/abs/2611.31184",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-25T15:52:09Z"
+  }
+ ]
+}

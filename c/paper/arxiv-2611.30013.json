@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.30013",
+ "ids": {
+  "arxiv": "2611.30013"
+ },
+ "updatedAt": "2026-11-25T15:52:09Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/6f/6f69a328ad0500a29a7ec323856f29f3a500e73c1068d717326fa7e84e3b0bfe.jpg",
+   "hosted": true,
+   "sha256": "6f69a328ad0500a29a7ec323856f29f3a500e73c1068d717326fa7e84e3b0bfe",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.30013",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Bohan Zeng et al., arXiv:2611.30013",
+   "attributionUrl": "https://arxiv.org/abs/2611.30013",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-25T15:52:09Z"
+  }
+ ]
+}

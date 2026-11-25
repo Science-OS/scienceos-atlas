@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.30254",
+ "ids": {
+  "arxiv": "2611.30254"
+ },
+ "updatedAt": "2026-11-25T15:52:09Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/89/8999db11170b2e48b91ad471d738aad34a41a24698ffa4db46ff82facd66b2e6.jpg",
+   "hosted": true,
+   "sha256": "8999db11170b2e48b91ad471d738aad34a41a24698ffa4db46ff82facd66b2e6",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.30254",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Innata Team et al., arXiv:2611.30254",
+   "attributionUrl": "https://arxiv.org/abs/2611.30254",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-25T15:52:09Z"
+  }
+ ]
+}

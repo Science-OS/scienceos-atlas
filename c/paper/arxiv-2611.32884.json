@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.32884",
+ "ids": {
+  "arxiv": "2611.32884"
+ },
+ "updatedAt": "2026-11-25T15:52:09Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/1d/1def4293a09b4e8f035a26caf299de70e73eb65af687bff47b264fa2cdab0db8.jpg",
+   "hosted": true,
+   "sha256": "1def4293a09b4e8f035a26caf299de70e73eb65af687bff47b264fa2cdab0db8",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.32884",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Richmond Sin Jing Xuan et al., arXiv:2611.32884",
+   "attributionUrl": "https://arxiv.org/abs/2611.32884",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-25T15:52:09Z"
+  }
+ ]
+}

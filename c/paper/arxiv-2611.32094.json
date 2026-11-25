@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.32094",
+ "ids": {
+  "arxiv": "2611.32094"
+ },
+ "updatedAt": "2026-11-25T15:52:09Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/f7/f7d9bc243b542f1b17aa21812548156861170a27a58ee658d2eb9aa6156acbdd.jpg",
+   "hosted": true,
+   "sha256": "f7d9bc243b542f1b17aa21812548156861170a27a58ee658d2eb9aa6156acbdd",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.32094",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Yang Bai et al., arXiv:2611.32094",
+   "attributionUrl": "https://arxiv.org/abs/2611.32094",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-25T15:52:09Z"
+  }
+ ]
+}

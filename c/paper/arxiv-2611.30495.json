@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.30495",
+ "ids": {
+  "arxiv": "2611.30495"
+ },
+ "updatedAt": "2026-11-25T15:52:09Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ef/ef0f1f2d4086613a43803b6c9544075d02833f385224361e4bc8d242a074dee3.jpg",
+   "hosted": true,
+   "sha256": "ef0f1f2d4086613a43803b6c9544075d02833f385224361e4bc8d242a074dee3",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.30495",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Haoran Zhang et al., arXiv:2611.30495",
+   "attributionUrl": "https://arxiv.org/abs/2611.30495",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-25T15:52:09Z"
+  }
+ ]
+}

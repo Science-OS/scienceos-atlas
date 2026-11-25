@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.32945",
+ "ids": {
+  "arxiv": "2611.32945"
+ },
+ "updatedAt": "2026-11-25T15:52:09Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/51/51fe99f9edef411c927de38fbdb94bf4ee341408057fa3dcc5dacd4c54b1e724.jpg",
+   "hosted": true,
+   "sha256": "51fe99f9edef411c927de38fbdb94bf4ee341408057fa3dcc5dacd4c54b1e724",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.32945",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Ali Turfah et al., arXiv:2611.32945",
+   "attributionUrl": "https://arxiv.org/abs/2611.32945",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-25T15:52:09Z"
+  }
+ ]
+}

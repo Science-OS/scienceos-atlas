@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.33158",
+ "ids": {
+  "arxiv": "2611.33158"
+ },
+ "updatedAt": "2026-11-25T15:52:09Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/29/29aefc9add85454194241adf04148f62c0fa0aee53f5c29dde7532e44541f4e2.jpg",
+   "hosted": true,
+   "sha256": "29aefc9add85454194241adf04148f62c0fa0aee53f5c29dde7532e44541f4e2",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.33158",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Xiang Fan et al., arXiv:2611.33158",
+   "attributionUrl": "https://arxiv.org/abs/2611.33158",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-25T15:52:09Z"
+  }
+ ]
+}

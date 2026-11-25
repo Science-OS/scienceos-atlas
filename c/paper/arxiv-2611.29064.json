@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.29064",
+ "ids": {
+  "arxiv": "2611.29064"
+ },
+ "updatedAt": "2026-11-25T15:52:09Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/23/23ad1037598597593133035780e924a64d201418ac3390162923930b02c64c20.jpg",
+   "hosted": true,
+   "sha256": "23ad1037598597593133035780e924a64d201418ac3390162923930b02c64c20",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.29064",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Hao-Yu Hsu et al., arXiv:2611.29064",
+   "attributionUrl": "https://arxiv.org/abs/2611.29064",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-25T15:52:09Z"
+  }
+ ]
+}

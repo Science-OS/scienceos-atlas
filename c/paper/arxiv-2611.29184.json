@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.29184",
+ "ids": {
+  "arxiv": "2611.29184"
+ },
+ "updatedAt": "2026-11-25T15:52:09Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/29/29903f8184d995479a8f044152d544ee2d7fd1f0dbd20197fd23bfea527db546.jpg",
+   "hosted": true,
+   "sha256": "29903f8184d995479a8f044152d544ee2d7fd1f0dbd20197fd23bfea527db546",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.29184",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Conghan Yue et al., arXiv:2611.29184",
+   "attributionUrl": "https://arxiv.org/abs/2611.29184",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-25T15:52:09Z"
+  }
+ ]
+}

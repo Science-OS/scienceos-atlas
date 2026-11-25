@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.32305",
+ "ids": {
+  "arxiv": "2611.32305"
+ },
+ "updatedAt": "2026-11-25T15:52:09Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e9/e98cd5bb0bfe110b3c863b7b9e8b5716ae466f4482d73d60c2e924638d3a50bf.jpg",
+   "hosted": true,
+   "sha256": "e98cd5bb0bfe110b3c863b7b9e8b5716ae466f4482d73d60c2e924638d3a50bf",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 850,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.32305",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Sudipta Sahu et al., arXiv:2611.32305",
+   "attributionUrl": "https://arxiv.org/abs/2611.32305",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-25T15:52:09Z"
+  }
+ ]
+}

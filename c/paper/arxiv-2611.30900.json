@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.30900",
+ "ids": {
+  "arxiv": "2611.30900"
+ },
+ "updatedAt": "2026-11-25T15:52:09Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ed/ed8dbbf060586b82e7fdab260daf540c5a822875529f781e41c5ed10e862aea6.jpg",
+   "hosted": true,
+   "sha256": "ed8dbbf060586b82e7fdab260daf540c5a822875529f781e41c5ed10e862aea6",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.30900",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Anh Dao et al., arXiv:2611.30900",
+   "attributionUrl": "https://arxiv.org/abs/2611.30900",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-25T15:52:09Z"
+  }
+ ]
+}

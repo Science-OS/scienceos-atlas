@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.33148",
+ "ids": {
+  "arxiv": "2611.33148"
+ },
+ "updatedAt": "2026-11-25T15:52:09Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ac/ac30200d72ddec0867af869f8344fe6b37852fed12f2b2341b388fe976a1b762.jpg",
+   "hosted": true,
+   "sha256": "ac30200d72ddec0867af869f8344fe6b37852fed12f2b2341b388fe976a1b762",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.33148",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Dawid J. Kopiczko et al., arXiv:2611.33148",
+   "attributionUrl": "https://arxiv.org/abs/2611.33148",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-25T15:52:09Z"
+  }
+ ]
+}

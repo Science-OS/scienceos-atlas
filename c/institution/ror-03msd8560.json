@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03msd8560",
+ "ids": {
+  "wikidata": "Q112085318",
+  "ror": "03msd8560"
+ },
+ "updatedAt": "2026-11-25T15:52:09Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.amii.ca&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "https://www.amii.ca",
+   "confidence": 0.5,
+   "fetchedAt": "2026-11-25T15:52:09Z"
+  }
+ ]
+}

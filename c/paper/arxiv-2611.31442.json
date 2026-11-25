@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.31442",
+ "ids": {
+  "arxiv": "2611.31442"
+ },
+ "updatedAt": "2026-11-25T15:52:09Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/67/67f9e459738af25f9b935a2e1d438a76b7a4511fa70d44731e7d512a74807212.jpg",
+   "hosted": true,
+   "sha256": "67f9e459738af25f9b935a2e1d438a76b7a4511fa70d44731e7d512a74807212",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.31442",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Sayed Amir Karim, arXiv:2611.31442",
+   "attributionUrl": "https://arxiv.org/abs/2611.31442",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-25T15:52:09Z"
+  }
+ ]
+}
