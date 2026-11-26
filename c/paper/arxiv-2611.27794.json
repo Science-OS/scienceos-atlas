@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.27794",
+ "ids": {
+  "arxiv": "2611.27794"
+ },
+ "updatedAt": "2026-11-26T15:31:21Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/75/75fd5a50fca48c698779843621f7d0c2a7378320eb4ad1db3c1af0078accaafd.jpg",
+   "hosted": true,
+   "sha256": "75fd5a50fca48c698779843621f7d0c2a7378320eb4ad1db3c1af0078accaafd",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.27794",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "João Victor Galvão da Mata et al., arXiv:2611.27794",
+   "attributionUrl": "https://arxiv.org/abs/2611.27794",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-26T15:31:21Z"
+  }
+ ]
+}

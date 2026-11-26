@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.34222",
+ "ids": {
+  "arxiv": "2611.34222"
+ },
+ "updatedAt": "2026-11-26T15:31:21Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c0/c0d7f593e450e95f393a7a141f5712e4946bf752658f34cc25a2cf6412262979.jpg",
+   "hosted": true,
+   "sha256": "c0d7f593e450e95f393a7a141f5712e4946bf752658f34cc25a2cf6412262979",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.34222",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Abdulkadir Celik et al., arXiv:2611.34222",
+   "attributionUrl": "https://arxiv.org/abs/2611.34222",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-26T15:31:21Z"
+  }
+ ]
+}

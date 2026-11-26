@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.26881",
+ "ids": {
+  "arxiv": "2611.26881"
+ },
+ "updatedAt": "2026-11-26T15:31:21Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/7c/7ca195c71ee03243175ab3b1bbf409dc2d1ed30602471ba8a9f5282c47b537d8.jpg",
+   "hosted": true,
+   "sha256": "7ca195c71ee03243175ab3b1bbf409dc2d1ed30602471ba8a9f5282c47b537d8",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.26881",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Abdullah Ahmad et al., arXiv:2611.26881",
+   "attributionUrl": "https://arxiv.org/abs/2611.26881",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-26T15:31:21Z"
+  }
+ ]
+}

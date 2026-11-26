@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.31895",
+ "ids": {
+  "arxiv": "2611.31895"
+ },
+ "updatedAt": "2026-11-26T15:31:21Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/74/74d070275e1f5ef6e38a0754ff57579a9337d7c94701d56d67c3cb4f0a5085bf.jpg",
+   "hosted": true,
+   "sha256": "74d070275e1f5ef6e38a0754ff57579a9337d7c94701d56d67c3cb4f0a5085bf",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.31895",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Kai Zeng et al., arXiv:2611.31895",
+   "attributionUrl": "https://arxiv.org/abs/2611.31895",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-26T15:31:21Z"
+  }
+ ]
+}

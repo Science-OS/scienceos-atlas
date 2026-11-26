@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.26863",
+ "ids": {
+  "arxiv": "2611.26863"
+ },
+ "updatedAt": "2026-11-26T15:31:21Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/2c/2c9da9a12316be087f8f2fd5fd4c513784338f1d7548ccadc3ff5fece1e5275b.jpg",
+   "hosted": true,
+   "sha256": "2c9da9a12316be087f8f2fd5fd4c513784338f1d7548ccadc3ff5fece1e5275b",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.26863",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Anirudh Atmakuru et al., arXiv:2611.26863",
+   "attributionUrl": "https://arxiv.org/abs/2611.26863",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-26T15:31:21Z"
+  }
+ ]
+}

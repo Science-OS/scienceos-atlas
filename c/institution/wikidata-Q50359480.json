@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q50359480",
+ "ids": {
+  "wikidata": "Q50359480",
+  "ror": "00r2r5k05"
+ },
+ "updatedAt": "2026-11-26T15:31:21Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://16836c80.delivery.rocketcdn.me/wp-content/uploads/2018/11/logo-pada.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.uniwa.gr",
+   "attributionUrl": "https://www.uniwa.gr",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-26T15:31:21Z"
+  }
+ ]
+}

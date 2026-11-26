@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-05nz37n09",
+ "ids": {
+  "wikidata": "Q483758",
+  "ror": "05nz37n09"
+ },
+ "updatedAt": "2026-11-26T15:31:21Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/1e/1e53c5f83228a39a6cd4f511419024176a7d09efc6c73eff6e357a948435a4d6.webp",
+   "hosted": true,
+   "sha256": "1e53c5f83228a39a6cd4f511419024176a7d09efc6c73eff6e357a948435a4d6",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 132,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Anadolu_University_Logo.png",
+   "license": "Public domain",
+   "attribution": "Anadolu University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Anadolu_University_Logo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-26T15:31:21Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.33144",
+ "ids": {
+  "arxiv": "2611.33144"
+ },
+ "updatedAt": "2026-11-26T15:31:21Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d3/d3392de9f2f4ac2b5802c270032bc09c616cf1d0f129e175569a42c85836006b.jpg",
+   "hosted": true,
+   "sha256": "d3392de9f2f4ac2b5802c270032bc09c616cf1d0f129e175569a42c85836006b",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.33144",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Feixiang Ruan et al., arXiv:2611.33144",
+   "attributionUrl": "https://arxiv.org/abs/2611.33144",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-26T15:31:21Z"
+  }
+ ]
+}

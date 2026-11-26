@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.27462",
+ "ids": {
+  "arxiv": "2611.27462"
+ },
+ "updatedAt": "2026-11-26T15:31:21Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/77/77b14db3712c2397173979a22550a07420934d3d9a935cef1b6ec125689c926b.jpg",
+   "hosted": true,
+   "sha256": "77b14db3712c2397173979a22550a07420934d3d9a935cef1b6ec125689c926b",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.27462",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Clara Punzi et al., arXiv:2611.27462",
+   "attributionUrl": "https://arxiv.org/abs/2611.27462",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-26T15:31:21Z"
+  }
+ ]
+}

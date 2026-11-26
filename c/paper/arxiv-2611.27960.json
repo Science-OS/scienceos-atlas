@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.27960",
+ "ids": {
+  "arxiv": "2611.27960"
+ },
+ "updatedAt": "2026-11-26T15:31:21Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/8d/8dc32458e308c6f857d78c91fed6dca3dfb38d18900e52863a9cbca75889c198.jpg",
+   "hosted": true,
+   "sha256": "8dc32458e308c6f857d78c91fed6dca3dfb38d18900e52863a9cbca75889c198",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.27960",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Zhaojie Chai et al., arXiv:2611.27960",
+   "attributionUrl": "https://arxiv.org/abs/2611.27960",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-26T15:31:21Z"
+  }
+ ]
+}

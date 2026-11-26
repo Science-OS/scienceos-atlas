@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.34888",
+ "ids": {
+  "arxiv": "2611.34888"
+ },
+ "updatedAt": "2026-11-26T15:31:21Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/a3/a3d1a34a217d6b526b1f520a80926d5aabfa90ee31a7f8d781da46a243c15780.jpg",
+   "hosted": true,
+   "sha256": "a3d1a34a217d6b526b1f520a80926d5aabfa90ee31a7f8d781da46a243c15780",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.34888",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Gaia Grosso et al., arXiv:2611.34888",
+   "attributionUrl": "https://arxiv.org/abs/2611.34888",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-26T15:31:21Z"
+  }
+ ]
+}

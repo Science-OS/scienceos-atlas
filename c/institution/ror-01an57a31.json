@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01an57a31",
+ "ids": {
+  "wikidata": "Q53122",
+  "ror": "01an57a31"
+ },
+ "updatedAt": "2026-11-26T15:31:21Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/8b/8b90ec69b37ea3932a64f7fc07e696333be7bbba10478f8a1a87b3ead22f1067.webp",
+   "hosted": true,
+   "sha256": "8b90ec69b37ea3932a64f7fc07e696333be7bbba10478f8a1a87b3ead22f1067",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 66,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pusan_national_university_logotype.svg",
+   "license": "Public domain",
+   "attribution": "Pusan National University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Pusan_national_university_logotype.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-26T15:31:21Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.34064",
+ "ids": {
+  "arxiv": "2611.34064"
+ },
+ "updatedAt": "2026-11-26T15:31:21Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/db/db1ab900b3aec62d1ef8c5f558c0967a170d73302f5edc476dec1896f7ba9c50.jpg",
+   "hosted": true,
+   "sha256": "db1ab900b3aec62d1ef8c5f558c0967a170d73302f5edc476dec1896f7ba9c50",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.34064",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Zesong Yang et al., arXiv:2611.34064",
+   "attributionUrl": "https://arxiv.org/abs/2611.34064",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-26T15:31:21Z"
+  }
+ ]
+}

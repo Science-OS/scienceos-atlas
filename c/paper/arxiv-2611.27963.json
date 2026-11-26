@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.27963",
+ "ids": {
+  "arxiv": "2611.27963"
+ },
+ "updatedAt": "2026-11-26T15:31:21Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/13/13f3620ffd981b2153822a10e014a305f0c49e8dc3e2e0ade56a77f52477a736.jpg",
+   "hosted": true,
+   "sha256": "13f3620ffd981b2153822a10e014a305f0c49e8dc3e2e0ade56a77f52477a736",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.27963",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Yuhang Dai et al., arXiv:2611.27963",
+   "attributionUrl": "https://arxiv.org/abs/2611.27963",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-26T15:31:21Z"
+  }
+ ]
+}

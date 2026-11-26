@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q7905547",
+ "ids": {
+  "wikidata": "Q7905547",
+  "ror": "05es91y67"
+ },
+ "updatedAt": "2026-11-26T15:31:21Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/5c/5c6df0e51570d410b26e3e3b931e2ff0b650fd78f8f5ef64ca15c80dfe701385.webp",
+   "hosted": true,
+   "sha256": "5c6df0e51570d410b26e3e3b931e2ff0b650fd78f8f5ef64ca15c80dfe701385",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/U%C5%9Fak_University_logo.svg",
+   "license": "Public domain",
+   "attribution": "Uşak University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:U%C5%9Fak_University_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-26T15:31:21Z"
+  }
+ ]
+}

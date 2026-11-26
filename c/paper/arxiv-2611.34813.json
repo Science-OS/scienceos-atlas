@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.34813",
+ "ids": {
+  "arxiv": "2611.34813"
+ },
+ "updatedAt": "2026-11-26T15:31:21Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/50/50171b78884649df45109790578f527269f80c5a5d2410cebeebb5e1b3457ba5.jpg",
+   "hosted": true,
+   "sha256": "50171b78884649df45109790578f527269f80c5a5d2410cebeebb5e1b3457ba5",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.34813",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Dezhi Luo et al., arXiv:2611.34813",
+   "attributionUrl": "https://arxiv.org/abs/2611.34813",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-26T15:31:21Z"
+  }
+ ]
+}

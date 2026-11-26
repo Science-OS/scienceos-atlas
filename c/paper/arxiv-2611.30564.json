@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.30564",
+ "ids": {
+  "arxiv": "2611.30564"
+ },
+ "updatedAt": "2026-11-26T15:31:21Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/61/6100a0cf53628110f5caad3b001a64a32c6b434178afe9e6db362e1d83e64a29.jpg",
+   "hosted": true,
+   "sha256": "6100a0cf53628110f5caad3b001a64a32c6b434178afe9e6db362e1d83e64a29",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.30564",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Wilson Wongso et al., arXiv:2611.30564",
+   "attributionUrl": "https://arxiv.org/abs/2611.30564",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-26T15:31:21Z"
+  }
+ ]
+}

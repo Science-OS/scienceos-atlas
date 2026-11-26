@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.27969",
+ "ids": {
+  "arxiv": "2611.27969"
+ },
+ "updatedAt": "2026-11-26T15:31:21Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c2/c219a29cf4391c4aa62f468c32816eea52337450e43530ce42aa737c15b55bcb.jpg",
+   "hosted": true,
+   "sha256": "c219a29cf4391c4aa62f468c32816eea52337450e43530ce42aa737c15b55bcb",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.27969",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Franziska Weber, arXiv:2611.27969",
+   "attributionUrl": "https://arxiv.org/abs/2611.27969",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-26T15:31:21Z"
+  }
+ ]
+}

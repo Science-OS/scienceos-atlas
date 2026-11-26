@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-030atj633",
+ "ids": {
+  "wikidata": "Q1720084",
+  "ror": "030atj633"
+ },
+ "updatedAt": "2026-11-26T15:31:21Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/36/361a4b49b27c51504157e9ddbbdf84922286a71835e78d2fe3f1407b8e42318e.webp",
+   "hosted": true,
+   "sha256": "361a4b49b27c51504157e9ddbbdf84922286a71835e78d2fe3f1407b8e42318e",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 239,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Saudi_Ministry_of_Health.JPG",
+   "license": "Public domain",
+   "attribution": "Saudi Ministry of Health",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Saudi_Ministry_of_Health.JPG",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-26T15:31:21Z"
+  }
+ ]
+}

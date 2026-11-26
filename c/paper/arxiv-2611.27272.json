@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.27272",
+ "ids": {
+  "arxiv": "2611.27272"
+ },
+ "updatedAt": "2026-11-26T15:31:21Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/46/46738a08bb1998c854a3d3bdbd319de78c13d2316f4fe77b40c5b34816a601b4.jpg",
+   "hosted": true,
+   "sha256": "46738a08bb1998c854a3d3bdbd319de78c13d2316f4fe77b40c5b34816a601b4",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.27272",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Oliver Lundqvist et al., arXiv:2611.27272",
+   "attributionUrl": "https://arxiv.org/abs/2611.27272",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-26T15:31:21Z"
+  }
+ ]
+}

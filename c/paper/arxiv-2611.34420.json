@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.34420",
+ "ids": {
+  "arxiv": "2611.34420"
+ },
+ "updatedAt": "2026-11-26T15:31:21Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/6a/6aa96347ad8452405040f4be5c985c987f78415ddc87bb6fed64b595d3703ebf.jpg",
+   "hosted": true,
+   "sha256": "6aa96347ad8452405040f4be5c985c987f78415ddc87bb6fed64b595d3703ebf",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.34420",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Hoang-Nhat Nguyen et al., arXiv:2611.34420",
+   "attributionUrl": "https://arxiv.org/abs/2611.34420",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-26T15:31:21Z"
+  }
+ ]
+}

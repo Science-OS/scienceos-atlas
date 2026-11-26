@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.34849",
+ "ids": {
+  "arxiv": "2611.34849"
+ },
+ "updatedAt": "2026-11-26T15:31:21Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/9a/9a61cf1f815cffd8f672068832712b20fa7233d4ef8852fbeed92033b63432d9.jpg",
+   "hosted": true,
+   "sha256": "9a61cf1f815cffd8f672068832712b20fa7233d4ef8852fbeed92033b63432d9",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.34849",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Yongchang Zhang et al., arXiv:2611.34849",
+   "attributionUrl": "https://arxiv.org/abs/2611.34849",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-26T15:31:21Z"
+  }
+ ]
+}

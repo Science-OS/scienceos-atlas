@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.33953",
+ "ids": {
+  "arxiv": "2611.33953"
+ },
+ "updatedAt": "2026-11-26T15:31:21Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c3/c3cdb634722003d110a16325aede4ed21497ad23e8b3baf7419ace4f9697300a.jpg",
+   "hosted": true,
+   "sha256": "c3cdb634722003d110a16325aede4ed21497ad23e8b3baf7419ace4f9697300a",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.33953",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Claire David et al., arXiv:2611.33953",
+   "attributionUrl": "https://arxiv.org/abs/2611.33953",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-26T15:31:21Z"
+  }
+ ]
+}

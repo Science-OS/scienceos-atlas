@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q7826705",
+ "ids": {
+  "wikidata": "Q7826705",
+  "ror": "040zce739"
+ },
+ "updatedAt": "2026-11-26T15:31:21Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.toros.edu.tr/storage/toros/images/favicon/android-icon-192x192.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.toros.edu.tr/",
+   "attributionUrl": "https://www.toros.edu.tr/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-26T15:31:21Z"
+  }
+ ]
+}

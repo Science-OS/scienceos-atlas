@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04tk2gy88",
+ "ids": {
+  "wikidata": "Q7487946",
+  "ror": "04tk2gy88"
+ },
+ "updatedAt": "2026-11-26T15:31:21Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/fe/fe38c5adc0bab40342bc2e76fe53a445e548e750f0f5fb5228cddf13c76b4c3a.webp",
+   "hosted": true,
+   "sha256": "fe38c5adc0bab40342bc2e76fe53a445e548e750f0f5fb5228cddf13c76b4c3a",
+   "mime": "image/webp",
+   "width": 177,
+   "height": 66,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/UFHealth_logo.png",
+   "license": "Public domain",
+   "attribution": "University of Florida Health",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:UFHealth_logo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-26T15:31:21Z"
+  }
+ ]
+}
