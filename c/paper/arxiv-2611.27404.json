@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.27404",
+ "ids": {
+  "arxiv": "2611.27404"
+ },
+ "updatedAt": "2026-11-27T15:24:56Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/63/638e5b03a9ac9003dc2f0467885ef0f253fef81005276d0005d6c274f68c1fc2.jpg",
+   "hosted": true,
+   "sha256": "638e5b03a9ac9003dc2f0467885ef0f253fef81005276d0005d6c274f68c1fc2",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.27404",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Hennadii Kutomanov, arXiv:2611.27404",
+   "attributionUrl": "https://arxiv.org/abs/2611.27404",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-27T15:24:56Z"
+  }
+ ]
+}

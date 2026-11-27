@@ -1,0 +1,24 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "wikidata-Q102432301",
+ "ids": {
+  "orcid": "0000-0002-4693-3565",
+  "wikidata": "Q102432301",
+  "openalex": "A5021862056",
+  "github": "arash-mham"
+ },
+ "updatedAt": "2026-11-27T15:24:56Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://github.com/arash-mham.png?size=256",
+   "hosted": false,
+   "source": "github",
+   "attribution": "GitHub profile @arash-mham",
+   "attributionUrl": "https://github.com/arash-mham",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-27T15:24:56Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.34457",
+ "ids": {
+  "arxiv": "2611.34457"
+ },
+ "updatedAt": "2026-11-27T15:24:56Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/80/8088f97235df971e5228a21098c0f552c0e5f4aa02830e6607be15b82f3ffa54.jpg",
+   "hosted": true,
+   "sha256": "8088f97235df971e5228a21098c0f552c0e5f4aa02830e6607be15b82f3ffa54",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.34457",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Zhenchen Tang et al., arXiv:2611.34457",
+   "attributionUrl": "https://arxiv.org/abs/2611.34457",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-27T15:24:56Z"
+  }
+ ]
+}

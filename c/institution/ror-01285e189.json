@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01285e189",
+ "ids": {
+  "wikidata": "Q8044115",
+  "ror": "01285e189"
+ },
+ "updatedAt": "2026-11-27T15:24:56Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.xmut.edu.cn/images/favicon.ico",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.xmut.edu.cn",
+   "attributionUrl": "https://www.xmut.edu.cn",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-27T15:24:56Z"
+  }
+ ]
+}

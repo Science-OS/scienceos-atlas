@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.20844",
+ "ids": {
+  "arxiv": "2611.20844"
+ },
+ "updatedAt": "2026-11-27T15:24:56Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/db/dbf8766f3d2825809d29109bf73abc6a00a5720fff8e50128a32d5437ff98ac6.jpg",
+   "hosted": true,
+   "sha256": "dbf8766f3d2825809d29109bf73abc6a00a5720fff8e50128a32d5437ff98ac6",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.20844",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Hanlin Tian et al., arXiv:2611.20844",
+   "attributionUrl": "https://arxiv.org/abs/2611.20844",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-27T15:24:56Z"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-05gftfe97",
+ "ids": {
+  "wikidata": "Q741618",
+  "ror": "05gftfe97"
+ },
+ "updatedAt": "2026-11-27T15:24:56Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/09/093db86b1204c27007303de0bc2c6777a40aed7f1cf098e98901a4ec86044c44.webp",
+   "hosted": true,
+   "sha256": "093db86b1204c27007303de0bc2c6777a40aed7f1cf098e98901a4ec86044c44",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 171,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mobile_World_Congress_2017.jpg",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+   "attribution": "Kārlis Dambrāns",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Mobile_World_Congress_2017.jpg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-27T15:24:56Z"
+  }
+ ]
+}

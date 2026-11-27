@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.28231",
+ "ids": {
+  "arxiv": "2611.28231"
+ },
+ "updatedAt": "2026-11-27T15:24:56Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/81/81ea0710622df86591af6d83438190a78254bbf9b63a68cb2f6df0973114f745.jpg",
+   "hosted": true,
+   "sha256": "81ea0710622df86591af6d83438190a78254bbf9b63a68cb2f6df0973114f745",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 849,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.28231",
+   "license": "CC0 1.0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0",
+   "attribution": "Suleman Khan et al., arXiv:2611.28231",
+   "attributionUrl": "https://arxiv.org/abs/2611.28231",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-27T15:24:56Z"
+  }
+ ]
+}

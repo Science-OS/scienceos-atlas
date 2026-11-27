@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.27965",
+ "ids": {
+  "arxiv": "2611.27965"
+ },
+ "updatedAt": "2026-11-27T15:24:56Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d6/d63c1b887e2082ce1fde075974066f75aa703adcab03ccc619f65c5cf6bfc5da.jpg",
+   "hosted": true,
+   "sha256": "d63c1b887e2082ce1fde075974066f75aa703adcab03ccc619f65c5cf6bfc5da",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.27965",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Felix Brandt et al., arXiv:2611.27965",
+   "attributionUrl": "https://arxiv.org/abs/2611.27965",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-27T15:24:56Z"
+  }
+ ]
+}

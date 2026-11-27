@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q25172222",
+ "ids": {
+  "wikidata": "Q25172222",
+  "ror": "03zaddr67"
+ },
+ "updatedAt": "2026-11-27T15:24:56Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.moorfields.nhs.uk/img/favicon/apple-touch-icon.png?v=20251217",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.moorfields.nhs.uk/",
+   "attributionUrl": "https://www.moorfields.nhs.uk/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-27T15:24:56Z"
+  }
+ ]
+}
