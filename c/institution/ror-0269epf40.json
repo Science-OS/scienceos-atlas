@@ -1,0 +1,21 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-0269epf40",
+ "ids": {
+  "ror": "0269epf40"
+ },
+ "updatedAt": "2026-11-28T14:24:32Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://cdn.ucl.ac.uk/favicons/android-chrome-192x192.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.ucl.ac.uk/life-sciences/gatsby",
+   "attributionUrl": "https://www.ucl.ac.uk/life-sciences/gatsby",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-28T14:24:32Z"
+  }
+ ]
+}

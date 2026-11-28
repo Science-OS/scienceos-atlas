@@ -1,0 +1,30 @@
+{
+ "version": 1,
+ "kind": "author",
+ "key": "wikidata-Q59683248",
+ "ids": {
+  "orcid": "0000-0003-4677-6990",
+  "wikidata": "Q59683248",
+  "openalex": "A5031046135"
+ },
+ "updatedAt": "2026-11-28T14:24:32Z",
+ "assets": [
+  {
+   "role": "photo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/98/985229dc14ff762fbb99eaf6558150d5b4cc85240e54e4afca53903d8a1a0d51.webp",
+   "hosted": true,
+   "sha256": "985229dc14ff762fbb99eaf6558150d5b4cc85240e54e4afca53903d8a1a0d51",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 162,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chris_Rycroft_self-portrait%2C_2023.jpg",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+   "attribution": "Chris Rycroft",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Chris_Rycroft_self-portrait,_2023.jpg",
+   "confidence": 0.95,
+   "fetchedAt": "2026-11-28T14:24:32Z"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-041bbkr27",
+ "ids": {
+  "wikidata": "Q1388519",
+  "ror": "041bbkr27"
+ },
+ "updatedAt": "2026-11-28T14:24:32Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/c0/c0f2ed69a3dcc038d5b10f099e22cc91edb6a1bc88bb93346e9b4350cc28dc7e.webp",
+   "hosted": true,
+   "sha256": "c0f2ed69a3dcc038d5b10f099e22cc91edb6a1bc88bb93346e9b4350cc28dc7e",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 214,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/European_Union_Satellite_Centre_logo.svg",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "歐盟衛星中心, European Union Satellite Centre",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:European_Union_Satellite_Centre_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-28T14:24:32Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-05g13zd79",
+ "ids": {
+  "wikidata": "Q611723",
+  "ror": "05g13zd79"
+ },
+ "updatedAt": "2026-11-28T14:24:32Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/8d/8d7bef28edd8c71ac382721ae414a31bea4a329fa1c9ea2299e601a9525767a6.webp",
+   "hosted": true,
+   "sha256": "8d7bef28edd8c71ac382721ae414a31bea4a329fa1c9ea2299e601a9525767a6",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 140,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/TMU_logo.svg",
+   "license": "Public domain",
+   "attribution": "Toronto Metropolitan University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:TMU_logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-28T14:24:32Z"
+  }
+ ]
+}

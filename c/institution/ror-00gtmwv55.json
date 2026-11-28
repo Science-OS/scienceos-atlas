@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-00gtmwv55",
+ "ids": {
+  "wikidata": "Q266423",
+  "ror": "00gtmwv55"
+ },
+ "updatedAt": "2026-11-28T14:24:32Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e9/e90f791f2a68c480f64317c0febcb1a82075d06775597e093f8d762cbc9ef4b1.webp",
+   "hosted": true,
+   "sha256": "e90f791f2a68c480f64317c0febcb1a82075d06775597e093f8d762cbc9ef4b1",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 42,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bristol-Myers_Squibb_logo_%282020%29.svg",
+   "license": "Public domain",
+   "attribution": "Bristol-Myers Squibb",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Bristol-Myers_Squibb_logo_(2020).svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-28T14:24:32Z"
+  }
+ ]
+}

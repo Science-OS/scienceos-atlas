@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-03kfmm080",
+ "ids": {
+  "wikidata": "Q30253781",
+  "ror": "03kfmm080"
+ },
+ "updatedAt": "2026-11-28T14:24:32Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fcancer-c.pref.aichi.jp%2F&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "https://cancer-c.pref.aichi.jp/",
+   "confidence": 0.5,
+   "fetchedAt": "2026-11-28T14:24:32Z"
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-022txr781",
+ "ids": {
+  "ror": "022txr781"
+ },
+ "updatedAt": "2026-11-28T14:24:32Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.lpc-caen.in2p3.fr/wp-content/uploads/2024/10/cropped-LPCCaen-192x192.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of http://www.lpc-caen.in2p3.fr/?lang=fr",
+   "attributionUrl": "http://www.lpc-caen.in2p3.fr/?lang=fr",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-28T14:24:32Z"
+  }
+ ]
+}

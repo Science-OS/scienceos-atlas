@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04nkhwh30",
+ "ids": {
+  "wikidata": "Q1474019",
+  "ror": "04nkhwh30"
+ },
+ "updatedAt": "2026-11-28T14:24:32Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/b9/b9d94baaa8598914fecdde35fc5185788d7c173bd0eb27143dad63799375e77e.webp",
+   "hosted": true,
+   "sha256": "b9d94baaa8598914fecdde35fc5185788d7c173bd0eb27143dad63799375e77e",
+   "mime": "image/webp",
+   "width": 205,
+   "height": 256,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Hull_arms.svg",
+   "license": "Public domain",
+   "attribution": "Hogweard",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:University_of_Hull_arms.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-28T14:24:32Z"
+  }
+ ]
+}

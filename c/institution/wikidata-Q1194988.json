@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1194988",
+ "ids": {
+  "wikidata": "Q1194988",
+  "ror": "04wez5e68"
+ },
+ "updatedAt": "2026-11-28T14:24:32Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/a1/a1268e8e494eecb798ae0f0849b571c88565da22016caff3462ec4e21d5906fe.webp",
+   "hosted": true,
+   "sha256": "a1268e8e494eecb798ae0f0849b571c88565da22016caff3462ec4e21d5906fe",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 126,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Universit%C3%A9_Paris_8_Logo_2024.svg",
+   "license": "Public domain",
+   "attribution": "Université Paris 8",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Universit%C3%A9_Paris_8_Logo_2024.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-28T14:24:32Z"
+  }
+ ]
+}

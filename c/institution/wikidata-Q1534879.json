@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q1534879",
+ "ids": {
+  "wikidata": "Q1534879",
+  "ror": "01wj7vt66"
+ },
+ "updatedAt": "2026-11-28T14:24:32Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/f4/f4e48c1e0d98f6e45a15025e6aa8bc1ea10e66857a9574632236e7d935a555bd.webp",
+   "hosted": true,
+   "sha256": "f4e48c1e0d98f6e45a15025e6aa8bc1ea10e66857a9574632236e7d935a555bd",
+   "mime": "image/webp",
+   "width": 157,
+   "height": 60,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ggulogo.gif",
+   "license": "Public domain",
+   "attribution": "Wikimedia Commons",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Ggulogo.gif",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-28T14:24:32Z"
+  }
+ ]
+}

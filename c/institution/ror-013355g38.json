@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-013355g38",
+ "ids": {
+  "wikidata": "Q5211467",
+  "ror": "013355g38"
+ },
+ "updatedAt": "2026-11-28T14:24:32Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://idsia.usi-supsi.ch/o/usi-supsi-theme/images/favicon.ico",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of http://www.idsia.ch/",
+   "attributionUrl": "http://www.idsia.ch/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-28T14:24:32Z"
+  }
+ ]
+}

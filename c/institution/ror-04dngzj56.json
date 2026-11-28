@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04dngzj56",
+ "ids": {
+  "wikidata": "Q467164",
+  "ror": "04dngzj56"
+ },
+ "updatedAt": "2026-11-28T14:24:32Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ec/ece07be56e047cdeb6d70ada21117e9282827dbef5b09a7868bdfb15b05e63d7.webp",
+   "hosted": true,
+   "sha256": "ece07be56e047cdeb6d70ada21117e9282827dbef5b09a7868bdfb15b05e63d7",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 157,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%D5%80%D4%B1%D5%80_%D5%AC%D5%B8%D5%A3%D5%B8.png",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "MagaHov",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:%D5%80%D4%B1%D5%80_%D5%AC%D5%B8%D5%A3%D5%B8.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-28T14:24:32Z"
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-018nzqy79",
+ "ids": {
+  "wikidata": "Q51785125",
+  "ror": "018nzqy79"
+ },
+ "updatedAt": "2026-11-28T14:24:32Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.math.univ-paris13.fr/wp-content/uploads/2020/01/logo-laga.jpg",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.math.univ-paris13.fr/laga/index.php/en/",
+   "attributionUrl": "https://www.math.univ-paris13.fr/laga/index.php/en/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-28T14:24:32Z"
+  }
+ ]
+}

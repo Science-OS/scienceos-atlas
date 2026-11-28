@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "wikidata-Q2661844",
+ "ids": {
+  "wikidata": "Q2661844",
+  "ror": "01kzn7k21"
+ },
+ "updatedAt": "2026-11-28T14:24:32Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/cc/cc4b25412512a38d5e7fef1c3d4950ab923a0bbac5f3792fa1ea74e2229d0db2.webp",
+   "hosted": true,
+   "sha256": "cc4b25412512a38d5e7fef1c3d4950ab923a0bbac5f3792fa1ea74e2229d0db2",
+   "mime": "image/webp",
+   "width": 250,
+   "height": 208,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/IAUTMU_Logo_%28cropped%29.png",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "This logo belongs to Islamic Azad University in Iran",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:IAUTMU_Logo_(cropped).png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-28T14:24:32Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-05ep8g269",
+ "ids": {
+  "wikidata": "Q663984",
+  "ror": "05ep8g269"
+ },
+ "updatedAt": "2026-11-28T14:24:32Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/77/7734b59a9a49fe5e536c689f9bf93a947e197776e72a5fe63324451b2319b487.webp",
+   "hosted": true,
+   "sha256": "7734b59a9a49fe5e536c689f9bf93a947e197776e72a5fe63324451b2319b487",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 109,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_of_SUPSI_Scuola_universitaria_professionale_della_Svizzera_italiana_01.png",
+   "license": "Public domain",
+   "attribution": "SUPSI Scuola universitaria professionale della Svizzera italiana",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_of_SUPSI_Scuola_universitaria_professionale_della_Svizzera_italiana_01.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-28T14:24:32Z"
+  }
+ ]
+}

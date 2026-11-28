@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01cwqze88",
+ "ids": {
+  "wikidata": "Q390551",
+  "ror": "01cwqze88"
+ },
+ "updatedAt": "2026-11-28T14:24:32Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/56/562b0e196dd77853249a03fbb3a43c05733c1e7462b27dafb839e4296b5b2400.webp",
+   "hosted": true,
+   "sha256": "562b0e196dd77853249a03fbb3a43c05733c1e7462b27dafb839e4296b5b2400",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 226,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/NIH_2013_logo_vertical.svg",
+   "license": "Public domain",
+   "attribution": "Original: National Institutes of Health Vector: AntiCompositeNumber",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:NIH_2013_logo_vertical.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-28T14:24:32Z"
+  }
+ ]
+}

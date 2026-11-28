@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04atsbb87",
+ "ids": {
+  "wikidata": "Q3152650",
+  "ror": "04atsbb87"
+ },
+ "updatedAt": "2026-11-28T14:24:32Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/70/70c3b041922ba626c9236a6ea315dd250ce0f27f3366fb3a302e311b64543824.webp",
+   "hosted": true,
+   "sha256": "70c3b041922ba626c9236a6ea315dd250ce0f27f3366fb3a302e311b64543824",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 92,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Florida_tech_star_wordmark.png",
+   "license": "Public domain",
+   "attribution": "Unknown author Unknown author",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Florida_tech_star_wordmark.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-28T14:24:32Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-002rjbv21",
+ "ids": {
+  "wikidata": "Q1634522",
+  "ror": "002rjbv21"
+ },
+ "updatedAt": "2026-11-28T14:24:32Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/ab/ab71e7be54bfcf779c6633860e49022b4588af52599fa25dba7aed537a651048.webp",
+   "hosted": true,
+   "sha256": "ab71e7be54bfcf779c6633860e49022b4588af52599fa25dba7aed537a651048",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 86,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Universit%C3%A9_du_Qu%C3%A9bec_%C3%A0_Montr%C3%A9al_Logo.svg",
+   "license": "Public domain",
+   "attribution": "Université du Québec à Montréal",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Universit%C3%A9_du_Qu%C3%A9bec_%C3%A0_Montr%C3%A9al_Logo.svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-28T14:24:32Z"
+  }
+ ]
+}

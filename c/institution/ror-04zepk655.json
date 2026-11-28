@@ -1,0 +1,21 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04zepk655",
+ "ids": {
+  "ror": "04zepk655"
+ },
+ "updatedAt": "2026-11-28T14:24:32Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://cdn.qut.ac.ir/files/f0339605-cfc3-4909-9dcd-ce8d1d4e0747/6dadb00fa8d547568dfcf8bab1f4e7ee.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.qut.ac.ir/",
+   "attributionUrl": "https://www.qut.ac.ir/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-28T14:24:32Z"
+  }
+ ]
+}

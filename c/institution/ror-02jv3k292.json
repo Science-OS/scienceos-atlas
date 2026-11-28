@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-02jv3k292",
+ "ids": {
+  "wikidata": "Q841581",
+  "ror": "02jv3k292"
+ },
+ "updatedAt": "2026-11-28T14:24:32Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.uni-sofia.bg%2F&size=128",
+   "hosted": false,
+   "source": "favicon",
+   "attribution": "Google favicon service",
+   "attributionUrl": "https://www.uni-sofia.bg/",
+   "confidence": 0.5,
+   "fetchedAt": "2026-11-28T14:24:32Z"
+  }
+ ]
+}

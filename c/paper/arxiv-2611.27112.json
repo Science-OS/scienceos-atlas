@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "paper",
+ "key": "arxiv-2611.27112",
+ "ids": {
+  "arxiv": "2611.27112"
+ },
+ "updatedAt": "2026-11-28T14:24:32Z",
+ "assets": [
+  {
+   "role": "thumbnail",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/e6/e69c78a12a2d9c5f49f84fe82291482d7de66182a5710258cd9656a85c9509d3.jpg",
+   "hosted": true,
+   "sha256": "e69c78a12a2d9c5f49f84fe82291482d7de66182a5710258cd9656a85c9509d3",
+   "mime": "image/jpeg",
+   "width": 600,
+   "height": 777,
+   "source": "arxiv_pdf",
+   "sourceUrl": "https://arxiv.org/pdf/2611.27112",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Sandeep Dhuri, arXiv:2611.27112",
+   "attributionUrl": "https://arxiv.org/abs/2611.27112",
+   "confidence": 1.0,
+   "fetchedAt": "2026-11-28T14:24:32Z"
+  }
+ ]
+}

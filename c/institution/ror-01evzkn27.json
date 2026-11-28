@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01evzkn27",
+ "ids": {
+  "wikidata": "Q5508996",
+  "ror": "01evzkn27"
+ },
+ "updatedAt": "2026-11-28T14:24:32Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/4d/4d4d9eeebd3859411db870b12849f3500c9dc632b33177dc6c4100bb39bb14a8.webp",
+   "hosted": true,
+   "sha256": "4d4d9eeebd3859411db870b12849f3500c9dc632b33177dc6c4100bb39bb14a8",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 46,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_FGV_-_Funda%C3%A7%C3%A3o_Getulio_Vargas.png",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Fundação Getulio Vargas",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Logo_FGV_-_Funda%C3%A7%C3%A3o_Getulio_Vargas.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-28T14:24:32Z"
+  }
+ ]
+}

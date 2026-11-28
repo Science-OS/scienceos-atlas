@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-04afed728",
+ "ids": {
+  "wikidata": "Q16009025",
+  "ror": "04afed728"
+ },
+ "updatedAt": "2026-11-28T14:24:32Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://www.lix.polytechnique.fr/wp-content/themes/lix/images/logos/lix/LIX_600ppi.png",
+   "hosted": false,
+   "source": "homepage_icon",
+   "attribution": "Website icon of https://www.lix.polytechnique.fr/",
+   "attributionUrl": "https://www.lix.polytechnique.fr/",
+   "confidence": 0.7,
+   "fetchedAt": "2026-11-28T14:24:32Z"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-05a7rhx54",
+ "ids": {
+  "wikidata": "Q52618",
+  "ror": "05a7rhx54"
+ },
+ "updatedAt": "2026-11-28T14:24:32Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d4/d4c8a8219a04bac38f8cca99803df086df7c2f4a19aeafcc49f16070d207ad88.webp",
+   "hosted": true,
+   "sha256": "d4c8a8219a04bac38f8cca99803df086df7c2f4a19aeafcc49f16070d207ad88",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 225,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ericsson_%282018%29.svg",
+   "license": "Public domain",
+   "attribution": "Original: Ericsson Vectorization: Fishbulb - Powered by PogoBox",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Ericsson_(2018).svg",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-28T14:24:32Z"
+  }
+ ]
+}

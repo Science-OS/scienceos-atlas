@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "kind": "institution",
+ "key": "ror-01efrfk30",
+ "ids": {
+  "wikidata": "Q2341039",
+  "ror": "01efrfk30"
+ },
+ "updatedAt": "2026-11-28T14:24:32Z",
+ "assets": [
+  {
+   "role": "logo",
+   "url": "https://science-os.github.io/scienceos-atlas/media/b/d0/d09d0c5edbf2f6dd48f1868798bfa910cd479cd25e737d1288c51e0b4834cec6.webp",
+   "hosted": true,
+   "sha256": "d09d0c5edbf2f6dd48f1868798bfa910cd479cd25e737d1288c51e0b4834cec6",
+   "mime": "image/webp",
+   "width": 256,
+   "height": 81,
+   "source": "wikidata_commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Stetson_University_logo.png",
+   "license": "Public domain",
+   "attribution": "Stetson University",
+   "attributionUrl": "https://commons.wikimedia.org/wiki/File:Stetson_University_logo.png",
+   "confidence": 0.9,
+   "fetchedAt": "2026-11-28T14:24:32Z"
+  }
+ ]
+}
